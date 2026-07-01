@@ -7,6 +7,7 @@ jobs:
   crawl:
     runs-on: ubuntu-latest
     
+    # 授予工作流所需的权限
     permissions:
       contents: write
       issues: read
@@ -28,8 +29,9 @@ jobs:
 
       - name: Run Crawler
         env:
-          # 优先使用用户配置的独立账号多 Token 密匙 (MY_GITHUB_TOKENS)，其次退避使用 Actions 默认 Token
-          GITHUB_TOKENS: ${{ secrets.MY_GITHUB_TOKENS || secrets.GITHUB_TOKEN }}
+          # 独立传递两个 Token，避免 YAML 语法运算报错
+          GITHUB_TOKENS: ${{ secrets.MY_GITHUB_TOKENS }}
+          DEFAULT_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # 启动后台自动提交守护进程，每 30 分钟提交一次数据，双重保险防强杀
           git config --global user.name "github-actions[bot]"
