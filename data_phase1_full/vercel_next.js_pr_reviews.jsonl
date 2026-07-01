@@ -10131,3 +10131,33 @@
 {"repo": "vercel/next.js", "pr_number": 40614, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-09-19T13:37:49Z", "author": "huozhi"}
 {"repo": "vercel/next.js", "pr_number": 40614, "type": "review_comment", "body": "`typeof window` condition should work already, we don't need to change all the condition since swc is already doing that work. will check the `process.env.NEXT_RUNTIME` coverage then, kinda wired it doesn't work with test", "createdAt": "2022-09-19T13:37:49Z", "author": "huozhi"}
 {"repo": "vercel/next.js", "pr_number": 40623, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-09-16T19:41:16Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 40625, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-09-16T22:42:08Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 40630, "type": "review", "body": "Hi this causes a conflict with the existing input with the same name so it is better to leave it as is", "state": "COMMENTED", "createdAt": "2022-09-17T04:37:29Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 40633, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2022-09-19T21:23:18Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 40635, "type": "review", "body": "Seems there's a pnpm lockfile issue, could you try running `pnpm install` again? The type looks fine to me so this should be good to land once that is fixed 👍 ", "state": "DISMISSED", "createdAt": "2022-09-20T13:55:42Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 40635, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2022-09-20T22:14:48Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 40638, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2022-09-17T17:29:21Z", "author": "balazsorban44"}
+{"repo": "vercel/next.js", "pr_number": 40638, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-09-17T18:08:48Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 40638, "type": "review_comment", "body": "Do we want to mention this in the contributing docs? Also we should probably note that the other packages need to be built first before using this command that the types won't be generated with this command currently.  ", "createdAt": "2022-09-17T18:08:48Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 40639, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-10-01T04:12:59Z", "author": "balazsorban44"}
+{"repo": "vercel/next.js", "pr_number": 40639, "type": "review_comment", "body": "```suggestion\r\nThe type of `getServerSideProps` can be specified using `GetServerSideProps` from `next`:\r\n```", "createdAt": "2022-10-01T04:12:58Z", "author": "balazsorban44"}
+{"repo": "vercel/next.js", "pr_number": 40639, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-10-01T04:14:17Z", "author": "balazsorban44"}
+{"repo": "vercel/next.js", "pr_number": 40639, "type": "review_comment", "body": "```suggestion\r\nThe type of `getStaticProps` can be specified using `GetStaticProps` from `next`:\r\n```", "createdAt": "2022-10-01T04:14:17Z", "author": "balazsorban44"}
+{"repo": "vercel/next.js", "pr_number": 40639, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2022-10-01T04:17:16Z", "author": "balazsorban44"}
+{"repo": "vercel/next.js", "pr_number": 40639, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-10-02T03:30:55Z", "author": "leerob"}
+{"repo": "vercel/next.js", "pr_number": 40639, "type": "review_comment", "body": "Will tsx work? I am unsure (worth checking)", "createdAt": "2022-10-02T03:30:54Z", "author": "leerob"}
+{"repo": "vercel/next.js", "pr_number": 40642, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2022-09-17T19:31:07Z", "author": "cramforce"}
+{"repo": "vercel/next.js", "pr_number": 40642, "type": "review", "body": "Update title", "state": "APPROVED", "createdAt": "2022-09-17T19:54:41Z", "author": "cramforce"}
+{"repo": "vercel/next.js", "pr_number": 40645, "type": "review", "body": "", "state": "CHANGES_REQUESTED", "createdAt": "2022-09-19T02:02:10Z", "author": "SukkaW"}
+{"repo": "vercel/next.js", "pr_number": 40645, "type": "review_comment", "body": "```suggestion\r\n```\r\n\r\nDo not call `gtag('config', { page_path }` in the init script, it is already handled in `_app`.", "createdAt": "2022-09-19T02:02:08Z", "author": "SukkaW"}
+{"repo": "vercel/next.js", "pr_number": 40645, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-09-20T00:32:55Z", "author": "dave-hay"}
+{"repo": "vercel/next.js", "pr_number": 40645, "type": "review_comment", "body": "done!", "createdAt": "2022-09-20T00:32:55Z", "author": "dave-hay"}
+{"repo": "vercel/next.js", "pr_number": 40645, "type": "review", "body": "", "state": "CHANGES_REQUESTED", "createdAt": "2022-09-20T03:37:26Z", "author": "SukkaW"}
+{"repo": "vercel/next.js", "pr_number": 40645, "type": "review_comment", "body": "`https://www.googletagmanager.com/gtag/js` is also loaded in the `_app` aready. We only need to inline `window.dataLayer` and `function gtag(){}` in the `_document`.\r\n\r\n```suggestion\r\n```", "createdAt": "2022-09-20T03:36:58Z", "author": "SukkaW"}
+{"repo": "vercel/next.js", "pr_number": 40645, "type": "review", "body": "", "state": "CHANGES_REQUESTED", "createdAt": "2022-09-20T14:01:37Z", "author": "SukkaW"}
+{"repo": "vercel/next.js", "pr_number": 40645, "type": "review_comment", "body": "```suggestion\r\n```\r\n\r\nThe `gtag` import is also safe to remove now.", "createdAt": "2022-09-20T14:01:34Z", "author": "SukkaW"}
+{"repo": "vercel/next.js", "pr_number": 40645, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2022-09-23T01:13:13Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 40646, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-09-18T09:36:07Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 40652, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-09-18T11:48:05Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 40653, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-09-19T12:22:52Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 40656, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-09-18T14:06:36Z", "author": "shuding"}
