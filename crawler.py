@@ -192,8 +192,13 @@ class TokenManager:
                 sleep_sec = max(0, min_avail - now) + 2  # 加 2 秒缓冲区
                 print(f"[TokenPool] 所有 Token 冷却中或已耗尽，全局休眠 {sleep_sec:.0f} 秒...")
             
-            # 在锁外休眠，释放锁以便其他线程操作
-            time.sleep(sleep_sec)
+            # 在锁外休眠，释放锁以供其他线程操作 (以1秒为步长休眠，支持随时被运行时间限制中断)
+            start_sleep = time.time()
+            while time.time() - start_sleep < sleep_sec:
+                if time.time() - START_RUN_TIME > MAX_RUN_TIME:
+                    print("[TokenPool] 达到云端最大执行时间限制，立即中断休眠并终止任务。")
+                    raise TimeoutError("云端最大执行时间已达上限，终止休眠")
+                time.sleep(1)
 
     def update_status(self, token, headers):
         with self.lock:
@@ -295,11 +300,59 @@ def load_state(state_file):
             return json.load(f)
     return {}
 
+PROGRESS_LOCK = threading.Lock()
+
+def update_global_progress_report():
+    with PROGRESS_LOCK:
+        state_files = glob(os.path.join(OUTPUT_DIR, "*_state.json"))
+        lines = [
+            "# GitHub Crawler 全局进度报告\n",
+            f"最后更新时间: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n",
+            "| 仓库名称 | PR 进度 | Issue 进度 | Discussion 进度 | 状态 |",
+            "| --- | --- | --- | --- | --- |"
+        ]
+        for sf in sorted(state_files):
+            # 兼容处理 owner_name，从文件名解析出 repo
+            filename = os.path.basename(sf)
+            if filename.endswith("_state.json"):
+                owner_name = filename[:-11]
+                # 寻找第一个下划线作为分隔符，将其替换为斜杠以展示为 repo/name
+                if "_" in owner_name:
+                    parts = owner_name.split("_", 1)
+                    repo_display = f"{parts[0]}/{parts[1]}"
+                else:
+                    repo_display = owner_name
+            else:
+                continue
+                
+            try:
+                with open(sf, 'r', encoding='utf-8') as f:
+                    st = json.load(f)
+                pr_done = st.get('pr_idx', 0)
+                pr_total = len(st.get('pr_numbers', []))
+                issue_done = st.get('issue_idx', 0)
+                issue_total = len(st.get('issue_numbers', []))
+                disc_done = st.get('disc_idx', 0)
+                disc_total = len(st.get('disc_numbers', []))
+                status = "✅ 已完成" if st.get('is_complete', False) else "⏳ 进行中"
+                
+                lines.append(f"| {repo_display} | {pr_done}/{pr_total} | {issue_done}/{issue_total} | {disc_done}/{disc_total} | {status} |")
+            except:
+                pass
+        
+        report_path = os.path.join(OUTPUT_DIR, "PROGRESS.md")
+        with open(report_path, 'w', encoding='utf-8') as f:
+            f.write("\n".join(lines))
+
 def save_state(state_file, state):
     temp_file = state_file + ".tmp"
     with open(temp_file, 'w', encoding='utf-8') as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
     os.replace(temp_file, state_file)
+    try:
+        update_global_progress_report()
+    except Exception as e:
+        pass
 
 # ==========================================
 # 抓取逻辑: 阶段一 (广度获取列表)
