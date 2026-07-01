@@ -68,6 +68,10 @@ else:
     OUTPUT_DIR = "data_phase1_full"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
+# 云端运行时间控制 (GitHub Actions 最大执行时间为6小时，因此我们在5.5小时处安全终止并保存进度)
+START_RUN_TIME = time.time()
+MAX_RUN_TIME = 5.5 * 3600  # 5.5小时，单位：秒
+
 # 并发与限流配置
 MAX_WORKERS = 6          # 并发线程数
 GLOBAL_RPS = 10          # 全局每秒最大请求数 (防次级限流核心)
@@ -753,6 +757,9 @@ def process_repository(repo_name, graphql_client):
     # PR 深度抓取
     pr_list = state.get('pr_numbers', [])
     while state['pr_idx'] < len(pr_list):
+        if time.time() - START_RUN_TIME > MAX_RUN_TIME:
+            print(f"[{repo_name}] 达到云端单次运行时间上限（5.5小时），安全退出以保存进度。")
+            return
         num = pr_list[state['pr_idx']]
         success = deep_fetch_pr_resilient(graphql_client, owner, name, num, repo_name)
         if not success:
@@ -767,6 +774,9 @@ def process_repository(repo_name, graphql_client):
     # Issue 深度抓取
     issue_list = state.get('issue_numbers', [])
     while state['issue_idx'] < len(issue_list):
+        if time.time() - START_RUN_TIME > MAX_RUN_TIME:
+            print(f"[{repo_name}] 达到云端单次运行时间上限（5.5小时），安全退出以保存进度。")
+            return
         num = issue_list[state['issue_idx']]
         success = deep_fetch_issue_resilient(graphql_client, owner, name, num, repo_name)
         if not success:
@@ -781,6 +791,9 @@ def process_repository(repo_name, graphql_client):
     disc_list = state.get('disc_numbers', [])
     if state['has_discussions']:
         while state['disc_idx'] < len(disc_list):
+            if time.time() - START_RUN_TIME > MAX_RUN_TIME:
+                print(f"[{repo_name}] 达到云端单次运行时间上限（5.5小时），安全退出以保存进度。")
+                return
             num = disc_list[state['disc_idx']]
             success = deep_fetch_discussion_resilient(graphql_client, owner, name, num, repo_name)
             if not success:

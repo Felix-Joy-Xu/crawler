@@ -1,0 +1,158 @@
+{"number": 3552, "title": "What is the type GeoGeometryObjects and how to properly use it?", "createdAt": "2022-01-11T17:17:54Z", "repo": "d3/d3"}
+{"number": 3561, "title": "The problem of using of d3.hierarchy", "createdAt": "2022-03-20T07:41:35Z", "repo": "d3/d3"}
+{"number": 3565, "title": "Broken ARIA reference accessibility error in wave tool", "createdAt": "2022-04-12T09:19:06Z", "repo": "d3/d3"}
+{"number": 3567, "title": "Is it possible to build a D3 for Flutter/ Dart?", "createdAt": "2022-04-18T05:42:21Z", "repo": "d3/d3"}
+{"number": 3569, "title": "I can't understand how the squarifyRatio works", "createdAt": "2022-04-20T07:53:15Z", "repo": "d3/d3"}
+{"number": 3570, "title": "How can I display a tooltip on \"viewBox\" responsive graph", "createdAt": "2022-05-01T08:12:27Z", "repo": "d3/d3"}
+{"number": 3571, "title": "TypeScript type cast & D3.js errors", "createdAt": "2022-05-02T09:56:58Z", "repo": "d3/d3"}
+{"number": 3577, "title": "STOCK MEARGE", "createdAt": "2022-07-11T11:56:16Z", "repo": "d3/d3"}
+{"number": 3578, "title": "How to add dynamic values to D3 tree", "createdAt": "2022-07-15T06:07:00Z", "repo": "d3/d3"}
+{"number": 3580, "title": "when using tick values, i saw translate(NaN,0) at some values", "createdAt": "2022-07-31T06:37:03Z", "repo": "d3/d3"}
+{"number": 3583, "title": "How d3 draw a network graph using only edges without nodes", "createdAt": "2022-09-03T15:00:12Z", "repo": "d3/d3"}
+{"number": 3584, "title": "Simplify geojson", "createdAt": "2022-09-19T10:01:47Z", "repo": "d3/d3"}
+{"number": 3586, "title": "How to put text in the middle of the link, and node will link itself.？", "createdAt": "2022-09-20T12:20:27Z", "repo": "d3/d3"}
+{"number": 3587, "title": "Combine D3 with react-grid layout", "createdAt": "2022-10-04T13:32:33Z", "repo": "d3/d3"}
+{"number": 3590, "title": "d3-color vulnerability", "createdAt": "2022-10-14T11:59:20Z", "repo": "d3/d3"}
+{"number": 3591, "title": "Custom selection area Like default rectangle selection on mouse drag", "createdAt": "2022-10-18T08:54:27Z", "repo": "d3/d3"}
+{"number": 3593, "title": "Timeline with hours per day chart", "createdAt": "2022-10-20T14:37:40Z", "repo": "d3/d3"}
+{"number": 3596, "title": "Dynamic Axis Scaling in Animated Charts", "createdAt": "2022-10-29T07:44:14Z", "repo": "d3/d3"}
+{"number": 3600, "title": "ticks randomly missing when updated with Vue3", "createdAt": "2022-11-11T15:22:22Z", "repo": "d3/d3"}
+{"number": 3602, "title": "d3-zoom and react-select conflict", "createdAt": "2022-11-13T19:08:20Z", "repo": "d3/d3"}
+{"number": 3604, "title": "nextjs - d3.select(svgRef.current)  issue detect as string.", "createdAt": "2022-11-14T08:17:09Z", "repo": "d3/d3"}
+{"number": 3612, "title": "How can I hide bars with null values in C3?", "createdAt": "2022-12-13T11:12:46Z", "repo": "d3/d3"}
+{"number": 3613, "title": "Problem while trying to show graphics about computer usage", "createdAt": "2022-12-14T03:43:16Z", "repo": "d3/d3"}
+{"number": 3614, "title": "D3 candlestick example error", "createdAt": "2022-12-19T06:42:17Z", "repo": "d3/d3"}
+{"number": 3616, "title": "Blurry SVG path on Firefox when zooming", "createdAt": "2022-12-21T17:15:49Z", "repo": "d3/d3"}
+{"number": 3617, "title": "d3 bubble chart", "createdAt": "2022-12-23T06:28:26Z", "repo": "d3/d3"}
+{"number": 3619, "title": "WebAssembly?", "createdAt": "2023-01-02T13:59:05Z", "repo": "d3/d3"}
+{"number": 3621, "title": "I have this ascii file and couldnot convert it to d3 contour require array", "createdAt": "2023-01-07T14:10:33Z", "repo": "d3/d3"}
+{"number": 3623, "title": "Apparent case of Chicken and Egg when updating nodes", "createdAt": "2023-01-08T14:54:50Z", "repo": "d3/d3"}
+{"number": 3624, "title": "How to override @types/d3 reference while importing d3", "createdAt": "2023-01-16T11:10:33Z", "repo": "d3/d3"}
+{"number": 3626, "title": "As a beginner I am having problem in including the gradient color in edges of a force directed graph.", "createdAt": "2023-01-17T17:05:19Z", "repo": "d3/d3"}
+{"number": 3628, "title": "Markers not reachable using keyboard [Accessibility issue]", "createdAt": "2023-01-18T06:13:50Z", "repo": "d3/d3"}
+{"number": 3630, "title": "Problem with render animation graph with allot of information", "createdAt": "2023-01-23T14:41:10Z", "repo": "d3/d3"}
+{"number": 3631, "title": "D3 version when importing from CDN", "createdAt": "2023-02-02T04:10:02Z", "repo": "d3/d3"}
+{"number": 3634, "title": "d3.contour need help.", "createdAt": "2023-02-20T07:37:24Z", "repo": "d3/d3"}
+{"number": 3638, "title": "Canvas with date axis:  k and x do not seem to match", "createdAt": "2023-03-03T09:14:15Z", "repo": "d3/d3"}
+{"number": 3639, "title": "Generic FOSS documents update", "createdAt": "2023-03-07T10:28:49Z", "repo": "d3/d3"}
+{"number": 3643, "title": "Zooming to a certain point instead of mouse position", "createdAt": "2023-03-15T15:59:46Z", "repo": "d3/d3"}
+{"number": 3644, "title": "Philosophical questions about virtual DOM rendering and typescript", "createdAt": "2023-03-27T08:13:21Z", "repo": "d3/d3"}
+{"number": 3650, "title": "Working Example of Bubble Chart - Hello World?", "createdAt": "2023-04-18T19:51:32Z", "repo": "d3/d3"}
+{"number": 3651, "title": "How to Externalise JavaScript from Data?", "createdAt": "2023-04-21T22:19:32Z", "repo": "d3/d3"}
+{"number": 3652, "title": "Does D3 Support JSON (Json Arrays + Json Objects etc.) as Data Source?", "createdAt": "2023-04-21T22:22:45Z", "repo": "d3/d3"}
+{"number": 3653, "title": "How to Append SVG to a Div with ID=HelloWorld ?", "createdAt": "2023-04-23T21:34:13Z", "repo": "d3/d3"}
+{"number": 3656, "title": "iterating over undefined map", "createdAt": "2023-06-01T21:59:43Z", "repo": "d3/d3"}
+{"number": 3658, "title": "Complex charting solution required", "createdAt": "2023-06-07T05:48:55Z", "repo": "d3/d3"}
+{"number": 3664, "title": "d3-hierarchy: No way to set individual node alignment ( Vertical )?", "createdAt": "2023-06-09T09:30:07Z", "repo": "d3/d3"}
+{"number": 3675, "title": "How to dynamically creating the Ticks values?", "createdAt": "2023-06-12T13:56:51Z", "repo": "d3/d3"}
+{"number": 3687, "title": "Text in the grid cell instead of plotting", "createdAt": "2023-06-19T05:52:21Z", "repo": "d3/d3"}
+{"number": 3690, "title": "How to fix this animation at initial rendering", "createdAt": "2023-06-19T08:01:28Z", "repo": "d3/d3"}
+{"number": 3693, "title": "i18n for D3 documentation", "createdAt": "2023-06-21T12:04:58Z", "repo": "d3/d3"}
+{"number": 3699, "title": "re-rendering issue", "createdAt": "2023-07-05T09:43:06Z", "repo": "d3/d3"}
+{"number": 3736, "title": "Document built together", "createdAt": "2023-07-17T05:35:35Z", "repo": "d3/d3"}
+{"number": 3738, "title": "Not working properly after deployment", "createdAt": "2023-07-18T17:42:03Z", "repo": "d3/d3"}
+{"number": 3739, "title": "Is there need to cleanup eventListeners added by d3?", "createdAt": "2023-07-20T06:19:18Z", "repo": "d3/d3"}
+{"number": 3740, "title": "using d3 in anywidget", "createdAt": "2023-07-20T20:31:15Z", "repo": "d3/d3"}
+{"number": 3743, "title": "How do I increase the length of edges between nodes?", "createdAt": "2023-07-27T19:29:10Z", "repo": "d3/d3"}
+{"number": 3749, "title": "Question about decimal positions.", "createdAt": "2023-08-08T21:01:16Z", "repo": "d3/d3"}
+{"number": 3751, "title": "What's an idiomatic way to add labels to edges?", "createdAt": "2023-08-10T18:31:02Z", "repo": "d3/d3"}
+{"number": 3757, "title": "Is it possible to have 2 zooms methods (brush and wheel zoom) on same chart ?", "createdAt": "2023-08-23T08:50:46Z", "repo": "d3/d3"}
+{"number": 3760, "title": "brush(x) for touch event error", "createdAt": "2023-08-25T03:06:26Z", "repo": "d3/d3"}
+{"number": 3762, "title": "Can we use dynamic bandwidth?", "createdAt": "2023-08-30T15:20:18Z", "repo": "d3/d3"}
+{"number": 3763, "title": "ArcGIS Javascript API 4.27 and D3.js (ver 7) - multipleDefine errors", "createdAt": "2023-09-11T13:26:39Z", "repo": "d3/d3"}
+{"number": 3768, "title": "Disabling D3-Zoom on ForeignObject to enable scrolling inside", "createdAt": "2023-09-16T18:59:34Z", "repo": "d3/d3"}
+{"number": 3771, "title": "`scalePow` evenly spaced ticks?", "createdAt": "2023-09-28T04:18:12Z", "repo": "d3/d3"}
+{"number": 3783, "title": "how to create multiline chart in react js", "createdAt": "2023-10-17T04:37:34Z", "repo": "d3/d3"}
+{"number": 3789, "title": "How to build this chart", "createdAt": "2023-10-27T10:16:22Z", "repo": "d3/d3"}
+{"number": 3793, "title": "grid color not applied for the left axis column number 1", "createdAt": "2023-10-31T05:36:42Z", "repo": "d3/d3"}
+{"number": 3798, "title": "cycle at stratify err", "createdAt": "2023-11-06T08:03:16Z", "repo": "d3/d3"}
+{"number": 3800, "title": "D3 graph into Flutter web", "createdAt": "2023-11-07T06:19:02Z", "repo": "d3/d3"}
+{"number": 3806, "title": "[d3-force] Nodes arrange", "createdAt": "2023-12-13T16:58:02Z", "repo": "d3/d3"}
+{"number": 3812, "title": "Explain the steps and methods you would employ using dagre-d3 and d3 curves to restructure graph edges, aiming to achieve a layout similar to the expected image.", "createdAt": "2024-01-04T07:32:25Z", "repo": "d3/d3"}
+{"number": 3815, "title": "Why is blues from light to dark while viridis is from dark to light?", "createdAt": "2024-01-19T20:02:06Z", "repo": "d3/d3"}
+{"number": 3818, "title": "Zoom and click on d3 Sankey", "createdAt": "2024-01-29T18:03:03Z", "repo": "d3/d3"}
+{"number": 3819, "title": "Using d3.geoMercator, i got NaN", "createdAt": "2024-01-30T03:03:16Z", "repo": "d3/d3"}
+{"number": 3822, "title": "What does mean the sample code?", "createdAt": "2024-02-05T17:44:29Z", "repo": "d3/d3"}
+{"number": 3824, "title": "SVG panning and zooming is really laggy on macbook screen", "createdAt": "2024-02-20T08:25:28Z", "repo": "d3/d3"}
+{"number": 3826, "title": "#How to remove spaces between bar in d3.js grouped bar chart.", "createdAt": "2024-02-22T08:47:03Z", "repo": "d3/d3"}
+{"number": 3828, "title": "d3 hierarchy: node visibility parameter to control either to show node in visualization or hide it.", "createdAt": "2024-02-24T09:16:12Z", "repo": "d3/d3"}
+{"number": 3833, "title": "Upgrading from v3 to v7 requires additional renders for my custom gauge", "createdAt": "2024-03-22T16:16:56Z", "repo": "d3/d3"}
+{"number": 3836, "title": "Making a non-contiguous piechart", "createdAt": "2024-04-07T00:36:18Z", "repo": "d3/d3"}
+{"number": 3838, "title": "Transition to pie chart with 2 slices crashes", "createdAt": "2024-04-10T16:09:44Z", "repo": "d3/d3"}
+{"number": 3839, "title": "The converted coordinates appear to be abnormal and cannot be used in three.js", "createdAt": "2024-04-11T14:07:28Z", "repo": "d3/d3"}
+{"number": 3842, "title": "Privacy policy requirements for a website using D3", "createdAt": "2024-04-18T20:48:17Z", "repo": "d3/d3"}
+{"number": 3843, "title": "Web worker target of d3.select", "createdAt": "2024-04-19T01:42:51Z", "repo": "d3/d3"}
+{"number": 3846, "title": "d3-treemap-flex: a tiling method for d3-treemap to plot block diagrams", "createdAt": "2024-04-26T04:16:48Z", "repo": "d3/d3"}
+{"number": 3848, "title": "setting overflow direction in css causes Y-axis labels to clip the cartesian line", "createdAt": "2024-05-06T00:24:21Z", "repo": "d3/d3"}
+{"number": 3849, "title": "support for bigint?", "createdAt": "2024-05-12T15:53:08Z", "repo": "d3/d3"}
+{"number": 3850, "title": "Adding x and y values and labels in React Native", "createdAt": "2024-05-16T19:27:30Z", "repo": "d3/d3"}
+{"number": 3851, "title": "Adding tick lines and labels to the x and y axis of a D3 chart in React Native", "createdAt": "2024-05-17T11:07:56Z", "repo": "d3/d3"}
+{"number": 3889, "title": "how to download d3 package to avoid internet connectivity", "createdAt": "2024-06-09T08:52:13Z", "repo": "d3/d3"}
+{"number": 3891, "title": "Can we create dynamic mind maps using your api using PHP and MySQL based web application.", "createdAt": "2024-06-18T13:06:25Z", "repo": "d3/d3"}
+{"number": 3894, "title": "How to align nodes horizontally (sequence way)", "createdAt": "2024-06-26T17:14:33Z", "repo": "d3/d3"}
+{"number": 3901, "title": "Custom error handling.", "createdAt": "2024-08-21T14:08:12Z", "repo": "d3/d3"}
+{"number": 3903, "title": "d3.pointer()", "createdAt": "2024-08-26T17:00:36Z", "repo": "d3/d3"}
+{"number": 3905, "title": "[Request] How do I put values on top of the bar chart ?", "createdAt": "2024-08-29T04:20:40Z", "repo": "d3/d3"}
+{"number": 3907, "title": "Firefox error when calling d3.pointer inside of 'zoom' event handler", "createdAt": "2024-08-29T17:44:45Z", "repo": "d3/d3"}
+{"number": 3910, "title": "Hover doesn't apply styles in Firefox if d3.select.raise is used.", "createdAt": "2024-08-30T07:23:12Z", "repo": "d3/d3"}
+{"number": 3913, "title": "D3 Ported to Dart", "createdAt": "2024-09-05T21:51:52Z", "repo": "d3/d3"}
+{"number": 3914, "title": "D3  channel archived on Observable can we change the Slack link on the D3js.org site to the actual d3 slack?", "createdAt": "2024-09-09T23:24:57Z", "repo": "d3/d3"}
+{"number": 3918, "title": "End of life support for d3 v7.3.0", "createdAt": "2024-09-18T09:29:13Z", "repo": "d3/d3"}
+{"number": 3920, "title": "Pseudo Logarithmic Scales", "createdAt": "2024-09-18T20:00:31Z", "repo": "d3/d3"}
+{"number": 3922, "title": "rollup -c fails. es6 bundle", "createdAt": "2024-09-19T03:27:13Z", "repo": "d3/d3"}
+{"number": 3923, "title": "How to properly implement OrgChart in d3-org-chart in NextJS/React", "createdAt": "2024-09-20T12:35:08Z", "repo": "d3/d3"}
+{"number": 3926, "title": "Custom Time Scale for Arms Equivolume Chart", "createdAt": "2024-10-01T06:14:43Z", "repo": "d3/d3"}
+{"number": 3929, "title": "scrubber, with button to jump to the the next date", "createdAt": "2024-10-03T20:10:38Z", "repo": "d3/d3"}
+{"number": 3930, "title": "Temporal force-directed with 3d", "createdAt": "2024-10-03T20:21:55Z", "repo": "d3/d3"}
+{"number": 3931, "title": "Temporal force-directed with less wiggling of nodes.", "createdAt": "2024-10-03T21:45:28Z", "repo": "d3/d3"}
+{"number": 3935, "title": ".on(\"dblclick\", function) event does not work", "createdAt": "2024-10-16T10:53:12Z", "repo": "d3/d3"}
+{"number": 3936, "title": "Troubleshooting `d3.geoContains`", "createdAt": "2024-10-16T23:22:44Z", "repo": "d3/d3"}
+{"number": 3938, "title": "Interpolating between GeoJSON polygons (isochrones)", "createdAt": "2024-10-17T21:54:20Z", "repo": "d3/d3"}
+{"number": 3942, "title": "What would be the best way to get the map of a city/streets?", "createdAt": "2024-10-23T03:20:20Z", "repo": "d3/d3"}
+{"number": 3943, "title": "Infinity as the min-y parameter in viewBox????", "createdAt": "2024-10-23T20:10:46Z", "repo": "d3/d3"}
+{"number": 3946, "title": "d3 scaleBand paddingInner combination with paddingOuter(0)", "createdAt": "2024-10-31T09:47:48Z", "repo": "d3/d3"}
+{"number": 3953, "title": "Looking to contribute -- Any good first issues", "createdAt": "2024-11-24T20:35:14Z", "repo": "d3/d3"}
+{"number": 3954, "title": "Sharing data across transitions?", "createdAt": "2024-11-24T22:53:54Z", "repo": "d3/d3"}
+{"number": 3958, "title": "adding random node to leaf, but after adding new node the zoom level returns to root node,", "createdAt": "2024-12-05T13:11:12Z", "repo": "d3/d3"}
+{"number": 3956, "title": "Inconsistency using foreign object with D3 in Chromium", "createdAt": "2024-12-05T15:20:56Z", "repo": "d3/d3"}
+{"number": 3959, "title": "Basic help with filtering data then reduce collection to a single group arc", "createdAt": "2024-12-17T10:50:20Z", "repo": "d3/d3"}
+{"number": 3960, "title": "Possible to apply packEnclose to force-tree-graphs?", "createdAt": "2024-12-17T15:18:07Z", "repo": "d3/d3"}
+{"number": 3961, "title": "Culling elements outside the svg bounds", "createdAt": "2024-12-23T16:12:40Z", "repo": "d3/d3"}
+{"number": 3966, "title": "How to Modify the Coordinate System with d3-zoom?", "createdAt": "2025-01-03T13:46:17Z", "repo": "d3/d3"}
+{"number": 3969, "title": "Failed to read the 'value' property from 'SVGLength': Could not resolve relative length.", "createdAt": "2025-01-07T01:36:14Z", "repo": "d3/d3"}
+{"number": 4000, "title": "LineString am I missing somthing", "createdAt": "2025-01-17T23:23:10Z", "repo": "d3/d3"}
+{"number": 4004, "title": "d3-sankey: Mapping Course Flows in College Degree Programs", "createdAt": "2025-01-23T05:24:24Z", "repo": "d3/d3"}
+{"number": 4002, "title": "Gap between chart bars when daylight savings ends", "createdAt": "2025-01-23T06:18:47Z", "repo": "d3/d3"}
+{"number": 4005, "title": "adding user input (text, dropdown etc.) to d3 canvas?", "createdAt": "2025-01-24T12:16:22Z", "repo": "d3/d3"}
+{"number": 4009, "title": "d3 zoom mouse event consumtion question", "createdAt": "2025-01-31T13:13:00Z", "repo": "d3/d3"}
+{"number": 4011, "title": "d3-geo earth radius", "createdAt": "2025-02-10T09:56:23Z", "repo": "d3/d3"}
+{"number": 4012, "title": "Chart goes out of the view port on double click zoom", "createdAt": "2025-02-20T04:41:31Z", "repo": "d3/d3"}
+{"number": 4013, "title": "My line chart has a wired straight line with the same dataset.", "createdAt": "2025-02-26T10:50:40Z", "repo": "d3/d3"}
+{"number": 4014, "title": "Stacked bar chart with dynamic X axis representing time", "createdAt": "2025-03-07T11:19:17Z", "repo": "d3/d3"}
+{"number": 4016, "title": "Ticks labels overlaping using scaleBand", "createdAt": "2025-03-10T18:43:07Z", "repo": "d3/d3"}
+{"number": 4017, "title": "Executing one transition after another ends", "createdAt": "2025-03-15T09:01:40Z", "repo": "d3/d3"}
+{"number": 4018, "title": "setting viewport boundary for tree visualization", "createdAt": "2025-03-19T15:53:09Z", "repo": "d3/d3"}
+{"number": 4021, "title": "[Need feedback] Open source research: d3/d3 edition", "createdAt": "2025-03-25T22:06:29Z", "repo": "d3/d3"}
+{"number": 4022, "title": "D3-Geo geoPath draws projection outline with each feature", "createdAt": "2025-04-17T08:59:04Z", "repo": "d3/d3"}
+{"number": 4024, "title": "svgEl.requestFullscreen() will cause `Uncaught NotSupportedError`", "createdAt": "2025-04-27T06:47:53Z", "repo": "d3/d3"}
+{"number": 4025, "title": "Zoomable Binary Chart", "createdAt": "2025-05-12T22:51:00Z", "repo": "d3/d3"}
+{"number": 4026, "title": "Does the license apply to the whole repository or just to the src folder?", "createdAt": "2025-05-21T07:31:21Z", "repo": "d3/d3"}
+{"number": 4027, "title": "Single State with Counties and Possibly Cities", "createdAt": "2025-05-24T16:26:26Z", "repo": "d3/d3"}
+{"number": 4031, "title": "Y Axis Help", "createdAt": "2025-06-10T18:26:07Z", "repo": "d3/d3"}
+{"number": 4034, "title": "where is the `.node()` method of `d3.selection` documented?", "createdAt": "2025-07-08T19:17:28Z", "repo": "d3/d3"}
+{"number": 4037, "title": "Canvas map point symbols", "createdAt": "2025-07-19T12:26:21Z", "repo": "d3/d3"}
+{"number": 4040, "title": "Choppy Realtime-Chart", "createdAt": "2025-07-28T12:46:38Z", "repo": "d3/d3"}
+{"number": 4041, "title": "How can I keep the zoom point fixed instead of mouse position?", "createdAt": "2025-08-14T04:33:10Z", "repo": "d3/d3"}
+{"number": 4042, "title": "Can I draw graph without install d3.js ? exemple, only using index.html with script.js including d3.js code ?", "createdAt": "2025-08-14T11:16:35Z", "repo": "d3/d3"}
+{"number": 4046, "title": "How to zoom between different views/SVGs in a div", "createdAt": "2025-08-20T08:37:28Z", "repo": "d3/d3"}
+{"number": 4047, "title": "Updating element \"A\" when element \"B\" is clicked", "createdAt": "2025-08-20T20:29:49Z", "repo": "d3/d3"}
+{"number": 4051, "title": "How to make sure nodes never collide even if there are many nodes", "createdAt": "2025-09-22T03:53:07Z", "repo": "d3/d3"}
+{"number": 4053, "title": "attach a div, then attach an svg node to that div", "createdAt": "2025-10-07T17:30:18Z", "repo": "d3/d3"}
+{"number": 4056, "title": "axis function in docs with supposedly mismatched example", "createdAt": "2025-10-09T04:55:14Z", "repo": "d3/d3"}
+{"number": 4058, "title": "Hello,", "createdAt": "2025-10-12T23:57:39Z", "repo": "d3/d3"}
+{"number": 4064, "title": "D3-Hierarchy: Exception `multiple roots` with correct hierarchical data using the `stratify` operator.", "createdAt": "2025-10-28T20:11:20Z", "repo": "d3/d3"}
+{"number": 4065, "title": "Looking for sample data in D3.js-like data format.", "createdAt": "2025-10-30T14:12:08Z", "repo": "d3/d3"}
+{"number": 4067, "title": "What to do now that world-atlas package has been archived", "createdAt": "2025-10-31T21:37:44Z", "repo": "d3/d3"}
+{"number": 4069, "title": "D3 Base64 Images", "createdAt": "2025-11-02T16:29:03Z", "repo": "d3/d3"}
+{"number": 4092, "title": "Animating a path with d3", "createdAt": "2026-01-21T20:39:43Z", "repo": "d3/d3"}
+{"number": 4126, "title": "Possible bug in D3 selection", "createdAt": "2026-06-16T16:44:49Z", "repo": "d3/d3"}

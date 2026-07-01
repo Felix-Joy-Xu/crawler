@@ -1,0 +1,145 @@
+{"number": 3551, "title": "import fail", "createdAt": "2022-01-10T07:16:35Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3556, "title": "package.json is not exported", "createdAt": "2022-02-24T10:03:05Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3557, "title": "csvParse, autoType, readFileSync, return string keys", "createdAt": "2022-03-02T11:19:40Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3558, "title": "Uncaught TypeError: r.compareDocumentPosition is not a function", "createdAt": "2022-03-06T03:34:50Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3559, "title": "Error in d3.json function or advertised in the wrong way!", "createdAt": "2022-03-07T09:04:47Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3560, "title": "The problem of using of d3.hierarchy", "createdAt": "2022-03-20T07:41:35Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3564, "title": "Broken ARIA reference accessibility error in wave tool", "createdAt": "2022-04-12T09:19:06Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3568, "title": "I can't understand how the squarifyRatio works", "createdAt": "2022-04-20T07:53:15Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3574, "title": "d3.js:8 Uncaught TypeError: Cannot read property 'document' of undefined at d3.js:8", "createdAt": "2022-06-09T09:20:21Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3575, "title": "Examples don't work", "createdAt": "2022-06-26T09:39:17Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3579, "title": "pnpm installation", "createdAt": "2022-07-28T00:05:08Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3581, "title": "[feature] d3.csvParse should be a function", "createdAt": "2022-08-06T12:50:47Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3582, "title": "The function without parameters and the lambda function performs differently", "createdAt": "2022-08-23T16:19:01Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3588, "title": "unmaintained dependency `dagre-d3` depends on vulnerable `d3-color` version", "createdAt": "2022-10-06T08:52:10Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3589, "title": "Upgrade d3-color to v3.1.0", "createdAt": "2022-10-06T20:19:19Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3594, "title": "`selection.on(\"*.zoom\", null)` would be useful in its own right. I would spell it `selection.on(\".zoom\", null)` though, per jQuery's convention.", "createdAt": "2022-10-26T23:34:03Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3597, "title": "Provide esm download", "createdAt": "2022-10-31T18:10:37Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3598, "title": "d3-color vulnerability upgrade", "createdAt": "2022-11-01T07:55:05Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3599, "title": "ticks randomly missing when updated with Vue3", "createdAt": "2022-11-11T15:22:22Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3601, "title": "d3-zoom and react-select conflict", "createdAt": "2022-11-13T19:08:20Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3603, "title": "nextjs - d3.select(svgRef.current)  issue detect as string.", "createdAt": "2022-11-14T08:17:09Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3605, "title": "usage issue: how to export d3 parallel-coordinates images as PNG or SVG", "createdAt": "2022-11-17T03:33:29Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3606, "title": "Require cycles are allowed, but can result in uninitialized values. Consider refactoring to remove the need for a cycle.", "createdAt": "2022-11-22T02:40:12Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3607, "title": "[Bug] \"d3@v7.7.0\" could not be built. ", "createdAt": "2022-12-03T21:23:56Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3608, "title": "Export package.json", "createdAt": "2022-12-05T14:25:14Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3611, "title": "README.md issue: skypack.dev seems to not be resolving `d3@7` correctly", "createdAt": "2022-12-12T19:07:15Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3615, "title": "Blurry SVG path on Firefox when zooming", "createdAt": "2022-12-21T17:15:49Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3620, "title": "I have this ascii file and couldnot convert it to d3 contour require array", "createdAt": "2023-01-07T14:10:33Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3622, "title": "Apparent case of Chicken and Egg when updating nodes", "createdAt": "2023-01-08T14:54:50Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3625, "title": "As a beginner I am having problem in including the gradient color in edges of a force directed graph.", "createdAt": "2023-01-17T17:05:19Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3627, "title": "Markers not reachable using keyboard [Accessibility issue]", "createdAt": "2023-01-18T06:13:50Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3632, "title": "Potential addition to the Tutorials wiki page", "createdAt": "2023-02-08T16:36:12Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3635, "title": "Support SSR", "createdAt": "2023-02-26T15:20:23Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3636, "title": "CI: Set minimum permissions on GitHub Workflow", "createdAt": "2023-02-28T14:24:34Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3637, "title": "Canvas with date axis:  k and x do not seem to match", "createdAt": "2023-03-03T09:14:15Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3640, "title": "Set hardcoded position (x, y) of the Node", "createdAt": "2023-03-09T12:55:28Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3642, "title": "Zooming to a certain point instead of mouse position", "createdAt": "2023-03-15T15:59:46Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3645, "title": "Links to the d3 Slack on website and Github do not work", "createdAt": "2023-03-27T20:00:05Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3646, "title": "Documentation Issue", "createdAt": "2023-04-09T09:16:50Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3648, "title": "Latest cdn link returns undefined for tooltip text. Previous cdn return values.", "createdAt": "2023-04-15T14:38:06Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3649, "title": "Circular dependencies in d3-selection, d3-interpolate, and d3-transition", "createdAt": "2023-04-16T12:26:16Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3655, "title": "VitePress documentation tracking issue", "createdAt": "2023-05-26T20:31:48Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3657, "title": "Complex charting solution required ", "createdAt": "2023-06-07T05:48:55Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3663, "title": "No way to set individual node alignment ( Vertical )? ", "createdAt": "2023-06-09T09:30:07Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3674, "title": "How to dynamically creating the Ticks values?", "createdAt": "2023-06-12T13:56:51Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3683, "title": "Add d3-hexbin to the default bundle?", "createdAt": "2023-06-17T15:23:53Z", "state": "OPEN", "repo": "d3/d3"}
+{"number": 3684, "title": "Add d3-tile to the default bundle?", "createdAt": "2023-06-17T15:24:04Z", "state": "OPEN", "repo": "d3/d3"}
+{"number": 3685, "title": "Tracking issue for D3 gallery examples style", "createdAt": "2023-06-17T20:43:05Z", "state": "OPEN", "repo": "d3/d3"}
+{"number": 3686, "title": "Text in the grid cell instead of plotting ", "createdAt": "2023-06-19T05:52:21Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3688, "title": "e", "createdAt": "2023-06-19T07:51:59Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3689, "title": "How to fix this animation at initial rendering", "createdAt": "2023-06-19T08:01:28Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3691, "title": "Add a Security-Policy", "createdAt": "2023-06-20T23:37:58Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3696, "title": "fix links to bl.ocks", "createdAt": "2023-06-25T10:15:31Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3697, "title": "Which D3 version is the official website code", "createdAt": "2023-07-01T10:56:26Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3737, "title": "Not working properly after deployment", "createdAt": "2023-07-18T17:42:03Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3741, "title": "d3__WEBPACK_IMPORTED_MODULE_0__.hierarchy is not a function", "createdAt": "2023-07-26T10:58:51Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3742, "title": "d3__WEBPACK_IMPORTED_MODULE_0__.hierarchy is not a function", "createdAt": "2023-07-27T11:13:16Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3744, "title": "warn about impure `forceSimulation(nodes)` function that can modify its input", "createdAt": "2023-07-28T20:55:21Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3748, "title": "Question about decimal positions.", "createdAt": "2023-08-08T21:01:16Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3753, "title": "What's an idiomatic way to add labels to edges?", "createdAt": "2023-08-16T23:52:00Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3756, "title": "Is it possible to have 2 zooms methods (brush and wheel zoom) on same chart ?", "createdAt": "2023-08-23T08:50:46Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3759, "title": "brush(x) for touch event error", "createdAt": "2023-08-25T03:06:26Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3761, "title": "Can we use dynamic bandwidth?", "createdAt": "2023-08-30T15:20:18Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3764, "title": "ArcGIS Javascript API 4.27 and D3.js (ver 7) - multipleDefine errors ", "createdAt": "2023-09-11T18:33:56Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3767, "title": "Disabling D3-Zoom on ForeignObject to enable scrolling inside", "createdAt": "2023-09-16T18:59:34Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3766, "title": "Join me on Flipboard", "createdAt": "2023-09-17T05:09:42Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3769, "title": "Add an AI chat dialog for docs", "createdAt": "2023-09-20T10:02:15Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3770, "title": "`scalePow` evenly spaced ticks?", "createdAt": "2023-09-28T04:18:12Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3772, "title": "getting  Error: export 'mouse' (imported as 'd3') was not found in 'd3' on ng serve on angular 14 application.", "createdAt": "2023-10-03T14:42:14Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3775, "title": "restructure module READMEs (tracking issue)", "createdAt": "2023-10-06T08:24:20Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3777, "title": "Security vulnerability issues", "createdAt": "2023-10-09T11:24:46Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3778, "title": "Add harmonic mean and geometric mean", "createdAt": "2023-10-09T20:30:51Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3784, "title": "API doc links in example notebooks still point to README", "createdAt": "2023-10-20T17:28:34Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3786, "title": "searching “range” or “extent” doesn't find the expected page", "createdAt": "2023-10-25T14:23:42Z", "state": "OPEN", "repo": "d3/d3"}
+{"number": 3788, "title": "How to build this chart ", "createdAt": "2023-10-27T10:16:22Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3790, "title": "d3.min and d3.least don't always ignore nulls", "createdAt": "2023-10-28T15:07:31Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3791, "title": "Adopt a monorepo", "createdAt": "2023-10-29T16:20:04Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3792, "title": "grid color not applied for the left axis column number 1", "createdAt": "2023-10-31T05:36:42Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3797, "title": " cycle at stratify err", "createdAt": "2023-11-06T08:03:16Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3799, "title": "D3 graph into Flutter web", "createdAt": "2023-11-07T06:19:02Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3802, "title": "Remember ui State across reloads", "createdAt": "2023-11-13T16:51:04Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3805, "title": "Nodes arrange", "createdAt": "2023-12-13T16:58:02Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3807, "title": "Replace Math.random() with crypto function", "createdAt": "2023-12-14T15:08:58Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3809, "title": "Non english language texts being cut off", "createdAt": "2023-12-19T05:14:13Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3817, "title": "Zoom and click on d3 Sankey", "createdAt": "2024-01-29T18:03:03Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3821, "title": "What does mean the sample code?", "createdAt": "2024-02-05T17:44:29Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3825, "title": "#How to remove spaces between bar in d3.js grouped bar chart.", "createdAt": "2024-02-22T08:47:03Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3827, "title": "d3 hierarchy: node visibility parameter to control either to show node in visualization or hide it.", "createdAt": "2024-02-24T09:16:12Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3830, "title": "the wrong parameter name at Binning data of d3-array documentation ", "createdAt": "2024-03-08T03:29:16Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3832, "title": "Upgrading from v3 to v7 requires additional renders for my custom gauge", "createdAt": "2024-03-22T16:16:56Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3835, "title": "Making a non-contiguous piechart", "createdAt": "2024-04-07T00:36:18Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3837, "title": "Transition to pie chart with 2 slices crashes", "createdAt": "2024-04-10T16:09:44Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3840, "title": "Adding a link towards DefinitelyTyped", "createdAt": "2024-04-11T21:04:56Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3841, "title": "Realtime line chart", "createdAt": "2024-04-12T12:24:42Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3847, "title": "setting overflow direction in css causes Y-axis labels to clip the cartesian line", "createdAt": "2024-05-06T00:24:21Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3893, "title": "How to align nodes horizontally (sequence way)", "createdAt": "2024-06-26T17:14:33Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3897, "title": "D3-Brush not working with Angular 17", "createdAt": "2024-07-16T13:53:32Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3898, "title": "Add Repobeats (metrics) to README", "createdAt": "2024-07-20T12:01:48Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3900, "title": "Custom error handling.", "createdAt": "2024-08-21T14:08:12Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3902, "title": "d3.pointer()", "createdAt": "2024-08-26T17:00:36Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3904, "title": "[Request] How do I put values on top of the bar chart ?", "createdAt": "2024-08-29T04:20:40Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3906, "title": "Firefox error when calling d3.pointer inside of 'zoom' event handler", "createdAt": "2024-08-29T17:44:45Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3908, "title": "Hover doesn't apply styles in Firefox if d3.select.raise is used.", "createdAt": "2024-08-30T07:23:12Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3912, "title": "D3 Ported to Dart", "createdAt": "2024-09-05T21:51:52Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3921, "title": "rollup -c fails. es6 bundle", "createdAt": "2024-09-19T03:27:13Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3925, "title": "Query on how to build Custom Scale", "createdAt": "2024-10-01T06:14:43Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3933, "title": "Main license set as ISC, but BSD-3-clause listed in the license file", "createdAt": "2024-10-16T09:20:39Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3934, "title": ".on(\"dblclick\", function) event does not work", "createdAt": "2024-10-16T10:53:12Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3937, "title": "`geoContains(object, point)` returns `true` for a `point` outside the `object`", "createdAt": "2024-10-17T00:23:08Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3939, "title": "ReDoS vulnerability on RegExp used in d3js", "createdAt": "2024-10-21T10:43:21Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3945, "title": "d3 scaleBand paddingInner combination with paddingOuter(0)", "createdAt": "2024-10-31T09:47:48Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3949, "title": "svg拖动过程中出现白色异常", "createdAt": "2024-11-12T01:56:44Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3950, "title": "NextJS 15.0.3: Unexpected end of JSON input", "createdAt": "2024-11-16T14:07:26Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3951, "title": "TrustedTypePolicy.createHTML() in d3.svg", "createdAt": "2024-11-17T22:29:17Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3957, "title": "adding random node to leaf, but after adding new node the zoom level returns to root node,", "createdAt": "2024-12-05T13:11:12Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3955, "title": "Inconsistency using foreign object with D3 in Chromium", "createdAt": "2024-12-05T15:20:56Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3965, "title": "How to Modify the Coordinate System with d3-zoom?", "createdAt": "2025-01-03T13:46:17Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3968, "title": "Failed to read the 'value' property from 'SVGLength': Could not resolve relative length.", "createdAt": "2025-01-07T01:36:14Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 3999, "title": "LineString am I missing somthing", "createdAt": "2025-01-17T23:23:10Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4003, "title": "Mapping Course Flows in College Degree Programs", "createdAt": "2025-01-23T05:24:24Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4001, "title": "Gap between chart bars when daylight savings ends", "createdAt": "2025-01-23T06:18:47Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4007, "title": "Support links on d3js.org are outdated", "createdAt": "2025-01-26T18:52:28Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4008, "title": "d3 zoom mouse event consumtion question", "createdAt": "2025-01-31T13:13:00Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4020, "title": "[Need feedback] Open source research: d3/d3 edition", "createdAt": "2025-03-25T22:06:29Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4023, "title": "svgEl.requestFullscreen() will cause `Uncaught NotSupportedError`", "createdAt": "2025-04-27T06:47:53Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4028, "title": "Resqust GitHub KYC-niuyeye", "createdAt": "2025-05-26T05:31:46Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4029, "title": "Documentation website (observablehq.com) TLS (mis?)configuration", "createdAt": "2025-05-28T23:09:49Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4032, "title": ". Teste", "createdAt": "2025-06-20T10:47:45Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4043, "title": "non-ascii chars in minified bundle", "createdAt": "2025-08-15T11:20:12Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4055, "title": "axis function in docs with supposedly mismatched example", "createdAt": "2025-10-09T04:55:14Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4057, "title": "Hello,", "createdAt": "2025-10-12T23:57:39Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4060, "title": "Consider Adopting NPM Trusted Publishing", "createdAt": "2025-10-21T01:08:31Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4061, "title": "Issue with formatHex()", "createdAt": "2025-10-21T11:44:37Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4063, "title": "D3-Hierarchy: Exception `multiple roots` with correct hierarchical data using the `stratify` operator.", "createdAt": "2025-10-28T20:11:20Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4076, "title": "pizzayang733@gmail.com", "createdAt": "2025-11-17T12:55:13Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4078, "title": "type assertion syntax error prevents building this module with node 22+", "createdAt": "2025-11-18T19:24:24Z", "state": "OPEN", "repo": "d3/d3"}
+{"number": 4079, "title": "Unchecked Input for loop condition vulnerability in the minified bundle", "createdAt": "2025-11-19T15:47:21Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4082, "title": "Fix brittle markdown link regex in docs test", "createdAt": "2025-12-02T04:31:06Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4090, "title": "Build Error in Vue 2.7.15 After Latest locale.js Update", "createdAt": "2026-01-14T05:23:45Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4093, "title": "Título", "createdAt": "2026-01-28T19:56:28Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4099, "title": "Could you release a new d3 version?", "createdAt": "2026-03-16T02:58:12Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4100, "title": "d3 uses commander v7.2.0 which is EOL", "createdAt": "2026-03-17T08:53:53Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4104, "title": "feat: introduce d3-geometry module for automatic topology, flow, and system-to-geometry visualization", "createdAt": "2026-04-04T07:11:30Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4119, "title": "Typescript issue referencing transition", "createdAt": "2026-04-22T09:58:58Z", "state": "CLOSED", "repo": "d3/d3"}
+{"number": 4124, "title": "docs:build in CI is not exercising the same prebuild path as deploy", "createdAt": "2026-05-30T10:33:00Z", "state": "CLOSED", "repo": "d3/d3"}
