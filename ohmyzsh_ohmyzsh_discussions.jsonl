@@ -1,0 +1,271 @@
+{"number": 10564, "title": "auto-complete uppercase commands - need a fix!", "createdAt": "2022-01-04T14:46:11Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10567, "title": "Change the base conda environment in Oh my ZSH to use previous ZSH settings", "createdAt": "2022-01-06T21:04:00Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10577, "title": "Modifying prompt on af-magic theme", "createdAt": "2022-01-11T14:33:10Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10584, "title": "How to disable updates?", "createdAt": "2022-01-13T09:48:17Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10588, "title": "Theme customization help", "createdAt": "2022-01-13T17:59:31Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10591, "title": "Where are the default OhMyZSH aliases located?", "createdAt": "2022-01-15T17:25:10Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10610, "title": "Code style guide", "createdAt": "2022-01-23T14:17:07Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10627, "title": "plugins dont working on start", "createdAt": "2022-01-26T16:49:31Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10630, "title": "Theme dont enabling", "createdAt": "2022-01-27T09:01:56Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10631, "title": "Is there any support for dolt or could that be a feature-plugin-theme?", "createdAt": "2022-01-27T15:14:54Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10664, "title": "Blacklist some themes from the random ones choosen", "createdAt": "2022-02-07T13:45:11Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10674, "title": "[vi-mode] how to start in normal mode?", "createdAt": "2022-02-09T10:56:30Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10683, "title": "Disable paged output in `aws` command", "createdAt": "2022-02-10T21:26:11Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10690, "title": "Slow ohmyzsh start after PC restart", "createdAt": "2022-02-13T07:07:31Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10695, "title": "Parse error on start up the terminal (MacOS)", "createdAt": "2022-02-15T12:43:12Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10699, "title": "⌥ ← sends \"[A\" in iTerm2. Should I change key preset?", "createdAt": "2022-02-16T15:51:03Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10706, "title": "Suggested new alias", "createdAt": "2022-02-17T18:27:23Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10726, "title": "How to suppress AWS profile info on right side of screen?", "createdAt": "2022-02-24T15:29:12Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10730, "title": "Any quick way to display plugin readme?", "createdAt": "2022-02-25T06:39:05Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10732, "title": "Hide [oh-my-zsh] Random theme '***' loaded", "createdAt": "2022-02-25T06:41:01Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10737, "title": "kubectl.plugin.zsh:18: command not found: kubectl", "createdAt": "2022-02-25T14:04:45Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10755, "title": "fzf plugin: why rg chosen in favour of fd?", "createdAt": "2022-03-04T10:22:23Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10756, "title": "How to avoid title autorename to current command", "createdAt": "2022-03-04T13:58:54Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10774, "title": "Not sure where to put completions with Oh My Zsh?", "createdAt": "2022-03-14T10:20:33Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10785, "title": "completion_waiting_dots", "createdAt": "2022-03-19T02:28:30Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10800, "title": "How to disable this annoy red dot (●) every time there are changes in git repository", "createdAt": "2022-03-26T02:45:01Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10816, "title": "how do i configure omz and virutalenv with a boot script?", "createdAt": "2022-03-31T23:28:34Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10827, "title": "Lovely community I need your help right now more than ever.", "createdAt": "2022-04-06T00:27:26Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10828, "title": "Aliases categories/groups", "createdAt": "2022-04-06T13:44:44Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10829, "title": "Up arrow only goes back one history item", "createdAt": "2022-04-06T16:40:55Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10842, "title": "how to disable the bold font in the af-magic theme", "createdAt": "2022-04-11T08:01:56Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10868, "title": "How can i enable auto suggetion thingy?", "createdAt": "2022-04-19T15:40:22Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10879, "title": "how to bind a keymap 'jl' instead of 'esc' to enter 'normal-mod'", "createdAt": "2022-04-23T17:18:21Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10893, "title": "What is the numbering ?", "createdAt": "2022-04-27T05:47:30Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10894, "title": "Plugin: Log all history", "createdAt": "2022-04-27T10:07:31Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10916, "title": "OMZ Themes not working on Arch Linux", "createdAt": "2022-05-07T23:25:55Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10936, "title": "emacs -nw does not work on zsh terminal on debian", "createdAt": "2022-05-17T14:54:30Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10948, "title": "A theme that shows number of staged and unstaged git changes?", "createdAt": "2022-05-23T12:20:11Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10949, "title": "(eval):1: command not found: 　", "createdAt": "2022-05-24T14:33:58Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10960, "title": "TTY Login: some keycombos do not work in editor 'micro'", "createdAt": "2022-05-28T19:24:48Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10968, "title": "zshell suspend/fg bug?", "createdAt": "2022-06-02T00:15:31Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10978, "title": "Change prompt only inside of $TERM 'screen'", "createdAt": "2022-06-07T10:00:49Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10987, "title": "How to close zsh start text?", "createdAt": "2022-06-11T14:37:12Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10988, "title": "How to Remove Empty Line At The Top in frontcube theme", "createdAt": "2022-06-12T05:37:31Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10990, "title": "Upgrading from very old version", "createdAt": "2022-06-14T01:51:12Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11004, "title": "How can I fix these errors on ~/.zshrc directoy!!!!", "createdAt": "2022-06-20T00:07:06Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11006, "title": "Problem setting PATH in zshrc", "createdAt": "2022-06-20T19:10:00Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11011, "title": "Weird Text Rendering", "createdAt": "2022-06-23T01:57:50Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11028, "title": "Tmux plugin ZSH_TMUX_AUTOCONNECT=false has no effect", "createdAt": "2022-06-30T12:19:21Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11029, "title": "completions correct work after 'exec zsh'", "createdAt": "2022-06-30T22:32:07Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11044, "title": "Problems using auto-completion (using tabs)", "createdAt": "2022-07-12T08:09:31Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11046, "title": "Fatal error while updating OMZ", "createdAt": "2022-07-12T20:06:32Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11051, "title": "Fail in Fedora 36", "createdAt": "2022-07-15T19:59:34Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11055, "title": "technical zsh question", "createdAt": "2022-07-16T12:41:34Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11059, "title": "zsh theme and profile not loading M1 Mac", "createdAt": "2022-07-20T15:13:42Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11064, "title": "when i run the oh-my-zsh.sh ,error ocurr", "createdAt": "2022-07-23T15:05:05Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11077, "title": "Shortcut to copy/paste commands in terminal?", "createdAt": "2022-07-28T11:09:15Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11081, "title": "/plugins/fzf didn't work on my Fedora 36", "createdAt": "2022-07-31T17:24:27Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11084, "title": "Error: Oh My Zsh can't be loaded from: /bin/sh. You need to run zsh instead.", "createdAt": "2022-08-01T16:54:53Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11100, "title": "omz ssh-agent plugin frequently prompting for ssh keyphrase", "createdAt": "2022-08-08T17:01:36Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11110, "title": "Volunteers - Any specific way to become a volunteer or reach a level?", "createdAt": "2022-08-11T19:35:55Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11113, "title": "Every time i open zsh i have this error \"omz_history:fc:14: no such event: 1\"", "createdAt": "2022-08-12T12:02:44Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11124, "title": "VS Code command \"code\" does not persist in ZSH Terminal", "createdAt": "2022-08-21T00:06:53Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11128, "title": "How to get local git user name", "createdAt": "2022-08-23T05:41:15Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11130, "title": "What is the font of robbyrussell theme?", "createdAt": "2022-08-23T22:18:54Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11159, "title": "egrep is obsolescent", "createdAt": "2022-09-10T18:44:37Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11173, "title": "ohmyzsh changes pid 1 from systemd to init", "createdAt": "2022-09-20T03:56:18Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11200, "title": "Background color contrast issue", "createdAt": "2022-09-28T16:54:11Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11220, "title": "after manual install is omz update sufficient", "createdAt": "2022-10-03T20:36:59Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11976, "title": "Can't install oh-my-zsh on unraid 6.11.0", "createdAt": "2022-10-04T01:38:29Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11243, "title": "...", "createdAt": "2022-10-07T10:27:11Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11270, "title": "Plugin: CircleCi", "createdAt": "2022-10-18T12:45:19Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11277, "title": "ZSH_THEME does not take effect There will be no change to the theme", "createdAt": "2022-10-20T07:08:17Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11974, "title": "ls and auto-complete colors not changing with theme (ubuntu WSL)", "createdAt": "2022-10-20T16:46:26Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11285, "title": "How to show the virtual environment on the left side in (parentheses)?", "createdAt": "2022-10-22T19:24:58Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11297, "title": "iterm2_tab_color not work", "createdAt": "2022-10-28T06:34:54Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11310, "title": "Cannot update due to `z` plugin?", "createdAt": "2022-11-02T20:16:19Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11313, "title": "gcloud plugin adding \\", "createdAt": "2022-11-03T16:43:23Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11329, "title": "Find in file alias / function", "createdAt": "2022-11-10T06:24:35Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11333, "title": "Change color of shown directories at current path/input", "createdAt": "2022-11-10T16:51:17Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11340, "title": "z plugin does not work in docker container", "createdAt": "2022-11-16T05:31:13Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11342, "title": "Where should I load custom completions?", "createdAt": "2022-11-17T13:41:16Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11352, "title": "Has anyone made a plugin for Podman?", "createdAt": "2022-11-24T01:25:32Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11355, "title": "Show a loading Indicator or progressbar while ohmyzsh is loading/finishing booting up", "createdAt": "2022-11-25T11:16:46Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11366, "title": "Can't install Node via nvm when using `omz`", "createdAt": "2022-12-04T18:04:59Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11367, "title": "unable to install oh my zsh using sh -c \"$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)\"", "createdAt": "2022-12-05T12:05:06Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11382, "title": "Glyph doesn't display", "createdAt": "2022-12-09T20:12:00Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11397, "title": "error: could not write config file .git/config: Permission denied", "createdAt": "2022-12-17T13:22:11Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11401, "title": "Welcome aboard, Carlo!", "createdAt": "2022-12-19T20:05:53Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11408, "title": "why not use the pipenv than use an alias to create a new environment ? [python plugin]", "createdAt": "2022-12-25T21:07:32Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11434, "title": "terminalGPT", "createdAt": "2023-01-10T14:05:47Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11442, "title": "Virustotal flags", "createdAt": "2023-01-15T09:12:15Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11445, "title": "hstr options to maintain history per tmux panel when used with Oh My Zsh", "createdAt": "2023-01-18T12:20:44Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11450, "title": "omz_history exectued with each command", "createdAt": "2023-01-23T12:31:12Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11947, "title": "FreeBSD alias plugin similar to archlinux, macos, etc.", "createdAt": "2023-01-23T15:41:16Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11486, "title": "Are plugins placed in ${ZSH_CUSTOM: folder updated?", "createdAt": "2023-02-11T01:27:13Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11496, "title": "java and omz", "createdAt": "2023-02-14T20:11:43Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11512, "title": "A help on the ZSH installation Wiki", "createdAt": "2023-02-22T01:09:49Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11513, "title": "My `.zshrc` was executed twice", "createdAt": "2023-02-22T02:29:17Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11514, "title": "how do i disable \"typing behavior\"", "createdAt": "2023-02-22T11:13:04Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11536, "title": "What is `fzf` plugin supposed to do exactly? I didn't see any change after enabling it in `.zshrc`.", "createdAt": "2023-03-02T08:58:27Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11543, "title": "When I turned on virtual environment, oh-my-zsh is showing username and not what zsh shows usually.What i Should do.?", "createdAt": "2023-03-05T14:20:23Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11557, "title": "Clear screen with a keybinding", "createdAt": "2023-03-11T14:45:08Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11559, "title": "Change the colour of recommendation text", "createdAt": "2023-03-12T16:30:35Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11584, "title": "Adding tmux destroys with the robby russell theme in oh my zsh! Why?", "createdAt": "2023-03-26T18:09:15Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11588, "title": "How un ailias and remove function that has been created oh-my-zsh and don't play crucial role, except plugins, themes.", "createdAt": "2023-03-28T13:57:03Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11594, "title": "I can't get rid of Zsh", "createdAt": "2023-04-02T02:12:20Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11602, "title": "uninstall oh my zsh", "createdAt": "2023-04-05T09:34:13Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11641, "title": "can I use operators with config variables?", "createdAt": "2023-04-24T22:42:20Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11646, "title": "Help me understand the following PROMPT parameters ${ret_status} and %p", "createdAt": "2023-04-26T21:38:19Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11650, "title": "Add descriptions for plugins?", "createdAt": "2023-04-27T18:02:56Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11651, "title": "help to reduce zsh startup, it almost take 30s", "createdAt": "2023-04-28T02:15:40Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11666, "title": "Fastfetch with Z shell (oh-my-zsh) “Logo: getCharacterPixelDimensions() failed” error", "createdAt": "2023-05-03T08:47:55Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11669, "title": "How can I see status of git-auto-fetch in status bar end of line?", "createdAt": "2023-05-04T07:12:14Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11687, "title": "Colorize ZSH Terminal Logs based on custom regex", "createdAt": "2023-05-10T09:31:54Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11688, "title": "Disable right arrow displayed in prompt when switching directories", "createdAt": "2023-05-10T19:19:36Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11698, "title": "Newline in specific directories waits for ctrl-c?", "createdAt": "2023-05-18T11:25:15Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11717, "title": "Website Plugins Link Broken", "createdAt": "2023-05-30T12:46:49Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11731, "title": "show path from git root (instead of dir name)", "createdAt": "2023-06-06T13:14:34Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11736, "title": "omz update Problem bad option", "createdAt": "2023-06-07T05:26:44Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11744, "title": "The command texts aren't show", "createdAt": "2023-06-10T14:50:52Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11746, "title": "issues with mc", "createdAt": "2023-06-12T17:28:40Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11755, "title": "There was an error updating. Try again later?", "createdAt": "2023-06-15T16:43:31Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11757, "title": "How to turn off \"auto editor mode\" behavior", "createdAt": "2023-06-16T08:46:58Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11759, "title": "Fail to install", "createdAt": "2023-06-17T13:58:56Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11761, "title": "unkonwn \"?5\" appear in prompt", "createdAt": "2023-06-18T02:02:17Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11774, "title": "Adding update hook", "createdAt": "2023-06-24T16:05:23Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11795, "title": "Avoid duplication in `~/.zsh_history`", "createdAt": "2023-07-15T07:33:57Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11802, "title": "mamba change the command promp, how to fix?", "createdAt": "2023-07-19T10:28:55Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11815, "title": "How can i compitable csh under zsh environment？", "createdAt": "2023-07-25T14:51:26Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11836, "title": "Change Cursor Style", "createdAt": "2023-08-10T09:06:39Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11843, "title": "Long cd auto-completions from inside `direnv` enabled directories", "createdAt": "2023-08-13T08:53:48Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11862, "title": "\"zsh: #: command not found...\" error on startup", "createdAt": "2023-08-29T01:20:48Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11886, "title": "Can we use the old simple gallois theme?", "createdAt": "2023-09-11T18:42:46Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11893, "title": "Ctrl R not working after upgrading iterm2 to ohmysh", "createdAt": "2023-09-13T21:18:57Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11908, "title": "failed: Connection timed out.", "createdAt": "2023-09-25T13:41:50Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11911, "title": "Use oh my posh theme in oh my zsh", "createdAt": "2023-09-26T06:01:17Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11934, "title": "brew autocomplete not working", "createdAt": "2023-10-05T21:37:26Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11937, "title": "Support Kafka Auto completion", "createdAt": "2023-10-07T13:45:40Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11980, "title": "Make a quick-install link to use from the terminal", "createdAt": "2023-10-15T22:02:24Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11988, "title": "ohmyzsh not working on my iSH App", "createdAt": "2023-10-18T04:54:00Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11994, "title": "How do I make the `RPROMPT` align with the top of the `PROMPT`?", "createdAt": "2023-10-19T16:40:12Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12016, "title": "`$TMPPREFIX` is not an environment variable?", "createdAt": "2023-10-30T18:10:07Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12035, "title": "Why I have to type zsh to source ~/.zshrc", "createdAt": "2023-11-13T08:53:17Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12080, "title": "Resolve current index error", "createdAt": "2023-12-02T19:48:08Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12085, "title": "cd /folder/path/to/file.txt should work", "createdAt": "2023-12-07T06:00:50Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12093, "title": "command `grep` killed on starting zsh", "createdAt": "2023-12-15T12:40:25Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12095, "title": "Return true exit code when using tee to append the output to a log file in shell", "createdAt": "2023-12-15T18:15:23Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12157, "title": "iterm returns \"pop-up\" window when response from terminal is a JSON format", "createdAt": "2024-01-12T10:16:40Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12158, "title": "how to disable number shortcut", "createdAt": "2024-01-12T10:24:03Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12162, "title": "Installation without internet", "createdAt": "2024-01-15T19:20:41Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12174, "title": "Can't apply selected theme", "createdAt": "2024-01-21T11:31:40Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12187, "title": "Colorize plugin: \"Neither 'pygments' nor 'chroma' is installed!\"", "createdAt": "2024-01-31T11:18:33Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12189, "title": "shift + enter autosuggest history not working", "createdAt": "2024-02-02T08:47:39Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12215, "title": "Git info has disappeared from prompt", "createdAt": "2024-02-14T08:51:11Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12223, "title": "Using oh-my-zsh to version function with the git dir", "createdAt": "2024-02-20T00:47:05Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12229, "title": "Spotify opens app with play command", "createdAt": "2024-02-21T10:08:06Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12238, "title": "source ~/powerlevel10k/powerlevel10k.zsh-theme", "createdAt": "2024-02-23T15:12:23Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12263, "title": "Why swastika on oh my zsh theme ????", "createdAt": "2024-03-06T14:25:00Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12266, "title": "git branch no longer showing in zsh terminal", "createdAt": "2024-03-07T14:49:25Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12269, "title": "Oh My Zsh made my terminal completely unusable. Help please!", "createdAt": "2024-03-08T02:23:21Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12277, "title": "VS code not working from zsh but works from bash WSL", "createdAt": "2024-03-11T15:41:18Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12305, "title": "why  there is still something wrong about Chinese word when I use git?", "createdAt": "2024-03-26T08:31:17Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12312, "title": "something keeps removing old history entries", "createdAt": "2024-04-02T02:32:31Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12315, "title": "cd in directories takes 10 seconds or more", "createdAt": "2024-04-03T01:29:52Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12324, "title": "[plugin] plugins should not add system wide aliases", "createdAt": "2024-04-04T22:53:40Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12348, "title": "Yellow Warning Sign", "createdAt": "2024-04-11T13:36:51Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12372, "title": "AWS CLI is overriding my theme", "createdAt": "2024-04-21T07:35:12Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12379, "title": "Trying to understand why `copybuffer` plugin is not working", "createdAt": "2024-04-25T01:23:52Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12382, "title": "Plugin(Rust) Thoughts on sourcing cargo's env script as part of rust plugin?", "createdAt": "2024-04-29T05:00:01Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12394, "title": "Migrate a Bash shell script with options into a OMZ plugin", "createdAt": "2024-05-03T08:11:21Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12404, "title": "What is that \"system\" option. I think due to that , my folder color and everything vanished suddenly.I don't know what that is.How can I remove it ?", "createdAt": "2024-05-08T19:08:57Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12425, "title": "Font error.", "createdAt": "2024-05-17T12:30:03Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12432, "title": "How to edit my ZSH Git plugin alias that contains \"$(current_branch)\"?", "createdAt": "2024-05-20T17:45:34Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12446, "title": "[UI issue] blue box appears when I click a line", "createdAt": "2024-05-23T10:02:49Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12449, "title": "commit 4188b22a adds ﻿▸ in agnoster theme", "createdAt": "2024-05-24T08:16:46Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12460, "title": "Why are $ZSH_CUSTOM subdirectories not added to $fpath by default?", "createdAt": "2024-05-28T16:52:31Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12466, "title": "What can I do to disable the extra triangle symbol in the snapshot?", "createdAt": "2024-05-31T03:45:28Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12504, "title": "Where is the list command alias?", "createdAt": "2024-06-13T15:24:22Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12511, "title": "What kind of Plugin(s) are you looking for", "createdAt": "2024-06-17T13:14:21Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12514, "title": "Are alternative scripting tools allowed for Oh-My-Zsh plugins?", "createdAt": "2024-06-17T18:08:59Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12517, "title": "Can't  I load systemwide plugins like the in-built plugins?", "createdAt": "2024-06-19T04:09:00Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12526, "title": "Using theme \"90210\" how to set show full path", "createdAt": "2024-06-26T01:37:48Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12527, "title": "When I paste a command into the command line, the characters appear one by one instead of all at once.", "createdAt": "2024-06-28T03:04:15Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12529, "title": "`omz changelog` does nothing", "createdAt": "2024-06-29T00:57:07Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12549, "title": "When I start my zsh there is another zsh process that takes 99% of cpu (2 in total).", "createdAt": "2024-07-11T12:16:20Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12554, "title": "Shell broken", "createdAt": "2024-07-14T15:05:19Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12567, "title": "How to delete it", "createdAt": "2024-07-21T19:34:23Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12573, "title": "Issue accessing common CLI commands", "createdAt": "2024-07-22T16:59:54Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12577, "title": "plugin 'adb' not found since last update", "createdAt": "2024-07-26T11:40:23Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12598, "title": "How do I stop OMZ from showing errors in my console? It's preventing multiple ansible roles from running successfully.", "createdAt": "2024-08-05T22:25:07Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12607, "title": "Deactivate command set me back to regular zsh", "createdAt": "2024-08-09T12:32:28Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12624, "title": "Set timestamp in the prompt?", "createdAt": "2024-08-19T06:57:37Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12630, "title": "why there has a backslash？", "createdAt": "2024-08-20T12:50:23Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12642, "title": "Slow Oh-My-Zsh startup times on MacOS Sonoma 14.6.1", "createdAt": "2024-08-29T09:35:13Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12654, "title": "enter is invalid when I install omz in ubuntu", "createdAt": "2024-09-06T02:49:37Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12659, "title": "Adding the plugin store", "createdAt": "2024-09-07T08:50:18Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12673, "title": "zsh bug", "createdAt": "2024-09-14T16:19:43Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12682, "title": "Support Oh-my-zsh", "createdAt": "2024-09-19T07:13:44Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12706, "title": "Annoying  message on new terminal", "createdAt": "2024-09-30T23:18:52Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12725, "title": "Autocomplete Docker with Gem", "createdAt": "2024-10-04T22:58:48Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12737, "title": "`gh pr list` Output Not Displayed Inline in Terminal", "createdAt": "2024-10-09T07:23:29Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12746, "title": "Use Cmd-C, Cmd-V again in oh-my-zsh-equipped Terminal in macOS Sequoia", "createdAt": "2024-10-12T21:04:38Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12759, "title": "DISABLE_AUTO_TITLE=\"true\", how to revert to default zsh title?", "createdAt": "2024-10-14T17:59:03Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12787, "title": "Availability at Homebrew?", "createdAt": "2024-10-29T10:11:55Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12788, "title": "Auto completion is not always useful?", "createdAt": "2024-10-30T11:50:41Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12796, "title": "How to bypass the \"Do you want to change your default shell?\" question", "createdAt": "2024-11-06T15:36:37Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12817, "title": "Plugin \"Thefuck\" stopped being updated and doesn't function. Should a plugin for a dead repo still be included in ohmyzsh??", "createdAt": "2024-11-20T10:08:49Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12821, "title": "Cannot chain commands beyond `omz update` if update is available", "createdAt": "2024-11-24T12:25:10Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12827, "title": "Using $LS_COLORS for the $PWD in themes", "createdAt": "2024-11-28T03:45:16Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12835, "title": "Bash-style filename completion behaviour?", "createdAt": "2024-12-04T21:23:38Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12871, "title": "git with zsh-autosugesstions stuck with tab completion", "createdAt": "2024-12-28T02:13:01Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12878, "title": "I've deleted by mistake the .zshrc file", "createdAt": "2025-01-01T10:55:46Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12905, "title": "Does anyone want to convert my script to an omz plugin?", "createdAt": "2025-01-13T15:01:24Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12925, "title": "zstyle ':omz:update' mode auto  didn't work in startup", "createdAt": "2025-01-19T13:22:37Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12928, "title": "how should a omz plugin correctly set its completion?", "createdAt": "2025-01-21T14:15:00Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12931, "title": "How to install without interaction (saying \"yes\") ?", "createdAt": "2025-01-22T10:53:29Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12933, "title": "Skip default terminal question during install?", "createdAt": "2025-01-22T21:54:54Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12947, "title": "Purpose of completions directories", "createdAt": "2025-01-29T11:48:40Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12948, "title": "My first plugin \"cleanzip\"", "createdAt": "2025-01-30T08:02:08Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12951, "title": "jonathan theme but with \"Ghostty' Adventure theme\"colors.", "createdAt": "2025-01-31T06:00:15Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12956, "title": "How to use  git push origin :$(current_branch)", "createdAt": "2025-02-03T13:12:48Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12960, "title": "How to manipulate _SIMPLE PROMPT ESCAPES_ in theme?", "createdAt": "2025-02-06T21:59:28Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12965, "title": "Why is \"CA\" alias applied in arguments?", "createdAt": "2025-02-08T10:42:33Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12969, "title": "Are there any plans to make this work on Windows without WSL", "createdAt": "2025-02-11T21:41:47Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12976, "title": "eza plugin not loaded when zsh starts", "createdAt": "2025-02-15T04:34:04Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12982, "title": "`ls` and `cat` combined", "createdAt": "2025-02-17T14:05:27Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12993, "title": "My first plugin `ctrl-branch`", "createdAt": "2025-02-25T10:17:49Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12999, "title": "installing ohmyzsh messed up my ssh sessions on the remote machine", "createdAt": "2025-03-02T11:39:54Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13000, "title": "How to disable mouse wheel scroll through history", "createdAt": "2025-03-03T12:08:26Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13001, "title": "omz update tries to write to $HISTFILE", "createdAt": "2025-03-03T12:11:46Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13007, "title": "Tab completion misbehaves on double quotes (\")", "createdAt": "2025-03-07T00:37:06Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13013, "title": "Asdf plugin outdated", "createdAt": "2025-03-12T16:21:49Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13015, "title": "Warp terminal - `omz update` process doesn't seem to \"exit\" when complete", "createdAt": "2025-03-13T07:31:02Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13018, "title": "Does Oh my Zsh store path variables in its directory?", "createdAt": "2025-03-14T21:19:16Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13022, "title": "strange command execution", "createdAt": "2025-03-20T07:32:20Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13029, "title": "What are all the different ways to store custom configuration?", "createdAt": "2025-03-23T15:20:07Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13049, "title": "Do we have guideline for external plugin adoption?", "createdAt": "2025-04-01T14:44:19Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13064, "title": "Rich git completion like bash", "createdAt": "2025-04-12T14:20:06Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13066, "title": "ssh-agent plugin cannot load key that is named differently than id_ed25519", "createdAt": "2025-04-14T10:23:23Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13070, "title": "need help acme", "createdAt": "2025-04-17T12:20:09Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13084, "title": "Flashing when the mouse with interaction", "createdAt": "2025-04-24T09:41:07Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13088, "title": "zstyle ':omz:update' mode auto won't work", "createdAt": "2025-04-25T00:25:58Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13110, "title": "Oh-my-zsh startup became very slow after macOS upgrade to Sequoia 15.4", "createdAt": "2025-05-07T11:07:09Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13118, "title": "jj plugin's prompt and falling back to git prompt", "createdAt": "2025-05-14T08:27:55Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13122, "title": "Installation by scripts", "createdAt": "2025-05-18T14:05:45Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13125, "title": "eval: command not found issue in custom function", "createdAt": "2025-05-20T05:30:09Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13154, "title": "Theme:gallois Time is gone?!", "createdAt": "2025-06-05T15:11:17Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13165, "title": "Uninstalled due to too many updates and a high loading time", "createdAt": "2025-06-10T12:20:21Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13181, "title": "why themes are using asterisk (*) to show git status instead of the dedicated emojis?", "createdAt": "2025-06-24T13:59:44Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13202, "title": "Why is agnoster from omz different than upstream?", "createdAt": "2025-07-07T15:35:58Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13235, "title": "Ideas for in-console notification of security or other high-impact events", "createdAt": "2025-07-28T17:48:17Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13236, "title": "robbyrussell theme relies on a weird ZSH formatting behaviour - is it normal?", "createdAt": "2025-07-29T00:02:18Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13256, "title": ".zshrc sync", "createdAt": "2025-08-08T22:25:58Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13301, "title": "Fuzzy matching causes completion candidates to not display properly", "createdAt": "2025-09-13T09:04:52Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13308, "title": "How to install external plugins globally?", "createdAt": "2025-09-16T21:17:56Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13354, "title": "After last OMZ update my OMZ is incredible slow", "createdAt": "2025-10-06T11:48:40Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13363, "title": "zsh show \"command not found\" for files already in $PATH variable", "createdAt": "2025-10-10T16:52:07Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13381, "title": "Why is the `ls` output looking so weird?", "createdAt": "2025-10-20T15:49:08Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13384, "title": "Is oh-my-zsh vulnerable to software side-channel attacks?", "createdAt": "2025-10-22T19:45:47Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13466, "title": "How do I display user@host in the title (using the frisk theme)", "createdAt": "2025-12-06T18:46:28Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13488, "title": "ERROR: this script is obsolete, please see git-completion.zsh", "createdAt": "2025-12-23T16:35:56Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13525, "title": "VSCode Copilot fails to start with macOS+ZSH", "createdAt": "2025-12-23T17:16:48Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13490, "title": "Plugin for nrfutil completion needs explicit .zshrc sourcing", "createdAt": "2025-12-26T10:04:59Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13511, "title": "Where to put the prompt fo terraform workspace?", "createdAt": "2026-01-10T15:09:26Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13526, "title": "Git Branch Does Not Appear on Prompt on some Mac OS", "createdAt": "2026-01-15T18:47:12Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13544, "title": "Cannot create an alias that uses `cd` : `string not in pwd`", "createdAt": "2026-01-28T14:51:42Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13618, "title": "OMZ yay or nay?", "createdAt": "2026-03-06T12:00:39Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13681, "title": "__git_zsh_bash_func:8: command not found: __git_aliased_command", "createdAt": "2026-04-09T20:26:44Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13692, "title": "Using Oh My Zsh for macOS tool development (DynaMic)", "createdAt": "2026-04-15T22:46:46Z", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13807, "title": "ccline — type a thought at your zsh prompt, get an AI answer and run the command", "createdAt": "2026-06-10T06:49:41Z", "repo": "ohmyzsh/ohmyzsh"}
