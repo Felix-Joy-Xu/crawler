@@ -3165,9 +3165,10 @@
     13807
   ],
   "pr_idx": 1844,
-  "issue_idx": 1020,
-  "disc_idx": 0,
+  "issue_idx": 1043,
+  "disc_idx": 271,
   "failed_pr": [],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
