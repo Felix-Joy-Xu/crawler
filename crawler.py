@@ -25,7 +25,12 @@ for i in range(1, 20):
 
 if not env_tokens:
     raw_tokens = os.getenv("GITHUB_TOKENS", "")
-    env_tokens = [t.strip() for t in raw_tokens.split(",") if t.strip()]
+    if raw_tokens:
+        env_tokens = [t.strip() for t in raw_tokens.split(",") if t.strip()]
+    else:
+        default_t = os.getenv("DEFAULT_TOKEN")
+        if default_t:
+            env_tokens.append(default_t)
 
 # 最终去重并移除空值
 TOKENS = list(dict.fromkeys([t for t in env_tokens if t]))
