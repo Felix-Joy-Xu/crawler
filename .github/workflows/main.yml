@@ -41,3 +41,13 @@ jobs:
         with:
           name: crawled-data-artifact
           path: data_phase1_full/
+
+      - name: Commit and Push Progress
+        if: always() # 无论正常结束还是由于5.5小时超时安全退出，都提交保存进度
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data_phase1_full/
+          git commit -m "保存爬虫数据与断点状态 [skip ci]" || echo "没有检测到任何更新"
+          git push
+
