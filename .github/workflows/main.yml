@@ -7,12 +7,11 @@ jobs:
   crawl:
     runs-on: ubuntu-latest
     
-    # 授予工作流所需的权限
+    # 授予工作流所需的权限（已移除了无效的 discussions 字段）
     permissions:
       contents: write
       issues: read
       pull-requests: read
-      discussions: read
 
     steps:
       - name: Checkout Code
@@ -50,4 +49,5 @@ jobs:
           git add data_phase1_full/
           git commit -m "保存爬虫数据与断点状态 [skip ci]" || echo "没有检测到任何更新"
           git push
+
 
