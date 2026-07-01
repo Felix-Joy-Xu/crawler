@@ -8150,3 +8150,8 @@
 {"repo": "vercel/next.js", "pr_number": 38862, "type": "review_comment", "body": "This gives us better tree-shaking, amazing :aww:", "createdAt": "2022-07-21T17:28:22Z", "author": "shuding"}
 {"repo": "vercel/next.js", "pr_number": 38862, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2022-07-21T17:30:04Z", "author": "ijjk"}
 {"repo": "vercel/next.js", "pr_number": 38862, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-07-21T18:01:19Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 38865, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-07-21T12:58:37Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 38867, "type": "review", "body": "Can we add a test related to this in one of our TypeScript suites?", "state": "COMMENTED", "createdAt": "2022-07-21T15:37:23Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 38867, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2022-07-21T15:49:37Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 38867, "type": "review", "body": "It looks like we have a related test to this here https://github.com/vercel/next.js/runs/7451164932?check_suite_focus=true#step:9:314 that is failing so if that one is resolved should be good", "state": "COMMENTED", "createdAt": "2022-08-08T15:11:13Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 38867, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-08-25T23:37:46Z", "author": "ijjk"}
