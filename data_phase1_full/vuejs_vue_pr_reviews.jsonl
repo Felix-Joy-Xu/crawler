@@ -1,0 +1,109 @@
+{"repo": "vuejs/vue", "pr_number": 12406, "type": "review", "body": "", "state": "CHANGES_REQUESTED", "createdAt": "2022-01-04T01:22:14Z", "author": "yyx990803"}
+{"repo": "vuejs/vue", "pr_number": 12406, "type": "review_comment", "body": "```suggestion\r\n        <a href=\"https://www.authing.cn/welcome?utm_source=Vuejs&utm_medium=CPT&utm_campaign=GitHub&utm_term=readme\" target=\"_blank\">\r\n```", "createdAt": "2022-01-04T01:21:41Z", "author": "yyx990803"}
+{"repo": "vuejs/vue", "pr_number": 12406, "type": "review_comment", "body": "```suggestion\r\n        <a href=\"https://www.authing.cn/welcome?utm_source=Vuejs&utm_medium=CPT&utm_campaign=GitHub&utm_term=readme\" target=\"_blank\">\r\n```", "createdAt": "2022-01-04T01:22:06Z", "author": "yyx990803"}
+{"repo": "vuejs/vue", "pr_number": 12419, "type": "review", "body": "lgtm", "state": "APPROVED", "createdAt": "2022-01-14T01:45:46Z", "author": "kirakoki"}
+{"repo": "vuejs/vue", "pr_number": 12435, "type": "review", "body": "LGTM", "state": "APPROVED", "createdAt": "2022-07-04T05:20:32Z", "author": "ulivz"}
+{"repo": "vuejs/vue", "pr_number": 12435, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-05-11T12:02:41Z", "author": "SpySioutis"}
+{"repo": "vuejs/vue", "pr_number": 12487, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-07-04T16:15:57Z", "author": "BlackCrowxyz"}
+{"repo": "vuejs/vue", "pr_number": 12524, "type": "review", "body": "You've run code formatting on whole file", "state": "CHANGES_REQUESTED", "createdAt": "2022-04-25T22:52:37Z", "author": "swrzalek"}
+{"repo": "vuejs/vue", "pr_number": 12525, "type": "review", "body": "What is this changing? Remove Al stylistic changes please", "state": "CHANGES_REQUESTED", "createdAt": "2022-04-18T11:58:46Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12526, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-04-29T10:02:45Z", "author": "dammy001"}
+{"repo": "vuejs/vue", "pr_number": 12526, "type": "review_comment", "body": "can you revert the code formatting to single quote so we can know the actual changes", "createdAt": "2022-04-29T10:02:40Z", "author": "dammy001"}
+{"repo": "vuejs/vue", "pr_number": 12527, "type": "review", "body": "Same as the other pr: please remove the stylistic changes in all t he pris so we can see what was actually changed 😄", "state": "CHANGES_REQUESTED", "createdAt": "2022-04-18T12:00:18Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12542, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-05-24T07:12:22Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12542, "type": "review", "body": "Actually, it would be better to add a new script lint that calls prettier without `--write` and add the `--write` in the `format` script instead. Similar to this: https://github.com/vuejs/router/blob/main/package.json#L39-L42\r\n\r\nOtherwise it wouldn't be linting.", "state": "CHANGES_REQUESTED", "createdAt": "2022-05-24T07:14:30Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12564, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-06-21T09:34:24Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12564, "type": "review_comment", "body": "I think this becomes\r\n\r\n```suggestion\r\n          .slice(1, value.length - 1)\r\n```", "createdAt": "2022-06-21T09:34:24Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12564, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-06-21T10:36:44Z", "author": "webfansplz"}
+{"repo": "vuejs/vue", "pr_number": 12564, "type": "review_comment", "body": "Fixed,thanks !", "createdAt": "2022-06-21T10:36:44Z", "author": "webfansplz"}
+{"repo": "vuejs/vue", "pr_number": 12564, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-06-21T15:58:26Z", "author": "BlackCrowxyz"}
+{"repo": "vuejs/vue", "pr_number": 12564, "type": "review_comment", "body": "```suggestion\r\n          .slice(1, -1)\r\n```", "createdAt": "2022-06-21T15:58:26Z", "author": "BlackCrowxyz"}
+{"repo": "vuejs/vue", "pr_number": 12564, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-06-22T07:48:09Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12573, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-06-23T13:50:41Z", "author": "samwhosung"}
+{"repo": "vuejs/vue", "pr_number": 12669, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-07-15T18:12:34Z", "author": "JuniorTour"}
+{"repo": "vuejs/vue", "pr_number": 12669, "type": "review_comment", "body": "`Infinity` id comes from: https://github.com/vuejs/vue/blob/7d4a7722e3a8bc52a0a9b9660b75efa2ff479f39/src/v3/apiWatch.ts#L316", "createdAt": "2022-07-15T18:12:34Z", "author": "JuniorTour"}
+{"repo": "vuejs/vue", "pr_number": 12669, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-07-16T12:27:13Z", "author": "yyx990803"}
+{"repo": "vuejs/vue", "pr_number": 12669, "type": "review_comment", "body": "```suggestion\r\n```", "createdAt": "2022-07-16T12:27:12Z", "author": "yyx990803"}
+{"repo": "vuejs/vue", "pr_number": 12669, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-07-16T12:27:41Z", "author": "yyx990803"}
+{"repo": "vuejs/vue", "pr_number": 12669, "type": "review_comment", "body": "^ do not include unrelated changes in a PR.", "createdAt": "2022-07-16T12:27:41Z", "author": "yyx990803"}
+{"repo": "vuejs/vue", "pr_number": 12695, "type": "review", "body": "", "state": "CHANGES_REQUESTED", "createdAt": "2022-07-24T07:54:48Z", "author": "tony19"}
+{"repo": "vuejs/vue", "pr_number": 12695, "type": "review_comment", "body": "The original is fine as is. No need for `the` here.", "createdAt": "2022-07-24T07:45:07Z", "author": "tony19"}
+{"repo": "vuejs/vue", "pr_number": 12695, "type": "review_comment", "body": "The original sentence is correct. The article `the` is unnecessary here.", "createdAt": "2022-07-24T07:47:12Z", "author": "tony19"}
+{"repo": "vuejs/vue", "pr_number": 12695, "type": "review_comment", "body": "No need for `the` here. It's not really helpful, as it's implied the reader understands `npm` scripts at this point.", "createdAt": "2022-07-24T07:52:16Z", "author": "tony19"}
+{"repo": "vuejs/vue", "pr_number": 12751, "type": "review", "body": "I'm sorry but most of the change in this PR does not improve code readability or maintainability.\r\nI've pointed out the most notable mistakes as review comments.\r\n\r\nI think it's not worth the change.\r\nThanks for your enthusiasm though.", "state": "COMMENTED", "createdAt": "2022-08-17T13:33:17Z", "author": "haoqunjiang"}
+{"repo": "vuejs/vue", "pr_number": 12751, "type": "review_comment", "body": "All those variables are only used once. Destructuring them makes the code harder to read or maintain, because we would need to update 2 lines for 1 logical change.", "createdAt": "2022-08-17T13:30:04Z", "author": "haoqunjiang"}
+{"repo": "vuejs/vue", "pr_number": 12751, "type": "review_comment", "body": "Nested destructuring + renaming leads to very bad readability.", "createdAt": "2022-08-17T13:30:45Z", "author": "haoqunjiang"}
+{"repo": "vuejs/vue", "pr_number": 12751, "type": "review_comment", "body": "`elChildren` does not make the code shorter or more readable.", "createdAt": "2022-08-17T13:31:35Z", "author": "haoqunjiang"}
+{"repo": "vuejs/vue", "pr_number": 12754, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-08-20T08:45:57Z", "author": "haoqunjiang"}
+{"repo": "vuejs/vue", "pr_number": 12784, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-09-16T04:09:43Z", "author": "matheusborn"}
+{"repo": "vuejs/vue", "pr_number": 12789, "type": "review", "body": "", "state": "CHANGES_REQUESTED", "createdAt": "2022-10-11T04:49:38Z", "author": "yyx990803"}
+{"repo": "vuejs/vue", "pr_number": 12789, "type": "review_comment", "body": "Please remove these unrelated style changes", "createdAt": "2022-10-11T04:49:35Z", "author": "yyx990803"}
+{"repo": "vuejs/vue", "pr_number": 12849, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-11-18T10:29:20Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12850, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-11-07T07:44:05Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12850, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-11-18T10:28:43Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12850, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-12-14T05:48:31Z", "author": "YasinAshorian"}
+{"repo": "vuejs/vue", "pr_number": 12851, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-10-28T10:56:52Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12853, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-10-28T10:56:30Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12855, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-10-28T10:52:04Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12856, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-10-28T14:14:13Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12856, "type": "review_comment", "body": "```suggestion\r\n      const propOptions: any = vm.$options.props\r\n```\r\n\r\nSince we're no longer using flow.", "createdAt": "2022-10-28T14:14:13Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12856, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-10-28T14:19:41Z", "author": "c0dedance"}
+{"repo": "vuejs/vue", "pr_number": 12856, "type": "review_comment", "body": "Oops, thank you", "createdAt": "2022-10-28T14:19:41Z", "author": "c0dedance"}
+{"repo": "vuejs/vue", "pr_number": 12856, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-11-18T10:24:14Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12856, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-12-14T05:48:17Z", "author": "YasinAshorian"}
+{"repo": "vuejs/vue", "pr_number": 12857, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-11-01T14:05:44Z", "author": "hexiaokang"}
+{"repo": "vuejs/vue", "pr_number": 12861, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-11-02T15:45:12Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12862, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-11-18T10:27:51Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12863, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-11-09T05:39:22Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12868, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-11-09T05:38:26Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12869, "type": "review", "body": "Could please revert the styles of codes? Like removing the brackets, adding the else branch", "state": "COMMENTED", "createdAt": "2022-11-09T05:36:58Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12869, "type": "review_comment", "body": "I think it's unnecessary.", "createdAt": "2022-11-09T05:36:32Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12869, "type": "review_comment", "body": "I think it's unnecessary.", "createdAt": "2022-11-09T05:36:39Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12870, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-11-09T05:33:59Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12871, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-11-09T05:26:56Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12871, "type": "review_comment", "body": "`Array.prototype.find` is not supported in IE.", "createdAt": "2022-11-09T05:26:56Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12872, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-11-18T10:24:58Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12873, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-11-18T10:26:09Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12874, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-11-18T10:23:43Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12874, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-11-18T13:07:05Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12874, "type": "review_comment", "body": "```ts\r\nif (!match) return\r\n```", "createdAt": "2022-11-18T13:07:04Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12874, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-11-18T23:34:37Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12874, "type": "review_comment", "body": "We need run prettier to format the code.\r\n", "createdAt": "2022-11-18T23:33:57Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12874, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-12-14T05:48:02Z", "author": "YasinAshorian"}
+{"repo": "vuejs/vue", "pr_number": 12878, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-11-18T10:22:49Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12878, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-12-14T05:46:41Z", "author": "YasinAshorian"}
+{"repo": "vuejs/vue", "pr_number": 12879, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-11-18T11:39:26Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12879, "type": "review", "body": "Please update the snapshots to fix CI issues.", "state": "CHANGES_REQUESTED", "createdAt": "2022-11-18T11:40:27Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12879, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-11-18T13:07:39Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12905, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-12-20T08:37:30Z", "author": "Justineo"}
+{"repo": "vuejs/vue", "pr_number": 12907, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-12-20T11:56:35Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12911, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2022-12-27T09:19:05Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12912, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-12-27T19:43:32Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12927, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-01-12T13:26:18Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12946, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-01-30T10:05:49Z", "author": "sxzz"}
+{"repo": "vuejs/vue", "pr_number": 12949, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-02-07T03:55:35Z", "author": "lsdsjy"}
+{"repo": "vuejs/vue", "pr_number": 12949, "type": "review_comment", "body": "I don't think it's a typo here. By \"modifiered\" it means the directive is used with modifiers(`.on` and `.off`).", "createdAt": "2023-02-07T03:55:35Z", "author": "lsdsjy"}
+{"repo": "vuejs/vue", "pr_number": 12964, "type": "review", "body": "LGTM", "state": "APPROVED", "createdAt": "2023-02-22T10:33:40Z", "author": "ColinRosati"}
+{"repo": "vuejs/vue", "pr_number": 12974, "type": "review", "body": "Great", "state": "COMMENTED", "createdAt": "2023-03-07T10:29:05Z", "author": "devarofi"}
+{"repo": "vuejs/vue", "pr_number": 13010, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-04-27T09:43:14Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 13021, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-12T08:07:43Z", "author": "harisiqbal12"}
+{"repo": "vuejs/vue", "pr_number": 13021, "type": "review_comment", "body": "This looks like intentional from devs since you're using a string '' and not template string `` you can specify whatever you want as a key the previous behaviour will enforce you to use a key like this '--key'. ", "createdAt": "2024-08-12T08:07:43Z", "author": "harisiqbal12"}
+{"repo": "vuejs/vue", "pr_number": 13024, "type": "review", "body": "fiz uma alteração no padding no css\r\n", "state": "COMMENTED", "createdAt": "2023-05-31T14:45:49Z", "author": "marcosaureliosl"}
+{"repo": "vuejs/vue", "pr_number": 13068, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-08-17T08:27:37Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 13107, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-24T23:20:05Z", "author": "thebanjomatic"}
+{"repo": "vuejs/vue", "pr_number": 13107, "type": "review_comment", "body": "To help clarify the conversion from import name to file lookups, I tried to follow the pseudo-code from the documentation [here](https://www.typescriptlang.org/docs/handbook/modules/reference.html#packagejson-exports) and list out what would happen in the following scenarios:\r\n\r\nBefore this change:\r\n```\r\n\"vue/types/options\" => [\"./types/options\"] // fails to find types\r\n\"vue/types/options.js\" => [\"./types/options.ts\", \"./types/options.d.ts\", \"./types/options.js\"] // finds on second try\r\n\"vue/types/options.d.ts\" => [\"./types/options.d.ts\"] // finds on first try\r\n```\r\n\r\nAfter this change:\r\n```\r\n\"vue/types/options\" => [\"./types/options.d.ts\", \"./types/options\"] // finds on first try\r\n\"vue/types/options.js\" => [\"./types/options.js.d.ts\", \"./types/options.ts\", \"./types/options.d.ts\", \"./types/options.js\"] // finds on third try\r\n\"vue/types/options.d.ts\" => [\"./types/options.d.ts.d.ts\", \"./types/options.d.ts\"] // finds on second try\r\n```\r\n\r\nSince the most common case is to write these imports without the extensions, I thought it would be best to write this as `[\"./types/*.d.ts\", \"./types/*\"]`. This makes the common case more direct to resolve, at the expense of a few more non-sensical checks (.d.ts.d.ts and .js.d.ts) in the uncommon case where we were importing with an extension.", "createdAt": "2023-10-24T23:20:05Z", "author": "thebanjomatic"}
+{"repo": "vuejs/vue", "pr_number": 13109, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-11-01T09:00:17Z", "author": "Ilanaya"}
+{"repo": "vuejs/vue", "pr_number": 13109, "type": "review_comment", "body": "If `this.a` is `any` this conversion wouldn't result in an error", "createdAt": "2023-11-01T08:58:57Z", "author": "Ilanaya"}
+{"repo": "vuejs/vue", "pr_number": 13150, "type": "review", "body": "What is this fixing? Can you provide a failing test case or a boiled down repro?", "state": "CHANGES_REQUESTED", "createdAt": "2024-01-08T19:55:56Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 13185, "type": "review", "body": "just a test", "state": "COMMENTED", "createdAt": "2024-05-07T23:17:11Z", "author": "syedirfan4"}
+{"repo": "vuejs/vue", "pr_number": 13187, "type": "review", "body": "thanks!", "state": "APPROVED", "createdAt": "2024-05-21T07:51:37Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 13192, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-06-14T12:51:53Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 13192, "type": "review_comment", "body": "```suggestion\r\nThis is used by default in `vue-loader@>=12` and can be disabled using the [`optimizeSSR`](https://vue-loader.vuejs.org/options.html#optimizessr) option.\r\n```", "createdAt": "2024-06-14T12:51:53Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 13192, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-06-14T12:52:05Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 13198, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-10T20:34:50Z", "author": "harisiqbal12"}
+{"repo": "vuejs/vue", "pr_number": 13198, "type": "review_comment", "body": "instead of \"as any\" use can create proper types like whatever getStyles returns with or, | undefined.", "createdAt": "2024-08-10T20:34:50Z", "author": "harisiqbal12"}
+{"repo": "vuejs/vue", "pr_number": 13216, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-10-10T07:23:59Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 13228, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2025-01-30T07:35:04Z", "author": "anthonybr92"}
+{"repo": "vuejs/vue", "pr_number": 13239, "type": "review", "body": "Miss a test sorry (can't delete my comment)", "state": "CHANGES_REQUESTED", "createdAt": "2025-03-28T15:07:35Z", "author": "dim4k"}
+{"repo": "vuejs/vue", "pr_number": 13295, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2026-01-20T08:40:26Z", "author": "BastienGimbert"}
+{"repo": "vuejs/vue", "pr_number": 13307, "type": "review", "body": "Response ()", "state": "CHANGES_REQUESTED", "createdAt": "2026-02-19T20:19:10Z", "author": "mufasacubana8-pixel"}

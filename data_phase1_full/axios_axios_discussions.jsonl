@@ -1,0 +1,200 @@
+{"number": 4474, "title": "Handling of FormData", "createdAt": "2022-02-13T13:52:32Z", "repo": "axios/axios"}
+{"number": 4477, "title": "Axios next", "createdAt": "2022-02-14T09:39:33Z", "repo": "axios/axios"}
+{"number": 4478, "title": "Question about s3 CORS uploads (content-type header specifically)", "createdAt": "2022-02-14T21:26:35Z", "repo": "axios/axios"}
+{"number": 4489, "title": "Making axios docs searchable", "createdAt": "2022-02-18T11:41:09Z", "repo": "axios/axios"}
+{"number": 4542, "title": "axios returns 406 on redirect", "createdAt": "2022-03-21T19:43:04Z", "repo": "axios/axios"}
+{"number": 4558, "title": "I need help configuring axios to use a proxy", "createdAt": "2022-03-29T21:15:33Z", "repo": "axios/axios"}
+{"number": 4571, "title": "get final url", "createdAt": "2022-04-01T11:20:28Z", "repo": "axios/axios"}
+{"number": 4592, "title": "Can't set content type to instance", "createdAt": "2022-04-08T09:17:24Z", "repo": "axios/axios"}
+{"number": 4595, "title": "Next Release", "createdAt": "2022-04-08T20:10:19Z", "repo": "axios/axios"}
+{"number": 4601, "title": "Getting 403 error - unable to pass the user credentials to Chat Engine API", "createdAt": "2022-04-14T05:09:41Z", "repo": "axios/axios"}
+{"number": 4608, "title": "Rate limiter", "createdAt": "2022-04-21T19:03:58Z", "repo": "axios/axios"}
+{"number": 4660, "title": "Intermittent error accessing Directus", "createdAt": "2022-05-01T19:19:31Z", "repo": "axios/axios"}
+{"number": 4719, "title": "Release cycle", "createdAt": "2022-05-15T07:23:29Z", "repo": "axios/axios"}
+{"number": 4729, "title": "Making request authorization simple.", "createdAt": "2022-05-19T01:29:43Z", "repo": "axios/axios"}
+{"number": 4741, "title": "requesting a 0.27.3 release of axios", "createdAt": "2022-05-25T15:27:56Z", "repo": "axios/axios"}
+{"number": 4761, "title": "v1.0.0-alpha.1", "createdAt": "2022-05-31T19:29:33Z", "repo": "axios/axios"}
+{"number": 4816, "title": "Type Error In axios/index.d.ts After Updating From TS 4.6.4 to 4.7.4", "createdAt": "2022-06-27T18:16:06Z", "repo": "axios/axios"}
+{"number": 4822, "title": "How to pronounce axios ？", "createdAt": "2022-06-29T08:08:58Z", "repo": "axios/axios"}
+{"number": 4842, "title": "Uncaught Error: Dynamic require of \"util\" is not supported", "createdAt": "2022-07-12T02:11:00Z", "repo": "axios/axios"}
+{"number": 4859, "title": "AxiosError: Parse Error: Expected HTTP/", "createdAt": "2022-07-18T10:13:21Z", "repo": "axios/axios"}
+{"number": 4870, "title": "Is it okay to throw an error inside interceptors error handler?", "createdAt": "2022-07-20T22:18:37Z", "repo": "axios/axios"}
+{"number": 4876, "title": "Can the response body be validated and the promise rejected?", "createdAt": "2022-07-23T06:27:18Z", "repo": "axios/axios"}
+{"number": 4881, "title": "validateStatus option not working.", "createdAt": "2022-07-25T05:50:44Z", "repo": "axios/axios"}
+{"number": 4883, "title": "Clarification on paramsSerializer option", "createdAt": "2022-07-25T21:31:03Z", "repo": "axios/axios"}
+{"number": 4893, "title": "Can you use axios with a node socket", "createdAt": "2022-07-28T09:33:27Z", "repo": "axios/axios"}
+{"number": 4913, "title": "Help: axios not catching errors", "createdAt": "2022-08-11T22:06:55Z", "repo": "axios/axios"}
+{"number": 4919, "title": "Read source code which version is \"v0.27.2\" and then  have found some unnecessary code", "createdAt": "2022-08-18T07:17:29Z", "repo": "axios/axios"}
+{"number": 4932, "title": "Beginner issue for a new contributor", "createdAt": "2022-08-31T09:22:46Z", "repo": "axios/axios"}
+{"number": 4952, "title": "`onUploadProgress` doesn't work when `data` is a stream", "createdAt": "2022-09-11T23:50:04Z", "repo": "axios/axios"}
+{"number": 4958, "title": "A way friendly to abort a request", "createdAt": "2022-09-14T15:46:03Z", "repo": "axios/axios"}
+{"number": 4971, "title": "Meaning of each error code?", "createdAt": "2022-09-20T06:53:29Z", "repo": "axios/axios"}
+{"number": 4975, "title": "What is the  transform attribute in the axios configuration？", "createdAt": "2022-09-21T03:04:14Z", "repo": "axios/axios"}
+{"number": 4977, "title": "sending FormData as \"application/json\" doesn't work as intended", "createdAt": "2022-09-21T21:10:28Z", "repo": "axios/axios"}
+{"number": 4981, "title": "Axios get method returns NaN in numeric field instead of value", "createdAt": "2022-09-26T17:44:22Z", "repo": "axios/axios"}
+{"number": 4996, "title": "Are there any Migration Guide for v1.0.0?", "createdAt": "2022-10-04T20:17:17Z", "repo": "axios/axios"}
+{"number": 5075, "title": "Ability to skip request/response interceptors on per request basis", "createdAt": "2022-10-09T09:13:53Z", "repo": "axios/axios"}
+{"number": 5086, "title": "Axios is not a function after update", "createdAt": "2022-10-10T19:42:29Z", "repo": "axios/axios"}
+{"number": 5156, "title": "npm i 1.1.3 might have discrepancy with webpack", "createdAt": "2022-10-18T19:58:01Z", "repo": "axios/axios"}
+{"number": 5160, "title": "Expose AxiosHeaders", "createdAt": "2022-10-19T17:01:27Z", "repo": "axios/axios"}
+{"number": 5179, "title": "Landing pull requests - what's the process?", "createdAt": "2022-10-25T01:47:08Z", "repo": "axios/axios"}
+{"number": 5204, "title": "How to properly handle 'responseType' in an adapter ?", "createdAt": "2022-10-29T14:05:53Z", "repo": "axios/axios"}
+{"number": 5212, "title": "Popular websites using `axios`", "createdAt": "2022-10-31T16:25:00Z", "repo": "axios/axios"}
+{"number": 5216, "title": "How to properly merge instance config with defaults?", "createdAt": "2022-11-01T04:18:21Z", "repo": "axios/axios"}
+{"number": 5220, "title": "Typing errors coming from API in Axios", "createdAt": "2022-11-03T10:26:49Z", "repo": "axios/axios"}
+{"number": 5230, "title": "axios version 1.x.x not correctly working with react testing library", "createdAt": "2022-11-06T11:07:51Z", "repo": "axios/axios"}
+{"number": 5248, "title": "1.2.0-alpha.1", "createdAt": "2022-11-10T19:10:10Z", "repo": "axios/axios"}
+{"number": 5273, "title": "Roadmap of planned features or fixes?", "createdAt": "2022-11-15T14:40:58Z", "repo": "axios/axios"}
+{"number": 5276, "title": "Interceptor Firing twice.", "createdAt": "2022-11-16T08:27:50Z", "repo": "axios/axios"}
+{"number": 5304, "title": "React Native Axios vs Postman", "createdAt": "2022-11-24T11:49:15Z", "repo": "axios/axios"}
+{"number": 5305, "title": "I want to use an Axios Interceptor to add a bearer token to each request. Best Practices?", "createdAt": "2022-11-24T18:13:23Z", "repo": "axios/axios"}
+{"number": 5334, "title": "Unable to decode Brotli", "createdAt": "2022-12-03T09:33:04Z", "repo": "axios/axios"}
+{"number": 5351, "title": "Breaking Changes", "createdAt": "2022-12-07T12:35:20Z", "repo": "axios/axios"}
+{"number": 5360, "title": "when can this be resolved and released ? -> Request to HTTPS with HTTP proxy fails #925", "createdAt": "2022-12-09T06:14:30Z", "repo": "axios/axios"}
+{"number": 5884, "title": "Questions about the adapter tests", "createdAt": "2022-12-10T16:08:01Z", "repo": "axios/axios"}
+{"number": 5388, "title": "How can I fetch a JPEG image using axios in React Native?", "createdAt": "2022-12-18T05:03:24Z", "repo": "axios/axios"}
+{"number": 5893, "title": "get 409 status code error for some devices", "createdAt": "2022-12-19T08:06:24Z", "repo": "axios/axios"}
+{"number": 5875, "title": "Axios Instance 400 returned as Success", "createdAt": "2022-12-28T11:51:28Z", "repo": "axios/axios"}
+{"number": 5414, "title": "sending 16 requests in gap of mili seconds", "createdAt": "2022-12-28T15:16:44Z", "repo": "axios/axios"}
+{"number": 5419, "title": "Allow custom adapters to selectively delegate some calls to the default adapter", "createdAt": "2022-12-29T17:05:03Z", "repo": "axios/axios"}
+{"number": 5427, "title": "Missing some HTTP options", "createdAt": "2023-01-03T16:28:23Z", "repo": "axios/axios"}
+{"number": 5429, "title": "Update the doc please", "createdAt": "2023-01-04T03:31:51Z", "repo": "axios/axios"}
+{"number": 5435, "title": "Is axios good for graphql?", "createdAt": "2023-01-05T15:59:44Z", "repo": "axios/axios"}
+{"number": 5874, "title": "how to  serialize uniformly in axios.get?", "createdAt": "2023-01-16T08:19:52Z", "repo": "axios/axios"}
+{"number": 5473, "title": "Axios navigation while doing request", "createdAt": "2023-01-16T16:03:15Z", "repo": "axios/axios"}
+{"number": 5477, "title": "Compatibility issue with custom AxiosRequestConfig and axios version 1.2.3", "createdAt": "2023-01-18T08:49:28Z", "repo": "axios/axios"}
+{"number": 5883, "title": "Detect User Permission Multiple automatic file download on browser", "createdAt": "2023-01-20T08:39:53Z", "repo": "axios/axios"}
+{"number": 5484, "title": "Chrome dont send cookie with allow cors", "createdAt": "2023-01-20T21:32:47Z", "repo": "axios/axios"}
+{"number": 5490, "title": "Is this fixed in axios? jsonwebtoken has insecure input validation in jwt.verify function", "createdAt": "2023-01-24T10:36:16Z", "repo": "axios/axios"}
+{"number": 5882, "title": "Getting  stream video", "createdAt": "2023-02-01T14:47:04Z", "repo": "axios/axios"}
+{"number": 5527, "title": "Axios query params seems to not support toJSON from version 1.0.0", "createdAt": "2023-02-03T08:19:47Z", "repo": "axios/axios"}
+{"number": 5881, "title": "How to handle Server Sent Event", "createdAt": "2023-02-05T06:43:27Z", "repo": "axios/axios"}
+{"number": 5552, "title": "how to change the response interceptor order?", "createdAt": "2023-02-15T01:53:41Z", "repo": "axios/axios"}
+{"number": 5554, "title": "Need help! TypeError: Cannot read properties of undefined (reading 'keyboard')", "createdAt": "2023-02-15T19:43:55Z", "repo": "axios/axios"}
+{"number": 5555, "title": "I don't understand the following code, please help me", "createdAt": "2023-02-16T10:19:16Z", "repo": "axios/axios"}
+{"number": 5561, "title": "Release plan", "createdAt": "2023-02-20T14:29:11Z", "repo": "axios/axios"}
+{"number": 5567, "title": "How does axios determin the url?", "createdAt": "2023-02-23T07:35:47Z", "repo": "axios/axios"}
+{"number": 5576, "title": "Can a single Axios Instance be cached and used to make multiple http calls in parallel in a Node API Server?", "createdAt": "2023-03-02T16:57:16Z", "repo": "axios/axios"}
+{"number": 5577, "title": "Is possible send empty array by FormData?", "createdAt": "2023-03-03T09:27:01Z", "repo": "axios/axios"}
+{"number": 5873, "title": "Axios.get() request Async/await catch block error is not defined", "createdAt": "2023-03-04T20:12:08Z", "repo": "axios/axios"}
+{"number": 5588, "title": "how can I send a POST and/or PUT with multipart/mixed (not multipart/form-data)", "createdAt": "2023-03-08T01:49:46Z", "repo": "axios/axios"}
+{"number": 5590, "title": "Why does Axios do replace after encodeURIComponent?", "createdAt": "2023-03-09T12:09:42Z", "repo": "axios/axios"}
+{"number": 5872, "title": "post 404 error", "createdAt": "2023-03-11T18:24:57Z", "repo": "axios/axios"}
+{"number": 5603, "title": "How to use axios to send windows credentials?", "createdAt": "2023-03-15T16:14:54Z", "repo": "axios/axios"}
+{"number": 5607, "title": "Param encoding of square brackets", "createdAt": "2023-03-16T10:41:16Z", "repo": "axios/axios"}
+{"number": 5610, "title": "Please delete it", "createdAt": "2023-03-18T10:50:29Z", "repo": "axios/axios"}
+{"number": 5616, "title": "how to send array of objects inside an array using FormData API with content-type set to multipart/formdata", "createdAt": "2023-03-22T12:14:04Z", "repo": "axios/axios"}
+{"number": 5879, "title": "React(vite,ts) app Vercel Deployment Error: SyntaxError with Axios", "createdAt": "2023-03-28T03:14:22Z", "repo": "axios/axios"}
+{"number": 5871, "title": "Axios, IOS 15.6 , undefined is not an object (evaluating 'error.response.status')", "createdAt": "2023-03-28T12:16:16Z", "repo": "axios/axios"}
+{"number": 5870, "title": "Server returning 403 on \"PUT\" request but 200 on any other request method", "createdAt": "2023-03-29T18:43:59Z", "repo": "axios/axios"}
+{"number": 5869, "title": "// middlewares", "createdAt": "2023-04-07T03:31:11Z", "repo": "axios/axios"}
+{"number": 5868, "title": "What is the rationale for defining a second paramter between Response and Request type?", "createdAt": "2023-04-07T17:13:06Z", "repo": "axios/axios"}
+{"number": 5640, "title": "Can anyone confirm this Axios memory leak.", "createdAt": "2023-04-08T17:55:51Z", "repo": "axios/axios"}
+{"number": 5645, "title": "Is Axios 1.x considered stable yet? If not is Axios 0.x still going to be in support in case of vulnerability?", "createdAt": "2023-04-10T21:05:33Z", "repo": "axios/axios"}
+{"number": 5646, "title": "Set Multipart Part Header", "createdAt": "2023-04-11T10:46:30Z", "repo": "axios/axios"}
+{"number": 5866, "title": "Cannot run app built with pkg 5.8.1", "createdAt": "2023-04-13T16:31:28Z", "repo": "axios/axios"}
+{"number": 5867, "title": "Sending requests is pending until previous request done", "createdAt": "2023-04-14T03:37:08Z", "repo": "axios/axios"}
+{"number": 5660, "title": "I tired to add response Interceptor, and then I got a type error.", "createdAt": "2023-04-18T10:49:58Z", "repo": "axios/axios"}
+{"number": 5864, "title": "i can't get Status Code", "createdAt": "2023-04-21T03:21:49Z", "repo": "axios/axios"}
+{"number": 5673, "title": "[Solved] Axios loses or filters my headers", "createdAt": "2023-04-23T17:03:57Z", "repo": "axios/axios"}
+{"number": 5674, "title": "Is it possible to change responseType handling depending on the response headers like content-encoding?", "createdAt": "2023-04-24T11:43:33Z", "repo": "axios/axios"}
+{"number": 5688, "title": "Why is there no support for Object header type?", "createdAt": "2023-04-28T22:49:47Z", "repo": "axios/axios"}
+{"number": 5865, "title": "Cookies set on development, but not on production", "createdAt": "2023-04-30T00:40:58Z", "repo": "axios/axios"}
+{"number": 5863, "title": "How to handle application/x-msgpack response in react", "createdAt": "2023-05-03T13:17:27Z", "repo": "axios/axios"}
+{"number": 5705, "title": "How to mock axios put or post request with onUploadProgress config using Mock Service Worker", "createdAt": "2023-05-10T04:30:09Z", "repo": "axios/axios"}
+{"number": 5862, "title": "Module not found: Can't resolve 'debug' in 'follow-redirects'", "createdAt": "2023-05-19T20:47:31Z", "repo": "axios/axios"}
+{"number": 5718, "title": "When axios throw an error and has response key in error?", "createdAt": "2023-05-22T15:23:07Z", "repo": "axios/axios"}
+{"number": 5722, "title": "socket hang up Error axios Post request", "createdAt": "2023-05-24T21:58:25Z", "repo": "axios/axios"}
+{"number": 5734, "title": "Any way to avoiding axios change my json string.", "createdAt": "2023-06-09T06:43:10Z", "repo": "axios/axios"}
+{"number": 5737, "title": "Argument of type 'AxiosDefaults' is not assignable to parameter of type 'CreateAxiosDefaults<any>'", "createdAt": "2023-06-11T19:35:00Z", "repo": "axios/axios"}
+{"number": 5859, "title": "AxiosResponse not found in 'axios'", "createdAt": "2023-06-12T11:50:29Z", "repo": "axios/axios"}
+{"number": 5741, "title": "Interaction between proxy defined via `proxy` and `httpsAgent` settings", "createdAt": "2023-06-14T05:24:46Z", "repo": "axios/axios"}
+{"number": 5745, "title": "Axios gives an error after building as a library TypeError: (0 , _axios.default) is not a function", "createdAt": "2023-06-16T09:55:11Z", "repo": "axios/axios"}
+{"number": 5861, "title": "Error Module FS Cannot Resolved on NextJS", "createdAt": "2023-07-04T11:16:18Z", "repo": "axios/axios"}
+{"number": 5769, "title": "Axios request to nginx as proxy server fails", "createdAt": "2023-07-11T09:32:24Z", "repo": "axios/axios"}
+{"number": 5858, "title": "is this resolved or someone can help me on this ? > In my case, its a `.crt` file which has bunch of certificates in it from Godaddy.", "createdAt": "2023-07-18T07:18:25Z", "repo": "axios/axios"}
+{"number": 5860, "title": "axios-es6-class@4.2.2\" has incorrect peer dependency \"axios@0.20.0", "createdAt": "2023-07-21T23:59:56Z", "repo": "axios/axios"}
+{"number": 5793, "title": "Axios latency issue", "createdAt": "2023-07-24T12:37:57Z", "repo": "axios/axios"}
+{"number": 5797, "title": "Axios error: Cannot read property 'transitional' of undefined", "createdAt": "2023-07-25T08:01:00Z", "repo": "axios/axios"}
+{"number": 5857, "title": "Convert axios response to Response() object to cache API requests", "createdAt": "2023-07-26T13:28:15Z", "repo": "axios/axios"}
+{"number": 5803, "title": "Error uploading file using axios", "createdAt": "2023-07-29T06:17:42Z", "repo": "axios/axios"}
+{"number": 5807, "title": "Axis interceptor doesn't run after get 401 error and reload page", "createdAt": "2023-07-31T08:35:06Z", "repo": "axios/axios"}
+{"number": 5815, "title": "Prevent secret logging", "createdAt": "2023-08-10T09:49:09Z", "repo": "axios/axios"}
+{"number": 5818, "title": "Why Axios throws exceptions for status code not equal to 200?", "createdAt": "2023-08-11T08:14:08Z", "repo": "axios/axios"}
+{"number": 5829, "title": "Axios Response Intercepter not passing response data, Vuejs", "createdAt": "2023-08-24T16:46:43Z", "repo": "axios/axios"}
+{"number": 5840, "title": "Migration from XMLHttpRequests to Fetch", "createdAt": "2023-08-28T11:54:18Z", "repo": "axios/axios"}
+{"number": 5856, "title": "Could not create Bug on Test Pass", "createdAt": "2023-08-28T13:17:06Z", "repo": "axios/axios"}
+{"number": 5846, "title": "Whether the get request mode can send data in the body", "createdAt": "2023-08-30T09:23:05Z", "repo": "axios/axios"}
+{"number": 5880, "title": "Modified request URL after upgrading to V1.4.0.", "createdAt": "2023-09-05T11:06:42Z", "repo": "axios/axios"}
+{"number": 5904, "title": "Removing default header", "createdAt": "2023-09-18T23:26:29Z", "repo": "axios/axios"}
+{"number": 5921, "title": "React Display Images", "createdAt": "2023-09-26T21:03:27Z", "repo": "axios/axios"}
+{"number": 5950, "title": "how to setup in my local machine for developers", "createdAt": "2023-10-02T05:27:19Z", "repo": "axios/axios"}
+{"number": 5955, "title": "Setting Axios Header to Java Backend based on value stored in express session", "createdAt": "2023-10-02T14:41:25Z", "repo": "axios/axios"}
+{"number": 5962, "title": "Restart File Downloads", "createdAt": "2023-10-03T16:19:20Z", "repo": "axios/axios"}
+{"number": 5989, "title": "New to open source Need help ?", "createdAt": "2023-10-09T12:52:16Z", "repo": "axios/axios"}
+{"number": 6019, "title": "react-native, axios, and aws application load balancer", "createdAt": "2023-10-22T03:22:41Z", "repo": "axios/axios"}
+{"number": 6045, "title": "A research GitHub Action to check for Unsafe Dependency Changes", "createdAt": "2023-10-30T08:28:53Z", "repo": "axios/axios"}
+{"number": 6057, "title": "Help Understanding What Runs with responseType = arraybuffer", "createdAt": "2023-11-07T22:06:40Z", "repo": "axios/axios"}
+{"number": 6095, "title": "exios error", "createdAt": "2023-11-22T05:07:13Z", "repo": "axios/axios"}
+{"number": 6127, "title": "Error on data result", "createdAt": "2023-12-11T21:15:02Z", "repo": "axios/axios"}
+{"number": 6140, "title": "Axios accessing wrong url", "createdAt": "2023-12-16T19:14:31Z", "repo": "axios/axios"}
+{"number": 6144, "title": "stream.on is undefined when using streaming updates", "createdAt": "2023-12-19T09:27:22Z", "repo": "axios/axios"}
+{"number": 6152, "title": "when / how to use config.beforeRedirect, i have no idea about this configuration field", "createdAt": "2023-12-27T08:55:16Z", "repo": "axios/axios"}
+{"number": 6158, "title": "Inconsistent Cookie Behavior with Axios withCredentials in Vue.js", "createdAt": "2023-12-30T10:05:06Z", "repo": "axios/axios"}
+{"number": 6180, "title": "How to deserialize a multipart/form-data response to a FormData instance?", "createdAt": "2024-01-09T10:31:49Z", "repo": "axios/axios"}
+{"number": 6181, "title": "SyntaxError: Cannot use import statement outside a module", "createdAt": "2024-01-09T18:29:30Z", "repo": "axios/axios"}
+{"number": 6201, "title": "error with handling errors \"cannot read properties of undefined (reading 'endsWith')\"", "createdAt": "2024-01-25T14:55:59Z", "repo": "axios/axios"}
+{"number": 6213, "title": "can I use axios to modify response in the http layer or in a browser environment ?", "createdAt": "2024-01-31T18:24:44Z", "repo": "axios/axios"}
+{"number": 6214, "title": "Axios Website down?", "createdAt": "2024-02-02T05:48:37Z", "repo": "axios/axios"}
+{"number": 6223, "title": "Axios import gives this error please help", "createdAt": "2024-02-11T18:42:06Z", "repo": "axios/axios"}
+{"number": 6230, "title": "Latest version = 0.28.0?", "createdAt": "2024-02-12T19:34:00Z", "repo": "axios/axios"}
+{"number": 6257, "title": "Unable to understand ECONNABORTED errorCode for XHR requests", "createdAt": "2024-02-23T04:59:44Z", "repo": "axios/axios"}
+{"number": 6277, "title": "AxiosError: socket hang up", "createdAt": "2024-03-06T11:53:55Z", "repo": "axios/axios"}
+{"number": 6278, "title": "Issue with Axios and BigInt Serialization", "createdAt": "2024-03-06T17:38:13Z", "repo": "axios/axios"}
+{"number": 6288, "title": "I tried making a request by creating axios.create in nodejs and found that adapter http is not available in the build.", "createdAt": "2024-03-10T19:53:11Z", "repo": "axios/axios"}
+{"number": 6291, "title": "Utilizing Axios for PDF Export Equivalent to \"Submit Form\"", "createdAt": "2024-03-12T08:29:27Z", "repo": "axios/axios"}
+{"number": 6310, "title": "Is it possible to use persistent connections (HTTP keep alive) in React Native?", "createdAt": "2024-03-19T19:08:38Z", "repo": "axios/axios"}
+{"number": 6329, "title": "Add an option for `toFormData` to allow null values", "createdAt": "2024-03-27T19:24:57Z", "repo": "axios/axios"}
+{"number": 6357, "title": "Can I catch error within interceptor and ultimately return results?", "createdAt": "2024-04-16T16:39:26Z", "repo": "axios/axios"}
+{"number": 6370, "title": "Axios Version unable to updating", "createdAt": "2024-04-26T03:34:46Z", "repo": "axios/axios"}
+{"number": 6433, "title": "Upgrading Axios from 0.22. to 1.7.2", "createdAt": "2024-06-05T16:27:01Z", "repo": "axios/axios"}
+{"number": 6450, "title": "Upgrading Axios from 0.22.0 to v1.72", "createdAt": "2024-06-17T14:58:47Z", "repo": "axios/axios"}
+{"number": 6451, "title": "...utils\\request.ts   80:19  warning  Forbidden non-null assertion  @typescript-eslint/no-non-null-assertion", "createdAt": "2024-06-17T15:15:13Z", "repo": "axios/axios"}
+{"number": 6456, "title": "Pending requests with azure WAF", "createdAt": "2024-06-19T12:09:14Z", "repo": "axios/axios"}
+{"number": 6476, "title": "no puedo ver renderizado mis componentes en mi aplicación React", "createdAt": "2024-07-01T14:33:26Z", "repo": "axios/axios"}
+{"number": 6479, "title": "Why is /dist not being ignored by git", "createdAt": "2024-07-02T16:18:44Z", "repo": "axios/axios"}
+{"number": 6487, "title": "Enable follow-redirect option `trackRedirects` in Axios", "createdAt": "2024-07-09T18:14:00Z", "repo": "axios/axios"}
+{"number": 6491, "title": "Help getting small regression fix merged", "createdAt": "2024-07-11T16:58:05Z", "repo": "axios/axios"}
+{"number": 6493, "title": "Why is axios not allowing to attach a File object in the PUT method body?", "createdAt": "2024-07-12T12:09:30Z", "repo": "axios/axios"}
+{"number": 6525, "title": "sending same post requests multiple times but just last one request has formdata in it", "createdAt": "2024-08-04T09:07:50Z", "repo": "axios/axios"}
+{"number": 6542, "title": "Server-Side Request Forgery", "createdAt": "2024-08-13T17:15:23Z", "repo": "axios/axios"}
+{"number": 6570, "title": "A problem with pushing array to FormData", "createdAt": "2024-08-22T08:34:30Z", "repo": "axios/axios"}
+{"number": 6594, "title": "How to use specifically node version of axios in ts?", "createdAt": "2024-09-06T13:11:37Z", "repo": "axios/axios"}
+{"number": 6600, "title": "Axios breaks on updating", "createdAt": "2024-09-10T07:48:27Z", "repo": "axios/axios"}
+{"number": 6601, "title": "What is the difference between headers set in axiosInstance.default.headers and in axiosInstance.default.headers.common?", "createdAt": "2024-09-10T11:28:12Z", "repo": "axios/axios"}
+{"number": 6602, "title": "Redux Saga API call fails when upgrading Axios 0.28.0 -> 1.6.4", "createdAt": "2024-09-10T21:06:44Z", "repo": "axios/axios"}
+{"number": 6635, "title": "How to get issue assigned?", "createdAt": "2024-10-07T17:01:17Z", "repo": "axios/axios"}
+{"number": 6641, "title": "Interceptors", "createdAt": "2024-10-11T01:28:39Z", "repo": "axios/axios"}
+{"number": 6655, "title": "Use Axios with NextJS 15 Server Action Function", "createdAt": "2024-10-19T23:02:51Z", "repo": "axios/axios"}
+{"number": 6722, "title": "Problems hitting a localhost API", "createdAt": "2024-11-27T19:15:37Z", "repo": "axios/axios"}
+{"number": 6737, "title": "Preventing SSRF", "createdAt": "2024-12-11T11:52:56Z", "repo": "axios/axios"}
+{"number": 6763, "title": "Weird issue - Axios is nulling out a \"name\" field in a PUT request", "createdAt": "2025-01-17T16:12:56Z", "repo": "axios/axios"}
+{"number": 6786, "title": "How Handle CORS issue using axios in react", "createdAt": "2025-02-16T15:01:19Z", "repo": "axios/axios"}
+{"number": 6882, "title": "Axios code evolution", "createdAt": "2025-04-18T14:17:44Z", "repo": "axios/axios"}
+{"number": 6924, "title": "Why is axios doing automatic redirects?", "createdAt": "2025-06-01T09:26:17Z", "repo": "axios/axios"}
+{"number": 6926, "title": "Interceptor not responding", "createdAt": "2025-06-03T09:52:16Z", "repo": "axios/axios"}
+{"number": 6953, "title": "Does axios support automatic retry after failed attempts?", "createdAt": "2025-07-02T02:05:17Z", "repo": "axios/axios"}
+{"number": 6991, "title": "Axios upgrade from 0.21.4 to 1.11.0 giving Uncaught TypeError: Cannot read properties of undefined (reading 'call') during runtime", "createdAt": "2025-08-11T10:44:23Z", "repo": "axios/axios"}
+{"number": 7199, "title": "Headers can't be sent for minimal example", "createdAt": "2025-10-30T14:39:14Z", "repo": "axios/axios"}
+{"number": 7302, "title": "I have set withXSRFToken to true, but still do not see the header x-xsrf-token in the request - why?", "createdAt": "2025-12-12T06:11:04Z", "repo": "axios/axios"}
+{"number": 7336, "title": "Axios release 1.13.3", "createdAt": "2026-01-21T14:31:24Z", "repo": "axios/axios"}
+{"number": 7375, "title": "why request interceptors second param no run ?", "createdAt": "2026-02-06T03:42:24Z", "repo": "axios/axios"}
+{"number": 10571, "title": "Addressing Node 24 DEP0169 warnings (url.parse) in dependencies", "createdAt": "2026-03-26T16:15:43Z", "repo": "axios/axios"}
+{"number": 10612, "title": "Why are there 3000 deleted issues between #7547 and #10546?", "createdAt": "2026-03-31T16:09:59Z", "repo": "axios/axios"}
+{"number": 10626, "title": "WATCH OUT!", "createdAt": "2026-04-01T16:41:51Z", "repo": "axios/axios"}
+{"number": 10696, "title": "is Axios safe ?", "createdAt": "2026-04-12T08:27:00Z", "repo": "axios/axios"}
+{"number": 10734, "title": "NPM reporting 1 - 1.14.0 as Critical", "createdAt": "2026-04-16T16:32:27Z", "repo": "axios/axios"}
+{"number": 10797, "title": "Best practices for handling API errors in Axios for beginners?", "createdAt": "2026-04-22T18:27:15Z", "repo": "axios/axios"}
+{"number": 10803, "title": "Embed Agent Friendly Code Score Badge", "createdAt": "2026-04-27T11:16:11Z", "repo": "axios/axios"}
+{"number": 10872, "title": "How can I automatically retry failed requests in Axios?", "createdAt": "2026-05-09T18:47:10Z", "repo": "axios/axios"}
+{"number": 10873, "title": "How can I cancel an Axios request when a component unmounts?", "createdAt": "2026-05-09T18:56:51Z", "repo": "axios/axios"}

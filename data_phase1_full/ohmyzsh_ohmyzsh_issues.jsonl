@@ -1,0 +1,1043 @@
+{"number": 10550, "title": "Compound emojis rendered as separate components", "createdAt": "2022-01-01T17:37:10Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10551, "title": "iw executable cannot be called after installing ohmyzsh", "createdAt": "2022-01-01T23:09:16Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10559, "title": "Screenshots of example prompts", "createdAt": "2022-01-02T20:19:46Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10560, "title": "Ubuntu.zsh aar parse error", "createdAt": "2022-01-03T13:31:41Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10561, "title": "bureau.zsh-theme/bureau_git_prompt() Using Reserved Variable name with latest update", "createdAt": "2022-01-03T15:33:36Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10562, "title": "(kubectx): quote % in `kubectx_prompt_info` breaks coloring", "createdAt": "2022-01-04T10:19:54Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10573, "title": "Sentence in README.md can be improved", "createdAt": "2022-01-07T23:02:17Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10575, "title": "Git version in README.md seems incorrect", "createdAt": "2022-01-11T10:56:41Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10578, "title": "[yarn plugin] Yarn completion is not working accordingly", "createdAt": "2022-01-12T01:49:14Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10580, "title": "An error is printed when trying to autocomplete maven commands", "createdAt": "2022-01-12T11:37:20Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10581, "title": "kubectl namespace autocompletion not working", "createdAt": "2022-01-12T14:47:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10585, "title": "kubectl plugin: autocompletions no long work out of the box", "createdAt": "2022-01-13T12:26:37Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10587, "title": "Deprecated update settings take precedence over `zstyle` ones", "createdAt": "2022-01-13T16:18:05Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10589, "title": "svn plugin broken svn_get_rev_nr after 93ec48fb0a798775b9e5d366c11a4ac3826c3ea4", "createdAt": "2022-01-14T13:44:25Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10592, "title": "SSH autocomplete terribly slow ", "createdAt": "2022-01-17T08:40:58Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10593, "title": "Implement wd - to replicate the git checkout - behavior but with warp points ", "createdAt": "2022-01-17T10:21:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10597, "title": "tcpdump - (eval):1: parse error near `( )'", "createdAt": "2022-01-19T00:14:10Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10598, "title": "Rocky Linux with agnoster theme, remnant characters when tab completing", "createdAt": "2022-01-19T05:58:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10599, "title": "bindkey is not work in \"~/.zshrc\"", "createdAt": "2022-01-19T11:35:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10600, "title": "pipenv plugin error when using directory containing Pipfile", "createdAt": "2022-01-19T12:44:39Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10606, "title": "command-not-found-plugin: Doesn't print any error message for totally wrong commands on MacOS m1 pro", "createdAt": "2022-01-21T06:41:56Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10607, "title": "PS1 branch name not updated", "createdAt": "2022-01-21T13:04:42Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10611, "title": "compinit:141: parse error: condition expected: $1", "createdAt": "2022-01-23T14:20:54Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10612, "title": "Postgres plugin: uses wrong Homebrew location for Apple Silicon", "createdAt": "2022-01-24T14:06:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10613, "title": "Typo in plugins/1password/README.md", "createdAt": "2022-01-24T14:54:23Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10620, "title": "Can't update oh-my-zsh", "createdAt": "2022-01-25T10:17:57Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10623, "title": "`acp` on `aws` plugin hangs with a warning", "createdAt": "2022-01-25T19:28:23Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10632, "title": "[Feature Request] support for dolt. Could that be a feature-plugin-theme (?)", "createdAt": "2022-01-27T21:38:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10635, "title": "Add support for dolt/dolthub", "createdAt": "2022-01-28T14:00:30Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10636, "title": "docker-compose plugin service names only if container exists ?", "createdAt": "2022-01-28T19:29:32Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10641, "title": "Option to disable adding yarn global scripts to `$PATH`", "createdAt": "2022-02-01T15:56:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10643, "title": "Infinite recursion when setting theme", "createdAt": "2022-02-02T04:11:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10644, "title": "RFC: Add option to disable ohmyzsh aliases", "createdAt": "2022-02-02T09:51:26Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10648, "title": "fixperms messes with execution permission", "createdAt": "2022-02-03T17:52:42Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10649, "title": "Rename `ZSH` variable to `OMZ` or similar", "createdAt": "2022-02-03T18:34:28Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10650, "title": "Alias e for editor", "createdAt": "2022-02-03T18:50:00Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10651, "title": "xdg compliance plugin", "createdAt": "2022-02-03T19:42:12Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10652, "title": "Add autocompletion to rd", "createdAt": "2022-02-03T19:50:42Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10653, "title": "Allow going to parent directories with `.#number` instead of dots.", "createdAt": "2022-02-03T19:54:18Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10654, "title": "There are some repeated ls aliases.", "createdAt": "2022-02-03T20:16:25Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10657, "title": "Pre- and post- execution point files", "createdAt": "2022-02-05T02:37:27Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10658, "title": "Oh My Zsh should fix or warn about non-UTF8 locales", "createdAt": "2022-02-05T14:14:53Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10659, "title": "I'm a little unclear on what is going on.", "createdAt": "2022-02-06T15:28:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10661, "title": "auto update with error", "createdAt": "2022-02-07T12:30:08Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10670, "title": "virtualenvwrapper plugin should not call 'deactivate' if user already deactivated", "createdAt": "2022-02-08T18:49:43Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10676, "title": "Completion when using dot aliases.", "createdAt": "2022-02-09T12:56:49Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10678, "title": "tree 2.0.1 crashes on OMZ", "createdAt": "2022-02-10T10:44:43Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10680, "title": "Installation script is creating \"~\" directory ", "createdAt": "2022-02-10T14:09:16Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10684, "title": "Why my \"cloud\" theme got only half of its icon?", "createdAt": "2022-02-11T11:54:29Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10689, "title": "Deno completions for files are not working", "createdAt": "2022-02-12T23:40:11Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10692, "title": "Completion highlighting broken after update to zsh 5.8.1", "createdAt": "2022-02-14T09:18:14Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10693, "title": "Slow ohmyzsh start after PC restart due to Xcode git", "createdAt": "2022-02-14T11:19:02Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10696, "title": "there's no rake task", "createdAt": "2022-02-16T09:45:22Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10697, "title": "Errors after upgrading zsh from 5.8 to 5.8.1 in Fedora 35", "createdAt": "2022-02-16T10:56:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10702, "title": "Suddenly OMZ gives compdef: command not found", "createdAt": "2022-02-16T18:44:42Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10704, "title": "A bug occurs when using the tab key", "createdAt": "2022-02-17T08:41:32Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10708, "title": "\"eval echo eval\" is printed every time I open new session in iTerm2", "createdAt": "2022-02-19T09:35:59Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10709, "title": "[nvm] sed: -e expression #1, char 264: unterminated address regex", "createdAt": "2022-02-19T20:47:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10711, "title": "Themes don't render correctly even with powerline fonts (WSL2 with ubuntu 20.04)", "createdAt": "2022-02-20T16:21:42Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10712, "title": "Error of cd command caused by ohmyzsh", "createdAt": "2022-02-21T04:01:07Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10715, "title": "michelebologna.zsh-theme is broken", "createdAt": "2022-02-23T06:17:18Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10716, "title": "Links not working in plugins overview", "createdAt": "2022-02-23T07:34:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10717, "title": "kubectl.plugin.zsh:2: parse error near `<<<", "createdAt": "2022-02-23T10:47:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10718, "title": "A bug was found when using the tab key to complete", "createdAt": "2022-02-23T16:49:49Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10719, "title": "Support the rush command", "createdAt": "2022-02-24T00:49:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10722, "title": "Error: write /dev/stdout: permission denied", "createdAt": "2022-02-24T11:19:11Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10728, "title": "plugins/kubectl/kubectl.plugin.zsh:source:15: no such file or directory: /completions/_kubectl", "createdAt": "2022-02-25T01:16:37Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10734, "title": "Add foot support", "createdAt": "2022-02-25T11:09:07Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10738, "title": "Wrong link on website for the Spotify plugin", "createdAt": "2022-02-25T15:44:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10740, "title": "Update the spotify plugin link and copyright year on Website", "createdAt": "2022-02-26T09:08:06Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10742, "title": "Automatic title is printing command to terminal", "createdAt": "2022-02-27T07:10:59Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10744, "title": "aws plugin doesn't allow empty ZSH_THEME_AWS_PREFIX or ZSH_THEME_AWS_SUFFIX", "createdAt": "2022-02-27T12:53:08Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10750, "title": "prompt get duplicated when iTerm2 size is small", "createdAt": "2022-03-02T19:02:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10751, "title": "svn branch display broken in gentoo theme", "createdAt": "2022-03-03T06:48:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10759, "title": "`coffee` Completion: _coffee:49: bad math expression: operand expected at \\`< 2 '", "createdAt": "2022-03-07T00:30:30Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10760, "title": "\"xcrun: error: invalid active developer path\" msg on shell start", "createdAt": "2022-03-07T08:23:37Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10763, "title": "minikube completions won't fire", "createdAt": "2022-03-08T01:05:49Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10764, "title": "Postgres plugin still use wrong Homebrew prefix (Apple Silicon)", "createdAt": "2022-03-08T10:39:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10767, "title": "dash plugin does not work (kLSApplicationNotFoundErr)", "createdAt": "2022-03-10T13:23:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10770, "title": "Why does the directory have this yellow block area", "createdAt": "2022-03-12T04:20:27Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10777, "title": "git-prompt plugin doesn't work on macOS 12.3", "createdAt": "2022-03-15T16:10:51Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10778, "title": "upgrade.sh doesn't change \"unauthenticated git protocol on port 9418", "createdAt": "2022-03-16T03:22:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10780, "title": "Odd borders on the bottom of the terminal window", "createdAt": "2022-03-16T13:15:42Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10782, "title": "omz update stopped working because unauthenticated git protocol on port 9418 is no longer supported.", "createdAt": "2022-03-17T20:51:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10783, "title": "gpg agent plugin spews redundant logs", "createdAt": "2022-03-18T06:10:04Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10784, "title": "The NVM plugin doesn't work when NVM installed via Homebrew on Apple Silicon Macs", "createdAt": "2022-03-18T12:47:06Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10788, "title": ":grey_question: Would you be OK to accept yamlfixer as a plugin :grey_question: ", "createdAt": "2022-03-21T05:50:11Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10789, "title": "1Password plugin isn't working with 1Password CLI 2", "createdAt": "2022-03-21T09:50:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10795, "title": "[feature] web-search allow openning local file urls", "createdAt": "2022-03-23T13:17:37Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10796, "title": "Aliases plugin not working", "createdAt": "2022-03-24T07:46:16Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10798, "title": "oh-my-zsh enters to .oh-my-zsh catalogue after installation", "createdAt": "2022-03-24T20:57:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10799, "title": "Add zsh-async plugin", "createdAt": "2022-03-25T08:14:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10801, "title": "Auto Update Git Issue", "createdAt": "2022-03-26T10:40:54Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10802, "title": "zsh is not enabled at launch with iTerm2's \"Send text at start\" setting ", "createdAt": "2022-03-27T07:53:49Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10807, "title": "OpenWrt: Won't Install", "createdAt": "2022-03-28T17:37:04Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10809, "title": "Error message when attempting to run alias: omz update", "createdAt": "2022-03-29T02:02:14Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10810, "title": "`sudo apt install <tab><tab>` freeze my terminal", "createdAt": "2022-03-29T05:20:36Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10811, "title": "matcher-list zstyle breaks completion when multiple items have the same help message", "createdAt": "2022-03-29T16:52:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10817, "title": "Please store configuration in ~/.config/oh-my-sh", "createdAt": "2022-04-01T08:38:33Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10821, "title": "Weird environment/shell variables with commands handling when using Heredoc", "createdAt": "2022-04-04T15:00:15Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10822, "title": "nbindings to list all current zsh key bindings", "createdAt": "2022-04-05T01:54:26Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10825, "title": "Update docker completion script to match upstream", "createdAt": "2022-04-05T22:03:21Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10831, "title": "Up arrow only goes back one history item", "createdAt": "2022-04-06T20:16:21Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10834, "title": "jsontools not working on startup", "createdAt": "2022-04-07T22:57:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10835, "title": "Add git plugin alias for \"git commit --no-edit\" ", "createdAt": "2022-04-08T09:20:58Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10837, "title": "Error When Clicking `Tab` Button For Auto Completion.", "createdAt": "2022-04-09T04:28:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10838, "title": "Typo in frisk theme", "createdAt": "2022-04-09T05:45:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10841, "title": "Set up ohmyzsh/wiki with sync with project wiki", "createdAt": "2022-04-10T16:58:33Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10844, "title": "update error: aborting ", "createdAt": "2022-04-11T15:59:22Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10845, "title": "Add git function to amend an old commit", "createdAt": "2022-04-12T11:40:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10846, "title": "shell pauses for 10 seconds every time I press enter", "createdAt": "2022-04-12T16:05:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10847, "title": "Prefix conflict in tmux when ssh into other tmux", "createdAt": "2022-04-12T19:16:00Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10850, "title": "Slow to type commands", "createdAt": "2022-04-13T07:11:20Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10851, "title": "'defining function based on alias `dls' error when using both docker and systemadmin plugins", "createdAt": "2022-04-13T08:05:17Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10855, "title": "https alias in httpie plugin is unnecessary", "createdAt": "2022-04-14T21:31:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10857, "title": "Alias collision check for CI", "createdAt": "2022-04-15T01:23:17Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10858, "title": "Plugin \"shell-proxy\" error: proxy:20: no such file or directory: ./proxy.py", "createdAt": "2022-04-15T09:13:43Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10861, "title": "[oh-my-zsh] Can't update: not a git repository.", "createdAt": "2022-04-15T14:51:40Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10866, "title": "\"command not found\" and \"function ", "createdAt": "2022-04-18T11:28:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10869, "title": "Add async prompt features", "createdAt": "2022-04-19T16:53:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10871, "title": "Themes should not show \".local\" in prompts", "createdAt": "2022-04-20T21:14:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10877, "title": "boot2docker deprecated", "createdAt": "2022-04-23T00:19:30Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10878, "title": "nvm plugin bug for Almalinux", "createdAt": "2022-04-23T14:43:24Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10880, "title": "Improper/Invalid installation command for Termux", "createdAt": "2022-04-23T17:28:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10884, "title": "Chinese search is not supported in web-search?", "createdAt": "2022-04-25T02:09:06Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10885, "title": "omz plugin disable Command Tool Deletes .zshrc Symlink ", "createdAt": "2022-04-26T02:54:59Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10887, "title": "Unable to enter commands such as source in ohmyzsh", "createdAt": "2022-04-26T08:50:17Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10888, "title": "Gcloud plugin doesn't contain debian apt repo location", "createdAt": "2022-04-26T10:23:18Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10890, "title": "Add new alias for `npm install-test`", "createdAt": "2022-04-26T16:21:47Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10892, "title": "Problema", "createdAt": "2022-04-27T03:35:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10895, "title": "File source powerlevel10k .zshrc", "createdAt": "2022-04-27T12:29:08Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10898, "title": "Add new alias for deleting local git branches which are gone on remote", "createdAt": "2022-04-28T17:06:02Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10899, "title": "Error: Failure while executing; git clone https://github.com/Homebrew/homebrew-cask /usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask --origin=origin --template= exited with 128", "createdAt": "2022-04-28T18:08:02Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10900, "title": "omz update failing", "createdAt": "2022-04-28T20:14:30Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10904, "title": "Website Install section contains a `$` that users will copy", "createdAt": "2022-04-29T21:47:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10905, "title": "Weird cursor and text behaviour when tabbing through files in directory", "createdAt": "2022-04-30T10:44:27Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10907, "title": "Strange characters in emacs-vterm", "createdAt": "2022-05-02T12:13:02Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10908, "title": "Shell command history is truncated to 10K commands on installation", "createdAt": "2022-05-03T09:55:31Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10909, "title": "git_prompt_status always returns empty in theme", "createdAt": "2022-05-03T10:03:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10912, "title": "Completion support for docker compose (new Go implementation)", "createdAt": "2022-05-04T16:33:40Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10913, "title": "Compile a meaningful list of features and changes that OMZ does to ZSH", "createdAt": "2022-05-05T12:29:53Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10915, "title": "vi-mode right prompt doesn't update unless window is resized", "createdAt": "2022-05-07T21:55:56Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10917, "title": "\"intheloop\" theme lets cursor overwrite prompt on Kitty", "createdAt": "2022-05-08T06:32:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10920, "title": "install to /etc/skel", "createdAt": "2022-05-08T23:20:36Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10923, "title": "Cannot update oh-my-zsh", "createdAt": "2022-05-10T10:36:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10924, "title": "Add node_modules/.bin to path", "createdAt": "2022-05-10T14:02:05Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10925, "title": "`clipcopy` with `wl-clipboard` and `xclip` does not free a TTY", "createdAt": "2022-05-11T11:59:21Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10928, "title": "omz update fails for symlinked custom directory", "createdAt": "2022-05-13T08:40:30Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10929, "title": "k3d plugin", "createdAt": "2022-05-13T09:11:02Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10930, "title": "Agnoster theme looks weird in Ubuntu 22.04 terminal", "createdAt": "2022-05-13T16:02:34Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10932, "title": "When globbing is used twice, \"no match\" in one can prevent the other from working", "createdAt": "2022-05-14T02:38:05Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10933, "title": "How to people feel about adding Terraform Console to the Terraform plugin?", "createdAt": "2022-05-16T08:26:18Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10934, "title": "MacOS bluetooth restart command (btrestart) does not work ", "createdAt": "2022-05-16T14:30:10Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10935, "title": "zsh throws some script after log in and all functionality is broken then", "createdAt": "2022-05-17T11:34:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10938, "title": "Installer tries to install to a bad directory", "createdAt": "2022-05-17T17:08:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10940, "title": "zsh terminal does not react to `emacs -nw` if the `ohmyzsh` plugin `emacs` is installed", "createdAt": "2022-05-18T09:31:54Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10941, "title": "Different directory color is displayed when performing command completion", "createdAt": "2022-05-19T00:15:58Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10945, "title": "first prompt line disappears on line break in git folders", "createdAt": "2022-05-21T10:47:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10950, "title": "terminal gives error command while using kill-server command on tmux", "createdAt": "2022-05-25T11:12:32Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10951, "title": "[nvm] NVM_LAZY & `nvm use <non-default-version>` does not switch node version", "createdAt": "2022-05-25T16:41:29Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10958, "title": "zsh completion wrapper for Git fails in case KSH_ZERO_SUBSCRIPT is set", "createdAt": "2022-05-27T17:58:17Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10959, "title": "Pipenv plugin fails to autoactive from Ranger shell out...", "createdAt": "2022-05-27T18:56:30Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10962, "title": "Remove extra space inserted when typing asterisk", "createdAt": "2022-05-30T02:15:06Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10964, "title": "no link to discord server in Konsole", "createdAt": "2022-05-30T23:18:57Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10966, "title": "\"background jobs\" status in Agnoster theme stopped working ", "createdAt": "2022-06-01T07:09:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10967, "title": "extended_glob cannot be disabled in zshrc", "createdAt": "2022-06-01T15:54:23Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10969, "title": "Too many aliases", "createdAt": "2022-06-02T18:23:09Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10970, "title": "zsh-autosuggestions colours no longer differentiated", "createdAt": "2022-06-03T00:02:43Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10971, "title": "Percent symbol after line execution in \"bgnotify\" plugin", "createdAt": "2022-06-03T06:45:56Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10972, "title": "Case insensitive completion error with directories starting with adjacent letters", "createdAt": "2022-06-03T16:30:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10975, "title": "z plugin tab completion doesn't work in zsh 5.9", "createdAt": "2022-06-04T14:03:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10976, "title": "`emacs -nw` does not work with `emacs` plugin", "createdAt": "2022-06-05T15:04:29Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10977, "title": "common-aliases causes pygmentize error when _normal function invoked", "createdAt": "2022-06-07T05:04:10Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10979, "title": "I'm unable to run existing NPM packages even though they are installed.", "createdAt": "2022-06-08T13:57:14Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10981, "title": "Latest version doesnt recognize the commands", "createdAt": "2022-06-08T22:15:42Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10982, "title": "History Plugin: add alias with tail", "createdAt": "2022-06-09T11:35:46Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10985, "title": "Repeated problems with update: timed out", "createdAt": "2022-06-10T20:47:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10991, "title": "emacsclient.sh makes assumptions on emacs output that don't hold", "createdAt": "2022-06-14T15:32:38Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10993, "title": "Git plugins shows unintended MathJax/LaTeX", "createdAt": "2022-06-15T06:40:21Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10996, "title": "Regression in tab filename completion behaviour with oh-my-zsh and zsh 5.9", "createdAt": "2022-06-16T05:56:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 10999, "title": "broken rsync tab completion", "createdAt": "2022-06-17T05:28:04Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11000, "title": "tab auto complete file name error cant match pas* files", "createdAt": "2022-06-17T07:46:15Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11001, "title": "alias use QA", "createdAt": "2022-06-17T09:40:38Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11002, "title": "clipboard.zsh library throws an error if sh_glob option is set", "createdAt": "2022-06-17T16:40:03Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11003, "title": "Kubectl Plugins Tip information, use the colon separation, how to solve ", "createdAt": "2022-06-19T14:36:07Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11007, "title": ".bashrc bets just deleted when installing myzsh?", "createdAt": "2022-06-21T10:03:58Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11008, "title": "completions for oc plugin is broken", "createdAt": "2022-06-21T12:08:15Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11009, "title": "gb is unsupported; consider removing the plugin", "createdAt": "2022-06-22T17:52:10Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11010, "title": "Installing Oh My Zsh overwrites the .zshrc instead of appending to it", "createdAt": "2022-06-22T21:46:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11012, "title": "kubectl autocompletion doesn't work with newest omz", "createdAt": "2022-06-23T10:09:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11019, "title": "OMZ Logo .svg", "createdAt": "2022-06-27T08:47:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11023, "title": "Completion messes up ps1.", "createdAt": "2022-06-28T13:21:16Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11025, "title": "ufw plugin: Add completion for ufw route", "createdAt": "2022-06-28T20:49:37Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11026, "title": "dirhistory plugin not working in iterm2", "createdAt": "2022-06-29T12:13:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11027, "title": "After setting LC_CTYPE=C, RPROMPT return code causes cursor to position to be in prompt", "createdAt": "2022-06-30T09:45:11Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11031, "title": "Switching to ROOT - [oh-my-zsh] Can't update: not a git repository.", "createdAt": "2022-07-03T22:21:11Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11036, "title": "Slow to open shell if internet connection is slow", "createdAt": "2022-07-05T14:37:43Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11039, "title": "Get `zsh: closing brace expected` in IntelliJ IDEA Terminal when `jonathan` theme chosen", "createdAt": "2022-07-07T18:27:07Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11042, "title": "nvm plugin awfully slow", "createdAt": "2022-07-10T19:48:16Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11049, "title": "Typing ``!*`` is autoreplaced by the last command starting with ``*`` even in contexts where you don't want that", "createdAt": "2022-07-13T11:24:44Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11050, "title": "Unable to update omz on macOS: fetch-pack: invalid index-pack output", "createdAt": "2022-07-15T08:37:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11058, "title": "\"omz update\" fails with \"brew plugin needs merge\"", "createdAt": "2022-07-20T08:06:45Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11061, "title": "Check for upgrade exits prematurely, thus auto-updates do not work", "createdAt": "2022-07-22T17:04:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11065, "title": "Change the OMZ layout", "createdAt": "2022-07-24T06:19:51Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11066, "title": "ssh-agent plugin cache mechanism should use XDG_RUNTIME_DIR", "createdAt": "2022-07-24T12:59:16Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11067, "title": "ssh-agent plugin should honor existing SSH agent", "createdAt": "2022-07-24T13:00:13Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11085, "title": "Extract plugin: support zlib, whl and exe", "createdAt": "2022-08-02T00:23:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11087, "title": "[feat] add an alias to sync with the current branch in upstream", "createdAt": "2022-08-02T21:17:51Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11088, "title": "No plugins work ", "createdAt": "2022-08-04T20:55:59Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11092, "title": "Allow non-interactive install of chsh in install.sh ", "createdAt": "2022-08-05T14:02:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11094, "title": "Tab completion slow when autocompleting zypper command", "createdAt": "2022-08-06T09:25:32Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11095, "title": "Multiple ZSH_CUSTOM directories", "createdAt": "2022-08-07T08:45:37Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11098, "title": "Add support for VSCode Remote SSH shell integration `$BROWSER` ", "createdAt": "2022-08-08T14:47:17Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11099, "title": "cp, ls, wc inconsistencies", "createdAt": "2022-08-08T15:08:05Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11104, "title": "Duplicate Alias Command for Git", "createdAt": "2022-08-09T11:04:54Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11111, "title": "compinit:480: compdump: function definition file not found", "createdAt": "2022-08-11T23:59:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11126, "title": "error: unknown option `local'", "createdAt": "2022-08-22T16:20:04Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11127, "title": "Buggy completion in Docker", "createdAt": "2022-08-22T20:59:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11132, "title": "option to have git completion show only local branches as shown by git branch -v", "createdAt": "2022-08-26T00:03:35Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11135, "title": "omz update with different remote name not working", "createdAt": "2022-08-29T10:46:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11136, "title": "The branch name part is garbled", "createdAt": "2022-08-29T12:13:12Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11145, "title": "Poetry plugin broken", "createdAt": "2022-09-01T01:15:23Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11146, "title": "`omz plugin disable` does not work", "createdAt": "2022-09-01T21:18:38Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11147, "title": "Tab completion with prefix characters", "createdAt": "2022-09-02T03:22:16Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11149, "title": "Cannot paste large text into zsh", "createdAt": "2022-09-04T12:57:51Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11151, "title": "Add command-not-found for linux's homebrew", "createdAt": "2022-09-05T16:01:29Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11153, "title": "omz update does not update when installed as a submodule", "createdAt": "2022-09-07T22:39:17Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11154, "title": "oh-my-zsh parsing error occurred.", "createdAt": "2022-09-07T23:52:47Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11155, "title": "Filesystem tab autocompletion not working for multiple programs", "createdAt": "2022-09-08T07:43:00Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11157, "title": "The installation environment check invalid in my situation.", "createdAt": "2022-09-09T08:53:45Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11160, "title": "egrep is obsolescent, aliases should be updated", "createdAt": "2022-09-11T16:34:05Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11162, "title": "Plugin for devbox", "createdAt": "2022-09-12T11:04:45Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11163, "title": "Map1", "createdAt": "2022-09-12T19:37:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11165, "title": "Cycle through available themes from the command line", "createdAt": "2022-09-13T18:45:24Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11166, "title": "brew plugin should not call brew shellenv if brew is already on the PATH.", "createdAt": "2022-09-15T06:06:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11169, "title": "brew: rename `buf` alias to avoid collision with cli tool", "createdAt": "2022-09-18T20:27:49Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11170, "title": "tab completion extends prompt temporarily when using flag emojis in the prompt", "createdAt": "2022-09-19T06:00:34Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11171, "title": "issue for typing \"/\" after oh-my-zsh installation", "createdAt": "2022-09-19T22:39:04Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11175, "title": "TAB autocomplete file/dir names doesn't suggest all files/dirs", "createdAt": "2022-09-21T08:54:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11177, "title": "Idea/Change Request -- Switch File Extension Aliases to Using xdg-open", "createdAt": "2022-09-21T18:27:52Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11179, "title": "TRIED IT", "createdAt": "2022-09-24T07:47:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11193, "title": "Autocomplete broken in very specific cases", "createdAt": "2022-09-25T08:35:11Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11194, "title": "systemctl plugin should use edit --full", "createdAt": "2022-09-25T17:52:29Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11197, "title": "Auto completion does not work for comparing 2 different files from 2 different branch", "createdAt": "2022-09-26T12:47:34Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11198, "title": "per-directory-history doesn't save to both global and local", "createdAt": "2022-09-27T00:25:37Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11199, "title": "...", "createdAt": "2022-09-27T08:16:09Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11201, "title": "ssh-agent quiet option apply to ssh-add ", "createdAt": "2022-09-28T23:18:36Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11206, "title": "Terminal icons are missing ", "createdAt": "2022-10-01T09:02:54Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11216, "title": "Virtual env not working", "createdAt": "2022-10-03T14:27:05Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11221, "title": "Can't install oh-my-zsh on unraid 6.11.0", "createdAt": "2022-10-04T01:38:29Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11232, "title": "Postgres on Apple Silicon: Homebrew uses wrong path when installing PostgreSQL", "createdAt": "2022-10-05T17:47:25Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11242, "title": "feature: Switch Git_SSH-Account more easy!!", "createdAt": "2022-10-07T05:16:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11244, "title": "Don't use abbreviations for git alias flags", "createdAt": "2022-10-07T14:58:26Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11247, "title": "...", "createdAt": "2022-10-08T13:58:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11248, "title": "zsh using 100% CPU", "createdAt": "2022-10-08T20:29:11Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11249, "title": "omz update opens a new shell", "createdAt": "2022-10-10T12:25:09Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11251, "title": "Couldn't disable git plugin", "createdAt": "2022-10-12T12:45:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11252, "title": "stop modifying vim mode in `safe-paste` plugin", "createdAt": "2022-10-13T01:19:37Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11253, "title": "zprofile.pre.zsh:1: no such file or directory: .local/bin/fig", "createdAt": "2022-10-13T07:39:40Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11254, "title": "omz plugin list: command not found (column)", "createdAt": "2022-10-13T17:00:05Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11255, "title": "...", "createdAt": "2022-10-14T15:06:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11257, "title": "Current Taskwarrior alias does not work?", "createdAt": "2022-10-14T20:53:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11260, "title": "file stack same different with bash", "createdAt": "2022-10-15T05:12:47Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11267, "title": "docs: broken link found in Themes page.", "createdAt": "2022-10-17T03:20:21Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11274, "title": "autocompletion of directories not complete ", "createdAt": "2022-10-19T15:24:30Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11279, "title": "Plugins(pip) function pipupall does not work.", "createdAt": "2022-10-20T14:51:56Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11281, "title": "ls and auto-complete colors not changing with theme (ubuntu WSL)", "createdAt": "2022-10-20T16:46:26Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11282, "title": "Plugin 'z' broken after update", "createdAt": "2022-10-21T19:27:08Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11286, "title": "New z plugin does not work by placing it into ~/.zshrc → plugins=(... z) array", "createdAt": "2022-10-23T17:40:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11287, "title": "Investigate increasing Maintainer Productivity with Pull Requests Environments", "createdAt": "2022-10-24T06:16:51Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11288, "title": "Tab completion for docker ", "createdAt": "2022-10-24T06:59:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11301, "title": "Failure to Run on macOS Ventura 13", "createdAt": "2022-10-28T19:30:20Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11303, "title": "OMZ have trouble with dolphin console", "createdAt": "2022-10-29T07:01:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11309, "title": "Can't update: not a git repository.", "createdAt": "2022-11-02T19:30:04Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11314, "title": "The `title` function in lib/termsupport.zsh leads to un-deletable characters", "createdAt": "2022-11-04T09:20:06Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11316, "title": "How can I reset ohmyzsh?", "createdAt": "2022-11-04T16:33:44Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11317, "title": "Not working on centos 9", "createdAt": "2022-11-04T20:30:21Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11322, "title": "Zsh sudo plug-in not working", "createdAt": "2022-11-07T18:15:10Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11323, "title": "tab-autocompletion makes commands part of the prompt", "createdAt": "2022-11-07T22:19:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11326, "title": "ssh-agent plugin doesn't seem to respect zstyle arguments..", "createdAt": "2022-11-08T21:05:49Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11327, "title": "Cannot set theme: \"command not found: agnoster\"", "createdAt": "2022-11-09T17:16:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11328, "title": "Use native auto-completion feature provided by vendor on Terraform", "createdAt": "2022-11-09T23:36:24Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11331, "title": "Alias conflict in plugins (`ubuntu` and `aliases`)", "createdAt": "2022-11-10T14:53:43Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11332, "title": "Cursor becomes misaligned after running zsh command (Ubuntu WSL2)", "createdAt": "2022-11-10T15:18:15Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11337, "title": "fzf_setup_using_debian slow due to `dpkg -s`", "createdAt": "2022-11-13T12:09:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11341, "title": "zrecompile race condition when opening several terminals at once", "createdAt": "2022-11-16T23:28:14Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11343, "title": "[Plugin] The last-working-directory cant find directories", "createdAt": "2022-11-17T14:12:40Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11344, "title": "Nvm plugin lazy load settings not working", "createdAt": "2022-11-17T15:07:57Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11353, "title": "ohmyzsh is preventing updated midnight commander to switch to shell", "createdAt": "2022-11-24T08:30:27Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11354, "title": "colorize plugin is not working with the cless command (Using Chroma in iTerm2 on MacOS)", "createdAt": "2022-11-24T18:04:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11358, "title": "wrong completion for 'git rerere forget'", "createdAt": "2022-11-28T22:23:06Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11359, "title": "WSL2 path support", "createdAt": "2022-11-29T06:30:33Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11360, "title": "The prompt line disappears", "createdAt": "2022-11-29T07:30:33Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11364, "title": "kubectl: Annoying shell startup message when minikube isn't started", "createdAt": "2022-12-01T23:30:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11369, "title": "Plugin: zsh-script-prefix", "createdAt": "2022-12-05T14:31:30Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11372, "title": "Support for sso-session in AWS plugin", "createdAt": "2022-12-06T20:58:04Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11374, "title": "/home/xxx/.oh-my-zsh/oh-my-zsh.sh:17: parse error near `done'", "createdAt": "2022-12-07T01:03:49Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11375, "title": "Paste is duplicated in the shell prompt", "createdAt": "2022-12-07T16:03:44Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11377, "title": "gb show branches in current terminal", "createdAt": "2022-12-08T09:58:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11383, "title": "Please delete docker-compose from alias", "createdAt": "2022-12-10T11:36:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11384, "title": "Latency in cursor when moving to new line", "createdAt": "2022-12-11T20:23:16Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11386, "title": "Support for docker compose v2 completion", "createdAt": "2022-12-13T08:01:51Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11388, "title": "plugins/git: Safer `git push --force`", "createdAt": "2022-12-14T11:17:33Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11389, "title": "First line disappear after write two lines command on vscode", "createdAt": "2022-12-14T14:09:42Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11390, "title": "auto-update interferes with VSCode shell environment detection", "createdAt": "2022-12-14T18:36:15Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11394, "title": "Wrong download link at Homepage", "createdAt": "2022-12-15T14:47:21Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11404, "title": "Have to resource ~/.zshrc to get docker completions working using docker plugin", "createdAt": "2022-12-23T12:08:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11406, "title": "File not found", "createdAt": "2022-12-24T14:27:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11407, "title": "Dirhistory is not working on iTerm2", "createdAt": "2022-12-24T17:16:58Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11409, "title": "add looking for configuration in .config/zsh directory by default", "createdAt": "2022-12-27T06:13:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11410, "title": "Installation is failing", "createdAt": "2022-12-28T01:32:17Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11411, "title": "A proposed idea for the networking items", "createdAt": "2022-12-28T10:12:19Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11412, "title": "Not able to install with curl and wget commands", "createdAt": "2022-12-28T11:49:41Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11413, "title": "OMZ command lets user add plugin that isn't available, but does not let them disable it.", "createdAt": "2022-12-28T16:29:54Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11414, "title": "Oh My Zsh is beeing deleted every time my Mac reboots", "createdAt": "2022-12-28T16:51:56Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11416, "title": "Pressing TAB does not trigger autocomplete for the 2nd argument of diff", "createdAt": "2022-12-29T03:07:03Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11419, "title": "Expand aliases in zsh-autocomplete's suggestions", "createdAt": "2022-12-30T04:18:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11420, "title": "Check if git is installed before relying on it for autoupdate", "createdAt": "2022-12-30T13:58:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11423, "title": "pipenv completion not working", "createdAt": "2023-01-02T20:22:47Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11426, "title": "__git_prompt_git is abysmally slow in WSL2", "createdAt": "2023-01-03T17:07:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11427, "title": "Errors every time Oh My Zsh updates", "createdAt": "2023-01-03T18:57:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11429, "title": "Broken behaviour in git-extras completions due to bad function call", "createdAt": "2023-01-04T11:25:24Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11430, "title": "Broken behaviour in git-extras completions due to bad function call", "createdAt": "2023-01-04T11:34:40Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11437, "title": "wsl - update fails", "createdAt": "2023-01-11T19:52:40Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11441, "title": "Emacs plugin won't work for emacs >= 28", "createdAt": "2023-01-13T09:16:56Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11443, "title": "Current time added on oh-my-zsh theme gnzh not updaing", "createdAt": "2023-01-16T09:03:33Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11449, "title": "Thanks for your contribution!!! 😊", "createdAt": "2023-01-23T08:01:04Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11452, "title": "FreeBSD alias plugin similar to archlinux, macos, etc.", "createdAt": "2023-01-23T15:41:16Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11453, "title": "install.sh creates ~/.zshrc file regardless of ZSH variable", "createdAt": "2023-01-24T14:34:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11454, "title": "Tab completion for second filename not working for `diff`", "createdAt": "2023-01-24T15:14:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11455, "title": "oh-my-zsh won't update - Unsupported SSL backend channel", "createdAt": "2023-01-24T15:19:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11457, "title": "`geteip` command not working for IPv6", "createdAt": "2023-01-26T17:18:05Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11459, "title": "fzf: change check for dpkg for Debian-based distro function", "createdAt": "2023-01-26T20:17:44Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11461, "title": "ohmyzsh broken since last updates from fedora (zsh packages) and oh-my-zsh (omz update)", "createdAt": "2023-01-27T15:15:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11464, "title": "Shortcut command for coauthoring", "createdAt": "2023-01-27T22:00:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11465, "title": "Git Plugin: alias for `git rebase -i $(git merge-base HEAD $(git_main_branch))`", "createdAt": "2023-01-28T01:59:21Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11466, "title": "Respect `$ZDOTDIR` in uninstaller", "createdAt": "2023-01-29T11:53:32Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11467, "title": "Host installer on install.ohmyz.sh", "createdAt": "2023-01-29T18:28:02Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11468, "title": "A web config like fish_config?", "createdAt": "2023-01-30T17:39:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11471, "title": "no such file or directory: /ohmyzsh/oh-my-zsh.sh", "createdAt": "2023-02-01T14:30:04Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11472, "title": "Pipenv plugin: Option to not auto-activate pipenv shell", "createdAt": "2023-02-01T20:05:41Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11476, "title": "The install url does not work.", "createdAt": "2023-02-03T10:32:23Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11477, "title": "Emoji and accents support", "createdAt": "2023-02-04T15:12:56Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11479, "title": "Cursor showing on top of prompts when in a git directory", "createdAt": "2023-02-04T18:51:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11482, "title": "AWS Plugin: Enable support for SSO Sessions", "createdAt": "2023-02-06T09:57:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11483, "title": "Git plugin: The action and function of alias `gpristine` differ from those of previous versions", "createdAt": "2023-02-08T10:13:05Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11484, "title": "Tab completion duplicates command with multiple theme", "createdAt": "2023-02-08T17:57:07Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11497, "title": "Azure plugin #8848 requires uninstalled dependency", "createdAt": "2023-02-15T03:31:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11498, "title": "Add a command to handle pad strings to a fixed width", "createdAt": "2023-02-15T03:48:15Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11500, "title": "loading theme-and-appearance takes a very long time if there are lots of files in the home directory", "createdAt": "2023-02-15T22:02:56Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11503, "title": "gnu-utils plugin on MacOS: Problem with \"ls=ls -G\" alias", "createdAt": "2023-02-17T22:19:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11504, "title": "command too long: ^@^@", "createdAt": "2023-02-18T06:36:12Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11505, "title": "[bug] can not update zsh", "createdAt": "2023-02-20T03:58:40Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11506, "title": "Terraform tab autocomplete not work for macOS 13.1 arm64", "createdAt": "2023-02-20T16:54:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11508, "title": "Git diff output showing after update", "createdAt": "2023-02-21T09:29:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11519, "title": "OMZ global alias overrides the Perforce wildcard '...' ", "createdAt": "2023-02-23T10:40:26Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11522, "title": "`omz update` stops script execution if updates are performed", "createdAt": "2023-02-23T16:19:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11523, "title": "Plugins not being sourced when using a different $ZSH_CUSTOM path ", "createdAt": "2023-02-24T09:43:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11524, "title": "zplug warns `Failed to load vcs_info.zsh` ", "createdAt": "2023-02-24T13:36:24Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11530, "title": "Tab completion doesn't work if only two directories are present with certain naming", "createdAt": "2023-02-27T11:16:49Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11537, "title": "extract Plugin: Can automatically create the decompression directory", "createdAt": "2023-03-02T14:06:18Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11538, "title": "oh-my size", "createdAt": "2023-03-03T18:21:04Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11539, "title": "Implement Tailscale Plugin", "createdAt": "2023-03-04T09:24:34Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11542, "title": "Add resistance for OS update/upgrade", "createdAt": "2023-03-05T12:42:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11545, "title": "Changelog improvements", "createdAt": "2023-03-06T17:28:18Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11549, "title": "Visual/copy mode indicator in vi-mode plugin", "createdAt": "2023-03-08T17:09:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11551, "title": "ssh-agent quiet mode isn't working to me", "createdAt": "2023-03-09T10:33:10Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11552, "title": "Red-Prompt on new line instead of replacing green one?", "createdAt": "2023-03-09T10:46:27Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11554, "title": "Does `LS_COLORS` should as same as `LSCOLORS`? ", "createdAt": "2023-03-10T21:01:24Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11555, "title": "Si", "createdAt": "2023-03-11T11:15:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11556, "title": "Sii", "createdAt": "2023-03-11T11:16:29Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11558, "title": "Bar broken after OMZ update", "createdAt": "2023-03-11T22:32:11Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11562, "title": "zsh auto package suggestions is disabled", "createdAt": "2023-03-14T19:16:05Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11564, "title": "Git checkout previous alias", "createdAt": "2023-03-16T18:34:26Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11566, "title": "remove highlighting green background color", "createdAt": "2023-03-17T16:06:14Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11568, "title": "AWS prompt now always shows when region is set", "createdAt": "2023-03-18T22:52:58Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11570, "title": "AWS region not shown", "createdAt": "2023-03-20T06:40:17Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11571, "title": "Proxy exclusion", "createdAt": "2023-03-20T09:52:59Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11573, "title": "ssh host completion (~/.ssh/config) appends $'\\r'", "createdAt": "2023-03-22T10:58:10Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11574, "title": "Verbose flag for upgrade.sh", "createdAt": "2023-03-22T11:37:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11576, "title": "Completion for md-to-clip tool", "createdAt": "2023-03-23T08:11:38Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11583, "title": "vi-mode plugin cursor won't set correctly for visual mode option", "createdAt": "2023-03-26T17:55:43Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11585, "title": "SSL certificate problem: certificate has expired", "createdAt": "2023-03-27T07:21:25Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11586, "title": "vi-mode plugin cursor won't set correctly for visual mode option", "createdAt": "2023-03-27T07:47:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11587, "title": "Terminal freeze or not responding when pressing tab in a scp command", "createdAt": "2023-03-27T22:43:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11589, "title": "aws plugin no longer shows region", "createdAt": "2023-03-28T14:19:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11592, "title": "Add a new alias to git to refer to the last branch you were on", "createdAt": "2023-03-30T17:50:22Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11595, "title": "Installer Script Hosted On The Oh My Zsh Site Domain", "createdAt": "2023-04-02T05:42:26Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11598, "title": "[bugfix] /root/.oh-my-zsh/oh-my-zsh.sh:187: unrecognized modifier on linux env", "createdAt": "2023-04-03T21:28:02Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11600, "title": "Missing icon in \"agnoster\" theme", "createdAt": "2023-04-04T20:20:36Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11603, "title": "File not found / Reinstalling Ohmyzsh", "createdAt": "2023-04-06T23:01:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11604, "title": "oh-my-zsh bug on tab", "createdAt": "2023-04-07T02:10:17Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11605, "title": "Tab completion for alias commands under mac osx not work", "createdAt": "2023-04-07T07:54:14Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11606, "title": "azure plugin: wrong path when using AZURE_CONFIG_DIR?", "createdAt": "2023-04-07T11:25:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11613, "title": "`gbda` should delete squash-merged branches", "createdAt": "2023-04-11T13:48:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11615, "title": "zsh: no matches found: --gtest_filter=*", "createdAt": "2023-04-13T10:32:45Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11617, "title": "is_update_available function slows startup a lot", "createdAt": "2023-04-15T07:04:00Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11618, "title": "more detailed customization for `aws` plugin prompt", "createdAt": "2023-04-17T15:36:09Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11620, "title": "the cursor display position is incorrect", "createdAt": "2023-04-18T06:01:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11621, "title": "Autocomplete doesn't work corrently on certain folder names", "createdAt": "2023-04-18T12:49:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11622, "title": "libiconv icons not working with nix", "createdAt": "2023-04-18T13:58:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11623, "title": "autocomplete doesn't work if path has extra /", "createdAt": "2023-04-18T21:42:27Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11624, "title": "add alias-finder option for ONLY_SHORTER", "createdAt": "2023-04-19T14:03:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11637, "title": "Blue triangle / artifact rendered after every `cd`", "createdAt": "2023-04-23T18:04:06Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11638, "title": "Feature: Option to always show changelog on update", "createdAt": "2023-04-23T23:19:42Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11639, "title": "[oh-my-zsh] fzf plugin: Cannot find fzf installation directory.", "createdAt": "2023-04-24T07:24:37Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11640, "title": "why web-search not working on ipad M2", "createdAt": "2023-04-24T12:48:41Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11642, "title": "Extract plugin fails on compressed files that are not an archive (caused by #11596)", "createdAt": "2023-04-25T16:43:41Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11643, "title": "Add lazyshell as plugin", "createdAt": "2023-04-25T21:40:29Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11644, "title": "Azure plugin not enabling autocompletions correctly", "createdAt": "2023-04-26T14:28:43Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11645, "title": "macos Iterm2 iconv: conversion from -t unsupported", "createdAt": "2023-04-26T15:01:37Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11647, "title": "Inconsistent `ls` alias, new window vs. omz reload; overwrites `alias ls='gls --color=tty'` only on reload", "createdAt": "2023-04-26T23:47:17Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11655, "title": "--mkdir flag for command \"cd\"", "createdAt": "2023-04-29T10:00:38Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11657, "title": "Cannot save scratch buffer (fzf plugin)", "createdAt": "2023-05-01T12:23:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11660, "title": "test", "createdAt": "2023-05-02T07:53:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11662, "title": "Apple theme broken with latest update", "createdAt": "2023-05-02T11:15:17Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11664, "title": "omz udate not working", "createdAt": "2023-05-02T15:58:30Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11665, "title": "apple.zsh-theme, broken apple () sign MacOS", "createdAt": "2023-05-03T08:33:45Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11670, "title": "MacOs Ventura Terminal is super slow when Oh My Zsh is installed", "createdAt": "2023-05-04T12:11:40Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11672, "title": "parse error near `)' after adding aliases to ~/.zshrc", "createdAt": "2023-05-06T05:33:18Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11679, "title": "List available commands for wp-cli plugin", "createdAt": "2023-05-08T21:23:36Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11680, "title": "robbyrussell multiline command messup when delete character in command", "createdAt": "2023-05-09T02:49:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11683, "title": "oh my zsh breaks open file manager option on Konsole context menu", "createdAt": "2023-05-09T09:49:32Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11685, "title": "issue with z plugins", "createdAt": "2023-05-09T14:33:34Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11686, "title": "Better handling of ZSH in emulation mode", "createdAt": "2023-05-10T08:29:25Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11693, "title": "no such terminfo capability: smkx", "createdAt": "2023-05-13T15:29:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11694, "title": "web-search plugin is not working", "createdAt": "2023-05-15T12:53:23Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11696, "title": "New tab opens in same directory as ssh session", "createdAt": "2023-05-17T14:59:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11697, "title": "Ask ability to do case insensitive search/completion of command history", "createdAt": "2023-05-18T09:20:16Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11699, "title": "In one project the git status suddenly disappear", "createdAt": "2023-05-18T17:13:36Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11700, "title": "rtx plugin", "createdAt": "2023-05-19T11:25:22Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11704, "title": "pyclean function shadows pyclean executable(s)", "createdAt": "2023-05-21T21:28:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11705, "title": "vi-mode incorrect cursor style when exiting visual mode", "createdAt": "2023-05-22T01:19:06Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11706, "title": "[bureau theme] Hidden git repo support", "createdAt": "2023-05-22T08:52:59Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11710, "title": ".oh-my-zsh/themes/robbyrussell.zsh-theme:1: parse error near `<<<'", "createdAt": "2023-05-23T08:27:07Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11713, "title": "Issue With mvn plugin", "createdAt": "2023-05-24T17:32:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11716, "title": "Plugins link on https://ohmyz.sh/", "createdAt": "2023-05-27T13:42:41Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11720, "title": "Curl and Wget install script on https://ohmyz.sh/#install does'nt seem to work. ", "createdAt": "2023-06-01T09:53:12Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11721, "title": "Improve `gunwip` alias with recursive flow", "createdAt": "2023-06-01T11:24:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11723, "title": "Example", "createdAt": "2023-06-03T13:43:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11726, "title": "Wrong cursor placement with `bureau` theme when inside git repository", "createdAt": "2023-06-04T12:40:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11728, "title": "New git aliases targeting develop branch", "createdAt": "2023-06-05T19:03:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11729, "title": "Type ahead broken when in screen session", "createdAt": "2023-06-06T07:37:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11730, "title": "commit 25c2c3a (Pull requests #9914) breaks KDE konsole Menu: \"File\"->\"Open File Manager\"", "createdAt": "2023-06-06T09:01:51Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11735, "title": "i can’t edit or change in vi ~/.zshrc", "createdAt": "2023-06-07T02:50:56Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11737, "title": "Tab completion appends", "createdAt": "2023-06-07T08:04:27Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11738, "title": "The option to disable Oh My Zsh before running zshell", "createdAt": "2023-06-07T11:24:34Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11740, "title": "NPX not found", "createdAt": "2023-06-07T16:26:18Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11741, "title": "Use openSUSE `cnf` command for `command-not-found`?", "createdAt": "2023-06-07T21:18:36Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11742, "title": "Plugin z not working anymore", "createdAt": "2023-06-08T11:51:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11743, "title": "docker compose up with -f flag", "createdAt": "2023-06-08T12:55:24Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11748, "title": "nvm lazy load not working", "createdAt": "2023-06-13T09:43:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11749, "title": "kubectl plugin stopped working", "createdAt": "2023-06-13T16:00:37Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11750, "title": "gunwipall cluttering the reflog ", "createdAt": "2023-06-13T19:23:14Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11751, "title": "Docker CLI generated completions not working for CLI sub-commands", "createdAt": "2023-06-14T13:21:38Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11752, "title": "Issues with midnight commander (mc)", "createdAt": "2023-06-14T18:22:59Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11753, "title": "New Docker update generates error", "createdAt": "2023-06-15T11:44:43Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11762, "title": "not found /completions/_docker", "createdAt": "2023-06-19T01:35:44Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11763, "title": "Add support for multiple args in web-search plugin", "createdAt": "2023-06-19T03:52:37Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11765, "title": "Wierd back slash when I excecute any command in vscode git terminal with oh-my-zsh", "createdAt": "2023-06-20T01:43:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11767, "title": "Lost setopt auto_cd at some point", "createdAt": "2023-06-20T19:46:43Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11768, "title": " [🚨] Potential Secrets Disclosed", "createdAt": "2023-06-23T08:40:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11769, "title": "Git plugin: alias to delete \"gone\" branches broken by color code", "createdAt": "2023-06-23T15:50:42Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11778, "title": "Installation without git", "createdAt": "2023-06-27T15:04:15Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11786, "title": "Docker autocompletion for containers not working on MacOS", "createdAt": "2023-07-05T14:44:24Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11787, "title": "The 3rd installation option fails. Recommendation is to remove it", "createdAt": "2023-07-06T05:12:41Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11788, "title": "Modified because i  made an issue with company account by mistake", "createdAt": "2023-07-07T07:24:23Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11789, "title": "Completion is not working properly with Docker version 24.0.2", "createdAt": "2023-07-07T07:26:33Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11793, "title": "Error while updating Oh My Zsh.", "createdAt": "2023-07-11T16:51:12Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11796, "title": "Doesn't autoload when with `silent-autoload`", "createdAt": "2023-07-15T17:59:15Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11800, "title": "Slow startup due to `git --version` in `check_for_upgrade.sh`", "createdAt": "2023-07-17T22:03:09Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11801, "title": "Problem when oh-my-zsh getting current branch name", "createdAt": "2023-07-18T06:15:41Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11803, "title": "Hardcoded tmux config file", "createdAt": "2023-07-19T12:18:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11804, "title": "Listable information showing with extra lines and with tilda (~)", "createdAt": "2023-07-19T18:55:38Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11805, "title": "mamba change the theme command prompt in zsh, how to fix?", "createdAt": "2023-07-20T01:49:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11806, "title": "Some themes cause phantom characters to be appended to the end of the prompt (temporarily) upon zsh doing the directory listing for autocomplete (only in some environments))", "createdAt": "2023-07-21T18:51:09Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11807, "title": "per-directory-history: ^G keybinding broken in vi command mode", "createdAt": "2023-07-22T04:33:38Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11809, "title": "Issue with michelebologna theme ", "createdAt": "2023-07-23T05:08:45Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11811, "title": "terraform plugin: show version", "createdAt": "2023-07-23T15:19:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11812, "title": "Wrong usage for the 'als' command ", "createdAt": "2023-07-24T14:11:38Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11814, "title": "Social media other than twitter", "createdAt": "2023-07-24T19:59:25Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11816, "title": "CDK Plugin request", "createdAt": "2023-07-26T18:52:41Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11817, "title": "docker completion is broken", "createdAt": "2023-07-26T20:23:20Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11818, "title": "zsh doesn't work", "createdAt": "2023-07-27T10:07:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11822, "title": "Image in plugin aliases uses the old 'acs' command instead of 'als'", "createdAt": "2023-07-31T11:29:43Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11825, "title": "Double free when correcting command substitution $(PWD)", "createdAt": "2023-08-04T09:20:34Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11827, "title": "[linux] [GNOME] When NVM is active, `ls` command shows file list as array instead of formatted syntax", "createdAt": "2023-08-04T21:16:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11828, "title": "Error : zsh: no matches found", "createdAt": "2023-08-05T15:12:29Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11829, "title": "ssh-agent plugin should fail gracefully and better handle edge cases.", "createdAt": "2023-08-05T21:03:29Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11832, "title": "Alias `gm` conflicts with GraphicsMagick command `gm`", "createdAt": "2023-08-08T05:30:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11837, "title": "Aliases example screenshot still shows acs ", "createdAt": "2023-08-10T12:29:15Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11838, "title": "Test for `FORCE_HYPERLINK` gives a warnings during `omz update`", "createdAt": "2023-08-10T14:24:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11839, "title": "git plugin is showing wrong git status for large monorepos", "createdAt": "2023-08-10T16:16:38Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11840, "title": "asdf could not change version", "createdAt": "2023-08-11T10:06:10Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11841, "title": "Docker logs tab plugin fails with custom docker ps format", "createdAt": "2023-08-11T13:15:14Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11842, "title": "Easy customize of  branch name by git_ptompt_info color  in to state of repo in ZSH_THEME_GIT_PROMPT_DIRTY ZSH_THEME_GIT_PROMPT_CLEAN", "createdAt": "2023-08-13T08:39:07Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11846, "title": "web-serach plugin not working in Debian WSL 2 - Windows", "createdAt": "2023-08-15T13:50:17Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11848, "title": "Jira plugin is not opening URL", "createdAt": "2023-08-16T15:18:06Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11849, "title": "git cherry-pick parameter prompt is slow in a large repo", "createdAt": "2023-08-16T19:22:09Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11850, "title": "I have found many exports inside zshrc", "createdAt": "2023-08-18T23:06:05Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11853, "title": "Rsync trailing slash is automatically removed when a path is autocompleted", "createdAt": "2023-08-22T14:09:41Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11854, "title": "sprunge.us website and plugin seems to be dead.", "createdAt": "2023-08-23T11:38:05Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11857, "title": "Battery Plugin: support for OpenBSD", "createdAt": "2023-08-25T03:06:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11860, "title": "Secrets in History!", "createdAt": "2023-08-28T10:44:59Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11866, "title": "docker.plugin.zsh no such file or directory", "createdAt": "2023-08-31T11:38:14Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11875, "title": "feat(termsupport): Allow configurable terminal title patterns & cmdline truncation limits", "createdAt": "2023-09-05T16:47:32Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11876, "title": "plugins/git-commit/git-commit.plugin.zsh:7: bad set of key/value pairs for associative array", "createdAt": "2023-09-05T18:58:24Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11877, "title": "Fn 0 doesn't work for slash", "createdAt": "2023-09-06T04:36:15Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11879, "title": "Allow use old gallois layout", "createdAt": "2023-09-07T08:10:49Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11882, "title": "Conventional commit aliases from `git-commit` plugin fail due to non POSIX syntax", "createdAt": "2023-09-09T11:06:11Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11889, "title": "completion error with cargo command (rust)", "createdAt": "2023-09-13T07:07:27Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11891, "title": "Have a new ideas && const", "createdAt": "2023-09-13T16:46:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11894, "title": "fix: kube-ps1 is not on display without touch $PROMPT", "createdAt": "2023-09-14T03:07:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11899, "title": "omz changelog returns nothing", "createdAt": "2023-09-18T06:29:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11905, "title": "Stucked after installation", "createdAt": "2023-09-22T10:52:23Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11906, "title": "Always trying to update although updates are turned off", "createdAt": "2023-09-25T12:37:43Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11915, "title": "Karanrepo", "createdAt": "2023-09-28T07:34:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11916, "title": "Gradle plugin should not lookup `settings.gradle` and `settings.gradle.kts`", "createdAt": "2023-09-28T14:21:05Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11925, "title": "Upgrade history-substring-search plugin from upstream", "createdAt": "2023-10-02T03:18:29Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11926, "title": "Add zprofile support", "createdAt": "2023-10-02T06:42:58Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11930, "title": "FIXED the  NAVBAR POSITION  ", "createdAt": "2023-10-03T14:09:37Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11936, "title": "zoom in or out bug", "createdAt": "2023-10-06T17:13:29Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11953, "title": "Autocorrect command doesn't detect modified/relative path", "createdAt": "2023-10-10T22:34:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11954, "title": "`dirhistory` doesn't preserve future directories on `cd`", "createdAt": "2023-10-11T14:16:23Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11959, "title": "Debian plugin variable override clarification", "createdAt": "2023-10-12T09:25:08Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11964, "title": "`gbda` no longer works when the default branch is called something other than main, trunk, mainline, default", "createdAt": "2023-10-12T15:51:27Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11965, "title": "common-aliases causes extra returns", "createdAt": "2023-10-13T03:10:51Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11977, "title": "Cannot using `pip install rembg[gpu,cli]` in zsh, but bash is OK", "createdAt": "2023-10-14T14:40:10Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11978, "title": "Aliases returning an error", "createdAt": "2023-10-14T14:46:38Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11985, "title": "performance regression in `gbda`", "createdAt": "2023-10-17T04:04:24Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11992, "title": "Add plugin for advanced history search", "createdAt": "2023-10-19T10:04:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 11995, "title": "Why zsh-autosuggestions and zsh-syntax-highlighting plugins are not included by default?", "createdAt": "2023-10-20T01:39:25Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12002, "title": "compinit:527: no such file or directory: /usr/local/share/zsh/site-functions/_docker_compose", "createdAt": "2023-10-22T13:43:33Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12004, "title": "Vault plugin on macOS with Apple silicon CPU's", "createdAt": "2023-10-23T08:17:29Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12007, "title": "git-commit plugin's \"revert\" is in conflict with \"git revert\" command", "createdAt": "2023-10-25T03:34:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12008, "title": "Directory Error", "createdAt": "2023-10-26T05:56:26Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12009, "title": ".oh-my-zsh: No such file or directory", "createdAt": "2023-10-26T13:24:57Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12010, "title": "`npmb` for `npm run build`", "createdAt": "2023-10-26T21:48:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12014, "title": "Cannot autocompelete path", "createdAt": "2023-10-29T14:14:15Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12017, "title": "wd parse error near", "createdAt": "2023-10-31T13:51:56Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12020, "title": "oh my zsh is creating a different session for CLI commands", "createdAt": "2023-11-02T22:52:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12021, "title": "% sign getting added at the end of print statements in rust program output", "createdAt": "2023-11-03T17:07:09Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12022, "title": "git branch command not working", "createdAt": "2023-11-03T17:10:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12023, "title": "gccd doesn't work if no output specified", "createdAt": "2023-11-04T16:39:25Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12024, "title": "brew completion doesn't work completely", "createdAt": "2023-11-05T11:59:05Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12025, "title": "Update terminal", "createdAt": "2023-11-05T19:32:04Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12027, "title": "Wed", "createdAt": "2023-11-06T06:09:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12031, "title": "Tab completion does not erase what is already typed", "createdAt": "2023-11-08T09:06:47Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12036, "title": "slow startup: ohmyzsh accesses git despite update disabled", "createdAt": "2023-11-14T07:26:09Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12039, "title": "direnv does not ", "createdAt": "2023-11-15T11:08:40Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12040, "title": "alias-finder detect when using aliases", "createdAt": "2023-11-15T13:52:04Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12043, "title": "Docker autocompletion not working properly", "createdAt": "2023-11-16T06:57:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12047, "title": "`globalias` expands in quotes, makes setting some ENV VAR values impossible", "createdAt": "2023-11-19T04:48:04Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12048, "title": "`grc` plugin does not source `grc.zsh` on Gentoo Linux", "createdAt": "2023-11-19T14:49:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12049, "title": "Oh my zsh uses inconsistent default environment variable (PAGER)", "createdAt": "2023-11-19T16:44:59Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12051, "title": "Word wrapping bug with github", "createdAt": "2023-11-20T15:13:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12052, "title": "unicode U+21B5 width from jonathan theme interpretes width incorrectly in iterm2", "createdAt": "2023-11-20T18:43:43Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12053, "title": "bgnotify spam: bgnotify_appid:6: command not found: swaymsg", "createdAt": "2023-11-22T08:16:14Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12054, "title": "No styling ", "createdAt": "2023-11-22T15:17:07Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12056, "title": "DISABLE_MAGIC_FUNCTIONS=true does not affect on internal VSCode shell", "createdAt": "2023-11-23T09:38:13Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12061, "title": "web-search baidu 你好", "createdAt": "2023-11-24T12:52:23Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12065, "title": "Can not properly install and uninstall on Mac OSX on Sonoma", "createdAt": "2023-11-26T21:37:25Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12067, "title": "Optionally suppress per-directory-history mode change message", "createdAt": "2023-11-28T03:14:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12068, "title": "per-directory-history mode change message regenerates the prompt", "createdAt": "2023-11-28T03:28:27Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12073, "title": "New file in `profile.d` not run", "createdAt": "2023-11-30T10:36:54Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12074, "title": "Removal of line buffer widgets swallows up useful signals", "createdAt": "2023-11-30T12:53:09Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12082, "title": "Oh-My-Zsh themes not working on Warp Terminal", "createdAt": "2023-12-03T19:54:32Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12083, "title": "Cursor (in login prompt) moves to left after starting tmux", "createdAt": "2023-12-04T14:09:12Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12086, "title": "alias-finder: ignore specified aliases", "createdAt": "2023-12-07T17:57:04Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12087, "title": "Add `git checkout -B` to plugin", "createdAt": "2023-12-08T04:33:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12088, "title": " In large GIT repositories, zsh is particularly slow.", "createdAt": "2023-12-08T15:18:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12091, "title": "Not show correctly some Nerd Fonts symbols in Kitty + zsh terminal.", "createdAt": "2023-12-09T19:38:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12097, "title": "When running with bgnotify plugin, `set -e` will terminate zsh immediately", "createdAt": "2023-12-18T17:30:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12107, "title": "Expand command flags on TAB key", "createdAt": "2023-12-19T09:13:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12112, "title": "Commands after `omz update` will not execute when update is successful", "createdAt": "2023-12-22T22:05:22Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12115, "title": "无法更新", "createdAt": "2023-12-27T07:44:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12130, "title": "Getting error when using TAB key in `nvm use`", "createdAt": "2023-12-28T07:14:04Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12138, "title": "feat: plugin for `terraform-docs`", "createdAt": "2023-12-29T16:10:56Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12141, "title": "suggestion to use only HTTPS for ohmyzsh update", "createdAt": "2024-01-01T05:03:00Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12142, "title": "Terminal hangs for sometime (30s or so) in big git directory in WSL2", "createdAt": "2024-01-02T12:13:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12144, "title": "style(poetry-env): remove too long command line prefix", "createdAt": "2024-01-03T12:53:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12149, "title": "sudo plugin should not use `sudo -e` where doing so changes behavior of `sudo <command>`", "createdAt": "2024-01-06T21:22:29Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12151, "title": "VS Code Can't split terminal", "createdAt": "2024-01-08T17:26:18Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12153, "title": "Aliasing ipython overrides command line arguments", "createdAt": "2024-01-09T02:00:24Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12154, "title": "compinit:503: no such file or directory: /usr/share/zsh/vendor-completions/_docker", "createdAt": "2024-01-10T03:19:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12156, "title": "Allow symlinked plugins", "createdAt": "2024-01-10T23:20:30Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12160, "title": "Zsh GitHub copilot suggestion starts no longer appear once installing oh my zsh", "createdAt": "2024-01-13T18:09:15Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12168, "title": "Improvements for omz update", "createdAt": "2024-01-17T09:08:51Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12170, "title": "Broken npm, yarn, nodejs ibrary not loaded: /usr/local/opt/icu4c/lib/libicui18n.67.dylib", "createdAt": "2024-01-18T12:55:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12173, "title": "Error: git clone of oh-my-zsh repo failed", "createdAt": "2024-01-21T07:34:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12177, "title": "customization part in .zshrc was overwritten after OMZ installation.", "createdAt": "2024-01-24T17:02:11Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12178, "title": "Improve and smarten dependency updater", "createdAt": "2024-01-24T19:32:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12180, "title": "Where command appears with multiple identical paths", "createdAt": "2024-01-25T04:38:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12181, "title": "1password Plugin Not Working", "createdAt": "2024-01-25T09:16:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12182, "title": "Autocompletion with git use extraneous remote in branch name", "createdAt": "2024-01-26T12:47:59Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12183, "title": "brew plugin completion is not working.", "createdAt": "2024-01-26T16:33:39Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12184, "title": "Need to \"cd ..\" twice to exit a Pipenv folder when pipenv plugin is enabled", "createdAt": "2024-01-26T17:14:04Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12185, "title": "OMZ why insert a slash charactor?", "createdAt": "2024-01-27T02:54:06Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12190, "title": "With plugin kubectx, spaces in Kubernetes contexts are not mentioned.", "createdAt": "2024-02-02T15:18:18Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12193, "title": "Plugin vagrant-prompt does not work on macOS", "createdAt": "2024-02-03T00:42:34Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12196, "title": "strange behaviours: copy and paste some URL and numeric keypad that does not work", "createdAt": "2024-02-04T15:59:23Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12197, "title": "Previous commands (up arrow) only works after a small delay after pressing enter", "createdAt": "2024-02-04T17:22:23Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12198, "title": "Java now supports passing a Java file but ohmyzsh doesn't autocomplete for it", "createdAt": "2024-02-05T03:34:58Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12200, "title": "OMZ  on Cygwin is preventing arrow support for FZF", "createdAt": "2024-02-06T01:14:03Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12202, "title": "Problem with web-search.plugin.zsh", "createdAt": "2024-02-06T19:16:45Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12205, "title": "ZSH plugins are not loading aliases properly", "createdAt": "2024-02-07T15:14:03Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12207, "title": "Only some aliases from the git plugin works", "createdAt": "2024-02-08T09:00:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12212, "title": " ▶ symbol does not render despite significant debugging efforts", "createdAt": "2024-02-13T20:08:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12213, "title": "Unfeature request: Extra aliases - They aren't helping", "createdAt": "2024-02-13T22:17:44Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12220, "title": "FIXED THE NAVABAR POSITION AT TOP TO BETTER USER INTERFACE", "createdAt": "2024-02-16T15:18:42Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12222, "title": "Load sdk-init when adding the sdk plugin", "createdAt": "2024-02-19T19:57:25Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12230, "title": "tmux attach-session -t expects an argument", "createdAt": "2024-02-21T16:16:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12233, "title": "Plugin ssh-agent. Not found ssh-askpass", "createdAt": "2024-02-22T07:05:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12245, "title": "Provide OMZ-wide option to specify subexecutor such as `doas`", "createdAt": "2024-02-29T03:17:12Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12246, "title": "When entering a directory containing large files, oh-my-zsh will freeze at this moment.", "createdAt": "2024-03-01T02:25:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12247, "title": "When oh-my-zsh tmux plugin is enabled, the 'tmux' alias will cause my oh-my-tmux .tmux.conf.local to be ignored", "createdAt": "2024-03-01T18:48:08Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12250, "title": "Support for gh copilot", "createdAt": "2024-03-02T11:05:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12251, "title": "git-commit is broken?", "createdAt": "2024-03-03T04:25:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12253, "title": "`omz reload` throws the error `stat: /Users/<username>/.zcompdump: stat: No such file or directory`", "createdAt": "2024-03-03T08:51:57Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12255, "title": "Enable autoloading of .nvmrcs after first usage of lazyloaded nvm", "createdAt": "2024-03-03T21:56:03Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12259, "title": "`cd /tmp` hangs indefinitely", "createdAt": "2024-03-05T18:03:15Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12267, "title": "GIT INFORMATION NOT APPEARING IN PROMPT", "createdAt": "2024-03-07T15:28:04Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12268, "title": "Help me. I can't do anything.", "createdAt": "2024-03-07T22:34:38Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12271, "title": "zshrc file overwritten automatically", "createdAt": "2024-03-09T00:26:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12272, "title": "ctrl+r reverse-i-search adds a big space next to $ prompt", "createdAt": "2024-03-09T10:54:59Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12273, "title": "Upgrade.sh fails \"fatal: not a git repository (or any parent up to mount point /)", "createdAt": "2024-03-09T21:18:06Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12276, "title": "Split gwip alias into more and less aggressive ones", "createdAt": "2024-03-11T09:21:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12279, "title": "Allow setting plugins in the custom folder", "createdAt": "2024-03-11T19:31:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12282, "title": "Recent update breaks autocomplete for tmux plugin aliases", "createdAt": "2024-03-13T21:11:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12289, "title": "\"autocd\" prioritizes subdirectories over binaries on the path", "createdAt": "2024-03-18T09:44:26Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12290, "title": "Freezes when using more than one async prompt handler", "createdAt": "2024-03-18T18:27:47Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12295, "title": "docker plugin does not work anymore after updating via omz update", "createdAt": "2024-03-21T16:22:00Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12296, "title": "Command to print all aliases in Kubectl", "createdAt": "2024-03-22T14:22:51Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12298, "title": "disable omz update command setting", "createdAt": "2024-03-23T17:03:03Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12300, "title": "Typo found in templates/zshrc.zsh-template comments ", "createdAt": "2024-03-25T06:52:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12307, "title": "Update prompt conflicts with VSCode python venv functionality", "createdAt": "2024-03-27T14:48:16Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12313, "title": "Double `$PATH` binary directories after `omz reload`", "createdAt": "2024-04-02T09:11:25Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12316, "title": "Plugin Arch Linux's upgrade command always thinks Arch Linux PGP Keyring is out of date if the system language isn't English.", "createdAt": "2024-04-03T11:57:34Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12317, "title": "TAB  auto-complete not work well", "createdAt": "2024-04-03T15:38:16Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12320, "title": "add conda-zsh-completion plugin", "createdAt": "2024-04-03T19:37:20Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12321, "title": "Prompt string always showing [_omz_git_prompt_info] after update", "createdAt": "2024-04-04T08:28:16Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12322, "title": "lib/git depends on lib/async_prompt but does not source it", "createdAt": "2024-04-04T16:23:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12325, "title": "git information not appearing in rprompt", "createdAt": "2024-04-05T01:19:44Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12327, "title": "Last update git untracked status is gone within the prompt", "createdAt": "2024-04-06T07:35:42Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12328, "title": "git async prompt does not appear", "createdAt": "2024-04-06T08:25:02Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12330, "title": "Avoid cluttering main `~/.zshrc`file with lots of lines", "createdAt": "2024-04-06T22:26:56Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12331, "title": "VS CODE terminal cannot start, after udpate oh-my-zsh", "createdAt": "2024-04-07T09:20:12Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12332, "title": "Command is printed before the output of said cmd", "createdAt": "2024-04-07T15:41:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12333, "title": "WHY", "createdAt": "2024-04-08T04:07:21Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12334, "title": "omz_history -p doesn't work as expected", "createdAt": "2024-04-08T06:17:14Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12335, "title": "how to update ZSH_THEME_GIT_PROMPT_PREFIX when git status changed?", "createdAt": "2024-04-08T07:07:51Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12336, "title": "[Plugin] ollama autocomplete support?", "createdAt": "2024-04-08T07:31:33Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12342, "title": "gitfast duplicates the dirty state indicator, duplicated indicator doesn't respect GIT_PS1_SHOWCOLORHINTS", "createdAt": "2024-04-10T03:01:11Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12343, "title": "vi-mode inner quote motions", "createdAt": "2024-04-10T07:50:27Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12344, "title": "Terminal shows \"core dumped\" when the directory is a git repo", "createdAt": "2024-04-10T10:33:05Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12350, "title": "pygmalion.zsh-theme lost git branch naming and ⚡️emoji", "createdAt": "2024-04-12T21:33:56Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12353, "title": "git_prompt_info not work", "createdAt": "2024-04-15T09:50:22Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12355, "title": "fzf plugin fails to \"find fzf installation directory\" (because of changes in fzf)", "createdAt": "2024-04-15T17:15:29Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12359, "title": "装有Omz的mac机器上ssh登录到装有Omz的机器上时 不能按 ctrl-c 换行", "createdAt": "2024-04-17T06:44:25Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12360, "title": "does not create a new line and consumes a lot of CPU resources", "createdAt": "2024-04-17T08:59:27Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12361, "title": "Updating Oh My Zsh issues", "createdAt": "2024-04-17T13:47:34Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12362, "title": "The flag 'history -c' did not work", "createdAt": "2024-04-18T01:54:20Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12363, "title": "parse error near `then` in check_for_upgrade.sh", "createdAt": "2024-04-18T05:55:23Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12364, "title": "history not by default display the full history when `$HIST_STAMPS` set to valid strftime format.", "createdAt": "2024-04-18T08:11:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12376, "title": "Mysterious  `←[?1h` character appears when typing on Windows", "createdAt": "2024-04-22T15:47:42Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12377, "title": "poetry-env gets deactivated if changing to a sub directory", "createdAt": "2024-04-23T12:35:10Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12378, "title": "Branch Switch Delay", "createdAt": "2024-04-23T14:54:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12380, "title": "Tab completion for `git add` fails on macOS if working directory path contains unicode characters in NFD (decomposed) form", "createdAt": "2024-04-25T13:53:20Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12381, "title": "Add to brew, to be able to install by \"brew install ohmyzsh\"", "createdAt": "2024-04-28T06:07:45Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12384, "title": "Cant terminate running foreground process since last week", "createdAt": "2024-04-29T09:43:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12385, "title": "git plugin: please add commit & push alias", "createdAt": "2024-04-29T16:32:46Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12386, "title": "zsh crash after conda activate", "createdAt": "2024-04-30T06:15:26Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12387, "title": "eval \"$(fzf --zsh)\" is failing", "createdAt": "2024-04-30T06:29:24Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12388, "title": "omz_urlencode:45: pcre_exec() error [-10] ", "createdAt": "2024-04-30T15:24:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12390, "title": "No space found between folder name and command in visual studio code", "createdAt": "2024-05-02T07:20:15Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12391, "title": "Support alacritty-direct $TERM in title() function", "createdAt": "2024-05-02T10:54:12Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12393, "title": "Alias Arguments Not Being Recognized", "createdAt": "2024-05-02T17:44:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12398, "title": "Unexpected backslash ( \\ ) when opening in vscode terminal", "createdAt": "2024-05-07T08:47:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12399, "title": "ohmyzsh/aws plugin aws profile not persisting across sessions", "createdAt": "2024-05-07T17:57:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12400, "title": "`omz plugin disable` breaks .zshrc file when disabling common substring", "createdAt": "2024-05-07T18:34:05Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12402, "title": "Minimal theme: prompt does not display information about git status", "createdAt": "2024-05-07T21:41:36Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12403, "title": "rsync-move has not delete directory.", "createdAt": "2024-05-08T02:05:54Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12412, "title": "fzf_setup_using_fzf:6: command not found: is-at-least", "createdAt": "2024-05-12T07:33:23Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12414, "title": "plugins/wd: update to v0.6.1", "createdAt": "2024-05-12T10:27:37Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12415, "title": "plugins/wd: update to v0.6.1", "createdAt": "2024-05-12T10:31:02Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12416, "title": "(eval):10: parse error near `^M'", "createdAt": "2024-05-13T08:35:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12420, "title": "Call out during install that you must copy from old .zshrc", "createdAt": "2024-05-14T17:13:25Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12426, "title": "[Plugin] Salt error command not found: python2 when cache autocomplete does not exist", "createdAt": "2024-05-17T15:49:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12427, "title": "kubectl plugin completions not working for kj, kjx, ky", "createdAt": "2024-05-17T21:51:41Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12428, "title": "Add FAQ for brew installation", "createdAt": "2024-05-18T05:05:54Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12430, "title": "omz update raises \"upgrade.sh:186: bad pattern: ^[[31m\"", "createdAt": "2024-05-18T21:02:49Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12431, "title": "plugins/wd: update to v0.7.0", "createdAt": "2024-05-19T03:37:29Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12433, "title": "Bad rendering in Jetbrains products", "createdAt": "2024-05-21T10:05:58Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12438, "title": "`anaconda` env information is displayed incorrectly after commit 309129f", "createdAt": "2024-05-22T05:44:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12439, "title": "iconv: iconv_open(,-t): Invalid argument", "createdAt": "2024-05-22T08:53:49Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12440, "title": "/cc-assignees\n/cc-labels\n/cc-main-project\n/cc-mjllestone\n", "createdAt": "2024-05-22T09:37:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12444, "title": "termuppport.zsh error", "createdAt": "2024-05-23T03:28:33Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12445, "title": "Getting string conversion error when I open terminal after installing oh-my-zsh", "createdAt": "2024-05-23T05:06:23Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12448, "title": "ctrl + c not respond", "createdAt": "2024-05-24T02:29:04Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12453, "title": "When trying to go back to other commands previously used on the terminal, it won't let me if I'm typing \"git commit -m\" command", "createdAt": "2024-05-25T19:28:08Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12454, "title": "Huge delay when using sudo", "createdAt": "2024-05-25T22:26:34Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12455, "title": "iconv: iconv_open(, -t): Invalid argument Error converting string from  to UTF-8", "createdAt": "2024-05-27T03:27:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12456, "title": "high cpu usage when enable ZSH_THEME=\"robbyrussell\"", "createdAt": "2024-05-28T01:24:43Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12457, "title": "parse error near `>&' in diagnostics.zsh", "createdAt": "2024-05-28T09:36:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12458, "title": "Some iconv_open error on running of every command in shell", "createdAt": "2024-05-28T15:05:40Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12461, "title": "git async handler not registered when using PROMPT?", "createdAt": "2024-05-29T13:28:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12463, "title": "iconv: iconv_open(, -t): Invalid argument", "createdAt": "2024-05-30T01:06:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12471, "title": "When using the mouse, open iterm2 and the percent sign appears", "createdAt": "2024-06-03T07:05:40Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12472, "title": "`history -c` should be more verbose to prevent misuse", "createdAt": "2024-06-03T09:51:34Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12476, "title": "Not able to disable auto cd/ls (or uninstall zsh-autocomplete)?", "createdAt": "2024-06-04T21:07:09Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12478, "title": "Cannot open shell prompt after install", "createdAt": "2024-06-04T23:01:23Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12479, "title": "error iconv: iconv_open(, -t): Invalid argument", "createdAt": "2024-06-05T16:51:03Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12480, "title": "The prompt on the command line shows the wrong git information.", "createdAt": "2024-06-06T05:19:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12482, "title": "Bundler plugin does not offer completions for bundler command", "createdAt": "2024-06-07T08:36:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12485, "title": "move ~/.oh-my-zsh to ~/.config/oh-my-zsh", "createdAt": "2024-06-08T23:08:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12487, "title": "Icon for OMZ terminal", "createdAt": "2024-06-09T13:20:51Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12489, "title": "After WD update exclamation mark feature is broken ", "createdAt": "2024-06-10T12:33:57Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12490, "title": "Plugin: Forklift gets an error while executing with Forklift 4 installed", "createdAt": "2024-06-10T15:01:17Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12492, "title": "Missing function in z plugin", "createdAt": "2024-06-10T16:53:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12496, "title": "Support Zsh plugin standard", "createdAt": "2024-06-12T10:49:32Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12497, "title": "Prompt is too dark ", "createdAt": "2024-06-12T17:22:15Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12498, "title": "Update GitHub projects \"Plugin\" and \"Theme\" fields to single select", "createdAt": "2024-06-12T18:05:05Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12499, "title": "set - u break the timer plugin", "createdAt": "2024-06-12T19:10:20Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12506, "title": "Tmux plugins reports parse error near `function'", "createdAt": "2024-06-15T10:10:11Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12509, "title": "encode64 plugin throwing invalid option error", "createdAt": "2024-06-16T16:16:54Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12510, "title": "The Oh My Zsh Read Me Section on Themes can be confusing RE: ps://github.com/ohmyzsh/ohmyzsh?tab=readme-ov-file#using-oh-my-zsh", "createdAt": "2024-06-16T17:06:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12513, "title": "git plugin breaks aliases", "createdAt": "2024-06-17T15:45:58Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12515, "title": "kubectl plugin completion for alias k not working", "createdAt": "2024-06-18T11:32:45Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12531, "title": "eval \"$(fzf --zsh)\" is failing", "createdAt": "2024-06-30T11:54:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12535, "title": "ipython and pyserver aliases can lead to code execution", "createdAt": "2024-07-02T15:33:46Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12536, "title": "Twitter still referenced after update Release Notes state that it's been renamed", "createdAt": "2024-07-02T19:10:51Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12537, "title": "Check if on special branch (or detached HEAD) before update, offer to rebase branch afterwards", "createdAt": "2024-07-02T19:39:52Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12538, "title": "`previous_branch` similar to `current_branch`", "createdAt": "2024-07-04T06:49:03Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12540, "title": "command duplicate in next line", "createdAt": "2024-07-05T04:40:08Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12544, "title": "[kubectl] Add shortcut for PersistentVolume", "createdAt": "2024-07-08T08:23:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12548, "title": "Gitfast and Git for Windows: PS1 not recognizing repo in subdirectory", "createdAt": "2024-07-11T04:42:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12551, "title": "\"$ZSH_CACHE_DIR/completions\" is always added to fpath", "createdAt": "2024-07-12T16:39:06Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12553, "title": "docker-compose plugin selects wrong binary", "createdAt": "2024-07-14T14:25:10Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12562, "title": "kubectl plugin completions not working for kj, kjx, ky", "createdAt": "2024-07-17T22:20:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12564, "title": "pass plugin doesn't work anymore with any FZF_COMPLETION_TRIGGER", "createdAt": "2024-07-18T13:21:30Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12570, "title": "After pressing Enter, an extra character \"\\\" is produced. ", "createdAt": "2024-07-22T06:52:12Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12571, "title": "Broken update", "createdAt": "2024-07-22T10:28:04Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12578, "title": "Git clone error while installing", "createdAt": "2024-07-26T17:04:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12579, "title": "Consider not setting PUSHD_IGNORE_DUPS", "createdAt": "2024-07-26T23:15:03Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12580, "title": "[plugins][tmux] Default name when creating/attaching tmux sessions", "createdAt": "2024-07-27T06:51:16Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12581, "title": "Deno completions not working in VSCode", "createdAt": "2024-07-27T12:02:58Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12582, "title": "Homebrew cleanup message appearing after every command", "createdAt": "2024-07-27T13:57:45Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12583, "title": "Enable plugin managers to set the Oh My Zsh requirements", "createdAt": "2024-07-27T14:23:31Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12586, "title": "Case-insensitive `cd` into directory should still show case-sensitive directory name", "createdAt": "2024-07-29T03:21:16Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12587, "title": "No-input upgrade reminder", "createdAt": "2024-07-30T16:38:43Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12588, "title": "local configuration (~/.zshrc.local) not recognized/loaded ", "createdAt": "2024-07-31T11:56:11Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12589, "title": "[poetry-env] environment is not activated at shell start up", "createdAt": "2024-07-31T12:55:02Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12591, "title": "(feat) terraform: Add --auto-approve shortcut", "createdAt": "2024-08-01T08:42:21Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12599, "title": "Python plugin calls deactivate when the folder-level .venv is not active... but only in tmux", "createdAt": "2024-08-06T21:28:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12600, "title": "Automatically fetch when cd'ing into a git repo", "createdAt": "2024-08-06T22:27:04Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12603, "title": "Always have an arrow in the front", "createdAt": "2024-08-07T11:21:16Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12604, "title": "Aliases for Python's Ruff Linter/Formatter", "createdAt": "2024-08-07T14:29:02Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12609, "title": "Can't install OMZ in an IPv6 only environment using install.ohmyz.sh", "createdAt": "2024-08-10T16:39:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12611, "title": "`bubc` command is removed without any warning ", "createdAt": "2024-08-11T15:14:02Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12613, "title": "Theme file changes after save", "createdAt": "2024-08-13T19:36:59Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12614, "title": "Styling issues", "createdAt": "2024-08-14T04:00:56Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12615, "title": "Styling issues", "createdAt": "2024-08-14T05:22:21Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12616, "title": "Add PNPM plugin aliases and completions", "createdAt": "2024-08-14T08:17:08Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12617, "title": "HistDb update outcome error", "createdAt": "2024-08-15T00:14:56Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12620, "title": "[BUG] autoenv `deactivate` can corrupt the $PATH if plugins aren't loaded in the right order", "createdAt": "2024-08-16T22:11:36Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12625, "title": "Display Issue in Zsh Terminal When Using Ctrl + \\ During top Command", "createdAt": "2024-08-19T15:37:57Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12626, "title": "Typo in ohmyz.sh metadata", "createdAt": "2024-08-19T16:42:59Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12627, "title": "The git-commit plugin's implementation should use git-<command> scripts in $PATH rather than adding aliases", "createdAt": "2024-08-19T18:50:15Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12629, "title": " fzf shell integration failing", "createdAt": "2024-08-20T00:21:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12635, "title": "1password plugin opswd does not copy the password it copies a \"reveal\" op call to the clipboard", "createdAt": "2024-08-23T01:02:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12636, "title": "Add a success/failure function to mvn plugin mvn-or-mvnw", "createdAt": "2024-08-23T12:40:05Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12645, "title": "Displayed history of commands  causing the terminal to rewrite and breakup the existing typed text, malforming the printed output", "createdAt": "2024-09-01T09:12:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12648, "title": "jq: parse error: Invalid string: control characters from U+0000 through U+001F must be escaped at line 419, column 84", "createdAt": "2024-09-02T08:15:27Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12649, "title": "tmux 'ts' conflicts with moreutils 'ts'", "createdAt": "2024-09-02T12:50:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12650, "title": "Colorize plugin is not displaying correct colors for 256 color terminals ", "createdAt": "2024-09-03T19:20:08Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12653, "title": "Impossible to delete an alias.", "createdAt": "2024-09-05T13:33:00Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12655, "title": "enter is invalid when I install omz in ubuntu", "createdAt": "2024-09-06T06:12:30Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12656, "title": "Terminal hangs on sourcing .zshrc with Oh My Zsh enabled", "createdAt": "2024-09-06T12:51:26Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12662, "title": "Insecure completion-dependent", "createdAt": "2024-09-09T18:20:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12665, "title": "Update error", "createdAt": "2024-09-12T13:55:26Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12667, "title": "cd for zoxide", "createdAt": "2024-09-12T22:13:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12669, "title": "Add zip file support to take function", "createdAt": "2024-09-13T17:31:08Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12671, "title": "jsontools plugin README links to casino website", "createdAt": "2024-09-14T02:09:30Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12672, "title": "Terminal prompts abnormal display.", "createdAt": "2024-09-14T09:41:40Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12676, "title": "Remove `ipython` alias", "createdAt": "2024-09-15T06:24:06Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12686, "title": "(feat) terraform: Add tffl alias for terraform force-unlock", "createdAt": "2024-09-21T11:36:00Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12692, "title": "Cannot change selection colour of command area on Molokai theme", "createdAt": "2024-09-24T09:05:04Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12703, "title": "Getting error: \"getting \"iconv: iconv_open(, -t): Invalid argument Error converting string from to UTF-8\" on OSX", "createdAt": "2024-09-28T17:24:57Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12709, "title": "(feat) terraform: Add `--auto-approve` for destroy", "createdAt": "2024-10-01T06:43:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12715, "title": "Virtualenvwrapper bug with PROMPT (PS1) display corrupted", "createdAt": "2024-10-02T11:26:12Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12721, "title": "Wiki links to obsolete `ag` plugin", "createdAt": "2024-10-03T14:21:43Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12723, "title": "Tab completion with dashes returns the wrong result", "createdAt": "2024-10-04T12:11:24Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12724, "title": "Oh My Zsh failed to Install", "createdAt": "2024-10-04T13:33:30Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12728, "title": "Themes using ZSH_THEME_GIT_PROMPT_ADDED not working properly", "createdAt": "2024-10-06T01:14:36Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12730, "title": "Support for Dev Container", "createdAt": "2024-10-06T09:46:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12733, "title": "PM2 autocompletion does not work", "createdAt": "2024-10-07T09:50:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12736, "title": "Error on update", "createdAt": "2024-10-09T05:03:17Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12739, "title": "Ohmyzsh_download_Win10_WSL_debian_SSL", "createdAt": "2024-10-10T02:39:12Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12740, "title": "ssh-agent plugin only adds hardcoded keys", "createdAt": "2024-10-10T10:59:49Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12743, "title": "RSA keys in .ssh no longer works with ssh-agent", "createdAt": "2024-10-12T11:12:20Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12744, "title": "No `omz` cli access", "createdAt": "2024-10-12T18:06:51Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12745, "title": "_add_identities:16: regex matching error: illegal byte sequence", "createdAt": "2024-10-12T21:02:12Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12748, "title": "Autocorrect is doing it too much", "createdAt": "2024-10-13T09:12:20Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12762, "title": "No completion for dir name with underscore followed by a capital letter", "createdAt": "2024-10-15T20:56:22Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12781, "title": "check_for_upgrade fails on MacOS terminal launch", "createdAt": "2024-10-25T09:37:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12785, "title": "add important alias", "createdAt": "2024-10-29T07:02:09Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12789, "title": "Tilix exists if sourcing zshrc", "createdAt": "2024-10-31T19:14:53Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12792, "title": "oh-my-bash/check_for_updgrade: Failed to get a lock.", "createdAt": "2024-11-04T04:27:59Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12794, "title": "Bluesky social media account", "createdAt": "2024-11-04T15:58:26Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12798, "title": "direnv plugin doesn't properly hook in direnv", "createdAt": "2024-11-07T19:07:14Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12800, "title": "Ruby prompt info provided by chruby plugin doesn't update immediately", "createdAt": "2024-11-10T08:57:11Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12801, "title": "A plugin for Timoni (timoni.sh)", "createdAt": "2024-11-10T15:19:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12803, "title": "Plugin for taskfile", "createdAt": "2024-11-11T15:05:46Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12807, "title": "Add docker context shortcuts to docker plugin", "createdAt": "2024-11-15T19:24:55Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12816, "title": "External Theme - Heapbytes outdate info", "createdAt": "2024-11-20T07:57:26Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12819, "title": "Add Stratus autocomplete plugin", "createdAt": "2024-11-22T07:09:15Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12824, "title": "toolbox prompt adds a new line in prompt", "createdAt": "2024-11-25T20:31:12Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12834, "title": "Pipenv issue after merging #12813 - auto-shell not working properly", "createdAt": "2024-12-01T13:11:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12836, "title": "zsh visual bug, -- flags merging with text", "createdAt": "2024-12-04T22:22:59Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12843, "title": "Unable to install tailscale plugin", "createdAt": "2024-12-11T08:12:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12852, "title": "plugin: virtualenvwrapper doesn't cleanup properly after being disabled/reconfigured", "createdAt": "2024-12-18T07:22:54Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12854, "title": "Tab completion not working after latest update", "createdAt": "2024-12-18T18:22:12Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12855, "title": "Git Tab Completion Not Working with Relative Paths", "createdAt": "2024-12-19T02:49:06Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12856, "title": "Timer plugin shows time by wrong format.", "createdAt": "2024-12-19T09:35:17Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12858, "title": "Tab completion would cause wrong line offset through ssh", "createdAt": "2024-12-19T19:53:41Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12861, "title": "Consider changing the \"news and updates\" link", "createdAt": "2024-12-22T00:17:57Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12864, "title": "Please add zdharma-continuum's fast-syntax-highlighting plugin", "createdAt": "2024-12-23T16:29:00Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12865, "title": "Please add zsh-users' zsh-autosuggestions as an in-built plugin", "createdAt": "2024-12-23T16:32:18Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12869, "title": "maximum nested function level reached", "createdAt": "2024-12-27T15:50:44Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12870, "title": "`set -eu` with theme robbyrussell exits shell", "createdAt": "2024-12-27T22:14:38Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12872, "title": "Please add zsh-users' zsh-completions as an in-built plugin", "createdAt": "2024-12-28T05:44:52Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12876, "title": "create issue", "createdAt": "2024-12-30T21:48:25Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12877, "title": "Bug", "createdAt": "2024-12-31T06:39:34Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12880, "title": "[afowler] display caret color based on previous command exit code", "createdAt": "2025-01-01T22:47:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12882, "title": "  custom/example.zsh  error", "createdAt": "2025-01-02T15:31:21Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12886, "title": "[plugin] [tmux] tmuxconf exits with error: zsh: permission denied: /path/to/.tmux.conf", "createdAt": "2025-01-03T18:24:59Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12892, "title": "Using SSH to login to the bastion host on Warp.app terminal is abnormal", "createdAt": "2025-01-06T02:32:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12894, "title": "Autocompletion for files/directories with a hypen does not work", "createdAt": "2025-01-07T14:29:12Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12895, "title": "[Improvement] [Plugin:common-aliases] Opening of files with certain extensions can be done easier", "createdAt": "2025-01-07T17:38:06Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12898, "title": "Symbolic link for package manager plugins not working", "createdAt": "2025-01-09T20:07:14Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12900, "title": "omz update git is not installed", "createdAt": "2025-01-10T11:35:41Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12906, "title": "Zsh over SSH from Mac into RP looks perfect but starting a terminal on the RP looks bad", "createdAt": "2025-01-13T23:50:58Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12907, "title": "update notification \"above the fold\"", "createdAt": "2025-01-14T03:28:51Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12909, "title": "Comptinit", "createdAt": "2025-01-15T11:27:27Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12910, "title": "Can not install the ohmyzsh on Raspberry Pi", "createdAt": "2025-01-15T13:52:54Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12913, "title": "dco command which alias for docker-compose is depricated", "createdAt": "2025-01-15T18:16:29Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12916, "title": "omz cannot run `ls` command", "createdAt": "2025-01-17T01:30:32Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12918, "title": "compinit: function definition file not found because /usr/share/zsh is (almost) empty", "createdAt": "2025-01-17T13:56:50Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12919, "title": "Scripts in /etc/profile.d not executed", "createdAt": "2025-01-17T15:42:15Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12920, "title": "\"%\" sign shows up when opening the terminal in Gnome 47 ins a small window.", "createdAt": "2025-01-17T18:49:40Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12921, "title": "Text disappears after I start the command using $", "createdAt": "2025-01-18T18:58:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12926, "title": "Using oh-my-zsh and per-directory-history remove $1 from preexec_functions", "createdAt": "2025-01-20T16:03:24Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12927, "title": "No update changelog sometimes", "createdAt": "2025-01-20T16:36:44Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12929, "title": "A new command for quickly adding a directory to the PATH variable", "createdAt": "2025-01-21T17:55:58Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12930, "title": "!! only copies command but doesnt run it.", "createdAt": "2025-01-21T20:21:08Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12939, "title": "No autocompletion on DNF Packages", "createdAt": "2025-01-26T12:16:17Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12944, "title": "compinit: function definition file not found on CentOS 9", "createdAt": "2025-01-28T15:49:30Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12950, "title": "Soliah theme reports head in \"detached-head\" state at all times", "createdAt": "2025-01-30T12:30:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12952, "title": "Compinit runs every time I open shell which slows it down", "createdAt": "2025-01-31T15:43:02Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12958, "title": "per-directory-history plugin breaks alias-finder", "createdAt": "2025-02-03T23:51:22Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12962, "title": "not an issue", "createdAt": "2025-02-07T01:09:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12963, "title": "Show a message instead of a prompt on startup", "createdAt": "2025-02-07T09:54:42Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12967, "title": "asdf plugin broke with 0.16.x of asdf", "createdAt": "2025-02-10T14:59:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12968, "title": "Enhance Azure Plugin Prompt with Color-coded Subscription Info", "createdAt": "2025-02-10T16:43:12Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12973, "title": "iOS: fzf plugin: Cannot find fzf installation directory", "createdAt": "2025-02-13T16:08:34Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12974, "title": "Tab autocomplete not working with pipenv", "createdAt": "2025-02-13T20:48:33Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12981, "title": "Keybase linux app creates a directory that causes zsh completions to freeze", "createdAt": "2025-02-16T19:18:18Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12986, "title": "Add git commit fixup alias in Git plugin", "createdAt": "2025-02-21T11:02:22Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12987, "title": "export HOMEBREW_NO_ANALYTICS=1", "createdAt": "2025-02-22T10:26:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12994, "title": "zoxide binary not detected if using official installation script", "createdAt": "2025-02-25T16:50:20Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 12995, "title": "Add search functionality for git aliases", "createdAt": "2025-02-27T05:52:08Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13006, "title": "kubectl plugin isn't loading", "createdAt": "2025-03-06T04:27:12Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13009, "title": "conda remove \"-all\" flag missing hyphen in cnrn and cnrp aliases", "createdAt": "2025-03-10T20:29:54Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13016, "title": "alias-finder bug — grep: invalid repetition count(s)", "createdAt": "2025-03-13T10:17:16Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13017, "title": "Handle Include for ssh_config in ssh plugin", "createdAt": "2025-03-13T12:22:37Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13020, "title": "Add support for autocomplete when using podman-docker wrapper", "createdAt": "2025-03-16T13:57:09Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13025, "title": "asdf plugin: outdated README and completion not working", "createdAt": "2025-03-22T16:20:45Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13028, "title": "plugin(alias-finder): Remove useless option --longer", "createdAt": "2025-03-23T15:08:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13032, "title": "Support $ZSH on a noexec-mounted partition", "createdAt": "2025-03-24T03:37:15Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13036, "title": "alias-finder is extremely slow on long commands", "createdAt": "2025-03-27T12:54:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13037, "title": "New DNF5 plugin seems to have a function name typo", "createdAt": "2025-03-27T13:50:21Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13039, "title": "alias-finder: \"grep: invalid repetition count(s)\" for long command", "createdAt": "2025-03-27T15:07:09Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13044, "title": "Today's upgrade broke my setup", "createdAt": "2025-03-30T21:52:56Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13048, "title": "Short URL for installation", "createdAt": "2025-04-01T10:40:36Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13052, "title": "Procs completion command has changed, resulting in an error if completion cache is not already filled out", "createdAt": "2025-04-04T18:22:36Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13054, "title": "GitLab CLI Plugin request", "createdAt": "2025-04-05T22:28:42Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13057, "title": "Golang: `go tool` autocompletions should support 1.24+ tools installed with `go get -tool`", "createdAt": "2025-04-09T19:08:42Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13058, "title": "Conflict between `Esc` key bindings for `tldr-command-line` and `sudo-command-line`", "createdAt": "2025-04-10T03:17:22Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13059, "title": "asdf plugin fails to initialize when asdf is installed locally in ~/.asdf", "createdAt": "2025-04-11T09:03:33Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13062, "title": "\"Branch\" plugin displays only the last portion of branch name if it includes forward slash \"/\"", "createdAt": "2025-04-12T12:55:57Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13067, "title": "Bug in Emacs ANSI Term tracking in Emacs plugin", "createdAt": "2025-04-15T06:37:42Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13069, "title": "Diasble `.` and `..` in directory completion.", "createdAt": "2025-04-16T19:07:59Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13076, "title": "kubectl plugin: add `kubectl auth can-i list` alias", "createdAt": "2025-04-21T10:39:07Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13082, "title": "Very slow response on git repository.", "createdAt": "2025-04-24T01:20:19Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13083, "title": "Fresh install on new mac doesn't apply theme", "createdAt": "2025-04-24T09:02:46Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13085, "title": "pushd +N does not change to the correct directory.", "createdAt": "2025-04-24T11:24:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13090, "title": "extract to another directory", "createdAt": "2025-04-25T08:12:00Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13091, "title": "Problem in ctrl+click", "createdAt": "2025-04-25T12:43:49Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13095, "title": "Debian Plugin - $apt_pref not used when sudo isn't present", "createdAt": "2025-04-28T03:54:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13106, "title": "keychain: Update plugin to be compatible with 2.9.0", "createdAt": "2025-05-06T10:29:36Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13109, "title": "Add tkn (tekton cli) completion plugin", "createdAt": "2025-05-06T21:41:15Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13112, "title": "Consolidate symfony, symfony2, and symfony6 plugins into a single Symfony plugin", "createdAt": "2025-05-07T17:51:17Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13114, "title": "Consolidate laravel, laravel4, and laravel5 plugins into a single Laravel plugin", "createdAt": "2025-05-08T15:49:51Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13117, "title": "All update changelog", "createdAt": "2025-05-14T01:36:40Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13119, "title": "Add GenAI functionality", "createdAt": "2025-05-15T04:16:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13120, "title": "zoxide if installed from package manager is not detected/picked up by Oh My Zsh", "createdAt": "2025-05-16T09:23:25Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13124, "title": "bug its a trash", "createdAt": "2025-05-19T17:03:18Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13130, "title": "zsh-interactive-cd plugin always ignores hidden dirs", "createdAt": "2025-05-22T22:43:26Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13131, "title": "zsh-interactive-cd does not automatically accept the last remaining match", "createdAt": "2025-05-22T22:47:20Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13132, "title": "Oh My Zsh interfering with latest iterm2 shell integration", "createdAt": "2025-05-23T00:05:48Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13148, "title": "It's not possible to download a full directory of a ohmyzsh plugin with SVN", "createdAt": "2025-05-28T23:11:20Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13150, "title": "kubernetes plugin: add `kubectl apply -k` alias", "createdAt": "2025-06-02T07:28:26Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13155, "title": "Un-autocomplete", "createdAt": "2025-06-05T17:26:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13156, "title": "Uninstalling Oh My Zsh deletes .zshrc", "createdAt": "2025-06-06T17:12:43Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13157, "title": "(emacs) 'emacsclient: file name or argument required' with 'emacs' command", "createdAt": "2025-06-07T09:06:41Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13170, "title": "No handler installed for fd 12", "createdAt": "2025-06-16T01:56:20Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13172, "title": "Color overflow in the git status in the agnoster theme in VSCode", "createdAt": "2025-06-16T17:17:24Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13174, "title": "SSH plugin completion not cleaning line endings", "createdAt": "2025-06-17T19:08:30Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13178, "title": "VSCode + Cursor: zsh: command not found: q", "createdAt": "2025-06-19T16:39:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13180, "title": "Bug Report", "createdAt": "2025-06-23T21:09:19Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13184, "title": "Installing OHMYZSH - compinit:527: no such file or directory: /usr/share/zsh/vendor-completions/_docker", "createdAt": "2025-06-25T08:10:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13193, "title": "Fix openssf scores", "createdAt": "2025-07-01T08:14:57Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13197, "title": "Symbol appearing before prompt", "createdAt": "2025-07-01T22:14:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13200, "title": "Automatically Install plugins", "createdAt": "2025-07-06T15:20:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13201, "title": "After update theme is broken", "createdAt": "2025-07-07T14:52:18Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13208, "title": "The diff command on the mac system is overridden by this line of code", "createdAt": "2025-07-11T05:17:57Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13213, "title": "Releases? For stable/static CI/CD installation", "createdAt": "2025-07-13T21:13:27Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13214, "title": "kubectl plugin: update namespace of current context", "createdAt": "2025-07-16T08:19:15Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13221, "title": "feat(web-search): add claude.ai and grok.com", "createdAt": "2025-07-22T14:33:14Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13226, "title": "Prompt cleanup issue in fishy-theme upon source ~/.zshrc", "createdAt": "2025-07-23T14:26:18Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13230, "title": "Error when opening a terminal or a new tab on the local machine", "createdAt": "2025-07-26T09:51:27Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13231, "title": "Update error \" unable to get random bytes for temporary file\"", "createdAt": "2025-07-28T09:13:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13234, "title": "Filter for verified PRs in `omz pr test`", "createdAt": "2025-07-28T17:40:07Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13242, "title": "Add alias for decoding kubernetes secrets", "createdAt": "2025-07-30T19:08:59Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13244, "title": "Search engine 'claude' not supported.", "createdAt": "2025-07-31T10:32:37Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13247, "title": "Some commands that pipe to a pager exit with error 141.", "createdAt": "2025-08-05T11:20:53Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13259, "title": "poetry-env plugin fails for pyproject.toml without [tool.poetry]", "createdAt": "2025-08-12T03:27:54Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13262, "title": "virtualenv doesn't respect `VIRTUAL_ENV_PROMPT`", "createdAt": "2025-08-12T23:00:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13265, "title": "Comment for `\\C-x\\C-e` Key Code Is Half Correct and Could Be Clarified", "createdAt": "2025-08-13T23:52:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13266, "title": "1password plugin ssh login with password and plugin.", "createdAt": "2025-08-14T16:56:29Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13267, "title": "It is impossible to delete directories", "createdAt": "2025-08-14T20:40:11Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13273, "title": "Add more git submodule aliases (git submodule status, git submodule deinit)", "createdAt": "2025-08-18T07:04:34Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13274, "title": "--unattended flag is not being honored and asks for input", "createdAt": "2025-08-18T09:38:18Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13290, "title": "magic-enter plug-in executes jj command if not installed", "createdAt": "2025-09-05T15:15:43Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13291, "title": "Linux screen exit error", "createdAt": "2025-09-06T05:57:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13292, "title": "Feat(rails-plugin): Rails alias for multiple database application", "createdAt": "2025-09-06T11:07:40Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13294, "title": "magic-enter - re-open issue when command not installed", "createdAt": "2025-09-08T19:04:06Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13295, "title": "add description to git aliases commands", "createdAt": "2025-09-10T11:06:14Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13303, "title": "brew plugin should eval shellenv even if brew is already on the path", "createdAt": "2025-09-13T23:11:54Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13310, "title": "Fuzzy matching causes completion candidates to not display properly", "createdAt": "2025-09-17T18:19:33Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13321, "title": "Linux screen exit error V2", "createdAt": "2025-09-20T10:29:12Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13326, "title": "Homebrew command-not-found code has changed", "createdAt": "2025-09-22T21:09:32Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13328, "title": "uninstall.sh drop all my settings and tokens stored in .zshrc", "createdAt": "2025-09-23T11:08:40Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13330, "title": "_omz_git_prompt_status:65: regex matching error: illegal byte sequence", "createdAt": "2025-09-25T08:45:19Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13331, "title": "Bug in vi-mode in linux under WSL", "createdAt": "2025-09-26T16:33:10Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13333, "title": "The git whatchanged command will be removed from Git as of the latest versions", "createdAt": "2025-09-27T02:00:14Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13335, "title": "Transient Prompt - appears to require enter twice for first command in new shell", "createdAt": "2025-09-27T16:56:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13339, "title": "^[OA input with flutter plugin", "createdAt": "2025-09-29T07:50:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13343, "title": "Add Pull Request (PR) Template", "createdAt": "2025-10-01T09:16:58Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13344, "title": "Add hacktoberfest-2025 Banner to README", "createdAt": "2025-10-01T09:17:36Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13348, "title": "Extract plugin extracts to current working directory instead of location of archive file", "createdAt": "2025-10-04T18:29:15Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13356, "title": "AltGr key combinations remapped to commands on German keyboard", "createdAt": "2025-10-06T14:19:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13366, "title": "pressing `tab` after writing `git` for some reason trigger `bin/test`", "createdAt": "2025-10-12T22:00:39Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13371, "title": "For OpenHarmony6.0", "createdAt": "2025-10-17T12:37:36Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13375, "title": "plugins/gradle: update to 7a3df48f", "createdAt": "2025-10-19T06:09:21Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13383, "title": "Plugins/Ubuntu: Install p[ackage with recomended packages", "createdAt": "2025-10-22T11:44:52Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13385, "title": "plugins/gradle: update to d51199b5", "createdAt": "2025-10-22T23:56:39Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13386, "title": "plugins/gradle: update to d51199b5", "createdAt": "2025-10-23T00:05:20Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13387, "title": "plugins/gradle: update to d51199b5", "createdAt": "2025-10-23T00:12:12Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13388, "title": "plugins/gradle: update to d51199b5", "createdAt": "2025-10-23T00:26:51Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13396, "title": "NVM not working if the NVM_SOURCE and  NVM_DIR are different", "createdAt": "2025-10-27T22:59:05Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13406, "title": "zcompdump files should prrobably be stored in $ZSH_CACHE_DIR", "createdAt": "2025-11-01T16:20:27Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13412, "title": "Partial Search + Case Insensitive strange behaviour", "createdAt": "2025-11-08T12:25:10Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13415, "title": "zsh-autosuggestions plugin should give suggestions based on current directory", "createdAt": "2025-11-09T12:46:37Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13416, "title": "alias-finder: BSD grep incompatibility with '{0,1} pattern causes errors on macOS", "createdAt": "2025-11-10T01:34:08Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13417, "title": "Terminal window breakage when expanding its size", "createdAt": "2025-11-10T18:50:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13419, "title": "File name completion endless mmap loop: \\xc2\\xa0something then xyz.som", "createdAt": "2025-11-11T13:43:00Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13426, "title": "java cmd  auto complete  is particularly slow", "createdAt": "2025-11-14T16:19:04Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13427, "title": "Update shop link to OpenSwag", "createdAt": "2025-11-15T16:19:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13433, "title": "Update all OpenSwag domain references to CommitGoods", "createdAt": "2025-11-20T01:28:31Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13435, "title": "Getting error: \"fork failed: resource temporarily unavailable\"", "createdAt": "2025-11-22T10:21:26Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13445, "title": "How do I make it so oh-my-zsh doesn't bother me with updates?", "createdAt": "2025-11-25T06:42:59Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13447, "title": "Auto-Fix corrupted history (Suggestion/Solution)", "createdAt": "2025-11-25T19:18:12Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13448, "title": "Hh", "createdAt": "2025-11-27T01:15:42Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13449, "title": "\"which export\" incorrectly reports \"shell reserved word\" instead of \"shell built-in command\"", "createdAt": "2025-11-27T08:35:18Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13450, "title": "diff is not work on macos", "createdAt": "2025-11-27T09:46:43Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13459, "title": "Support OSC52 in clipboard", "createdAt": "2025-12-01T10:26:20Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13460, "title": "extract plugin: Add unar as fallback for RAR files when unrar is not available", "createdAt": "2025-12-02T17:51:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13475, "title": "ohmyzsh installer confused in alpine linux", "createdAt": "2025-12-11T02:35:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13477, "title": "cd autocompletion does not work for ü,ö,ä", "createdAt": "2025-12-11T11:41:12Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13489, "title": "VSCode Copilot fails to start with macOS+ZSH", "createdAt": "2025-12-23T17:16:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13505, "title": "Bloating zshrc file", "createdAt": "2026-01-07T18:52:50Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13508, "title": "Add jja shortcut to jj plugin", "createdAt": "2026-01-09T07:50:13Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13515, "title": "This package completely destroyed my shell environment", "createdAt": "2026-01-14T21:45:18Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13516, "title": "Git Branch Does Not Appear on Prompt on some Mac OS", "createdAt": "2026-01-15T18:47:12Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13519, "title": "The inclusion of Grok as a search engine is concerning given recent CSAM news and does not reflect well on ohmyzsh", "createdAt": "2026-01-16T17:51:32Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13533, "title": "[BUG] trace trap crash on launch after Oh My Zsh update - cursor focus moves to prompt line", "createdAt": "2026-01-20T10:43:48Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13534, "title": "zsh-autosuggestions only works within the current session; suggestions from previous terminals are not available after reopening terminal", "createdAt": "2026-01-20T10:52:52Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13542, "title": "Negative number not allowed in -z", "createdAt": "2026-01-26T06:42:40Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13549, "title": "tmux detection doesn't work if `tmux` installed via brew.", "createdAt": "2026-02-01T17:33:38Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13550, "title": "scp remote:some/path/* . doesn't work", "createdAt": "2026-02-03T09:50:58Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13553, "title": "command `ozm update` fails to update", "createdAt": "2026-02-04T00:50:22Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13555, "title": "jj prompt override doesn't work when using git async-prompt", "createdAt": "2026-02-06T16:21:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13560, "title": "Support non origin git origin in aliases", "createdAt": "2026-02-12T09:05:36Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13563, "title": "Introduce versioning", "createdAt": "2026-02-12T18:29:18Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13565, "title": "new issue", "createdAt": "2026-02-14T05:05:26Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13582, "title": "Auto update", "createdAt": "2026-02-19T08:24:01Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13583, "title": "[oh-my-zsh] virtualenvwrapper plugin: Cannot find virtualenvwrapper.sh.", "createdAt": "2026-02-19T10:03:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13595, "title": "Add sub-commands to the SSH plugin to support port forwarding and proxy.", "createdAt": "2026-02-24T09:09:14Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13607, "title": "Add ruff plugin", "createdAt": "2026-03-02T11:56:31Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13608, "title": "Git aliases `gwip` and `gwipe` prone to typing errors", "createdAt": "2026-03-03T14:21:56Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13613, "title": "New theme: \"robbyrussell\" with command on new line", "createdAt": "2026-03-05T12:28:33Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13616, "title": "bug[#13615]: [NIT]tools/update.sh -- fix minor redundant variable declaration ", "createdAt": "2026-03-05T18:31:35Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13625, "title": "Add visual mode and visual line mode indicators to vi-mode plugin", "createdAt": "2026-03-10T13:31:19Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13628, "title": "$TERM in tmux is set to 'tmux' when it is 'xterm-direct' before launching tmux", "createdAt": "2026-03-11T22:13:44Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13637, "title": "ALS Function drops trailing Double Quote of Alias", "createdAt": "2026-03-16T21:46:56Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13640, "title": "Broken theme jonathan", "createdAt": "2026-03-20T13:22:22Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13650, "title": "Support releases in updater and changelog", "createdAt": "2026-03-26T17:30:50Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13661, "title": "Suggestion: More prominent post-install reminder to merge old .zshrc customizations", "createdAt": "2026-04-02T13:12:59Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13678, "title": "OMZ horrendously slow on latest Tahoe 26.3.1 on MacOS", "createdAt": "2026-04-09T13:20:00Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13679, "title": "Docker plugin fails to load with antigen", "createdAt": "2026-04-09T16:38:33Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13683, "title": "Feat: diff between current branch and develop/main branch", "createdAt": "2026-04-10T15:58:06Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13701, "title": "Shell errors when using nounset option", "createdAt": "2026-04-20T23:37:25Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13704, "title": "\"Homebrew's \"sbin\" was not found in your PATH\" after installing brew plugin", "createdAt": "2026-04-22T23:14:38Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13705, "title": "git prompt shows extra %% after branch name when histsubstpattern is enabled", "createdAt": "2026-04-24T12:29:09Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13709, "title": "`lib/termsupport.zsh` appears to trigger Windows Terminal freeze on tab close under Arch Linux on WSL 2", "createdAt": "2026-04-25T06:05:17Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13714, "title": "Stack overflow problem with z plugin introduced in #13710", "createdAt": "2026-04-27T19:50:04Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13719, "title": "Pipenv Changed Shell Completions in >= 2026.5.0", "createdAt": "2026-04-28T15:47:29Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13720, "title": "oh-my-zsh.sh compinit cache is invalidated on every startup when $fpath contains entries from other shell init files (brew, pyenv, conda, etc.)", "createdAt": "2026-04-28T23:56:56Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13728, "title": "Feature: Add Claude Code commands plugin (autocomplete + aliases)", "createdAt": "2026-05-04T05:11:11Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13736, "title": "Suggestion: Add caching to the `gi` function in gitignore plugin", "createdAt": "2026-05-09T22:11:11Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13763, "title": "updater: tag-based sync uses the configured branch and misses add/delete-only updates", "createdAt": "2026-05-23T22:30:37Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13784, "title": "plugins/gradle: update to 7f518c8d", "createdAt": "2026-05-31T07:28:26Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13785, "title": "plugins/kube-ps1: update to 52bd1ecf", "createdAt": "2026-05-31T07:28:28Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13788, "title": "Incus support", "createdAt": "2026-06-02T19:59:14Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13813, "title": "Introduce a cooldown feature for the auto-updater", "createdAt": "2026-06-12T17:47:49Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13818, "title": "`tt` plugin: case-only README rename (#13773) breaks auto-update on case-insensitive filesystems", "createdAt": "2026-06-14T11:03:55Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13824, "title": "docker plugin: missing --ssh flag completion for docker build command", "createdAt": "2026-06-15T11:04:56Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13826, "title": "compinit:489: bad math expression: operand expected at end of string", "createdAt": "2026-06-16T08:40:21Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13833, "title": "DotEnv multiple files", "createdAt": "2026-06-22T09:05:11Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13838, "title": "Minor robustness/cleanup issues in install.sh, completion.zsh, key-bindings.zsh, diagnostics.zsh", "createdAt": "2026-06-24T18:22:57Z", "state": "CLOSED", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13843, "title": "add gcb helper to copy current git branch name", "createdAt": "2026-06-29T00:45:57Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}
+{"number": 13844, "title": "On a Mac M4 laptop,  after using zsh always causes the terminal process to crash", "createdAt": "2026-06-29T08:16:41Z", "state": "OPEN", "repo": "ohmyzsh/ohmyzsh"}

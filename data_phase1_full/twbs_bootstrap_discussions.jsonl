@@ -1,0 +1,1085 @@
+{"number": 35627, "title": "v5 utilities API backport to v4", "createdAt": "2022-01-01T22:32:18Z", "repo": "twbs/bootstrap"}
+{"number": 35630, "title": "Bootstrap dropdown select with search?", "createdAt": "2022-01-02T09:19:17Z", "repo": "twbs/bootstrap"}
+{"number": 35632, "title": "Is there any detailed instructions on how to install this package, please - Noobs Guide?", "createdAt": "2022-01-02T10:41:51Z", "repo": "twbs/bootstrap"}
+{"number": 35652, "title": "Installer guide", "createdAt": "2022-01-05T11:37:17Z", "repo": "twbs/bootstrap"}
+{"number": 35654, "title": "data-bs-offset=\"50\" is not working", "createdAt": "2022-01-05T11:50:36Z", "repo": "twbs/bootstrap"}
+{"number": 35670, "title": "Is this visual change between 4 and 5 deliberate or a regression?", "createdAt": "2022-01-08T11:00:44Z", "repo": "twbs/bootstrap"}
+{"number": 35671, "title": "Boostrap Carousel V5 with Edge 41.16299.1004.0", "createdAt": "2022-01-10T09:44:45Z", "repo": "twbs/bootstrap"}
+{"number": 35672, "title": "Multi columns mixin \"make-cols\"", "createdAt": "2022-01-10T12:32:40Z", "repo": "twbs/bootstrap"}
+{"number": 35673, "title": "unable to pause bootstrap5 carousel", "createdAt": "2022-01-10T13:20:36Z", "repo": "twbs/bootstrap"}
+{"number": 35681, "title": "Suggest a new feature", "createdAt": "2022-01-10T16:38:47Z", "repo": "twbs/bootstrap"}
+{"number": 35695, "title": "An old question: scroll overflow content in a flex-grow container", "createdAt": "2022-01-18T09:31:19Z", "repo": "twbs/bootstrap"}
+{"number": 35698, "title": "Where's the util.js file?", "createdAt": "2022-01-18T16:53:19Z", "repo": "twbs/bootstrap"}
+{"number": 35700, "title": "build bootstrap with tailwindcss", "createdAt": "2022-01-19T16:57:59Z", "repo": "twbs/bootstrap"}
+{"number": 35707, "title": "Official Figma Kit for Bootstrap", "createdAt": "2022-01-21T20:12:43Z", "repo": "twbs/bootstrap"}
+{"number": 35724, "title": "How to close Bootstrap 5 Modal by using js code", "createdAt": "2022-01-25T17:23:45Z", "repo": "twbs/bootstrap"}
+{"number": 35732, "title": "Initial tab in a modal dialog (reopen dialog problem)", "createdAt": "2022-01-27T05:41:51Z", "repo": "twbs/bootstrap"}
+{"number": 35739, "title": "Background color not displayed in preview", "createdAt": "2022-01-28T08:08:05Z", "repo": "twbs/bootstrap"}
+{"number": 35742, "title": "Get a list of all Bootstrap variables in JSON", "createdAt": "2022-01-28T15:26:32Z", "repo": "twbs/bootstrap"}
+{"number": 35755, "title": "Docs for dropdown is id required or just missing", "createdAt": "2022-01-31T04:10:40Z", "repo": "twbs/bootstrap"}
+{"number": 35764, "title": "More Width / height options (vh-50, w-5, w-10...)", "createdAt": "2022-02-01T14:44:43Z", "repo": "twbs/bootstrap"}
+{"number": 35772, "title": "Migração para a versão 5", "createdAt": "2022-02-02T20:50:15Z", "repo": "twbs/bootstrap"}
+{"number": 35777, "title": "Google Translate prevents Bootstrap tabs to work", "createdAt": "2022-02-03T10:21:42Z", "repo": "twbs/bootstrap"}
+{"number": 35781, "title": "Nation builder", "createdAt": "2022-02-04T05:15:25Z", "repo": "twbs/bootstrap"}
+{"number": 35785, "title": "Scrolling disabled when using bootstrap + drag and drop", "createdAt": "2022-02-04T21:41:42Z", "repo": "twbs/bootstrap"}
+{"number": 35787, "title": "making a page responsive for mobile", "createdAt": "2022-02-04T22:19:00Z", "repo": "twbs/bootstrap"}
+{"number": 35790, "title": "Embedly widget", "createdAt": "2022-02-05T08:51:13Z", "repo": "twbs/bootstrap"}
+{"number": 35792, "title": "Need Navbar center align in Bootstrap 5.1.3", "createdAt": "2022-02-05T12:42:23Z", "repo": "twbs/bootstrap"}
+{"number": 35795, "title": "Bootstrap transitions instant but not smooth.", "createdAt": "2022-02-05T20:16:25Z", "repo": "twbs/bootstrap"}
+{"number": 35805, "title": "How can I prevent a popover from scrolling off its content?", "createdAt": "2022-02-08T08:22:32Z", "repo": "twbs/bootstrap"}
+{"number": 35807, "title": "Why does .container use --bs-gutter-width for padding?", "createdAt": "2022-02-08T09:30:15Z", "repo": "twbs/bootstrap"}
+{"number": 35811, "title": "Is there a way to \"anchor\" a background image via Bootstrap?", "createdAt": "2022-02-08T22:56:39Z", "repo": "twbs/bootstrap"}
+{"number": 35816, "title": "Intoducing some higly used clasess related to making flexbox useful", "createdAt": "2022-02-10T13:17:59Z", "repo": "twbs/bootstrap"}
+{"number": 35834, "title": "Row and Form-floating", "createdAt": "2022-02-12T18:33:13Z", "repo": "twbs/bootstrap"}
+{"number": 35838, "title": "Bootstrap Modal can not overlap in Bootstrap 5.1.3 version", "createdAt": "2022-02-14T10:58:56Z", "repo": "twbs/bootstrap"}
+{"number": 35849, "title": "how to show validation errors from an inactive tabs?", "createdAt": "2022-02-16T15:38:22Z", "repo": "twbs/bootstrap"}
+{"number": 35855, "title": "Bootstrap 5 checkboxes only works for line-height 1.5", "createdAt": "2022-02-16T21:04:06Z", "repo": "twbs/bootstrap"}
+{"number": 35873, "title": "Figma - Bootstrap 5 Design System - UI Kit", "createdAt": "2022-02-20T12:52:15Z", "repo": "twbs/bootstrap"}
+{"number": 35889, "title": "Dark Mode Please", "createdAt": "2022-02-23T17:37:21Z", "repo": "twbs/bootstrap"}
+{"number": 35904, "title": "Bootstrap install failing with Rails 7", "createdAt": "2022-02-25T11:36:59Z", "repo": "twbs/bootstrap"}
+{"number": 35912, "title": "build failed(js-test-karma)", "createdAt": "2022-02-28T06:54:53Z", "repo": "twbs/bootstrap"}
+{"number": 35929, "title": "Form control - required", "createdAt": "2022-03-01T18:36:51Z", "repo": "twbs/bootstrap"}
+{"number": 35951, "title": "v5.2 upcoming", "createdAt": "2022-03-04T15:04:06Z", "repo": "twbs/bootstrap"}
+{"number": 35953, "title": "Multi-column Navbar Dropdown for BS5", "createdAt": "2022-03-04T16:21:24Z", "repo": "twbs/bootstrap"}
+{"number": 35958, "title": "Bootstrap v5.0 SCSS: Duplicate CSS variables in :root", "createdAt": "2022-03-06T12:09:36Z", "repo": "twbs/bootstrap"}
+{"number": 35959, "title": "Admin Panel Synthesis", "createdAt": "2022-03-06T21:00:05Z", "repo": "twbs/bootstrap"}
+{"number": 35992, "title": "Bootstrap 5 RTL", "createdAt": "2022-03-10T12:49:43Z", "repo": "twbs/bootstrap"}
+{"number": 35999, "title": "Reworked and extended grid classes (`.g-*`)", "createdAt": "2022-03-11T08:55:16Z", "repo": "twbs/bootstrap"}
+{"number": 36001, "title": "Bootstrap 3.4.1 vulnerabilities  - do they exist?", "createdAt": "2022-03-11T10:09:10Z", "repo": "twbs/bootstrap"}
+{"number": 36010, "title": "Help with spacing?", "createdAt": "2022-03-11T23:57:46Z", "repo": "twbs/bootstrap"}
+{"number": 36011, "title": "Bootstrap, direct DOM manipulation & Vue's virtual DOM #310", "createdAt": "2022-03-12T07:21:40Z", "repo": "twbs/bootstrap"}
+{"number": 36020, "title": "Navbar inop or cookies popup inop", "createdAt": "2022-03-14T21:12:51Z", "repo": "twbs/bootstrap"}
+{"number": 36033, "title": "CSS variables in the source code become SCSS in npmjs", "createdAt": "2022-03-17T18:46:27Z", "repo": "twbs/bootstrap"}
+{"number": 36035, "title": "What's reason to mass replacing SCSS variables to CSS variables?", "createdAt": "2022-03-18T00:53:25Z", "repo": "twbs/bootstrap"}
+{"number": 36037, "title": "Breaking changes in the \"main\" branch by using CSS variables?", "createdAt": "2022-03-18T09:35:42Z", "repo": "twbs/bootstrap"}
+{"number": 36043, "title": "Automatic color contrast with CSS Variables", "createdAt": "2022-03-19T14:23:42Z", "repo": "twbs/bootstrap"}
+{"number": 36044, "title": "Template from bootstrap webpage public available", "createdAt": "2022-03-19T16:41:44Z", "repo": "twbs/bootstrap"}
+{"number": 36045, "title": "replace popper with floating ui to enable complete module bundling", "createdAt": "2022-03-20T09:11:58Z", "repo": "twbs/bootstrap"}
+{"number": 36050, "title": "SASS @use instead of @import", "createdAt": "2022-03-22T04:59:24Z", "repo": "twbs/bootstrap"}
+{"number": 36062, "title": "Add additional color utility classes similar to tailwind", "createdAt": "2022-03-25T09:57:34Z", "repo": "twbs/bootstrap"}
+{"number": 36067, "title": "Bootstrap Icons <i> tag versus <span>", "createdAt": "2022-03-27T11:10:16Z", "repo": "twbs/bootstrap"}
+{"number": 36068, "title": "Nav Pane - Odd at Mobile view but fine at Desktop", "createdAt": "2022-03-27T18:59:37Z", "repo": "twbs/bootstrap"}
+{"number": 36102, "title": "Bootstrap .js errors in Eclipse IDE", "createdAt": "2022-04-01T13:20:59Z", "repo": "twbs/bootstrap"}
+{"number": 36103, "title": "Website looking weird? Anyone else?", "createdAt": "2022-04-01T15:39:44Z", "repo": "twbs/bootstrap"}
+{"number": 36108, "title": "My application had bootstrap v3.2.0 and now we have updated to latest version v5.1.3 but i'm getting issue with dialogbox.", "createdAt": "2022-04-02T18:08:31Z", "repo": "twbs/bootstrap"}
+{"number": 36111, "title": "I got trouble when will hide modal not working", "createdAt": "2022-04-04T01:25:21Z", "repo": "twbs/bootstrap"}
+{"number": 36113, "title": "What's the common solution to go from a Desktop to a Mobile Layout ?", "createdAt": "2022-04-04T19:05:22Z", "repo": "twbs/bootstrap"}
+{"number": 36121, "title": "How to use Bootstrap 5 with Vite?", "createdAt": "2022-04-05T18:31:30Z", "repo": "twbs/bootstrap"}
+{"number": 36134, "title": "Bootstrap theming error when setting colors from css to scss file", "createdAt": "2022-04-08T14:18:57Z", "repo": "twbs/bootstrap"}
+{"number": 36152, "title": "Row And Column in Firefox", "createdAt": "2022-04-12T07:28:34Z", "repo": "twbs/bootstrap"}
+{"number": 36164, "title": "post-authentication redirect URL feature", "createdAt": "2022-04-13T14:49:22Z", "repo": "twbs/bootstrap"}
+{"number": 36166, "title": "Bootstrap 5 opening mobile menu changes div height", "createdAt": "2022-04-13T20:50:10Z", "repo": "twbs/bootstrap"}
+{"number": 36170, "title": "How to use LTR and RTL at the same time?", "createdAt": "2022-04-14T07:30:51Z", "repo": "twbs/bootstrap"}
+{"number": 36174, "title": "Drag and drop upload area", "createdAt": "2022-04-14T18:40:03Z", "repo": "twbs/bootstrap"}
+{"number": 36175, "title": "Table sort", "createdAt": "2022-04-14T18:41:20Z", "repo": "twbs/bootstrap"}
+{"number": 36181, "title": "Chrome shows different result for modal custom event", "createdAt": "2022-04-16T12:10:03Z", "repo": "twbs/bootstrap"}
+{"number": 36184, "title": "5.1.3 map-bug", "createdAt": "2022-04-17T11:25:25Z", "repo": "twbs/bootstrap"}
+{"number": 36197, "title": "Why input-group has position: relative?", "createdAt": "2022-04-19T11:51:25Z", "repo": "twbs/bootstrap"}
+{"number": 36200, "title": "Sticky navbar won't work over divs", "createdAt": "2022-04-20T10:35:18Z", "repo": "twbs/bootstrap"}
+{"number": 36206, "title": "looking to make some bootstraps tweaks", "createdAt": "2022-04-21T05:34:11Z", "repo": "twbs/bootstrap"}
+{"number": 36208, "title": "Using bootstrap data- attributes with webpack", "createdAt": "2022-04-21T15:01:43Z", "repo": "twbs/bootstrap"}
+{"number": 36213, "title": "boostrap elements use no javascript that is safe to Virtual DOM frameworks(react,vue,etc)", "createdAt": "2022-04-23T16:52:18Z", "repo": "twbs/bootstrap"}
+{"number": 36224, "title": "Live search drop down menu with google sheets", "createdAt": "2022-04-25T22:25:17Z", "repo": "twbs/bootstrap"}
+{"number": 36243, "title": "Responsive ratio in next BS version?", "createdAt": "2022-04-29T01:18:08Z", "repo": "twbs/bootstrap"}
+{"number": 36250, "title": "Is there a way to prefix css and its Javascript to avoid conflicts?", "createdAt": "2022-04-29T13:33:16Z", "repo": "twbs/bootstrap"}
+{"number": 36271, "title": "Disable Tab Hover", "createdAt": "2022-05-03T16:31:26Z", "repo": "twbs/bootstrap"}
+{"number": 36274, "title": "Your bootstrap/package.json repeats one section", "createdAt": "2022-05-04T02:37:30Z", "repo": "twbs/bootstrap"}
+{"number": 36282, "title": "Maven: build failed while building bootstrap.bundle.min.js contents", "createdAt": "2022-05-05T07:16:45Z", "repo": "twbs/bootstrap"}
+{"number": 36284, "title": "Scrollspy activation event won't fire, but still works as expected, when [data-bs-spy=\"scroll\"] added to the body element", "createdAt": "2022-05-05T19:39:44Z", "repo": "twbs/bootstrap"}
+{"number": 36285, "title": "\"Bootstrap doesn't allow more ..\" isn't really an error.", "createdAt": "2022-05-06T03:36:35Z", "repo": "twbs/bootstrap"}
+{"number": 36286, "title": "React: autoprefixer: Replace color-adjust to print-color-adjust.", "createdAt": "2022-05-06T09:52:38Z", "repo": "twbs/bootstrap"}
+{"number": 36323, "title": "release date?", "createdAt": "2022-05-10T16:10:02Z", "repo": "twbs/bootstrap"}
+{"number": 36334, "title": "Material Scrollbar", "createdAt": "2022-05-11T12:54:20Z", "repo": "twbs/bootstrap"}
+{"number": 36341, "title": "Helping The Beginners Click Effect", "createdAt": "2022-05-13T13:44:05Z", "repo": "twbs/bootstrap"}
+{"number": 36348, "title": "Could Someone Help me to Adapt One Of These Modal Codes to This Structure", "createdAt": "2022-05-13T22:03:50Z", "repo": "twbs/bootstrap"}
+{"number": 36355, "title": "sidebar / scroll-sidebar for navbar?", "createdAt": "2022-05-14T14:33:45Z", "repo": "twbs/bootstrap"}
+{"number": 36356, "title": "Form input-group & form-floating; nowrap doesn't help my buttton?", "createdAt": "2022-05-14T14:47:30Z", "repo": "twbs/bootstrap"}
+{"number": 36369, "title": "How to override component-level CSS variables?", "createdAt": "2022-05-16T14:59:20Z", "repo": "twbs/bootstrap"}
+{"number": 36371, "title": "How to modify the color of .navbar-dark?", "createdAt": "2022-05-16T20:02:26Z", "repo": "twbs/bootstrap"}
+{"number": 36374, "title": "Fix Dropdown documentation", "createdAt": "2022-05-17T02:47:24Z", "repo": "twbs/bootstrap"}
+{"number": 36383, "title": "Unable to set dropdown boundary in Bootstrap 5", "createdAt": "2022-05-17T16:49:17Z", "repo": "twbs/bootstrap"}
+{"number": 36385, "title": "Modified row spacing in Bootstrap 5", "createdAt": "2022-05-17T16:53:06Z", "repo": "twbs/bootstrap"}
+{"number": 36388, "title": "Returning to bootstrap, what's changed?", "createdAt": "2022-05-17T22:34:10Z", "repo": "twbs/bootstrap"}
+{"number": 36389, "title": "Bootstrap 5 Improvement: Forms now require mb-3 on every group?", "createdAt": "2022-05-18T02:34:14Z", "repo": "twbs/bootstrap"}
+{"number": 36392, "title": "Breakpoints for fs-1,  fs-2.... classes", "createdAt": "2022-05-18T10:04:04Z", "repo": "twbs/bootstrap"}
+{"number": 36416, "title": "Bootstrap uses cookies?", "createdAt": "2022-05-21T04:18:35Z", "repo": "twbs/bootstrap"}
+{"number": 36422, "title": "Breaking points and width for responsive images?", "createdAt": "2022-05-23T00:55:14Z", "repo": "twbs/bootstrap"}
+{"number": 36433, "title": "Nav tab on refresh", "createdAt": "2022-05-24T07:34:48Z", "repo": "twbs/bootstrap"}
+{"number": 36437, "title": "v5.2 add, modify and rename utilities the right way?", "createdAt": "2022-05-25T09:04:32Z", "repo": "twbs/bootstrap"}
+{"number": 36438, "title": "Use Bootstrap's Utility API from my scss file", "createdAt": "2022-05-25T09:12:58Z", "repo": "twbs/bootstrap"}
+{"number": 36439, "title": "How to setup validation for 2 buttons (eg. gender button) on asp.net using bootstrap 5?", "createdAt": "2022-05-25T09:55:48Z", "repo": "twbs/bootstrap"}
+{"number": 36443, "title": "How to display fonts in TRUE monospace?", "createdAt": "2022-05-26T13:14:25Z", "repo": "twbs/bootstrap"}
+{"number": 36448, "title": "Modernize navbar design", "createdAt": "2022-05-27T06:21:03Z", "repo": "twbs/bootstrap"}
+{"number": 36451, "title": "Bootstrap recommended best practices?", "createdAt": "2022-05-27T19:55:41Z", "repo": "twbs/bootstrap"}
+{"number": 36453, "title": "Prefix class to boostrap code", "createdAt": "2022-05-28T01:42:56Z", "repo": "twbs/bootstrap"}
+{"number": 36462, "title": "Why not \"defer\" bootstrap javascript in <head>?", "createdAt": "2022-05-30T08:41:53Z", "repo": "twbs/bootstrap"}
+{"number": 36475, "title": "Icon filter can't find result when query contained dash", "createdAt": "2022-05-31T22:01:29Z", "repo": "twbs/bootstrap"}
+{"number": 36486, "title": "Truly centering the menu in Navbar?", "createdAt": "2022-06-02T17:09:48Z", "repo": "twbs/bootstrap"}
+{"number": 36512, "title": "Bootstrap doesn't work anymore in windows 7?", "createdAt": "2022-06-06T07:20:40Z", "repo": "twbs/bootstrap"}
+{"number": 36539, "title": "Need feedback on making navbar background transparent/disappear when collapsed.", "createdAt": "2022-06-10T03:09:52Z", "repo": "twbs/bootstrap"}
+{"number": 36543, "title": "How was the defaults of $container-max-widths decided?", "createdAt": "2022-06-10T21:29:39Z", "repo": "twbs/bootstrap"}
+{"number": 36552, "title": "_carousel.scss /* rtl:begin:ignore */", "createdAt": "2022-06-12T11:04:57Z", "repo": "twbs/bootstrap"}
+{"number": 36555, "title": "Using CSS Grid with Bootstrap? Is it time, yet?", "createdAt": "2022-06-12T19:00:17Z", "repo": "twbs/bootstrap"}
+{"number": 36556, "title": "Theme generator for Bootstrap 5?", "createdAt": "2022-06-12T21:29:01Z", "repo": "twbs/bootstrap"}
+{"number": 36557, "title": "Can't see porposal class for bootstrap in VS", "createdAt": "2022-06-13T00:18:35Z", "repo": "twbs/bootstrap"}
+{"number": 36558, "title": "Tooltips not showing when using Bootstrap", "createdAt": "2022-06-13T01:34:56Z", "repo": "twbs/bootstrap"}
+{"number": 36562, "title": "how can i make a popover not dismiss when clicked?", "createdAt": "2022-06-13T23:29:56Z", "repo": "twbs/bootstrap"}
+{"number": 36564, "title": "Bootstrap 5 Scrollbar shakiness when hovering over elements (tabs)", "createdAt": "2022-06-14T00:26:19Z", "repo": "twbs/bootstrap"}
+{"number": 36577, "title": "Bootstrap Left Sidebar", "createdAt": "2022-06-14T12:56:09Z", "repo": "twbs/bootstrap"}
+{"number": 36578, "title": "External Link Icon css?", "createdAt": "2022-06-14T13:32:59Z", "repo": "twbs/bootstrap"}
+{"number": 36580, "title": "How to call Modal.handleUpdate()", "createdAt": "2022-06-14T19:49:18Z", "repo": "twbs/bootstrap"}
+{"number": 36592, "title": "jQueryUI Selectable equivalent", "createdAt": "2022-06-16T07:04:31Z", "repo": "twbs/bootstrap"}
+{"number": 36599, "title": "Tooltip hide not working", "createdAt": "2022-06-18T16:11:49Z", "repo": "twbs/bootstrap"}
+{"number": 36602, "title": "Why should variable overrides must come after the functions are imported, while customizing bootstrap?", "createdAt": "2022-06-19T07:38:54Z", "repo": "twbs/bootstrap"}
+{"number": 36604, "title": "Hide the offcanvas on mobile back", "createdAt": "2022-06-19T16:02:21Z", "repo": "twbs/bootstrap"}
+{"number": 36611, "title": "Accordion not collapsing on title click in vue 3 component", "createdAt": "2022-06-20T18:47:04Z", "repo": "twbs/bootstrap"}
+{"number": 36612, "title": "how to build and host static docs ?", "createdAt": "2022-06-20T19:20:13Z", "repo": "twbs/bootstrap"}
+{"number": 36626, "title": "Responsive offcanvas and need of `data-bs-target=\"#offcanvasResponsive\"` for close button", "createdAt": "2022-06-23T13:06:44Z", "repo": "twbs/bootstrap"}
+{"number": 36645, "title": "Dropdown menu not working in vue 3 components", "createdAt": "2022-06-27T09:42:22Z", "repo": "twbs/bootstrap"}
+{"number": 36638, "title": "\"setCustomValidity in JavaScript.\" But what is the effect of that?", "createdAt": "2022-06-27T19:50:51Z", "repo": "twbs/bootstrap"}
+{"number": 36649, "title": "Global form sizing", "createdAt": "2022-06-30T12:24:48Z", "repo": "twbs/bootstrap"}
+{"number": 36651, "title": "Dropdown WITHOUT Javascript", "createdAt": "2022-06-30T22:31:05Z", "repo": "twbs/bootstrap"}
+{"number": 36654, "title": "ScrollSpy - multiple 'active' nav items at once?", "createdAt": "2022-07-01T12:29:53Z", "repo": "twbs/bootstrap"}
+{"number": 36664, "title": "data-tooltip-content not working properly on disabled buttons", "createdAt": "2022-07-03T09:46:47Z", "repo": "twbs/bootstrap"}
+{"number": 36671, "title": "No collapse item navbar.", "createdAt": "2022-07-04T18:07:54Z", "repo": "twbs/bootstrap"}
+{"number": 36673, "title": "Expanding sidebar", "createdAt": "2022-07-04T23:26:29Z", "repo": "twbs/bootstrap"}
+{"number": 36682, "title": "Getting weird console errors", "createdAt": "2022-07-06T13:03:54Z", "repo": "twbs/bootstrap"}
+{"number": 36685, "title": "Does bootstrap provide any custom styling for HTML5 Video?", "createdAt": "2022-07-06T17:54:05Z", "repo": "twbs/bootstrap"}
+{"number": 36686, "title": "Importing Bootstrap 5 into a Vue3/Vite project", "createdAt": "2022-07-06T18:22:53Z", "repo": "twbs/bootstrap"}
+{"number": 36690, "title": "How do I override Bootstrap text with Google Fonts?", "createdAt": "2022-07-06T22:34:39Z", "repo": "twbs/bootstrap"}
+{"number": 36693, "title": "How do I change the outline colour on a text input?", "createdAt": "2022-07-06T23:38:13Z", "repo": "twbs/bootstrap"}
+{"number": 36695, "title": "Search capability support is not present for select", "createdAt": "2022-07-07T10:09:57Z", "repo": "twbs/bootstrap"}
+{"number": 36697, "title": "Is it ideal to use bootstrap and scss together?", "createdAt": "2022-07-07T13:00:58Z", "repo": "twbs/bootstrap"}
+{"number": 36698, "title": "Added new custom colors to $theme-colors map but related classes are not created for text and background colors", "createdAt": "2022-07-07T13:03:45Z", "repo": "twbs/bootstrap"}
+{"number": 36705, "title": "Drag and drop", "createdAt": "2022-07-08T10:26:24Z", "repo": "twbs/bootstrap"}
+{"number": 36707, "title": "Change :valid pseudoclass in validator in Angular reactive forms", "createdAt": "2022-07-08T14:18:35Z", "repo": "twbs/bootstrap"}
+{"number": 36708, "title": "508 Compliance - Search Field Tabbing Not in Order", "createdAt": "2022-07-08T19:32:14Z", "repo": "twbs/bootstrap"}
+{"number": 36709, "title": "Help! Code to make a background img in the body that is stored stored locally", "createdAt": "2022-07-09T02:05:12Z", "repo": "twbs/bootstrap"}
+{"number": 36719, "title": "Version 5.2.x is still in beta so latest docs should be 5.1.3 and not 5.2.x", "createdAt": "2022-07-11T15:13:17Z", "repo": "twbs/bootstrap"}
+{"number": 36720, "title": "How to add  theme $custom-colors using default BS names w/o duplication?", "createdAt": "2022-07-11T23:03:31Z", "repo": "twbs/bootstrap"}
+{"number": 36728, "title": "Image carousel buttons", "createdAt": "2022-07-12T18:26:37Z", "repo": "twbs/bootstrap"}
+{"number": 36756, "title": "Unable to stop Carousel on large screen", "createdAt": "2022-07-16T23:35:21Z", "repo": "twbs/bootstrap"}
+{"number": 36761, "title": "Can I use Bootstrap v5's JavaScript helper functions like EventHandler, SelectorEngine?", "createdAt": "2022-07-18T03:27:37Z", "repo": "twbs/bootstrap"}
+{"number": 36765, "title": "Align label and range to be in the same line", "createdAt": "2022-07-18T09:41:32Z", "repo": "twbs/bootstrap"}
+{"number": 36766, "title": "use BS in PDF layout output", "createdAt": "2022-07-18T18:00:37Z", "repo": "twbs/bootstrap"}
+{"number": 36773, "title": "\".justify-content-end\" to align menu links to right side not working", "createdAt": "2022-07-19T13:09:05Z", "repo": "twbs/bootstrap"}
+{"number": 36777, "title": "How can you prevent bootstrap version collisions using shadow dom", "createdAt": "2022-07-19T21:45:15Z", "repo": "twbs/bootstrap"}
+{"number": 36783, "title": "Adding options to select class=\"selectpicker\" does not work (moved)", "createdAt": "2022-07-20T06:21:40Z", "repo": "twbs/bootstrap"}
+{"number": 36784, "title": "Navbar dropdown v.5.2.0", "createdAt": "2022-07-20T07:41:40Z", "repo": "twbs/bootstrap"}
+{"number": 36786, "title": "How to make nav links close the collapse menu?", "createdAt": "2022-07-20T10:45:19Z", "repo": "twbs/bootstrap"}
+{"number": 36792, "title": "How to use theme colors (e.g. green-500) as the default primary color?", "createdAt": "2022-07-20T17:29:43Z", "repo": "twbs/bootstrap"}
+{"number": 36798, "title": "[Brainstorming]: Optimization - Get rid of unused css.", "createdAt": "2022-07-21T06:48:47Z", "repo": "twbs/bootstrap"}
+{"number": 36799, "title": "4.6.2 release to rubygems?", "createdAt": "2022-07-21T13:15:06Z", "repo": "twbs/bootstrap"}
+{"number": 36802, "title": "Missing utility class in bootstrap 5", "createdAt": "2022-07-21T14:55:27Z", "repo": "twbs/bootstrap"}
+{"number": 36810, "title": "Bootstrap 5: Modal keeps open after History Back and cannot be closed", "createdAt": "2022-07-22T11:56:52Z", "repo": "twbs/bootstrap"}
+{"number": 36818, "title": "Typescript help with initiating bootstrap components in javascript", "createdAt": "2022-07-22T19:57:50Z", "repo": "twbs/bootstrap"}
+{"number": 36832, "title": "Monochromatic mode", "createdAt": "2022-07-23T22:09:24Z", "repo": "twbs/bootstrap"}
+{"number": 36835, "title": "why bootstrap use sass instead of stylus", "createdAt": "2022-07-25T02:19:56Z", "repo": "twbs/bootstrap"}
+{"number": 36840, "title": "A \"what are the core team up to\" page", "createdAt": "2022-07-25T16:33:42Z", "repo": "twbs/bootstrap"}
+{"number": 36843, "title": "Customizing classes for pseudo elements", "createdAt": "2022-07-26T08:17:19Z", "repo": "twbs/bootstrap"}
+{"number": 36859, "title": "Modal option to not append to document.body?", "createdAt": "2022-07-28T18:00:18Z", "repo": "twbs/bootstrap"}
+{"number": 36866, "title": "More Than 2 dropdowns in bootstrap v5.2 is breaking headers", "createdAt": "2022-07-30T12:41:43Z", "repo": "twbs/bootstrap"}
+{"number": 36881, "title": "Bootstrap 5.2 - Any JS dependency changes?", "createdAt": "2022-08-02T08:25:08Z", "repo": "twbs/bootstrap"}
+{"number": 36893, "title": "Bootstrap 5.2 isolation styles and", "createdAt": "2022-08-03T08:22:03Z", "repo": "twbs/bootstrap"}
+{"number": 36903, "title": "Some problems with attach Bootstrap 5.2 to Ruby on Rails", "createdAt": "2022-08-04T17:45:29Z", "repo": "twbs/bootstrap"}
+{"number": 36911, "title": "Bootstrap CDN", "createdAt": "2022-08-05T07:40:12Z", "repo": "twbs/bootstrap"}
+{"number": 36922, "title": "Codekit Bootstrap 5.2 main.js error bootstrap.bundle.js works perfect", "createdAt": "2022-08-08T09:29:46Z", "repo": "twbs/bootstrap"}
+{"number": 36926, "title": "Utilities to warkaround calc() limits", "createdAt": "2022-08-08T16:23:07Z", "repo": "twbs/bootstrap"}
+{"number": 37061, "title": ".", "createdAt": "2022-08-09T13:40:09Z", "repo": "twbs/bootstrap"}
+{"number": 36942, "title": "Offcanvas execute multiple time", "createdAt": "2022-08-11T10:18:26Z", "repo": "twbs/bootstrap"}
+{"number": 36951, "title": "Inconsistent behavior of Scrollspy after 5.2 update", "createdAt": "2022-08-14T15:56:31Z", "repo": "twbs/bootstrap"}
+{"number": 36952, "title": "Why not all components can be activates without writing JS?", "createdAt": "2022-08-14T16:07:19Z", "repo": "twbs/bootstrap"}
+{"number": 36954, "title": "odd behavior when customizing with Sass", "createdAt": "2022-08-14T18:19:01Z", "repo": "twbs/bootstrap"}
+{"number": 36955, "title": "Documentation site Algolia search not working on mobile view", "createdAt": "2022-08-15T10:24:59Z", "repo": "twbs/bootstrap"}
+{"number": 36957, "title": "Responsive utilities. Bootstrap generate only min-width.", "createdAt": "2022-08-15T12:50:58Z", "repo": "twbs/bootstrap"}
+{"number": 36977, "title": "Example Tooltips and popovers no works.", "createdAt": "2022-08-16T15:31:33Z", "repo": "twbs/bootstrap"}
+{"number": 36984, "title": "Activatable button", "createdAt": "2022-08-18T10:49:42Z", "repo": "twbs/bootstrap"}
+{"number": 36988, "title": "⏪ Return `nav-divider`", "createdAt": "2022-08-19T11:21:03Z", "repo": "twbs/bootstrap"}
+{"number": 36993, "title": "Table border", "createdAt": "2022-08-20T11:15:03Z", "repo": "twbs/bootstrap"}
+{"number": 36994, "title": "Undefined variable. } @else { @return rgba (var(--#${$prefix}", "createdAt": "2022-08-20T13:13:25Z", "repo": "twbs/bootstrap"}
+{"number": 36998, "title": "Bootstrap 5.2 : should btn-link have a gradient?", "createdAt": "2022-08-21T17:32:39Z", "repo": "twbs/bootstrap"}
+{"number": 36999, "title": "Bootstrap 5.2 - How to toggle a dropdown using javascript?", "createdAt": "2022-08-22T02:15:43Z", "repo": "twbs/bootstrap"}
+{"number": 37004, "title": ".fixed-bottom gets overwritten by .navbar's position css property class", "createdAt": "2022-08-22T19:16:01Z", "repo": "twbs/bootstrap"}
+{"number": 37020, "title": "Disable validation for specific input fields of a form", "createdAt": "2022-08-24T11:25:29Z", "repo": "twbs/bootstrap"}
+{"number": 37025, "title": "BS Modal over Modal", "createdAt": "2022-08-25T11:14:46Z", "repo": "twbs/bootstrap"}
+{"number": 37028, "title": "Auto-generate columns", "createdAt": "2022-08-25T14:51:00Z", "repo": "twbs/bootstrap"}
+{"number": 37031, "title": "Collapse without specifying id", "createdAt": "2022-08-26T08:52:04Z", "repo": "twbs/bootstrap"}
+{"number": 37036, "title": "Unneccesary and broken code block if i think", "createdAt": "2022-08-26T21:36:54Z", "repo": "twbs/bootstrap"}
+{"number": 37041, "title": "Artifact when displaying more than 1 font awesome icon", "createdAt": "2022-08-27T18:56:25Z", "repo": "twbs/bootstrap"}
+{"number": 37057, "title": "CSS Variables - setting --bs-primary won't affect button components", "createdAt": "2022-08-30T15:45:41Z", "repo": "twbs/bootstrap"}
+{"number": 37060, "title": "How can I convert bs dropdown into bs collapsible ( according )", "createdAt": "2022-08-31T15:11:39Z", "repo": "twbs/bootstrap"}
+{"number": 37066, "title": "How to save Bootstrap components as self-sufficient code?", "createdAt": "2022-09-01T13:18:14Z", "repo": "twbs/bootstrap"}
+{"number": 37083, "title": "Bootstrap Webpack Image path configurations", "createdAt": "2022-09-05T04:29:34Z", "repo": "twbs/bootstrap"}
+{"number": 37096, "title": "New BS5 Accordion: number of items restricted?", "createdAt": "2022-09-06T16:45:14Z", "repo": "twbs/bootstrap"}
+{"number": 37108, "title": "nav tabs not working", "createdAt": "2022-09-08T16:07:27Z", "repo": "twbs/bootstrap"}
+{"number": 37113, "title": "Modal issues in 5.2.1 version", "createdAt": "2022-09-09T10:06:16Z", "repo": "twbs/bootstrap"}
+{"number": 37150, "title": "How to import sizing and spacing only?", "createdAt": "2022-09-14T12:33:05Z", "repo": "twbs/bootstrap"}
+{"number": 37157, "title": "Bootstrap Build issue", "createdAt": "2022-09-15T07:12:02Z", "repo": "twbs/bootstrap"}
+{"number": 37163, "title": "popover hide() not working", "createdAt": "2022-09-16T19:51:00Z", "repo": "twbs/bootstrap"}
+{"number": 37164, "title": "Why are breakpoints the building blocks of responsive design?", "createdAt": "2022-09-16T22:47:16Z", "repo": "twbs/bootstrap"}
+{"number": 37166, "title": "Placing a carousel below a sticky navbar", "createdAt": "2022-09-18T05:53:23Z", "repo": "twbs/bootstrap"}
+{"number": 37168, "title": "Split components", "createdAt": "2022-09-18T17:24:54Z", "repo": "twbs/bootstrap"}
+{"number": 37174, "title": "Combine button with badge class, icon and status indicator?", "createdAt": "2022-09-19T11:44:55Z", "repo": "twbs/bootstrap"}
+{"number": 37176, "title": "AdminLTE vs Pure Bootstrap for a new web project?", "createdAt": "2022-09-19T17:23:35Z", "repo": "twbs/bootstrap"}
+{"number": 37181, "title": "Accordion gets out of focus when one of the accordion panel with larger content get closed", "createdAt": "2022-09-20T11:22:37Z", "repo": "twbs/bootstrap"}
+{"number": 37183, "title": "How should responsive display classes be overriden using Javascript?", "createdAt": "2022-09-20T13:57:11Z", "repo": "twbs/bootstrap"}
+{"number": 37188, "title": "Как сделать подсказку при клике по иконке i (Информация)?", "createdAt": "2022-09-21T23:18:18Z", "repo": "twbs/bootstrap"}
+{"number": 37192, "title": "Select (and others) form input with dynamic values (ajax) & search", "createdAt": "2022-09-22T08:12:25Z", "repo": "twbs/bootstrap"}
+{"number": 37202, "title": "Bootstrap for React native", "createdAt": "2022-09-24T11:05:32Z", "repo": "twbs/bootstrap"}
+{"number": 37212, "title": "Highest jQuery version for Bootstrap 4.6.2", "createdAt": "2022-09-27T11:19:11Z", "repo": "twbs/bootstrap"}
+{"number": 37218, "title": "Where is $prefix defined??", "createdAt": "2022-09-28T03:46:51Z", "repo": "twbs/bootstrap"}
+{"number": 37220, "title": "Use ScrollSpy to start custom animation?", "createdAt": "2022-09-28T07:23:15Z", "repo": "twbs/bootstrap"}
+{"number": 37222, "title": "Angular website with bootstrap looks ok on localhost, but carousel doesnt work properly on server", "createdAt": "2022-09-28T07:26:07Z", "repo": "twbs/bootstrap"}
+{"number": 37227, "title": "[modal] how to hide the backdrop while be able to click outside to close the modal on bootstrap 5", "createdAt": "2022-09-29T19:54:31Z", "repo": "twbs/bootstrap"}
+{"number": 37229, "title": "How to change the accordion's color?", "createdAt": "2022-09-30T08:56:53Z", "repo": "twbs/bootstrap"}
+{"number": 37232, "title": "White space above footer using react-bootstrap.", "createdAt": "2022-10-01T01:57:40Z", "repo": "twbs/bootstrap"}
+{"number": 37234, "title": "New Bootstrap 5 UI Kits with Atlassian Design", "createdAt": "2022-10-01T16:51:52Z", "repo": "twbs/bootstrap"}
+{"number": 37241, "title": "My bad experience with themes.getbootstrap.com (Customer)", "createdAt": "2022-10-03T06:34:12Z", "repo": "twbs/bootstrap"}
+{"number": 37254, "title": "how to override boostrap using css", "createdAt": "2022-10-03T21:20:07Z", "repo": "twbs/bootstrap"}
+{"number": 37258, "title": "/remove", "createdAt": "2022-10-04T12:25:18Z", "repo": "twbs/bootstrap"}
+{"number": 37259, "title": "Why Row Have Margin-15px?", "createdAt": "2022-10-04T12:47:23Z", "repo": "twbs/bootstrap"}
+{"number": 37261, "title": "Can Pagination be used with tables?", "createdAt": "2022-10-04T21:07:57Z", "repo": "twbs/bootstrap"}
+{"number": 37263, "title": "CSS backdrop-filter and the oddity of offcanvas", "createdAt": "2022-10-05T11:44:15Z", "repo": "twbs/bootstrap"}
+{"number": 37268, "title": "Changing CSS root: variables don't works like expected", "createdAt": "2022-10-06T15:07:59Z", "repo": "twbs/bootstrap"}
+{"number": 37278, "title": "When using 'table-responsive', how can I still use 2 fingers to shrink the table so that my mobile can show the whole table ? scroll bar not so good", "createdAt": "2022-10-10T03:14:22Z", "repo": "twbs/bootstrap"}
+{"number": 37296, "title": "Help wanted qith Scrollspy. Not working on React", "createdAt": "2022-10-11T06:39:06Z", "repo": "twbs/bootstrap"}
+{"number": 37304, "title": "TypeError Cannot read properties of undefined (reading 'backdrop') - bootstrap v5.2.1 modal", "createdAt": "2022-10-12T13:02:54Z", "repo": "twbs/bootstrap"}
+{"number": 37306, "title": ":focus-visible not supported by all old browsers", "createdAt": "2022-10-12T13:34:48Z", "repo": "twbs/bootstrap"}
+{"number": 37314, "title": "PRs to v5.1 are possible?", "createdAt": "2022-10-13T11:34:04Z", "repo": "twbs/bootstrap"}
+{"number": 37316, "title": "how to use Jumbotron example locally?", "createdAt": "2022-10-13T14:30:14Z", "repo": "twbs/bootstrap"}
+{"number": 37329, "title": "separate files for headers and footers", "createdAt": "2022-10-17T07:40:02Z", "repo": "twbs/bootstrap"}
+{"number": 37331, "title": "Cant get my buttons the same size", "createdAt": "2022-10-18T06:57:02Z", "repo": "twbs/bootstrap"}
+{"number": 37334, "title": "Boostrap Npm deprecated", "createdAt": "2022-10-18T08:35:51Z", "repo": "twbs/bootstrap"}
+{"number": 37335, "title": "collapse horizontal with dynamic width", "createdAt": "2022-10-18T09:36:16Z", "repo": "twbs/bootstrap"}
+{"number": 37347, "title": "Angular Compatibility", "createdAt": "2022-10-20T13:18:08Z", "repo": "twbs/bootstrap"}
+{"number": 37349, "title": "CSS Color Variables: An easy way to set all the variations?", "createdAt": "2022-10-20T21:31:35Z", "repo": "twbs/bootstrap"}
+{"number": 37352, "title": "why I am not getting a refund?", "createdAt": "2022-10-21T17:06:17Z", "repo": "twbs/bootstrap"}
+{"number": 37355, "title": "Does CSS Variables injected dynamically via Javascript ?", "createdAt": "2022-10-22T03:37:15Z", "repo": "twbs/bootstrap"}
+{"number": 37358, "title": "Change Shadow- and Hover-Color of Select/Dropdown", "createdAt": "2022-10-23T13:39:32Z", "repo": "twbs/bootstrap"}
+{"number": 37360, "title": "How do I update the config of a tooltip instance ?", "createdAt": "2022-10-24T05:19:22Z", "repo": "twbs/bootstrap"}
+{"number": 37367, "title": "ERROR in Failed to load plugin'unicorn'", "createdAt": "2022-10-24T15:58:13Z", "repo": "twbs/bootstrap"}
+{"number": 37381, "title": "Issues with 'hidden-sm-down' property", "createdAt": "2022-10-26T06:56:45Z", "repo": "twbs/bootstrap"}
+{"number": 37383, "title": "data-backdrop is not working on livewire.", "createdAt": "2022-10-27T06:30:35Z", "repo": "twbs/bootstrap"}
+{"number": 37387, "title": "split dropdown glitch?", "createdAt": "2022-10-28T01:04:33Z", "repo": "twbs/bootstrap"}
+{"number": 37396, "title": "How to Manual triggered form validation", "createdAt": "2022-10-30T04:48:34Z", "repo": "twbs/bootstrap"}
+{"number": 37404, "title": "Is there a native way to open bootstrap-4 collapse element with external anchor link?", "createdAt": "2022-10-31T15:29:55Z", "repo": "twbs/bootstrap"}
+{"number": 37412, "title": "Smaller floating labels", "createdAt": "2022-11-01T08:41:07Z", "repo": "twbs/bootstrap"}
+{"number": 37418, "title": "Newbie List of style shortcuts", "createdAt": "2022-11-02T00:49:25Z", "repo": "twbs/bootstrap"}
+{"number": 37429, "title": "Lines appearing in form", "createdAt": "2022-11-04T18:39:38Z", "repo": "twbs/bootstrap"}
+{"number": 37453, "title": "show class add to accordion by default", "createdAt": "2022-11-08T13:20:51Z", "repo": "twbs/bootstrap"}
+{"number": 37456, "title": "Provide a mixin for equal-width columns", "createdAt": "2022-11-08T20:01:45Z", "repo": "twbs/bootstrap"}
+{"number": 37458, "title": "Code to initialize Popover gives error in console", "createdAt": "2022-11-08T21:38:51Z", "repo": "twbs/bootstrap"}
+{"number": 37467, "title": "Release fix for \"Deprecation warning $weight: Passing a number without unit % (100) is deprecated\" in a patch version?", "createdAt": "2022-11-10T08:47:37Z", "repo": "twbs/bootstrap"}
+{"number": 37470, "title": "Getting error using new bootstrap.Modal.get&createInstance()", "createdAt": "2022-11-10T18:35:47Z", "repo": "twbs/bootstrap"}
+{"number": 37475, "title": "Why are container max widths exceeded during breakpoint shifts?", "createdAt": "2022-11-11T12:50:57Z", "repo": "twbs/bootstrap"}
+{"number": 37504, "title": "Can Bootstrap SCSS be placed in a CSS Cascade Layer?", "createdAt": "2022-11-16T15:55:59Z", "repo": "twbs/bootstrap"}
+{"number": 37511, "title": "Bootstrap 5.1/5.2 Introduce CSS variables, but they don't work in emails.", "createdAt": "2022-11-18T03:28:37Z", "repo": "twbs/bootstrap"}
+{"number": 37514, "title": "language", "createdAt": "2022-11-18T04:06:39Z", "repo": "twbs/bootstrap"}
+{"number": 37519, "title": "Why footer is not applying on my website?", "createdAt": "2022-11-19T09:45:51Z", "repo": "twbs/bootstrap"}
+{"number": 37520, "title": "Bootstrap github workflows usage", "createdAt": "2022-11-20T00:02:33Z", "repo": "twbs/bootstrap"}
+{"number": 37527, "title": "Estoy teniendo un problema con el navbar", "createdAt": "2022-11-22T01:43:05Z", "repo": "twbs/bootstrap"}
+{"number": 37547, "title": "Changing offcanvas's \"data-bs-scroll\" value does not affect scroll behavior?", "createdAt": "2022-11-27T20:45:30Z", "repo": "twbs/bootstrap"}
+{"number": 37548, "title": "Changing Color", "createdAt": "2022-11-28T03:36:36Z", "repo": "twbs/bootstrap"}
+{"number": 37551, "title": "Navbar with dropdown menus will not work.", "createdAt": "2022-11-28T19:08:43Z", "repo": "twbs/bootstrap"}
+{"number": 37554, "title": "Bootstrap Icons", "createdAt": "2022-11-29T09:32:41Z", "repo": "twbs/bootstrap"}
+{"number": 37571, "title": "Offcanvas accessibility question", "createdAt": "2022-12-01T15:40:36Z", "repo": "twbs/bootstrap"}
+{"number": 37576, "title": "What is the proper way to show different content for offcanvas show menu versus expanded menu list?", "createdAt": "2022-12-02T16:46:07Z", "repo": "twbs/bootstrap"}
+{"number": 37577, "title": "toast example is broken?", "createdAt": "2022-12-03T08:51:42Z", "repo": "twbs/bootstrap"}
+{"number": 37581, "title": "Animation not working. Carousel, modal anything.", "createdAt": "2022-12-03T18:38:07Z", "repo": "twbs/bootstrap"}
+{"number": 37582, "title": "How to use @include font-size inside mixin", "createdAt": "2022-12-04T10:04:01Z", "repo": "twbs/bootstrap"}
+{"number": 37583, "title": "bootstrap.js have ECCN number ? Also is it EAR99?", "createdAt": "2022-12-05T01:02:33Z", "repo": "twbs/bootstrap"}
+{"number": 37589, "title": "Bootstrap + Vite Error: Declarations may only be used within style rules.", "createdAt": "2022-12-05T18:20:30Z", "repo": "twbs/bootstrap"}
+{"number": 37604, "title": "Problem with dropdown menu", "createdAt": "2022-12-07T11:43:33Z", "repo": "twbs/bootstrap"}
+{"number": 37611, "title": "Sticky Footer shows unwanted content below", "createdAt": "2022-12-08T08:28:43Z", "repo": "twbs/bootstrap"}
+{"number": 37623, "title": "Bootstrap Causing White Space on HTML Website", "createdAt": "2022-12-10T19:05:50Z", "repo": "twbs/bootstrap"}
+{"number": 37624, "title": "Usage of Scrollspy within Modal doesn't work (combined from Docs examples)", "createdAt": "2022-12-10T23:08:51Z", "repo": "twbs/bootstrap"}
+{"number": 37627, "title": "From version 5.2 error for NAV - Uncaught TypeError: i.createPopper is not a function", "createdAt": "2022-12-11T10:27:58Z", "repo": "twbs/bootstrap"}
+{"number": 37632, "title": "Web Components and rem units", "createdAt": "2022-12-13T08:50:45Z", "repo": "twbs/bootstrap"}
+{"number": 37642, "title": "What is purpose of Container?", "createdAt": "2022-12-13T20:24:21Z", "repo": "twbs/bootstrap"}
+{"number": 37648, "title": "Popper__namespace.createPopper is not a function", "createdAt": "2022-12-14T12:55:18Z", "repo": "twbs/bootstrap"}
+{"number": 37651, "title": "Changing navbar font color in bootstrap theme", "createdAt": "2022-12-14T23:26:33Z", "repo": "twbs/bootstrap"}
+{"number": 37654, "title": "Modal backdrop inside container (or position-relative element)", "createdAt": "2022-12-15T17:14:14Z", "repo": "twbs/bootstrap"}
+{"number": 37675, "title": "There is a webpage for showing community plugins?", "createdAt": "2022-12-20T06:40:34Z", "repo": "twbs/bootstrap"}
+{"number": 37692, "title": "Dynamically update an open Bootstrap 5 modal backdrop and keyboard properties", "createdAt": "2022-12-21T10:56:10Z", "repo": "twbs/bootstrap"}
+{"number": 37693, "title": "Why is there no [skip ci] or [ci skip] keyword in commit messages after 2017?", "createdAt": "2022-12-21T13:52:04Z", "repo": "twbs/bootstrap"}
+{"number": 37697, "title": "is Bootstrap latest version is free?", "createdAt": "2022-12-22T05:12:29Z", "repo": "twbs/bootstrap"}
+{"number": 37700, "title": "How do I deal with sticky :hover on iOS?", "createdAt": "2022-12-23T04:48:01Z", "repo": "twbs/bootstrap"}
+{"number": 37704, "title": "Modal no longer working in release 5.... Any help would be appreciated", "createdAt": "2022-12-23T17:38:57Z", "repo": "twbs/bootstrap"}
+{"number": 37705, "title": "bg-light not toggling well between themes", "createdAt": "2022-12-24T18:51:16Z", "repo": "twbs/bootstrap"}
+{"number": 37707, "title": "TH not sized per TD after adding the inline style.", "createdAt": "2022-12-24T20:35:10Z", "repo": "twbs/bootstrap"}
+{"number": 37719, "title": "Destroying dynamic popovers/tooltips and memory leaks", "createdAt": "2022-12-26T04:03:17Z", "repo": "twbs/bootstrap"}
+{"number": 37727, "title": "data-bs-theme auto", "createdAt": "2022-12-27T09:49:38Z", "repo": "twbs/bootstrap"}
+{"number": 37736, "title": "Bootstrap v.5.3.0-alpha1", "createdAt": "2022-12-27T20:07:53Z", "repo": "twbs/bootstrap"}
+{"number": 37743, "title": "accordion-button with linebreak", "createdAt": "2022-12-28T13:31:09Z", "repo": "twbs/bootstrap"}
+{"number": 37747, "title": "Bootstrap 5.2+ / modal configuration", "createdAt": "2022-12-28T16:24:30Z", "repo": "twbs/bootstrap"}
+{"number": 37764, "title": "v5.3.0-alpha1 - Color mode switch implementation.", "createdAt": "2022-12-30T07:13:06Z", "repo": "twbs/bootstrap"}
+{"number": 37767, "title": "CSS variables and functions for real-time customization", "createdAt": "2022-12-30T14:12:48Z", "repo": "twbs/bootstrap"}
+{"number": 37768, "title": "Make the `carousel-indicators`'s button more agnostic", "createdAt": "2022-12-30T14:34:29Z", "repo": "twbs/bootstrap"}
+{"number": 37771, "title": "collapse programatically", "createdAt": "2022-12-30T16:55:57Z", "repo": "twbs/bootstrap"}
+{"number": 37775, "title": "Navbar alignment", "createdAt": "2023-01-01T14:05:24Z", "repo": "twbs/bootstrap"}
+{"number": 37783, "title": "v5.3.0-alpha1 - Color modes doesn't work on Incognito mode", "createdAt": "2023-01-02T13:30:40Z", "repo": "twbs/bootstrap"}
+{"number": 37787, "title": "Anyone having problem with overwriting the :root variables?", "createdAt": "2023-01-02T23:32:58Z", "repo": "twbs/bootstrap"}
+{"number": 37806, "title": "Question about docs difference in example and working example (stackblitz)", "createdAt": "2023-01-04T15:42:24Z", "repo": "twbs/bootstrap"}
+{"number": 37808, "title": "the active menu, does not work with SmoothScroll en Bootstrap 5", "createdAt": "2023-01-05T02:33:36Z", "repo": "twbs/bootstrap"}
+{"number": 37812, "title": "Bootstrap modal", "createdAt": "2023-01-05T12:59:23Z", "repo": "twbs/bootstrap"}
+{"number": 37815, "title": "Uncaught TypeError: this._config is undefined", "createdAt": "2023-01-05T16:27:56Z", "repo": "twbs/bootstrap"}
+{"number": 37819, "title": "Is there any way to upgrade bootstrap classes by default in the project while migrating from Bootstrap version 4 to version 5.", "createdAt": "2023-01-05T20:49:26Z", "repo": "twbs/bootstrap"}
+{"number": 37826, "title": "v5.3.0-alpha1 Modal multiple backdrops", "createdAt": "2023-01-06T12:04:43Z", "repo": "twbs/bootstrap"}
+{"number": 37828, "title": "question de débutant", "createdAt": "2023-01-06T13:24:56Z", "repo": "twbs/bootstrap"}
+{"number": 37831, "title": "How do you make a button with a gradient in Bootstrap 5?", "createdAt": "2023-01-07T16:39:31Z", "repo": "twbs/bootstrap"}
+{"number": 37837, "title": "$link-color issue: Error: $color: var(--bs-primary) is not a color.", "createdAt": "2023-01-08T17:17:06Z", "repo": "twbs/bootstrap"}
+{"number": 37838, "title": "How To Change Custom Color Created In SASS For Dark Mode", "createdAt": "2023-01-08T19:36:10Z", "repo": "twbs/bootstrap"}
+{"number": 37847, "title": "silder in one property", "createdAt": "2023-01-10T03:20:07Z", "repo": "twbs/bootstrap"}
+{"number": 37856, "title": "Override variables in dark mode", "createdAt": "2023-01-11T10:56:32Z", "repo": "twbs/bootstrap"}
+{"number": 37865, "title": "Dead link", "createdAt": "2023-01-12T13:53:21Z", "repo": "twbs/bootstrap"}
+{"number": 37867, "title": "bootstrap 5 image height - make image height in left column equal to right text column", "createdAt": "2023-01-12T20:22:56Z", "repo": "twbs/bootstrap"}
+{"number": 37870, "title": "input-group with floating label", "createdAt": "2023-01-13T14:51:00Z", "repo": "twbs/bootstrap"}
+{"number": 37873, "title": "Columns not lining up when using radio buttons in boostrap grid", "createdAt": "2023-01-13T16:52:32Z", "repo": "twbs/bootstrap"}
+{"number": 37874, "title": "How to enable click on body with modal?", "createdAt": "2023-01-13T18:38:31Z", "repo": "twbs/bootstrap"}
+{"number": 37876, "title": "Image on top of Image", "createdAt": "2023-01-13T22:07:47Z", "repo": "twbs/bootstrap"}
+{"number": 37877, "title": "RTL and LTR at the same time", "createdAt": "2023-01-14T11:46:45Z", "repo": "twbs/bootstrap"}
+{"number": 37878, "title": "Why is the text in my .nav-item not vertically centered and how can I fix it?", "createdAt": "2023-01-14T13:54:02Z", "repo": "twbs/bootstrap"}
+{"number": 37880, "title": "Sass compiler generates different bootstrap.css than shipped build", "createdAt": "2023-01-14T18:47:40Z", "repo": "twbs/bootstrap"}
+{"number": 37885, "title": "LightDark and DarkLight buttons", "createdAt": "2023-01-15T18:55:38Z", "repo": "twbs/bootstrap"}
+{"number": 37886, "title": "How to have a method.post link that align with the rest of my row?", "createdAt": "2023-01-15T21:57:43Z", "repo": "twbs/bootstrap"}
+{"number": 37911, "title": "Why are the -text, -bg-subtle and -border-subtle variables not using the key variable as their root?", "createdAt": "2023-01-18T10:33:20Z", "repo": "twbs/bootstrap"}
+{"number": 37915, "title": "[v5.2] Initializing Popover and Tooltip using \"selector\" option shows console error. Recommended workaround?", "createdAt": "2023-01-19T09:55:53Z", "repo": "twbs/bootstrap"}
+{"number": 37924, "title": "Toggler menu open then disappears?", "createdAt": "2023-01-21T14:47:39Z", "repo": "twbs/bootstrap"}
+{"number": 37925, "title": "collapse is lagging", "createdAt": "2023-01-21T20:40:27Z", "repo": "twbs/bootstrap"}
+{"number": 38012, "title": "Bootstrap v5.0.1 - Nav Menu Responsive Hamburger Menu Not Auto Closing When Clicking Same Page Anchor links", "createdAt": "2023-01-22T06:58:32Z", "repo": "twbs/bootstrap"}
+{"number": 37931, "title": "Extract accordion-button to work without accordion", "createdAt": "2023-01-22T17:15:39Z", "repo": "twbs/bootstrap"}
+{"number": 37937, "title": "Bootstrap has too much colors. We need only one.", "createdAt": "2023-01-23T15:49:09Z", "repo": "twbs/bootstrap"}
+{"number": 37939, "title": "Photo gallery", "createdAt": "2023-01-23T18:33:08Z", "repo": "twbs/bootstrap"}
+{"number": 37942, "title": "Dynamic Datalist", "createdAt": "2023-01-24T07:22:19Z", "repo": "twbs/bootstrap"}
+{"number": 37943, "title": "bootstrap modals", "createdAt": "2023-01-24T09:22:50Z", "repo": "twbs/bootstrap"}
+{"number": 37947, "title": "Improve documentation", "createdAt": "2023-01-24T11:31:26Z", "repo": "twbs/bootstrap"}
+{"number": 37948, "title": "Size of Bootstrap icon package 1.06mb ?", "createdAt": "2023-01-24T12:35:01Z", "repo": "twbs/bootstrap"}
+{"number": 37950, "title": "Newbie havng problems with NavBar links disapearing when screen <768", "createdAt": "2023-01-24T19:07:04Z", "repo": "twbs/bootstrap"}
+{"number": 37951, "title": "Why flex-shrink 0 for all columns?", "createdAt": "2023-01-25T11:52:07Z", "repo": "twbs/bootstrap"}
+{"number": 37952, "title": "class was-validate forms", "createdAt": "2023-01-25T14:37:54Z", "repo": "twbs/bootstrap"}
+{"number": 37958, "title": "Autoscroll bugs with bootsrap", "createdAt": "2023-01-26T20:13:31Z", "repo": "twbs/bootstrap"}
+{"number": 37962, "title": "Grid Classes Not Exist in CSS Files but Appears in Maps", "createdAt": "2023-01-27T14:08:31Z", "repo": "twbs/bootstrap"}
+{"number": 37964, "title": "How to Enable CSS Grid by Default", "createdAt": "2023-01-27T22:46:05Z", "repo": "twbs/bootstrap"}
+{"number": 37966, "title": "Form validation with form-floating", "createdAt": "2023-01-28T11:17:45Z", "repo": "twbs/bootstrap"}
+{"number": 37972, "title": "Dark mode without js button", "createdAt": "2023-01-29T17:49:05Z", "repo": "twbs/bootstrap"}
+{"number": 37979, "title": "Destroy all lists in nav and dropdown menu!", "createdAt": "2023-01-30T19:57:59Z", "repo": "twbs/bootstrap"}
+{"number": 37980, "title": "Table Hover with Drag and Drop", "createdAt": "2023-01-31T00:53:00Z", "repo": "twbs/bootstrap"}
+{"number": 37993, "title": "Border Problemi", "createdAt": "2023-02-02T13:44:00Z", "repo": "twbs/bootstrap"}
+{"number": 37997, "title": "Responsive padding on an element", "createdAt": "2023-02-04T00:45:45Z", "repo": "twbs/bootstrap"}
+{"number": 38005, "title": "Table without table markup", "createdAt": "2023-02-05T15:39:44Z", "repo": "twbs/bootstrap"}
+{"number": 38009, "title": "Enable shadow-sm for light mode, but not for dark mode?", "createdAt": "2023-02-06T12:41:50Z", "repo": "twbs/bootstrap"}
+{"number": 38010, "title": "Target Bootstrap accordion from a different page", "createdAt": "2023-02-06T13:30:48Z", "repo": "twbs/bootstrap"}
+{"number": 38011, "title": "BS 5.3.0-alpha1: Adding theme color to map will not work in maps.scss - Is this a glitch?", "createdAt": "2023-02-06T15:22:23Z", "repo": "twbs/bootstrap"}
+{"number": 38022, "title": "Dynamic color text and dark theme", "createdAt": "2023-02-08T06:57:36Z", "repo": "twbs/bootstrap"}
+{"number": 38027, "title": "type error: ... The Boostrap team ...", "createdAt": "2023-02-08T17:30:36Z", "repo": "twbs/bootstrap"}
+{"number": 38036, "title": "Why modal open toggles style attribute instead of using utility classes?", "createdAt": "2023-02-12T12:22:48Z", "repo": "twbs/bootstrap"}
+{"number": 38043, "title": "more reliable scrollspy", "createdAt": "2023-02-13T22:16:48Z", "repo": "twbs/bootstrap"}
+{"number": 38047, "title": "Bootstrap doesn't allow more than one instance per element", "createdAt": "2023-02-14T06:15:42Z", "repo": "twbs/bootstrap"}
+{"number": 38052, "title": "What is the point of the .container-md class in bootstrap?", "createdAt": "2023-02-14T14:40:56Z", "repo": "twbs/bootstrap"}
+{"number": 38063, "title": "Is it possible to customize fully using css custom variables without scss for someday?", "createdAt": "2023-02-15T15:54:07Z", "repo": "twbs/bootstrap"}
+{"number": 38064, "title": "how to target bootstrap in php files?", "createdAt": "2023-02-15T16:46:43Z", "repo": "twbs/bootstrap"}
+{"number": 38068, "title": "Website's copyright year variable isn't correct", "createdAt": "2023-02-16T00:49:26Z", "repo": "twbs/bootstrap"}
+{"number": 38069, "title": "How to write utilities in the sass syntax", "createdAt": "2023-02-16T10:58:41Z", "repo": "twbs/bootstrap"}
+{"number": 38073, "title": "How can I use Utilities API with 2 properties?", "createdAt": "2023-02-16T21:46:24Z", "repo": "twbs/bootstrap"}
+{"number": 38091, "title": "floating form with `type=\"number\"` double click behavior difference between Chrome and Firefox", "createdAt": "2023-02-20T15:36:19Z", "repo": "twbs/bootstrap"}
+{"number": 38092, "title": ".htaccess url rewrite", "createdAt": "2023-02-20T18:38:04Z", "repo": "twbs/bootstrap"}
+{"number": 38102, "title": "Modal doesn't show", "createdAt": "2023-02-21T15:36:26Z", "repo": "twbs/bootstrap"}
+{"number": 38106, "title": "RTLCSS with yarn prod and SCSS", "createdAt": "2023-02-23T14:46:04Z", "repo": "twbs/bootstrap"}
+{"number": 38108, "title": "Is it possible to create multi-step form using BS 5 form with BS custom validation messages?", "createdAt": "2023-02-24T10:43:59Z", "repo": "twbs/bootstrap"}
+{"number": 38126, "title": "How to overlay modal dismiss button on top of image instead of using modal title?", "createdAt": "2023-02-27T22:35:49Z", "repo": "twbs/bootstrap"}
+{"number": 38127, "title": "Setting up Bootstrap on local machine", "createdAt": "2023-02-28T06:02:06Z", "repo": "twbs/bootstrap"}
+{"number": 38140, "title": "i can`t publish my project", "createdAt": "2023-02-28T19:43:18Z", "repo": "twbs/bootstrap"}
+{"number": 38145, "title": "How to get rid of vertical scrollbar when using full screen modal?", "createdAt": "2023-03-01T18:31:01Z", "repo": "twbs/bootstrap"}
+{"number": 38146, "title": "row-cols and wrapped columns outer margins", "createdAt": "2023-03-01T19:31:31Z", "repo": "twbs/bootstrap"}
+{"number": 38148, "title": "How to enable gradient for outline button v5.2+", "createdAt": "2023-03-01T22:29:32Z", "repo": "twbs/bootstrap"}
+{"number": 38155, "title": "Bootstrap Offcanvas integration with CKEditor 5 (related to z-index, focus, backdrop and body scroll)", "createdAt": "2023-03-02T17:03:38Z", "repo": "twbs/bootstrap"}
+{"number": 38157, "title": "Collapsable Navbar not working", "createdAt": "2023-03-02T18:03:05Z", "repo": "twbs/bootstrap"}
+{"number": 38165, "title": "Modal: Why does the image in a modal make a network request twice?", "createdAt": "2023-03-03T19:35:39Z", "repo": "twbs/bootstrap"}
+{"number": 38168, "title": "Variable override using Bootstrap variables", "createdAt": "2023-03-04T14:55:02Z", "repo": "twbs/bootstrap"}
+{"number": 38205, "title": "have problem to run project", "createdAt": "2023-03-09T15:34:43Z", "repo": "twbs/bootstrap"}
+{"number": 38207, "title": "About utilities api customize", "createdAt": "2023-03-10T09:11:36Z", "repo": "twbs/bootstrap"}
+{"number": 38208, "title": "having problem with python attribute", "createdAt": "2023-03-10T09:17:44Z", "repo": "twbs/bootstrap"}
+{"number": 38216, "title": "BS5 Nested dropdown display border-radius to all .dropdown-item", "createdAt": "2023-03-12T12:21:46Z", "repo": "twbs/bootstrap"}
+{"number": 38218, "title": "Error color mode: &section", "createdAt": "2023-03-13T05:25:10Z", "repo": "twbs/bootstrap"}
+{"number": 38221, "title": "I can't override bootstrap styling with my own css", "createdAt": "2023-03-13T15:24:47Z", "repo": "twbs/bootstrap"}
+{"number": 38232, "title": "Update bower-asset from bootstrap 5.2.1 to 5.2.3", "createdAt": "2023-03-14T08:58:34Z", "repo": "twbs/bootstrap"}
+{"number": 38239, "title": "Why did I have to install bootstrap on my computer?", "createdAt": "2023-03-15T00:11:35Z", "repo": "twbs/bootstrap"}
+{"number": 38242, "title": "The arrow style at the head of the table when the table is sorted.", "createdAt": "2023-03-15T18:41:02Z", "repo": "twbs/bootstrap"}
+{"number": 38250, "title": "Accessibility v4 versus v5", "createdAt": "2023-03-16T12:46:26Z", "repo": "twbs/bootstrap"}
+{"number": 38252, "title": "getting rid of prefix", "createdAt": "2023-03-16T17:18:33Z", "repo": "twbs/bootstrap"}
+{"number": 38254, "title": "How to properly attribute Bootstrap5.3?", "createdAt": "2023-03-16T20:03:38Z", "repo": "twbs/bootstrap"}
+{"number": 38255, "title": "Why I can applied a specific color value for $primary variable in dark mode?", "createdAt": "2023-03-17T00:50:07Z", "repo": "twbs/bootstrap"}
+{"number": 38257, "title": "Backdrop show before modal", "createdAt": "2023-03-17T06:29:20Z", "repo": "twbs/bootstrap"}
+{"number": 38259, "title": "How to switch between two diffirent $primary colors in diffirent theme modes (light/dark)", "createdAt": "2023-03-17T11:24:37Z", "repo": "twbs/bootstrap"}
+{"number": 38274, "title": "How to spot unused CSS variables", "createdAt": "2023-03-18T15:03:23Z", "repo": "twbs/bootstrap"}
+{"number": 38295, "title": "SharePoint and Bootstrap 5.2.1", "createdAt": "2023-03-21T15:08:05Z", "repo": "twbs/bootstrap"}
+{"number": 38304, "title": "Offcanvas navbar that expands into a normal navbar at a specific breakpoint bug", "createdAt": "2023-03-22T16:23:37Z", "repo": "twbs/bootstrap"}
+{"number": 38327, "title": "Carousel not sliding and dropdown menu not working properly", "createdAt": "2023-03-25T10:04:18Z", "repo": "twbs/bootstrap"}
+{"number": 38332, "title": "Masonry layout", "createdAt": "2023-03-26T15:41:33Z", "repo": "twbs/bootstrap"}
+{"number": 38351, "title": "Module parse failed", "createdAt": "2023-03-28T12:31:45Z", "repo": "twbs/bootstrap"}
+{"number": 38361, "title": "How can I get the carousel indicator buttons to respond when clicked? The images aren't responding left and right when indicator buttons are clicked.", "createdAt": "2023-03-28T17:01:34Z", "repo": "twbs/bootstrap"}
+{"number": 38378, "title": "When my bootstrap is upgraded from 5.2.0 to 5.2.1, there will be a problem when the button is active.", "createdAt": "2023-03-30T07:00:14Z", "repo": "twbs/bootstrap"}
+{"number": 38381, "title": "Please, improve modal docs. If not for people, then for AI", "createdAt": "2023-03-30T09:26:41Z", "repo": "twbs/bootstrap"}
+{"number": 38389, "title": "How to write custom components leveraging Bootstrap DOM utils and BaseComponent", "createdAt": "2023-04-01T08:02:23Z", "repo": "twbs/bootstrap"}
+{"number": 38391, "title": "Bootstrap in NextJS", "createdAt": "2023-04-01T15:00:07Z", "repo": "twbs/bootstrap"}
+{"number": 38396, "title": "Problem with navbar toggler", "createdAt": "2023-04-03T14:04:05Z", "repo": "twbs/bootstrap"}
+{"number": 38409, "title": "No more Radio Button Group 'mouse hover' effect since v5.2.x", "createdAt": "2023-04-04T18:35:25Z", "repo": "twbs/bootstrap"}
+{"number": 38418, "title": "Creating a collapse instance shouldn't also toggle the element", "createdAt": "2023-04-06T09:55:34Z", "repo": "twbs/bootstrap"}
+{"number": 38419, "title": "Changing the primary color with color modes", "createdAt": "2023-04-06T12:42:31Z", "repo": "twbs/bootstrap"}
+{"number": 38423, "title": "How can I create a custom Bootstrap component using JavaScript?", "createdAt": "2023-04-07T08:07:58Z", "repo": "twbs/bootstrap"}
+{"number": 38425, "title": "image occupies 100% of the div", "createdAt": "2023-04-08T08:49:19Z", "repo": "twbs/bootstrap"}
+{"number": 38428, "title": "How to have an offcanvas toggle button with a tooltip?", "createdAt": "2023-04-08T16:54:54Z", "repo": "twbs/bootstrap"}
+{"number": 38432, "title": "bootstrap integration with next.js 13", "createdAt": "2023-04-10T11:30:00Z", "repo": "twbs/bootstrap"}
+{"number": 38461, "title": "Introduce avatar", "createdAt": "2023-04-14T09:31:36Z", "repo": "twbs/bootstrap"}
+{"number": 38466, "title": "unable to rendering well in browser", "createdAt": "2023-04-15T13:35:15Z", "repo": "twbs/bootstrap"}
+{"number": 38468, "title": "How can i add  action ,,enter\" for    Form.Control type=\"password\" ?", "createdAt": "2023-04-15T22:59:29Z", "repo": "twbs/bootstrap"}
+{"number": 38473, "title": "Modal Slide  outSide from right to left flow", "createdAt": "2023-04-17T08:01:36Z", "repo": "twbs/bootstrap"}
+{"number": 38484, "title": "Bootstrap file is not being shown on after npm install bootstrap@5.3.0-alpha3", "createdAt": "2023-04-19T20:10:02Z", "repo": "twbs/bootstrap"}
+{"number": 38483, "title": "Can I used grid without SASS?", "createdAt": "2023-04-19T22:50:29Z", "repo": "twbs/bootstrap"}
+{"number": 38494, "title": "Cookie Icon", "createdAt": "2023-04-22T06:00:12Z", "repo": "twbs/bootstrap"}
+{"number": 38495, "title": "@import \"mixins/banner\"; @include bsBanner(\"\");", "createdAt": "2023-04-22T06:03:05Z", "repo": "twbs/bootstrap"}
+{"number": 38496, "title": "Add text-bg-blend-{mode} to blend text and background (image)", "createdAt": "2023-04-22T19:56:11Z", "repo": "twbs/bootstrap"}
+{"number": 38499, "title": "table-striped-{rowspan}", "createdAt": "2023-04-23T23:32:23Z", "repo": "twbs/bootstrap"}
+{"number": 38503, "title": "Disable paragraph's margin bottom value", "createdAt": "2023-04-25T09:31:17Z", "repo": "twbs/bootstrap"}
+{"number": 38509, "title": "How to prevent scroll to collapse when toggling the collapse via JavaScript?", "createdAt": "2023-04-25T13:24:22Z", "repo": "twbs/bootstrap"}
+{"number": 38510, "title": "How do I get rid of the little blue dash between these images?", "createdAt": "2023-04-26T04:27:12Z", "repo": "twbs/bootstrap"}
+{"number": 38527, "title": "Issue with installing bootstrap.", "createdAt": "2023-04-28T15:35:17Z", "repo": "twbs/bootstrap"}
+{"number": 38536, "title": "Issues with using bootstrap in vue 3", "createdAt": "2023-04-30T03:22:20Z", "repo": "twbs/bootstrap"}
+{"number": 38539, "title": "Missing Image Icon", "createdAt": "2023-05-01T01:41:14Z", "repo": "twbs/bootstrap"}
+{"number": 38545, "title": "Problem Gallery Boostrap 5.3", "createdAt": "2023-05-03T09:44:19Z", "repo": "twbs/bootstrap"}
+{"number": 38547, "title": "NS_ERROR_CORRUPTED_CONTENT", "createdAt": "2023-05-03T13:24:34Z", "repo": "twbs/bootstrap"}
+{"number": 38548, "title": "Disable RFS without Sass", "createdAt": "2023-05-03T21:06:41Z", "repo": "twbs/bootstrap"}
+{"number": 38550, "title": "SassWarning: Deprecation $weight: Passing a number without unit % (0) is deprecated.", "createdAt": "2023-05-04T09:23:18Z", "repo": "twbs/bootstrap"}
+{"number": 38553, "title": "NOT filter icons", "createdAt": "2023-05-04T17:33:31Z", "repo": "twbs/bootstrap"}
+{"number": 38555, "title": "bootstrap.bundle.min.js", "createdAt": "2023-05-05T07:51:27Z", "repo": "twbs/bootstrap"}
+{"number": 38560, "title": "Use of HTML native  <dialog> element for modals, offcanvas, popovers, & tooltips", "createdAt": "2023-05-05T15:18:55Z", "repo": "twbs/bootstrap"}
+{"number": 38562, "title": "Bootstrap theme search", "createdAt": "2023-05-06T21:38:38Z", "repo": "twbs/bootstrap"}
+{"number": 38563, "title": "CSS grid is cool", "createdAt": "2023-05-07T09:17:56Z", "repo": "twbs/bootstrap"}
+{"number": 38566, "title": "dropdown-menu scrollable not working in multi-level-dropdown (dropend)", "createdAt": "2023-05-08T16:05:15Z", "repo": "twbs/bootstrap"}
+{"number": 38567, "title": "Bootstrap modal hide is not working (Livewire)", "createdAt": "2023-05-08T17:48:50Z", "repo": "twbs/bootstrap"}
+{"number": 38568, "title": "Outlined button groups", "createdAt": "2023-05-08T18:38:43Z", "repo": "twbs/bootstrap"}
+{"number": 38570, "title": "Nav-tab form submission", "createdAt": "2023-05-09T02:30:49Z", "repo": "twbs/bootstrap"}
+{"number": 38580, "title": "Why does the multiple select not behave like a select?", "createdAt": "2023-05-09T18:01:34Z", "repo": "twbs/bootstrap"}
+{"number": 38584, "title": "Fixing color generating utilities", "createdAt": "2023-05-10T12:43:45Z", "repo": "twbs/bootstrap"}
+{"number": 38601, "title": "BS5 Why invalid-feedback does not displayed when I use input-group and form-floating", "createdAt": "2023-05-14T12:17:53Z", "repo": "twbs/bootstrap"}
+{"number": 38607, "title": "Responsive margins", "createdAt": "2023-05-16T07:25:44Z", "repo": "twbs/bootstrap"}
+{"number": 38628, "title": "Image path error，after replace rect label to image  label in carousel, bootstrap v5", "createdAt": "2023-05-20T14:42:27Z", "repo": "twbs/bootstrap"}
+{"number": 38636, "title": "Not row-cols-xs-auto works with Cards", "createdAt": "2023-05-22T23:31:54Z", "repo": "twbs/bootstrap"}
+{"number": 38644, "title": "npm run build fails with \"SassError: Undefined variable\"", "createdAt": "2023-05-24T07:21:47Z", "repo": "twbs/bootstrap"}
+{"number": 38648, "title": "Navbar dropdown misplaced - list items not vertically aligned", "createdAt": "2023-05-26T06:36:03Z", "repo": "twbs/bootstrap"}
+{"number": 38653, "title": "Toolset for upgrading from Bootstrap 4.x to 5.2", "createdAt": "2023-05-26T14:23:38Z", "repo": "twbs/bootstrap"}
+{"number": 38654, "title": "Help customize the login form with the Bootstrap Framework", "createdAt": "2023-05-26T20:29:03Z", "repo": "twbs/bootstrap"}
+{"number": 38655, "title": "Color modes not working", "createdAt": "2023-05-27T00:19:11Z", "repo": "twbs/bootstrap"}
+{"number": 38659, "title": "use \"data-bs-theme\" within content sections, like dropdown, possible?", "createdAt": "2023-05-27T07:54:51Z", "repo": "twbs/bootstrap"}
+{"number": 38661, "title": "Single dropdown menu for multiple buttons", "createdAt": "2023-05-27T09:34:31Z", "repo": "twbs/bootstrap"}
+{"number": 38662, "title": "Problem with Bootstrap Table with filter capabilities", "createdAt": "2023-05-27T17:05:15Z", "repo": "twbs/bootstrap"}
+{"number": 38676, "title": "sticky-bottom : Please add a concrete example to the documentation", "createdAt": "2023-05-30T15:41:38Z", "repo": "twbs/bootstrap"}
+{"number": 38684, "title": "I have an idea about modal for transfer data from triggering button to another element", "createdAt": "2023-05-31T19:51:40Z", "repo": "twbs/bootstrap"}
+{"number": 38689, "title": "Programmatically create a popover with a template", "createdAt": "2023-06-01T14:13:23Z", "repo": "twbs/bootstrap"}
+{"number": 38690, "title": "How do I properly apply a different color to the whole table or a row in 5.3.0?", "createdAt": "2023-06-02T01:03:26Z", "repo": "twbs/bootstrap"}
+{"number": 38691, "title": "HTML for theme switching example? Also, maybe a color selector component?", "createdAt": "2023-06-02T02:30:05Z", "repo": "twbs/bootstrap"}
+{"number": 38692, "title": "How it works the Bootstrap 5 Sass", "createdAt": "2023-06-02T07:50:19Z", "repo": "twbs/bootstrap"}
+{"number": 38693, "title": "How do I set different theme colours for dark and light mode in 5.3.0?", "createdAt": "2023-06-02T09:24:09Z", "repo": "twbs/bootstrap"}
+{"number": 38698, "title": "Which CSS Minifier tool does Bootstrap 5 use?", "createdAt": "2023-06-03T05:03:40Z", "repo": "twbs/bootstrap"}
+{"number": 38702, "title": "Switch out sass \\w vanilla css", "createdAt": "2023-06-04T21:09:07Z", "repo": "twbs/bootstrap"}
+{"number": 38704, "title": "Two columns not work on navbar extra small breakpoint", "createdAt": "2023-06-05T06:16:25Z", "repo": "twbs/bootstrap"}
+{"number": 38705, "title": "Discrepancy in Parameters for Placement Function in Popover Component Documentation", "createdAt": "2023-06-05T09:58:53Z", "repo": "twbs/bootstrap"}
+{"number": 38721, "title": "Removing red exclamation mark circle from icon", "createdAt": "2023-06-06T22:51:57Z", "repo": "twbs/bootstrap"}
+{"number": 38723, "title": "Navbar", "createdAt": "2023-06-07T10:24:43Z", "repo": "twbs/bootstrap"}
+{"number": 38727, "title": "Table color/background - 5.2 -> 5.3", "createdAt": "2023-06-08T07:20:29Z", "repo": "twbs/bootstrap"}
+{"number": 38730, "title": "Table row background color not working in Bootstrap 5.3", "createdAt": "2023-06-08T10:48:11Z", "repo": "twbs/bootstrap"}
+{"number": 38732, "title": "Error:Cannot download 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css': Remote host terminated the handshake", "createdAt": "2023-06-09T00:53:59Z", "repo": "twbs/bootstrap"}
+{"number": 38733, "title": "body-bg overrides all components background", "createdAt": "2023-06-09T03:56:38Z", "repo": "twbs/bootstrap"}
+{"number": 38744, "title": "Table row colours (additional colours added to scss file) v5.2 -> v5.3 issues", "createdAt": "2023-06-12T05:53:09Z", "repo": "twbs/bootstrap"}
+{"number": 38749, "title": "How do I add HTML to a popover?", "createdAt": "2023-06-12T14:36:08Z", "repo": "twbs/bootstrap"}
+{"number": 38775, "title": "Tabs not working on android webview", "createdAt": "2023-06-15T08:27:14Z", "repo": "twbs/bootstrap"}
+{"number": 38776, "title": "Making images respond to Light and Dark theme change.", "createdAt": "2023-06-15T08:39:24Z", "repo": "twbs/bootstrap"}
+{"number": 38782, "title": "Error:Cannot download 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css': Remote host terminated the handshake", "createdAt": "2023-06-17T17:48:45Z", "repo": "twbs/bootstrap"}
+{"number": 38785, "title": "Weird z-order issues with navbar and column/card?", "createdAt": "2023-06-19T01:51:56Z", "repo": "twbs/bootstrap"}
+{"number": 38789, "title": "How to change the carousel color buttons ?", "createdAt": "2023-06-19T16:53:15Z", "repo": "twbs/bootstrap"}
+{"number": 38792, "title": "Issue with Bootstrap Code Displaying in Arabic Instead of English", "createdAt": "2023-06-19T18:48:49Z", "repo": "twbs/bootstrap"}
+{"number": 38791, "title": "How do I press a button with curl or wget", "createdAt": "2023-06-19T19:55:40Z", "repo": "twbs/bootstrap"}
+{"number": 38793, "title": "classes to switch elements when switching color modes", "createdAt": "2023-06-19T21:28:48Z", "repo": "twbs/bootstrap"}
+{"number": 38794, "title": "New Bootstrap Icons Help System With Search and Sort Features", "createdAt": "2023-06-19T23:53:30Z", "repo": "twbs/bootstrap"}
+{"number": 38800, "title": "Icon missing", "createdAt": "2023-06-20T10:03:59Z", "repo": "twbs/bootstrap"}
+{"number": 38802, "title": "Backend Theme with BS 5.3 (the color modes)", "createdAt": "2023-06-20T16:27:39Z", "repo": "twbs/bootstrap"}
+{"number": 38803, "title": "Workflow tokens", "createdAt": "2023-06-21T03:07:20Z", "repo": "twbs/bootstrap"}
+{"number": 38804, "title": "Adding gradient support for list menus", "createdAt": "2023-06-21T03:10:21Z", "repo": "twbs/bootstrap"}
+{"number": 38805, "title": "Destroy an instance of a dropdown list", "createdAt": "2023-06-21T06:54:55Z", "repo": "twbs/bootstrap"}
+{"number": 38809, "title": "How to modify the \"placeholder\" text color ?", "createdAt": "2023-06-22T10:41:47Z", "repo": "twbs/bootstrap"}
+{"number": 38812, "title": "buttons background subtle", "createdAt": "2023-06-23T08:52:35Z", "repo": "twbs/bootstrap"}
+{"number": 38813, "title": "serving individual javascript files on a webpage", "createdAt": "2023-06-23T09:47:21Z", "repo": "twbs/bootstrap"}
+{"number": 38818, "title": "Change User-Select Color", "createdAt": "2023-06-24T07:14:41Z", "repo": "twbs/bootstrap"}
+{"number": 38819, "title": "Apply rules for widths' layouts smaller than 992px", "createdAt": "2023-06-24T10:12:26Z", "repo": "twbs/bootstrap"}
+{"number": 38820, "title": "FB/Twit/Insta icons not appearing when pasting code", "createdAt": "2023-06-24T21:27:41Z", "repo": "twbs/bootstrap"}
+{"number": 38822, "title": "Navbar problems", "createdAt": "2023-06-25T12:40:38Z", "repo": "twbs/bootstrap"}
+{"number": 38824, "title": "Problem when I want fixed a column on computer and center their content on mobile", "createdAt": "2023-06-26T07:46:39Z", "repo": "twbs/bootstrap"}
+{"number": 38829, "title": "release of 5.4", "createdAt": "2023-06-26T21:14:39Z", "repo": "twbs/bootstrap"}
+{"number": 38837, "title": "Is react better than bootstrap for frontend design??", "createdAt": "2023-06-27T12:15:23Z", "repo": "twbs/bootstrap"}
+{"number": 38839, "title": "information in image", "createdAt": "2023-06-27T18:44:50Z", "repo": "twbs/bootstrap"}
+{"number": 38848, "title": "Color modes switcher", "createdAt": "2023-06-29T09:19:07Z", "repo": "twbs/bootstrap"}
+{"number": 38849, "title": "Why does the bootstrap extension have a color picker, but have no datetime picker?", "createdAt": "2023-06-29T15:41:27Z", "repo": "twbs/bootstrap"}
+{"number": 38867, "title": "floating label background wrong when input is disabled", "createdAt": "2023-07-05T07:50:53Z", "repo": "twbs/bootstrap"}
+{"number": 38868, "title": "Font size", "createdAt": "2023-07-05T11:10:16Z", "repo": "twbs/bootstrap"}
+{"number": 38869, "title": "ng build fails with: 2 rules skipped due to selector errors:   .form-floating>~label -> Did not expect successive traversals", "createdAt": "2023-07-05T14:51:56Z", "repo": "twbs/bootstrap"}
+{"number": 38870, "title": "warning: newbie...  but, graphic UI focused wondering if this navigation bar can be created in bootstrap/dreamweaver", "createdAt": "2023-07-05T19:16:46Z", "repo": "twbs/bootstrap"}
+{"number": 38875, "title": "Validate BootStrap Markup and CSS on Website", "createdAt": "2023-07-06T21:20:52Z", "repo": "twbs/bootstrap"}
+{"number": 38879, "title": "New icon", "createdAt": "2023-07-07T09:37:06Z", "repo": "twbs/bootstrap"}
+{"number": 38882, "title": "Where to find bootstrap5 professional?", "createdAt": "2023-07-09T12:19:43Z", "repo": "twbs/bootstrap"}
+{"number": 38915, "title": "Why dropdown is not showing after I login?", "createdAt": "2023-07-17T14:08:52Z", "repo": "twbs/bootstrap"}
+{"number": 38937, "title": "Help in issues with _grid.scss row > * vs Col specificity when applied to angular 14 application", "createdAt": "2023-07-19T17:00:31Z", "repo": "twbs/bootstrap"}
+{"number": 38940, "title": "Dropdown Icon Not Showing", "createdAt": "2023-07-20T06:04:45Z", "repo": "twbs/bootstrap"}
+{"number": 38944, "title": "Feature Request: Implementing Percentage (%) Prefix and @extend Support for Bootstrap Classes", "createdAt": "2023-07-21T06:43:50Z", "repo": "twbs/bootstrap"}
+{"number": 38945, "title": "Add more icons", "createdAt": "2023-07-21T06:46:36Z", "repo": "twbs/bootstrap"}
+{"number": 38950, "title": "nav menu toggle blocked unrolled + dropdown not working", "createdAt": "2023-07-23T11:43:36Z", "repo": "twbs/bootstrap"}
+{"number": 38961, "title": "Ask for help", "createdAt": "2023-07-25T11:31:35Z", "repo": "twbs/bootstrap"}
+{"number": 38962, "title": "Contribution", "createdAt": "2023-07-25T12:48:21Z", "repo": "twbs/bootstrap"}
+{"number": 38965, "title": "Basic themes", "createdAt": "2023-07-26T14:10:01Z", "repo": "twbs/bootstrap"}
+{"number": 38972, "title": "New icon", "createdAt": "2023-07-27T06:54:12Z", "repo": "twbs/bootstrap"}
+{"number": 38975, "title": "[4.6] padding-right: 17px; margin-right: -32px; added randomly to the elements", "createdAt": "2023-07-27T16:39:15Z", "repo": "twbs/bootstrap"}
+{"number": 38982, "title": "Preventing Popovers from repositioning on scroll", "createdAt": "2023-07-31T01:27:30Z", "repo": "twbs/bootstrap"}
+{"number": 38985, "title": "help me", "createdAt": "2023-07-31T11:53:44Z", "repo": "twbs/bootstrap"}
+{"number": 38986, "title": "X", "createdAt": "2023-07-31T17:24:21Z", "repo": "twbs/bootstrap"}
+{"number": 38998, "title": "btn-light & text-bg-light in dark color mode", "createdAt": "2023-08-02T20:44:49Z", "repo": "twbs/bootstrap"}
+{"number": 39003, "title": "List of classes and the correct includes for bootstrap 5.3", "createdAt": "2023-08-03T18:53:23Z", "repo": "twbs/bootstrap"}
+{"number": 39005, "title": "Collapse is failing when implementing tooltip", "createdAt": "2023-08-04T19:04:02Z", "repo": "twbs/bootstrap"}
+{"number": 39009, "title": "validation and installation", "createdAt": "2023-08-07T12:37:38Z", "repo": "twbs/bootstrap"}
+{"number": 39018, "title": "navbar problem", "createdAt": "2023-08-08T11:39:33Z", "repo": "twbs/bootstrap"}
+{"number": 39019, "title": "Unable to remove default blue outline and background color", "createdAt": "2023-08-08T14:21:54Z", "repo": "twbs/bootstrap"}
+{"number": 39020, "title": "Joomla 4 bootstrap menu / override", "createdAt": "2023-08-08T16:35:08Z", "repo": "twbs/bootstrap"}
+{"number": 39025, "title": "How to open bootstrap css and js links", "createdAt": "2023-08-09T05:42:35Z", "repo": "twbs/bootstrap"}
+{"number": 39031, "title": "To emit a CSS abs() now: abs(#{100%})", "createdAt": "2023-08-10T13:52:14Z", "repo": "twbs/bootstrap"}
+{"number": 39034, "title": "Deprecation Warning: Passing percentage units to the global abs() function is deprecated.", "createdAt": "2023-08-11T03:05:03Z", "repo": "twbs/bootstrap"}
+{"number": 39035, "title": "Proper way to write Display headings?", "createdAt": "2023-08-11T09:53:12Z", "repo": "twbs/bootstrap"}
+{"number": 39036, "title": "Bootstrap 5 Modals open on page load", "createdAt": "2023-08-11T15:47:09Z", "repo": "twbs/bootstrap"}
+{"number": 39038, "title": "Error when using BootStrap 5", "createdAt": "2023-08-12T03:08:25Z", "repo": "twbs/bootstrap"}
+{"number": 39042, "title": "Custom.scss file showing error", "createdAt": "2023-08-13T09:51:13Z", "repo": "twbs/bootstrap"}
+{"number": 39043, "title": "seeking a bootstrap freelancer developer (remote work)", "createdAt": "2023-08-13T21:48:57Z", "repo": "twbs/bootstrap"}
+{"number": 39048, "title": "How to open dropdown menu with Angular ?", "createdAt": "2023-08-14T16:37:01Z", "repo": "twbs/bootstrap"}
+{"number": 39062, "title": "How can I override $colors and $theme-colors in dark mode via SASS?", "createdAt": "2023-08-16T07:58:25Z", "repo": "twbs/bootstrap"}
+{"number": 39065, "title": "I wonder why there is clear: both.", "createdAt": "2023-08-17T01:45:36Z", "repo": "twbs/bootstrap"}
+{"number": 39066, "title": "Where can i contact bootstrap team?", "createdAt": "2023-08-17T09:16:55Z", "repo": "twbs/bootstrap"}
+{"number": 39071, "title": "Why not a footer component?", "createdAt": "2023-08-19T01:09:32Z", "repo": "twbs/bootstrap"}
+{"number": 39073, "title": "npm run build Error", "createdAt": "2023-08-19T14:57:29Z", "repo": "twbs/bootstrap"}
+{"number": 39074, "title": "Future of bootsrap", "createdAt": "2023-08-19T19:14:03Z", "repo": "twbs/bootstrap"}
+{"number": 39078, "title": "Is it possible to contact bootstrap team please", "createdAt": "2023-08-21T05:40:17Z", "repo": "twbs/bootstrap"}
+{"number": 39079, "title": "Newest version CDN links don't work at all.", "createdAt": "2023-08-21T09:07:06Z", "repo": "twbs/bootstrap"}
+{"number": 39087, "title": "Showing portfolio to classrom's wall.", "createdAt": "2023-08-22T06:54:00Z", "repo": "twbs/bootstrap"}
+{"number": 39100, "title": "There is an issue with Bootstrap 5 and Vue 3", "createdAt": "2023-08-23T18:37:29Z", "repo": "twbs/bootstrap"}
+{"number": 39105, "title": "Where can i contact Bootstrap Team?", "createdAt": "2023-08-24T06:00:24Z", "repo": "twbs/bootstrap"}
+{"number": 39111, "title": "Bootstrap Slideshow", "createdAt": "2023-08-25T06:18:37Z", "repo": "twbs/bootstrap"}
+{"number": 39113, "title": "Load external PHP into Modal .modal-body", "createdAt": "2023-08-25T23:40:08Z", "repo": "twbs/bootstrap"}
+{"number": 39115, "title": "toast autohide in v5.3.1", "createdAt": "2023-08-26T17:45:59Z", "repo": "twbs/bootstrap"}
+{"number": 39116, "title": "Being very creative using Bootstrap", "createdAt": "2023-08-26T18:02:08Z", "repo": "twbs/bootstrap"}
+{"number": 39128, "title": "@container queries instead of @media for col grid", "createdAt": "2023-08-30T11:34:41Z", "repo": "twbs/bootstrap"}
+{"number": 39129, "title": "color-modes.js", "createdAt": "2023-08-30T12:59:28Z", "repo": "twbs/bootstrap"}
+{"number": 39133, "title": "prevent the v5 from validating the \"#remember-me\" checkbox field", "createdAt": "2023-08-31T15:55:49Z", "repo": "twbs/bootstrap"}
+{"number": 39136, "title": "how to solve to dropdown menu hidden behind table in bootstrap 5", "createdAt": "2023-09-01T06:12:17Z", "repo": "twbs/bootstrap"}
+{"number": 39137, "title": "Why do Bootstrap 5 examples look broken compared to the versions on getbootstrap.com ?", "createdAt": "2023-09-01T14:28:27Z", "repo": "twbs/bootstrap"}
+{"number": 39139, "title": "Dark mode for mark tag (text highlighting)", "createdAt": "2023-09-02T16:40:40Z", "repo": "twbs/bootstrap"}
+{"number": 39142, "title": "White space on right side of my webpage", "createdAt": "2023-09-04T04:58:41Z", "repo": "twbs/bootstrap"}
+{"number": 39143, "title": "CDN Link Not Work With Me When I Add It To an HTML file.", "createdAt": "2023-09-04T13:48:51Z", "repo": "twbs/bootstrap"}
+{"number": 39144, "title": "Bootstrap 5 compatability with Internet Explorer", "createdAt": "2023-09-04T16:05:41Z", "repo": "twbs/bootstrap"}
+{"number": 39149, "title": "Overriding default theme colors in a custom color mode", "createdAt": "2023-09-05T14:26:35Z", "repo": "twbs/bootstrap"}
+{"number": 39153, "title": "Documentation Guidance", "createdAt": "2023-09-06T02:11:34Z", "repo": "twbs/bootstrap"}
+{"number": 39154, "title": "subtle class", "createdAt": "2023-09-06T08:43:01Z", "repo": "twbs/bootstrap"}
+{"number": 39157, "title": "How to access css code to reduce padding, margin, font-size", "createdAt": "2023-09-07T18:43:48Z", "repo": "twbs/bootstrap"}
+{"number": 39159, "title": "accordian not working properly with react app . please tell why?", "createdAt": "2023-09-08T18:22:50Z", "repo": "twbs/bootstrap"}
+{"number": 39160, "title": "accordian not working properly with react app. please answer this", "createdAt": "2023-09-08T18:30:31Z", "repo": "twbs/bootstrap"}
+{"number": 39163, "title": "How to position this element properly?", "createdAt": "2023-09-09T14:18:44Z", "repo": "twbs/bootstrap"}
+{"number": 39165, "title": "Nav Bar option", "createdAt": "2023-09-10T10:42:44Z", "repo": "twbs/bootstrap"}
+{"number": 39167, "title": "The new Twitter X icon", "createdAt": "2023-09-12T08:21:32Z", "repo": "twbs/bootstrap"}
+{"number": 39171, "title": "I have an question", "createdAt": "2023-09-12T11:44:58Z", "repo": "twbs/bootstrap"}
+{"number": 39176, "title": "Change tab panes with form select", "createdAt": "2023-09-13T20:37:51Z", "repo": "twbs/bootstrap"}
+{"number": 39186, "title": "Why doesn't Bootstrap have Datepicker component up to now?", "createdAt": "2023-09-15T08:23:21Z", "repo": "twbs/bootstrap"}
+{"number": 39190, "title": "CSS and JS will not load (404 error)", "createdAt": "2023-09-15T14:46:40Z", "repo": "twbs/bootstrap"}
+{"number": 39195, "title": "How do I fix blank space in the accordion element?", "createdAt": "2023-09-16T14:37:32Z", "repo": "twbs/bootstrap"}
+{"number": 39197, "title": "Toast not showing up.", "createdAt": "2023-09-17T13:15:45Z", "repo": "twbs/bootstrap"}
+{"number": 39203, "title": "Migrating from BS 3 to 5.3 - popover with conent and template", "createdAt": "2023-09-18T17:39:25Z", "repo": "twbs/bootstrap"}
+{"number": 39206, "title": "Try it on StackBlitz", "createdAt": "2023-09-19T07:25:43Z", "repo": "twbs/bootstrap"}
+{"number": 39216, "title": "Bootstrap timeline example w/ JQuery", "createdAt": "2023-09-20T15:58:04Z", "repo": "twbs/bootstrap"}
+{"number": 39217, "title": "How to use Bs datatables with ajax?", "createdAt": "2023-09-20T19:14:48Z", "repo": "twbs/bootstrap"}
+{"number": 39218, "title": "Can we customize bootstrap color? how?", "createdAt": "2023-09-20T19:16:18Z", "repo": "twbs/bootstrap"}
+{"number": 39223, "title": "Bootstrap Migration from v3 to v5", "createdAt": "2023-09-22T07:46:09Z", "repo": "twbs/bootstrap"}
+{"number": 39228, "title": "Clarification on which Bootstrap imports are required vs. optional for Sass compilation in help docs", "createdAt": "2023-09-22T17:41:45Z", "repo": "twbs/bootstrap"}
+{"number": 39230, "title": "Change bg color of focused floating labels", "createdAt": "2023-09-22T20:22:05Z", "repo": "twbs/bootstrap"}
+{"number": 39236, "title": "Using Bootstrap Modals in asp.net application. Move to new screen?", "createdAt": "2023-09-25T17:29:16Z", "repo": "twbs/bootstrap"}
+{"number": 39238, "title": "help me with z-index/transparency issue with themes", "createdAt": "2023-09-26T05:00:05Z", "repo": "twbs/bootstrap"}
+{"number": 39244, "title": "Overriding $font-family-base with var (using next/font)", "createdAt": "2023-09-26T20:22:36Z", "repo": "twbs/bootstrap"}
+{"number": 39252, "title": "Survey: Open-Source Documentation for Newcomers", "createdAt": "2023-09-29T01:14:18Z", "repo": "twbs/bootstrap"}
+{"number": 39253, "title": "Is it possible to set Bootstrap variables server side with asp.net core controllers", "createdAt": "2023-09-29T11:56:39Z", "repo": "twbs/bootstrap"}
+{"number": 39261, "title": "Form validation error message does not appear for form-check-group", "createdAt": "2023-09-30T01:01:03Z", "repo": "twbs/bootstrap"}
+{"number": 39263, "title": "how to change target file to open when 'npm run docs-serve' is run?", "createdAt": "2023-10-02T16:37:28Z", "repo": "twbs/bootstrap"}
+{"number": 39264, "title": "Source of spacing between badges", "createdAt": "2023-10-02T19:58:14Z", "repo": "twbs/bootstrap"}
+{"number": 39276, "title": "form-label vs col-form-label", "createdAt": "2023-10-05T20:10:30Z", "repo": "twbs/bootstrap"}
+{"number": 39280, "title": "Does Popover setContent variable look right under v5.3 documentation?", "createdAt": "2023-10-08T07:38:38Z", "repo": "twbs/bootstrap"}
+{"number": 39286, "title": "Accessible Bootstrap Dropdown", "createdAt": "2023-10-10T10:59:50Z", "repo": "twbs/bootstrap"}
+{"number": 39288, "title": "How do you solve date input?", "createdAt": "2023-10-11T20:24:40Z", "repo": "twbs/bootstrap"}
+{"number": 39297, "title": "Carat icon of select input", "createdAt": "2023-10-14T15:51:52Z", "repo": "twbs/bootstrap"}
+{"number": 39300, "title": "The font size in the component should be calculated based on css custom variables", "createdAt": "2023-10-15T15:17:07Z", "repo": "twbs/bootstrap"}
+{"number": 39302, "title": "Is there a way to change the backdrop root element?", "createdAt": "2023-10-16T10:59:01Z", "repo": "twbs/bootstrap"}
+{"number": 39311, "title": "`getInstance` should work regardless of how I've created the object instance.", "createdAt": "2023-10-17T16:12:46Z", "repo": "twbs/bootstrap"}
+{"number": 39312, "title": "Version without source map", "createdAt": "2023-10-18T02:19:46Z", "repo": "twbs/bootstrap"}
+{"number": 39318, "title": "Admin dashboard vs themes", "createdAt": "2023-10-20T18:22:11Z", "repo": "twbs/bootstrap"}
+{"number": 39321, "title": "Bootsrap scss not show on ftp", "createdAt": "2023-10-21T10:53:59Z", "repo": "twbs/bootstrap"}
+{"number": 39327, "title": "Model popup is not working", "createdAt": "2023-10-22T08:14:26Z", "repo": "twbs/bootstrap"}
+{"number": 39325, "title": "Using css variable instead of scss variable ?", "createdAt": "2023-10-22T17:46:22Z", "repo": "twbs/bootstrap"}
+{"number": 39332, "title": "Carousel is not smooth", "createdAt": "2023-10-24T15:59:48Z", "repo": "twbs/bootstrap"}
+{"number": 39338, "title": "Change breakpoint class convention.", "createdAt": "2023-10-27T15:38:54Z", "repo": "twbs/bootstrap"}
+{"number": 39343, "title": "form-floating accessibility?", "createdAt": "2023-10-30T15:48:13Z", "repo": "twbs/bootstrap"}
+{"number": 39344, "title": "Responsive width not working", "createdAt": "2023-10-30T22:56:26Z", "repo": "twbs/bootstrap"}
+{"number": 39347, "title": "Include -xx-unset & -xx-inherit classes", "createdAt": "2023-10-31T23:51:08Z", "repo": "twbs/bootstrap"}
+{"number": 39362, "title": "Bootstrap Deprecated Classes Extension", "createdAt": "2023-11-02T16:48:30Z", "repo": "twbs/bootstrap"}
+{"number": 39363, "title": "Checkboxes in modals are always checked", "createdAt": "2023-11-03T07:01:05Z", "repo": "twbs/bootstrap"}
+{"number": 39365, "title": "For Bootstrap-icons 1.11.1, should I use sass to include the icons I needed only? Like Bootstrap? How to do this?", "createdAt": "2023-11-03T08:21:27Z", "repo": "twbs/bootstrap"}
+{"number": 39366, "title": "Content Management System that uses Bootstrap CSS", "createdAt": "2023-11-03T14:26:21Z", "repo": "twbs/bootstrap"}
+{"number": 39368, "title": "Overriding theme color names", "createdAt": "2023-11-04T15:44:45Z", "repo": "twbs/bootstrap"}
+{"number": 39369, "title": "Hot to change primary color in dark mode?", "createdAt": "2023-11-05T07:19:20Z", "repo": "twbs/bootstrap"}
+{"number": 39370, "title": "Modal header: change default justify-content from space-between to start", "createdAt": "2023-11-06T13:55:53Z", "repo": "twbs/bootstrap"}
+{"number": 39377, "title": "Bootstrap Button with 'nav-link' and 'btn-outline' Classes Not Displaying Borders", "createdAt": "2023-11-07T15:36:42Z", "repo": "twbs/bootstrap"}
+{"number": 39382, "title": "Suggested edit for documentation", "createdAt": "2023-11-09T03:31:11Z", "repo": "twbs/bootstrap"}
+{"number": 39388, "title": "How to add a command to DateEntry", "createdAt": "2023-11-10T12:14:57Z", "repo": "twbs/bootstrap"}
+{"number": 39389, "title": "Bootstrap overwrites HTML href scrolling", "createdAt": "2023-11-10T13:49:42Z", "repo": "twbs/bootstrap"}
+{"number": 39390, "title": "Moving text", "createdAt": "2023-11-11T01:28:04Z", "repo": "twbs/bootstrap"}
+{"number": 39391, "title": "Is there other way to modify --bs-nav-pills-link-active-bg: var(--bs-white); which show in official site demo?", "createdAt": "2023-11-11T05:37:33Z", "repo": "twbs/bootstrap"}
+{"number": 39392, "title": "Offcanvas Navbar not functioning", "createdAt": "2023-11-11T15:32:29Z", "repo": "twbs/bootstrap"}
+{"number": 39393, "title": "Custom Position Values", "createdAt": "2023-11-11T18:26:32Z", "repo": "twbs/bootstrap"}
+{"number": 39394, "title": "Placeholder colour for floating labels", "createdAt": "2023-11-12T05:44:54Z", "repo": "twbs/bootstrap"}
+{"number": 39395, "title": "Accordion in a joomla article not working. Pleas help!", "createdAt": "2023-11-12T06:07:41Z", "repo": "twbs/bootstrap"}
+{"number": 39397, "title": "Video sizes/positions", "createdAt": "2023-11-13T02:53:58Z", "repo": "twbs/bootstrap"}
+{"number": 39405, "title": "Rounded table, problem with bottom corners", "createdAt": "2023-11-14T20:30:09Z", "repo": "twbs/bootstrap"}
+{"number": 39409, "title": "Changing maximum margin values", "createdAt": "2023-11-15T18:12:07Z", "repo": "twbs/bootstrap"}
+{"number": 39412, "title": "My breadcrumbs are stuck", "createdAt": "2023-11-16T12:25:26Z", "repo": "twbs/bootstrap"}
+{"number": 39416, "title": "Emphasis styling on a navbar menu", "createdAt": "2023-11-16T21:49:20Z", "repo": "twbs/bootstrap"}
+{"number": 39419, "title": "Multi-Collapse not working for me", "createdAt": "2023-11-19T02:12:04Z", "repo": "twbs/bootstrap"}
+{"number": 39421, "title": "change color mode selector from svg to i-icons", "createdAt": "2023-11-20T08:02:00Z", "repo": "twbs/bootstrap"}
+{"number": 39427, "title": "Gap/Gutter utility classes for d-flex?", "createdAt": "2023-11-21T21:34:17Z", "repo": "twbs/bootstrap"}
+{"number": 39430, "title": "Documentation does not link to latest version in dropdown", "createdAt": "2023-11-22T20:53:28Z", "repo": "twbs/bootstrap"}
+{"number": 39437, "title": "Overlaying text on an image", "createdAt": "2023-11-24T20:04:41Z", "repo": "twbs/bootstrap"}
+{"number": 39440, "title": "Contact us form", "createdAt": "2023-11-25T21:02:30Z", "repo": "twbs/bootstrap"}
+{"number": 39450, "title": "Is anyone here familiar with MDBootstrap?", "createdAt": "2023-11-29T17:22:12Z", "repo": "twbs/bootstrap"}
+{"number": 39451, "title": "Automatically Remove Unused CSS and JavaScript Code in Bootstrap Builds", "createdAt": "2023-11-29T18:15:04Z", "repo": "twbs/bootstrap"}
+{"number": 39453, "title": "hide class bootstrap 4 not working dynamically", "createdAt": "2023-11-29T20:28:07Z", "repo": "twbs/bootstrap"}
+{"number": 39454, "title": "Using style and still staying responsive", "createdAt": "2023-11-30T01:57:34Z", "repo": "twbs/bootstrap"}
+{"number": 39455, "title": "Making utilities responsive and adding more to fs-1, fs-2, etc...", "createdAt": "2023-11-30T03:25:07Z", "repo": "twbs/bootstrap"}
+{"number": 39461, "title": "issue in search box of site", "createdAt": "2023-12-03T10:43:08Z", "repo": "twbs/bootstrap"}
+{"number": 39463, "title": "can I use my own css var ?", "createdAt": "2023-12-04T15:01:45Z", "repo": "twbs/bootstrap"}
+{"number": 39471, "title": "Issue in input-group & form-control add show/hide icon to password", "createdAt": "2023-12-05T14:12:32Z", "repo": "twbs/bootstrap"}
+{"number": 39473, "title": "Data Not Displayed When Clicking on Bootstrap Examples Components on Bootstrap's Website", "createdAt": "2023-12-06T16:11:32Z", "repo": "twbs/bootstrap"}
+{"number": 39474, "title": "How best to compile custom css for colour modes", "createdAt": "2023-12-07T07:37:42Z", "repo": "twbs/bootstrap"}
+{"number": 39478, "title": "Using the tab javascript plugin: doc's 4.6 markup works. 4.5 does not. (I'm loading 4.5.3)", "createdAt": "2023-12-08T17:27:30Z", "repo": "twbs/bootstrap"}
+{"number": 39482, "title": "v5.3.0 Table variants (colors) not changing from light mode to dark mode when system settings change", "createdAt": "2023-12-11T19:04:52Z", "repo": "twbs/bootstrap"}
+{"number": 39485, "title": "Support for right-to-left text (dir=\"rtl\")", "createdAt": "2023-12-12T07:26:00Z", "repo": "twbs/bootstrap"}
+{"number": 39493, "title": "Example 'Show live alert' does not work (Bootstrap 5.3)", "createdAt": "2023-12-12T15:59:41Z", "repo": "twbs/bootstrap"}
+{"number": 39509, "title": "v5 Carousel - Show multiple slides", "createdAt": "2023-12-19T01:16:12Z", "repo": "twbs/bootstrap"}
+{"number": 39511, "title": "Return Promise when new instance is created or getOrCreateInstance called", "createdAt": "2023-12-19T10:11:49Z", "repo": "twbs/bootstrap"}
+{"number": 39512, "title": "RTL and LTR setup in a Vite Vue project", "createdAt": "2023-12-19T11:59:05Z", "repo": "twbs/bootstrap"}
+{"number": 39515, "title": "How I can create a design likes this?", "createdAt": "2023-12-21T03:53:43Z", "repo": "twbs/bootstrap"}
+{"number": 39529, "title": "vue2 cli2 import bootstrap5 error", "createdAt": "2023-12-24T06:55:08Z", "repo": "twbs/bootstrap"}
+{"number": 39535, "title": "form-group row: label and input are placed above each other when window at smallest", "createdAt": "2023-12-28T13:54:34Z", "repo": "twbs/bootstrap"}
+{"number": 39538, "title": "Typescript with Modals", "createdAt": "2023-12-29T10:03:37Z", "repo": "twbs/bootstrap"}
+{"number": 39541, "title": "is there checkout progressbar?", "createdAt": "2023-12-30T15:00:53Z", "repo": "twbs/bootstrap"}
+{"number": 39547, "title": "Component Select with live search", "createdAt": "2023-12-31T17:21:31Z", "repo": "twbs/bootstrap"}
+{"number": 39549, "title": "Create multi-select like tags on Stackoverflow", "createdAt": "2024-01-01T21:12:46Z", "repo": "twbs/bootstrap"}
+{"number": 39550, "title": "Overlapping tooltips in BS4", "createdAt": "2024-01-02T02:50:04Z", "repo": "twbs/bootstrap"}
+{"number": 39551, "title": "Customize Bootstrap 5.3 with CSS variables", "createdAt": "2024-01-02T10:29:11Z", "repo": "twbs/bootstrap"}
+{"number": 39557, "title": "Bootstrap transition are not working on my computer..", "createdAt": "2024-01-03T04:18:55Z", "repo": "twbs/bootstrap"}
+{"number": 39559, "title": "Accordion button border color is changed on focus but its width is always 0", "createdAt": "2024-01-03T06:52:45Z", "repo": "twbs/bootstrap"}
+{"number": 39566, "title": "Hi my friends", "createdAt": "2024-01-06T15:42:27Z", "repo": "twbs/bootstrap"}
+{"number": 39567, "title": "cannot read properties of null (reading 'classlist') bootstrap carousel with react - solved", "createdAt": "2024-01-07T08:07:18Z", "repo": "twbs/bootstrap"}
+{"number": 39568, "title": "Add nav items into offcanvas that is already visible", "createdAt": "2024-01-07T22:02:59Z", "repo": "twbs/bootstrap"}
+{"number": 39579, "title": "Please help sass warning for angular 17.0.9", "createdAt": "2024-01-11T12:43:38Z", "repo": "twbs/bootstrap"}
+{"number": 39583, "title": "HTML Suggestions not working for the new version", "createdAt": "2024-01-14T15:51:29Z", "repo": "twbs/bootstrap"}
+{"number": 39584, "title": "It may be the right time to recommend using `@use` instead of `@import`", "createdAt": "2024-01-15T08:37:07Z", "repo": "twbs/bootstrap"}
+{"number": 39588, "title": "Button with tooltip AND modal", "createdAt": "2024-01-17T10:52:44Z", "repo": "twbs/bootstrap"}
+{"number": 39589, "title": "Offcanvas data elements inside button can target multiple elements?", "createdAt": "2024-01-17T12:35:32Z", "repo": "twbs/bootstrap"}
+{"number": 39591, "title": "How to use scss with @use instead of @import which will be deprecated", "createdAt": "2024-01-19T13:10:54Z", "repo": "twbs/bootstrap"}
+{"number": 39596, "title": "Missing classes in bootstrap-rtl.min.css", "createdAt": "2024-01-22T08:25:56Z", "repo": "twbs/bootstrap"}
+{"number": 39607, "title": "Is there any offline version of bootstrap tutorial", "createdAt": "2024-01-25T06:14:23Z", "repo": "twbs/bootstrap"}
+{"number": 39611, "title": "Popover - About?", "createdAt": "2024-01-27T02:09:30Z", "repo": "twbs/bootstrap"}
+{"number": 39614, "title": "icon color change", "createdAt": "2024-01-28T06:33:38Z", "repo": "twbs/bootstrap"}
+{"number": 39622, "title": "Compatibility Issue with Bootstrap 5.3.2 and Tabler 1.0.0-beta20", "createdAt": "2024-02-01T13:23:16Z", "repo": "twbs/bootstrap"}
+{"number": 39621, "title": "🥚", "createdAt": "2024-02-01T14:26:43Z", "repo": "twbs/bootstrap"}
+{"number": 39625, "title": "Design creations for website on Bootstrap", "createdAt": "2024-02-02T06:48:54Z", "repo": "twbs/bootstrap"}
+{"number": 39632, "title": "Responsive Issues", "createdAt": "2024-02-02T13:28:05Z", "repo": "twbs/bootstrap"}
+{"number": 39633, "title": "[Docs Site] Auto scrolling down (scrolling so fast) when holding down left mouse button and dragging on code blocks", "createdAt": "2024-02-02T15:00:01Z", "repo": "twbs/bootstrap"}
+{"number": 39638, "title": "Uncompiled version of RTL SCSS for customizing Bootstrap", "createdAt": "2024-02-03T12:08:05Z", "repo": "twbs/bootstrap"}
+{"number": 39637, "title": "Selecting code for copying ends up scrolling up to bottom in no time.", "createdAt": "2024-02-03T16:07:28Z", "repo": "twbs/bootstrap"}
+{"number": 39639, "title": "Small white space at bottom of bootstrap site", "createdAt": "2024-02-04T08:13:18Z", "repo": "twbs/bootstrap"}
+{"number": 39643, "title": "Confusing description of spacing utilities notation", "createdAt": "2024-02-05T14:04:04Z", "repo": "twbs/bootstrap"}
+{"number": 39644, "title": "I can't find a follow-up to the support statuses of each version of BS.", "createdAt": "2024-02-05T16:42:37Z", "repo": "twbs/bootstrap"}
+{"number": 39658, "title": "Scrollable tbody in tables", "createdAt": "2024-02-07T21:49:49Z", "repo": "twbs/bootstrap"}
+{"number": 39660, "title": "Regarding the inlcusion of sidenavbar.", "createdAt": "2024-02-08T03:24:15Z", "repo": "twbs/bootstrap"}
+{"number": 39662, "title": "npm install bootstrap@5.3.2 Not working", "createdAt": "2024-02-08T12:23:55Z", "repo": "twbs/bootstrap"}
+{"number": 39678, "title": "offline bootstrap", "createdAt": "2024-02-15T09:24:25Z", "repo": "twbs/bootstrap"}
+{"number": 39679, "title": "bootstrap upgrade to 3.4.1 from 3.3.7 is not compatible IOS17", "createdAt": "2024-02-15T23:20:53Z", "repo": "twbs/bootstrap"}
+{"number": 39681, "title": "Can you provide a logical relationship diagram regarding color design?", "createdAt": "2024-02-17T14:21:07Z", "repo": "twbs/bootstrap"}
+{"number": 39702, "title": "Modal not close totally - Bug with BackDrop", "createdAt": "2024-02-22T17:42:31Z", "repo": "twbs/bootstrap"}
+{"number": 39707, "title": "Range component inside a card is impossible to see", "createdAt": "2024-02-25T00:20:27Z", "repo": "twbs/bootstrap"}
+{"number": 39708, "title": "bootstrap with angular 16 SSr", "createdAt": "2024-02-25T09:17:45Z", "repo": "twbs/bootstrap"}
+{"number": 39717, "title": "ModuleNotFoundError: No module named 'bootstrap5'", "createdAt": "2024-02-27T11:35:29Z", "repo": "twbs/bootstrap"}
+{"number": 39719, "title": "Center mode carousel using bootstrap 5", "createdAt": "2024-02-28T09:23:46Z", "repo": "twbs/bootstrap"}
+{"number": 39723, "title": "Collapse button only works one way - please help!", "createdAt": "2024-03-02T14:47:15Z", "repo": "twbs/bootstrap"}
+{"number": 39726, "title": "Better alternative for explainig how to achieve LTR and RTL at the same time in the docs", "createdAt": "2024-03-03T22:59:56Z", "repo": "twbs/bootstrap"}
+{"number": 39744, "title": "Facing install issue on PPC64LE architecture", "createdAt": "2024-03-06T04:15:22Z", "repo": "twbs/bootstrap"}
+{"number": 39752, "title": "Shadows on Bootstrap page", "createdAt": "2024-03-06T19:28:44Z", "repo": "twbs/bootstrap"}
+{"number": 39759, "title": "Contact form", "createdAt": "2024-03-07T14:06:35Z", "repo": "twbs/bootstrap"}
+{"number": 39761, "title": "Documentation page contains YouTube video of Reo Speedwagon", "createdAt": "2024-03-07T14:16:54Z", "repo": "twbs/bootstrap"}
+{"number": 39762, "title": "boostrap with vite", "createdAt": "2024-03-08T09:52:49Z", "repo": "twbs/bootstrap"}
+{"number": 39784, "title": "BS 5 modals and interaction to next paint (INP) issue", "createdAt": "2024-03-15T13:52:06Z", "repo": "twbs/bootstrap"}
+{"number": 39788, "title": "V5.3 Bootstrap.min.css shows: \"Invalid URL. The URL structure is /npm/package@version/file.js\"", "createdAt": "2024-03-16T08:31:29Z", "repo": "twbs/bootstrap"}
+{"number": 39789, "title": "All in bootstrap, \"table sort\"", "createdAt": "2024-03-16T14:54:29Z", "repo": "twbs/bootstrap"}
+{"number": 39794, "title": "Bootstrap SCSS on NPM does not generate bg-dark classes", "createdAt": "2024-03-17T14:40:05Z", "repo": "twbs/bootstrap"}
+{"number": 39816, "title": "Guideline about colors are too complicated (many pages on doc)", "createdAt": "2024-03-20T19:42:33Z", "repo": "twbs/bootstrap"}
+{"number": 39820, "title": "Any way to inform browser of original image size when size is set by bootstrap?", "createdAt": "2024-03-21T15:18:10Z", "repo": "twbs/bootstrap"}
+{"number": 39821, "title": "Fix needed for deprecated function escape() vulnerability which is found in Bootstrap v3.3.7", "createdAt": "2024-03-21T16:13:07Z", "repo": "twbs/bootstrap"}
+{"number": 39822, "title": "why bootstrap didn't use storybook html", "createdAt": "2024-03-21T22:58:46Z", "repo": "twbs/bootstrap"}
+{"number": 39823, "title": "Dropdown menu not functioning in React project despite proper Bootstrap integration", "createdAt": "2024-03-22T06:49:28Z", "repo": "twbs/bootstrap"}
+{"number": 39826, "title": "Can I use the popperJS from the bootstrap 5 bundled js as a dependency for other libraries?", "createdAt": "2024-03-22T08:03:36Z", "repo": "twbs/bootstrap"}
+{"number": 39827, "title": "V4 - Flex grid - how to adjust rows and columns in to a 3 x 3 or any other number FIXED grid", "createdAt": "2024-03-22T08:57:56Z", "repo": "twbs/bootstrap"}
+{"number": 39828, "title": "How can I generate a Business Model Canvas with Bootstrap Cards and integrate it as html in a qmd-file?", "createdAt": "2024-03-22T11:41:13Z", "repo": "twbs/bootstrap"}
+{"number": 39833, "title": "Searching for a professional bootstrap5 frontend developer", "createdAt": "2024-03-25T20:38:23Z", "repo": "twbs/bootstrap"}
+{"number": 39841, "title": "I cant acces bootstrap docs!", "createdAt": "2024-03-27T00:22:59Z", "repo": "twbs/bootstrap"}
+{"number": 39843, "title": "How do I remove all the font-related rules?", "createdAt": "2024-03-27T18:12:49Z", "repo": "twbs/bootstrap"}
+{"number": 39844, "title": "The problem with the url() function when using data URL", "createdAt": "2024-03-27T18:34:05Z", "repo": "twbs/bootstrap"}
+{"number": 39847, "title": "looks like your example code don't work", "createdAt": "2024-03-27T19:09:30Z", "repo": "twbs/bootstrap"}
+{"number": 39850, "title": "Horizonal gutters are not working", "createdAt": "2024-03-30T06:33:10Z", "repo": "twbs/bootstrap"}
+{"number": 39852, "title": "Validation show custom message via setCustomValidity", "createdAt": "2024-03-31T22:21:44Z", "repo": "twbs/bootstrap"}
+{"number": 39853, "title": "OTF font file of Bootstrap-icons for desktop???", "createdAt": "2024-04-02T01:27:20Z", "repo": "twbs/bootstrap"}
+{"number": 39868, "title": "rfs to spacer ... maybe", "createdAt": "2024-04-04T19:44:55Z", "repo": "twbs/bootstrap"}
+{"number": 39869, "title": "Gimli Bootstrap: The smart DevTools extension for Bootstrap developers.", "createdAt": "2024-04-05T05:50:55Z", "repo": "twbs/bootstrap"}
+{"number": 39875, "title": "Is it possible i want border rounded properties hover", "createdAt": "2024-04-07T00:43:31Z", "repo": "twbs/bootstrap"}
+{"number": 39880, "title": "The dropdown is not working after updating navbar content using HTMX", "createdAt": "2024-04-08T12:23:47Z", "repo": "twbs/bootstrap"}
+{"number": 39879, "title": "SCSS Validation Errors", "createdAt": "2024-04-08T14:42:33Z", "repo": "twbs/bootstrap"}
+{"number": 39889, "title": "Request for recovery of One Time Key", "createdAt": "2024-04-09T10:13:16Z", "repo": "twbs/bootstrap"}
+{"number": 39892, "title": "[Can't apply custom css to table row]", "createdAt": "2024-04-09T15:44:46Z", "repo": "twbs/bootstrap"}
+{"number": 39893, "title": "Question about using a bootstrap icon", "createdAt": "2024-04-11T13:35:17Z", "repo": "twbs/bootstrap"}
+{"number": 39894, "title": "Bootstrap carousel moves left while sliding", "createdAt": "2024-04-12T09:15:33Z", "repo": "twbs/bootstrap"}
+{"number": 39898, "title": "Set margin-left on non-typographical elements regardless of RTL/LTR?", "createdAt": "2024-04-14T04:02:28Z", "repo": "twbs/bootstrap"}
+{"number": 39901, "title": "Polyfill / Addon for overriding colors through CSS variables", "createdAt": "2024-04-15T22:13:15Z", "repo": "twbs/bootstrap"}
+{"number": 39906, "title": "Accordion hover state", "createdAt": "2024-04-16T14:52:54Z", "repo": "twbs/bootstrap"}
+{"number": 39907, "title": "Bootstrap 5.3.3 w/ Axios Cross-Site Request Forgery Vulnerability", "createdAt": "2024-04-16T18:29:37Z", "repo": "twbs/bootstrap"}
+{"number": 39911, "title": "Releasing Bootstrap documentation as a Hugo theme", "createdAt": "2024-04-17T09:59:59Z", "repo": "twbs/bootstrap"}
+{"number": 39912, "title": "IDs with Divs", "createdAt": "2024-04-18T06:06:28Z", "repo": "twbs/bootstrap"}
+{"number": 39924, "title": "SASS compiling", "createdAt": "2024-04-24T15:02:14Z", "repo": "twbs/bootstrap"}
+{"number": 39931, "title": "No `_content.scss` file for blue theme", "createdAt": "2024-04-29T12:12:58Z", "repo": "twbs/bootstrap"}
+{"number": 39933, "title": "Modal, Offcanvas Roles", "createdAt": "2024-04-29T14:59:17Z", "repo": "twbs/bootstrap"}
+{"number": 39948, "title": "What this error \"net::err_cert_common_name_invalid\"", "createdAt": "2024-05-02T05:09:10Z", "repo": "twbs/bootstrap"}
+{"number": 39955, "title": "importing bootstrap javascript and using dropdown for it gives unexpected behavior", "createdAt": "2024-05-02T18:11:40Z", "repo": "twbs/bootstrap"}
+{"number": 39956, "title": "white spaces after bootstrap links", "createdAt": "2024-05-04T09:55:52Z", "repo": "twbs/bootstrap"}
+{"number": 39959, "title": "Add Pseudo Class Prefix (hover:utility-class, focus:utility-class)", "createdAt": "2024-05-04T16:58:01Z", "repo": "twbs/bootstrap"}
+{"number": 39970, "title": "Remove icon and border color green when input is valid", "createdAt": "2024-05-08T10:48:57Z", "repo": "twbs/bootstrap"}
+{"number": 39971, "title": "Clarify usage of `.form-label` with `.form-floating`", "createdAt": "2024-05-08T14:18:17Z", "repo": "twbs/bootstrap"}
+{"number": 39973, "title": "I need help making my first contribution to an open source project", "createdAt": "2024-05-09T10:29:19Z", "repo": "twbs/bootstrap"}
+{"number": 39985, "title": "@extend still good practice?", "createdAt": "2024-05-14T22:27:54Z", "repo": "twbs/bootstrap"}
+{"number": 39988, "title": "container-fluid not applying", "createdAt": "2024-05-15T18:40:24Z", "repo": "twbs/bootstrap"}
+{"number": 39990, "title": "bootstrap tooltips displayed outside scroll area", "createdAt": "2024-05-16T00:29:47Z", "repo": "twbs/bootstrap"}
+{"number": 39992, "title": "Bootstrap Tooltip  placement issue", "createdAt": "2024-05-16T14:42:48Z", "repo": "twbs/bootstrap"}
+{"number": 40268, "title": "Inaccessible Bootstrap CDN Link - Privacy Error (?)", "createdAt": "2024-05-18T03:53:12Z", "repo": "twbs/bootstrap"}
+{"number": 40413, "title": "Is there an equivalent to input-group-text for button groups?", "createdAt": "2024-05-21T06:37:24Z", "repo": "twbs/bootstrap"}
+{"number": 40418, "title": "Gutters are the gaps between columns (col-breakpoint-size )", "createdAt": "2024-05-21T12:44:11Z", "repo": "twbs/bootstrap"}
+{"number": 40489, "title": "Don't know why this issue was closed", "createdAt": "2024-05-24T18:22:40Z", "repo": "twbs/bootstrap"}
+{"number": 40494, "title": "Dropdowns not working", "createdAt": "2024-05-27T01:50:58Z", "repo": "twbs/bootstrap"}
+{"number": 40496, "title": "Issues with Bootstrap 5.3.3 Custom JS - Collapse and Modal not working", "createdAt": "2024-05-27T08:53:35Z", "repo": "twbs/bootstrap"}
+{"number": 40497, "title": "issue with iframe for interactive html", "createdAt": "2024-05-27T12:21:26Z", "repo": "twbs/bootstrap"}
+{"number": 40503, "title": "Suggistion for bootstrap", "createdAt": "2024-05-28T22:03:53Z", "repo": "twbs/bootstrap"}
+{"number": 40505, "title": "Issues with Bootstrap 5.3.3 Custom JS - Collapse and Modal", "createdAt": "2024-05-29T08:50:33Z", "repo": "twbs/bootstrap"}
+{"number": 40510, "title": "Suggestion", "createdAt": "2024-05-30T06:36:04Z", "repo": "twbs/bootstrap"}
+{"number": 40518, "title": "Help with dropdown link on Bootstrap 5.3", "createdAt": "2024-06-04T05:07:01Z", "repo": "twbs/bootstrap"}
+{"number": 40523, "title": "Font size smaller on mobile when display flex", "createdAt": "2024-06-04T12:18:45Z", "repo": "twbs/bootstrap"}
+{"number": 40532, "title": "Help me to fit container for 6k monitors", "createdAt": "2024-06-04T19:12:49Z", "repo": "twbs/bootstrap"}
+{"number": 40533, "title": "How can i customize existing color variable?", "createdAt": "2024-06-05T04:23:28Z", "repo": "twbs/bootstrap"}
+{"number": 40535, "title": "Bad Documentation", "createdAt": "2024-06-05T10:42:07Z", "repo": "twbs/bootstrap"}
+{"number": 40536, "title": "Documentation Question Regarding \"Plugins can be included individually (using Bootstrap’s individual js/dist/*.js)\"", "createdAt": "2024-06-07T13:15:10Z", "repo": "twbs/bootstrap"}
+{"number": 40539, "title": "BS is not defined as side-effect free and that hinders tree shake leading to bloated ESM builds", "createdAt": "2024-06-10T06:00:24Z", "repo": "twbs/bootstrap"}
+{"number": 40541, "title": "The \"There's a new version\" link on top of the Bootstrap docs does not redirect to the specified documentation page for the latest version", "createdAt": "2024-06-10T07:45:35Z", "repo": "twbs/bootstrap"}
+{"number": 40543, "title": "Where does bootstrap.Tooltips come from in an Angular class?", "createdAt": "2024-06-10T13:28:01Z", "repo": "twbs/bootstrap"}
+{"number": 40549, "title": "Bootstrap Doc's Code", "createdAt": "2024-06-11T10:46:35Z", "repo": "twbs/bootstrap"}
+{"number": 40550, "title": "Multi select option", "createdAt": "2024-06-11T15:13:28Z", "repo": "twbs/bootstrap"}
+{"number": 40556, "title": "Bootstrap Nested menu issue", "createdAt": "2024-06-14T03:04:10Z", "repo": "twbs/bootstrap"}
+{"number": 40562, "title": "CSS", "createdAt": "2024-06-16T13:08:38Z", "repo": "twbs/bootstrap"}
+{"number": 40569, "title": "how to make the dropdown list item clickable on hover", "createdAt": "2024-06-19T11:31:34Z", "repo": "twbs/bootstrap"}
+{"number": 40570, "title": "New Complex Components", "createdAt": "2024-06-19T17:37:25Z", "repo": "twbs/bootstrap"}
+{"number": 40572, "title": "Bootstrap 6 release date", "createdAt": "2024-06-20T15:02:46Z", "repo": "twbs/bootstrap"}
+{"number": 40576, "title": "Adding backdrop-filter blur on navbar breaks offcanvas element", "createdAt": "2024-06-21T23:54:36Z", "repo": "twbs/bootstrap"}
+{"number": 40578, "title": "Gradients. A nightmare or a misunderstanding?", "createdAt": "2024-06-25T08:55:29Z", "repo": "twbs/bootstrap"}
+{"number": 40581, "title": "I can't find the \"_utilities.scss\" file to manipulate the utility API in my ASP.NET Core web app solution", "createdAt": "2024-06-25T15:25:56Z", "repo": "twbs/bootstrap"}
+{"number": 40584, "title": "Carousel shows enlarged image when pressing next or previous if the carousel is wrapped in float CSS", "createdAt": "2024-06-26T03:35:28Z", "repo": "twbs/bootstrap"}
+{"number": 40585, "title": "Dose Gutters deprecated in bootstrap 5", "createdAt": "2024-06-26T15:36:16Z", "repo": "twbs/bootstrap"}
+{"number": 40586, "title": "What's the right way to embed videos in Bootstrap 5.3?", "createdAt": "2024-06-26T22:00:36Z", "repo": "twbs/bootstrap"}
+{"number": 40587, "title": "Bootstrap 5 Nuxt module", "createdAt": "2024-06-27T08:41:01Z", "repo": "twbs/bootstrap"}
+{"number": 40588, "title": "Problems with modals", "createdAt": "2024-06-27T12:44:47Z", "repo": "twbs/bootstrap"}
+{"number": 40589, "title": "how to simply have a dark variable for --box-shadow", "createdAt": "2024-06-27T14:14:14Z", "repo": "twbs/bootstrap"}
+{"number": 40590, "title": "Variable width content for nested grid", "createdAt": "2024-06-28T06:57:06Z", "repo": "twbs/bootstrap"}
+{"number": 40605, "title": "We need to add logical CSS as we have already updated utility classes", "createdAt": "2024-07-02T06:04:19Z", "repo": "twbs/bootstrap"}
+{"number": 40607, "title": "Bootstrap Forced Colors CSS for Windows High Contrast Themes", "createdAt": "2024-07-04T16:06:04Z", "repo": "twbs/bootstrap"}
+{"number": 40609, "title": "What is the license for bootstrap examples? MIT or CC?", "createdAt": "2024-07-06T20:36:36Z", "repo": "twbs/bootstrap"}
+{"number": 40614, "title": "Col-auto doesn't have width equal to its content when content is a nested BS grid", "createdAt": "2024-07-09T08:19:17Z", "repo": "twbs/bootstrap"}
+{"number": 40628, "title": "Error Cannot read properties of undefined (reading 'backdrop')", "createdAt": "2024-07-11T15:31:15Z", "repo": "twbs/bootstrap"}
+{"number": 40641, "title": "Need to Introduce Select Dropdown and Multi Select Drop Down", "createdAt": "2024-07-16T07:15:25Z", "repo": "twbs/bootstrap"}
+{"number": 40642, "title": "Newbie questions about images and css links", "createdAt": "2024-07-16T15:05:21Z", "repo": "twbs/bootstrap"}
+{"number": 40645, "title": "CSP Compatibility with bootstrap.min.js", "createdAt": "2024-07-18T07:02:16Z", "repo": "twbs/bootstrap"}
+{"number": 40648, "title": "How to introduce bootstrap's Accordion footer separately", "createdAt": "2024-07-19T11:36:13Z", "repo": "twbs/bootstrap"}
+{"number": 40649, "title": "how to use flex inside tab container for full height?", "createdAt": "2024-07-20T12:19:58Z", "repo": "twbs/bootstrap"}
+{"number": 40650, "title": "What is the difference between text-body-secondary and text-secondary?", "createdAt": "2024-07-21T01:55:07Z", "repo": "twbs/bootstrap"}
+{"number": 40658, "title": "Javascript Error in dropdown", "createdAt": "2024-07-23T22:59:42Z", "repo": "twbs/bootstrap"}
+{"number": 40664, "title": "How to change the DOM from the state in Figure 1 to the state in Figure 2 by clicking a button ?", "createdAt": "2024-07-24T14:44:37Z", "repo": "twbs/bootstrap"}
+{"number": 40667, "title": "Month and Year options aren't showing when clicked inside the calendar in modal", "createdAt": "2024-07-25T17:54:35Z", "repo": "twbs/bootstrap"}
+{"number": 40668, "title": "Bootstrap Cross-site Scripting Vulnerability", "createdAt": "2024-07-25T23:14:29Z", "repo": "twbs/bootstrap"}
+{"number": 40669, "title": "Ship Icon", "createdAt": "2024-07-26T09:28:30Z", "repo": "twbs/bootstrap"}
+{"number": 40670, "title": "Bootstrap v5.2.x tooling setup fails", "createdAt": "2024-07-26T10:58:04Z", "repo": "twbs/bootstrap"}
+{"number": 40675, "title": "cara membuat template website", "createdAt": "2024-07-29T10:48:26Z", "repo": "twbs/bootstrap"}
+{"number": 40677, "title": "How to code a navbar?", "createdAt": "2024-07-30T04:37:04Z", "repo": "twbs/bootstrap"}
+{"number": 40682, "title": "CVE-2024-6531 - A vulnerability has been identified in Bootstrap that exposes users to Cross-Site Scripting (XSS) attacks", "createdAt": "2024-07-31T03:29:19Z", "repo": "twbs/bootstrap"}
+{"number": 40683, "title": "Content Security Vulnerability in ASP.NET(WebForms)", "createdAt": "2024-07-31T03:39:47Z", "repo": "twbs/bootstrap"}
+{"number": 40684, "title": "Sos Problem with html", "createdAt": "2024-08-01T08:54:58Z", "repo": "twbs/bootstrap"}
+{"number": 40687, "title": "Is there any way to customize all properties in bootstrap sass?", "createdAt": "2024-08-02T14:02:38Z", "repo": "twbs/bootstrap"}
+{"number": 40694, "title": "horizontal automatic alignment", "createdAt": "2024-08-06T00:40:13Z", "repo": "twbs/bootstrap"}
+{"number": 40705, "title": "Add sum style for Links color and offset", "createdAt": "2024-08-07T12:13:33Z", "repo": "twbs/bootstrap"}
+{"number": 40708, "title": "css variables", "createdAt": "2024-08-08T11:38:43Z", "repo": "twbs/bootstrap"}
+{"number": 40710, "title": "Tailwinds Components for Bootstrap", "createdAt": "2024-08-09T10:12:39Z", "repo": "twbs/bootstrap"}
+{"number": 40711, "title": "Documentation from the perspective of newcomers", "createdAt": "2024-08-09T19:33:12Z", "repo": "twbs/bootstrap"}
+{"number": 40717, "title": ".text-right is not working on the div where list of buttons are used as children elements", "createdAt": "2024-08-13T04:16:12Z", "repo": "twbs/bootstrap"}
+{"number": 40724, "title": "JavaScript components and the _element property", "createdAt": "2024-08-13T18:29:25Z", "repo": "twbs/bootstrap"}
+{"number": 40744, "title": "Dropdown hover only work for certain dropdown", "createdAt": "2024-08-18T23:48:50Z", "repo": "twbs/bootstrap"}
+{"number": 40747, "title": "Bug ? striped table (using dark transparancy) isn't working over cards", "createdAt": "2024-08-20T08:46:42Z", "repo": "twbs/bootstrap"}
+{"number": 40751, "title": "File input snippet not supporting locales", "createdAt": "2024-08-20T15:48:36Z", "repo": "twbs/bootstrap"}
+{"number": 40759, "title": "Importing bootstrap.scss breaks SASS compilation for tables component", "createdAt": "2024-08-21T13:11:14Z", "repo": "twbs/bootstrap"}
+{"number": 40758, "title": "Bootstrap Offcanvas Nav Icon Issue", "createdAt": "2024-08-21T19:48:01Z", "repo": "twbs/bootstrap"}
+{"number": 40780, "title": "Question about attribution", "createdAt": "2024-08-26T19:49:59Z", "repo": "twbs/bootstrap"}
+{"number": 40777, "title": "Hamburger menu not working", "createdAt": "2024-08-29T03:37:38Z", "repo": "twbs/bootstrap"}
+{"number": 40781, "title": "How do I get started, I'm still learning but want to begin.", "createdAt": "2024-09-03T05:01:27Z", "repo": "twbs/bootstrap"}
+{"number": 40791, "title": "Adding Combobox as part of Forms", "createdAt": "2024-09-03T13:50:54Z", "repo": "twbs/bootstrap"}
+{"number": 40792, "title": "Modal doesn't work on areas with external jquery link asp.net core 8", "createdAt": "2024-09-03T15:27:23Z", "repo": "twbs/bootstrap"}
+{"number": 40794, "title": "Bootstrap imported in a NextJS Project using script tag", "createdAt": "2024-09-05T13:05:51Z", "repo": "twbs/bootstrap"}
+{"number": 40800, "title": "How make toast hide after few second without button", "createdAt": "2024-09-07T07:52:01Z", "repo": "twbs/bootstrap"}
+{"number": 40811, "title": "Bootstrap 4 not displaying the colour in Print review", "createdAt": "2024-09-10T14:45:39Z", "repo": "twbs/bootstrap"}
+{"number": 40814, "title": "Request for Refund Support", "createdAt": "2024-09-11T04:05:38Z", "repo": "twbs/bootstrap"}
+{"number": 40815, "title": "Django templates wrapping React app bootstrap CSS bleeding through to react components", "createdAt": "2024-09-11T11:19:55Z", "repo": "twbs/bootstrap"}
+{"number": 40819, "title": "Where can I download the scss folder for RTL?", "createdAt": "2024-09-12T07:45:33Z", "repo": "twbs/bootstrap"}
+{"number": 40823, "title": "Is there a way to make a custom color mode inherit from dark mode?", "createdAt": "2024-09-12T15:45:12Z", "repo": "twbs/bootstrap"}
+{"number": 40824, "title": "aide de construction dun site de commerce vente en lignes des ordinateurs des telephones et tot genres", "createdAt": "2024-09-13T00:38:28Z", "repo": "twbs/bootstrap"}
+{"number": 40826, "title": "ScrollSpy Problem", "createdAt": "2024-09-13T03:19:37Z", "repo": "twbs/bootstrap"}
+{"number": 40835, "title": "Bootstrap Next Generation Using Web components", "createdAt": "2024-09-14T13:24:27Z", "repo": "twbs/bootstrap"}
+{"number": 40846, "title": "spinner-border not working on Safari, on Bootstrap v5.3.0-alpha3", "createdAt": "2024-09-18T07:56:31Z", "repo": "twbs/bootstrap"}
+{"number": 40854, "title": "What bootstrap is? How can I implement it if i'm learning html, css, and js?", "createdAt": "2024-09-19T13:19:32Z", "repo": "twbs/bootstrap"}
+{"number": 40855, "title": "How to put the focus on a certain input field on a modal form using Bootstrap?", "createdAt": "2024-09-19T16:29:40Z", "repo": "twbs/bootstrap"}
+{"number": 40863, "title": "Setting WIDTH and HEIGHT for images causes image shrinking with padding/borders", "createdAt": "2024-09-21T02:01:49Z", "repo": "twbs/bootstrap"}
+{"number": 40866, "title": "Opening one modal from another one and share ref variable beetween them", "createdAt": "2024-09-22T18:33:41Z", "repo": "twbs/bootstrap"}
+{"number": 40871, "title": "Select with size attribute breaks keyboard shortcut to select option", "createdAt": "2024-09-25T00:01:00Z", "repo": "twbs/bootstrap"}
+{"number": 40874, "title": "Need Help (html/css): Img not responsive", "createdAt": "2024-09-26T17:20:55Z", "repo": "twbs/bootstrap"}
+{"number": 40881, "title": "How much does bootstrap cost for one year (free version)?", "createdAt": "2024-10-01T01:30:53Z", "repo": "twbs/bootstrap"}
+{"number": 40891, "title": "Why Do Bundle Files Have Specific Size Limits in Bootstrap?", "createdAt": "2024-10-01T18:46:17Z", "repo": "twbs/bootstrap"}
+{"number": 40898, "title": "Is there any rule for the sizing values used in Bootstrap SCSS?", "createdAt": "2024-10-02T16:33:45Z", "repo": "twbs/bootstrap"}
+{"number": 40899, "title": "Mixin or Extend", "createdAt": "2024-10-02T19:02:58Z", "repo": "twbs/bootstrap"}
+{"number": 40904, "title": "Dead spot in .form-check", "createdAt": "2024-10-04T08:50:40Z", "repo": "twbs/bootstrap"}
+{"number": 40906, "title": "Navbar Brand is centered", "createdAt": "2024-10-04T10:36:05Z", "repo": "twbs/bootstrap"}
+{"number": 40907, "title": "Bootstrap VS Code Extension", "createdAt": "2024-10-04T14:38:07Z", "repo": "twbs/bootstrap"}
+{"number": 40912, "title": "Updating Outdated Branches in Pull Requests", "createdAt": "2024-10-05T19:35:52Z", "repo": "twbs/bootstrap"}
+{"number": 40918, "title": "flickr icon", "createdAt": "2024-10-07T23:27:36Z", "repo": "twbs/bootstrap"}
+{"number": 40922, "title": "Additional Files added to project while upgrading to latest version (4.4.1 to 5.3.3).", "createdAt": "2024-10-08T11:16:05Z", "repo": "twbs/bootstrap"}
+{"number": 40930, "title": "How do I get Bootstrap to work on Email Template with Laravel Email Verification Templates?", "createdAt": "2024-10-09T22:27:20Z", "repo": "twbs/bootstrap"}
+{"number": 40935, "title": "twitching animation when using collapse", "createdAt": "2024-10-11T06:48:10Z", "repo": "twbs/bootstrap"}
+{"number": 40937, "title": "Responsiveness", "createdAt": "2024-10-11T11:52:32Z", "repo": "twbs/bootstrap"}
+{"number": 40956, "title": "Infinite Carousal", "createdAt": "2024-10-18T11:39:51Z", "repo": "twbs/bootstrap"}
+{"number": 40957, "title": "ip SSRF improper categorization in isPublic in Bootstrap 5.3.3", "createdAt": "2024-10-18T14:06:26Z", "repo": "twbs/bootstrap"}
+{"number": 40960, "title": "Quand sort la version 6 de bootstrap et aussi ....?", "createdAt": "2024-10-20T06:07:13Z", "repo": "twbs/bootstrap"}
+{"number": 40963, "title": "question about data-bs-popper", "createdAt": "2024-10-22T04:49:11Z", "repo": "twbs/bootstrap"}
+{"number": 40966, "title": "Floating labels", "createdAt": "2024-10-22T14:44:03Z", "repo": "twbs/bootstrap"}
+{"number": 40968, "title": "Few files from SCSS folder are not available anymore after upgrade from 4.5.3 to 5.3.3", "createdAt": "2024-10-22T18:45:10Z", "repo": "twbs/bootstrap"}
+{"number": 40996, "title": "Color-Scheme for Checkboxes and Radiobuttons", "createdAt": "2024-10-30T07:45:07Z", "repo": "twbs/bootstrap"}
+{"number": 41001, "title": "ERROR  [uncaughtException] Invalid argument(s): Uri /node_modules/bootstrap/scss/_variables.scss must have scheme 'file:'.", "createdAt": "2024-10-31T16:14:07Z", "repo": "twbs/bootstrap"}
+{"number": 41017, "title": "Open Accordion based on hash fragment", "createdAt": "2024-11-07T19:53:49Z", "repo": "twbs/bootstrap"}
+{"number": 41018, "title": "Grid and .row, layout breaking", "createdAt": "2024-11-07T20:57:41Z", "repo": "twbs/bootstrap"}
+{"number": 41027, "title": "Responsive containers that stop at the breakpoint", "createdAt": "2024-11-13T01:09:10Z", "repo": "twbs/bootstrap"}
+{"number": 41028, "title": "Refund Request", "createdAt": "2024-11-13T12:17:16Z", "repo": "twbs/bootstrap"}
+{"number": 41031, "title": "Contribution", "createdAt": "2024-11-14T10:20:15Z", "repo": "twbs/bootstrap"}
+{"number": 41033, "title": "Tricky question about aligning row & cols", "createdAt": "2024-11-14T20:59:48Z", "repo": "twbs/bootstrap"}
+{"number": 41041, "title": "What Syntax Highlighter does Bootstrap use?", "createdAt": "2024-11-20T10:46:07Z", "repo": "twbs/bootstrap"}
+{"number": 41043, "title": "What is the maximum number carousel can preview", "createdAt": "2024-11-20T16:24:32Z", "repo": "twbs/bootstrap"}
+{"number": 41048, "title": "Question about Modal and Browser Conflict Issue", "createdAt": "2024-11-22T02:02:17Z", "repo": "twbs/bootstrap"}
+{"number": 41051, "title": "CLASS 'mb-*' not working when added element using jquery .after()", "createdAt": "2024-11-22T06:00:57Z", "repo": "twbs/bootstrap"}
+{"number": 41056, "title": "Bootstrap 5 navbar not properly aligned.", "createdAt": "2024-11-24T20:38:10Z", "repo": "twbs/bootstrap"}
+{"number": 41064, "title": "row > * css taking precedence instead of col-* css after upgrading to bootstrap 5 from 4.", "createdAt": "2024-11-29T13:56:06Z", "repo": "twbs/bootstrap"}
+{"number": 41066, "title": "Customizing Variables Based on Custom Colors", "createdAt": "2024-12-01T05:41:45Z", "repo": "twbs/bootstrap"}
+{"number": 41069, "title": "Dear Santa, I've been very good this year....", "createdAt": "2024-12-02T19:04:05Z", "repo": "twbs/bootstrap"}
+{"number": 41073, "title": "How to create a search input", "createdAt": "2024-12-05T01:15:26Z", "repo": "twbs/bootstrap"}
+{"number": 41077, "title": "Grid columns issue: row >* overriding the width of col-lg-9 in Bootstrap 5", "createdAt": "2024-12-06T15:45:51Z", "repo": "twbs/bootstrap"}
+{"number": 41078, "title": "Bootstrap 6: what is the expected release time?", "createdAt": "2024-12-06T18:40:39Z", "repo": "twbs/bootstrap"}
+{"number": 41079, "title": "Bootstrap 5.3.3 Nav-Links getting tab-index -1", "createdAt": "2024-12-06T18:50:23Z", "repo": "twbs/bootstrap"}
+{"number": 41086, "title": "Add animations", "createdAt": "2024-12-10T07:57:27Z", "repo": "twbs/bootstrap"}
+{"number": 41088, "title": "using @use rule with Bootstrap", "createdAt": "2024-12-10T13:04:05Z", "repo": "twbs/bootstrap"}
+{"number": 41103, "title": "Bootstrap button not toggling on click event in my Django webapp", "createdAt": "2024-12-12T10:37:29Z", "repo": "twbs/bootstrap"}
+{"number": 41093, "title": "Unable to change modal footer alignment", "createdAt": "2024-12-12T23:20:42Z", "repo": "twbs/bootstrap"}
+{"number": 41094, "title": "Bootstrap modal uses push state, even though I don't use it in Nuxt 3", "createdAt": "2024-12-13T00:51:44Z", "repo": "twbs/bootstrap"}
+{"number": 41095, "title": "Bootstrap 5 with Webpack reduces the JS file size. However, according to the StackBlitz demo, the size is still too large for just one component.", "createdAt": "2024-12-13T13:32:12Z", "repo": "twbs/bootstrap"}
+{"number": 41096, "title": "Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.", "createdAt": "2024-12-13T16:34:00Z", "repo": "twbs/bootstrap"}
+{"number": 41097, "title": "Modal focus on close", "createdAt": "2024-12-13T17:06:07Z", "repo": "twbs/bootstrap"}
+{"number": 41101, "title": "When will you add Bluesky bootstrap icon?", "createdAt": "2024-12-15T06:48:13Z", "repo": "twbs/bootstrap"}
+{"number": 41102, "title": "How to figure out the bundle size for my project/library?", "createdAt": "2024-12-15T21:50:42Z", "repo": "twbs/bootstrap"}
+{"number": 41111, "title": "Responsive spacers", "createdAt": "2024-12-18T08:52:14Z", "repo": "twbs/bootstrap"}
+{"number": 41117, "title": "How to create responsible web for Samsung S24+ when the innerWidth is same regardless of orientation", "createdAt": "2024-12-20T17:37:17Z", "repo": "twbs/bootstrap"}
+{"number": 41129, "title": "Incur in a dispute or demands", "createdAt": "2025-01-02T17:38:19Z", "repo": "twbs/bootstrap"}
+{"number": 41131, "title": "What is the reason for the special treatment of `fixed-*` and `sticky-*` elements when the scrollbar disappears during `modal.show`?", "createdAt": "2025-01-03T18:09:19Z", "repo": "twbs/bootstrap"}
+{"number": 41135, "title": "rem-based breakboints", "createdAt": "2025-01-06T14:38:38Z", "repo": "twbs/bootstrap"}
+{"number": 41136, "title": "Clarification on modifying and hosting a free Bootstrap template", "createdAt": "2025-01-06T15:07:14Z", "repo": "twbs/bootstrap"}
+{"number": 41141, "title": "for example I have the whole project is in bootstrap 4 but now I want a small component to add with bootstrap 5 to my project how is it possible partially include of bootstrap 5 element", "createdAt": "2025-01-07T11:54:23Z", "repo": "twbs/bootstrap"}
+{"number": 41147, "title": "IPhone Keyboard block Bootstrap 5 Bottom Canvas", "createdAt": "2025-01-08T21:09:28Z", "repo": "twbs/bootstrap"}
+{"number": 41149, "title": "ESLint v9", "createdAt": "2025-01-10T16:28:52Z", "repo": "twbs/bootstrap"}
+{"number": 41153, "title": "bt 5.3 - text-sm not small", "createdAt": "2025-01-14T11:51:33Z", "repo": "twbs/bootstrap"}
+{"number": 41164, "title": "Add text-justify to text utilities", "createdAt": "2025-01-19T20:50:00Z", "repo": "twbs/bootstrap"}
+{"number": 41165, "title": "developing Boostrap form with a lot of controls - some kind of visual software for this?", "createdAt": "2025-01-20T09:59:29Z", "repo": "twbs/bootstrap"}
+{"number": 41173, "title": "Are deprecation warnings normal when running vite example?", "createdAt": "2025-01-23T19:33:16Z", "repo": "twbs/bootstrap"}
+{"number": 41178, "title": "Styled text missing spaces in Accordion button", "createdAt": "2025-01-25T11:16:30Z", "repo": "twbs/bootstrap"}
+{"number": 41180, "title": "img-fluid does not work when wrapped inside flex-shrink-0", "createdAt": "2025-01-27T05:08:37Z", "repo": "twbs/bootstrap"}
+{"number": 41184, "title": "Last minor release was almost a year ago", "createdAt": "2025-01-28T10:50:30Z", "repo": "twbs/bootstrap"}
+{"number": 41191, "title": "Bootstrap and webpack", "createdAt": "2025-01-29T12:35:17Z", "repo": "twbs/bootstrap"}
+{"number": 41202, "title": "How to avoid page jumps with d-flex.", "createdAt": "2025-02-04T09:05:09Z", "repo": "twbs/bootstrap"}
+{"number": 41205, "title": "Images with vite", "createdAt": "2025-02-04T20:42:52Z", "repo": "twbs/bootstrap"}
+{"number": 41208, "title": "Reproducing bootstrap's nuspec elegance", "createdAt": "2025-02-05T15:20:39Z", "repo": "twbs/bootstrap"}
+{"number": 41211, "title": "Missing documentation for .col without .row", "createdAt": "2025-02-06T20:07:48Z", "repo": "twbs/bootstrap"}
+{"number": 41212, "title": "How to create a circular progress bar?", "createdAt": "2025-02-06T21:22:51Z", "repo": "twbs/bootstrap"}
+{"number": 41219, "title": "Highlight table TD / Column", "createdAt": "2025-02-10T11:28:38Z", "repo": "twbs/bootstrap"}
+{"number": 41224, "title": "College_Website", "createdAt": "2025-02-12T16:20:55Z", "repo": "twbs/bootstrap"}
+{"number": 41226, "title": "clone bootstrap repository", "createdAt": "2025-02-13T13:35:49Z", "repo": "twbs/bootstrap"}
+{"number": 41229, "title": "Bootstrap navbar dropdown list not displaying", "createdAt": "2025-02-15T03:34:35Z", "repo": "twbs/bootstrap"}
+{"number": 41235, "title": "Status of Bootstrap as a project?", "createdAt": "2025-02-20T13:39:53Z", "repo": "twbs/bootstrap"}
+{"number": 41242, "title": "Use meta.apply and meta.get-mixin to allow \"overriding\" bootstrap mixins like button-variant", "createdAt": "2025-02-22T12:52:53Z", "repo": "twbs/bootstrap"}
+{"number": 41247, "title": "Add a flexbox playground into documentation", "createdAt": "2025-02-25T05:33:46Z", "repo": "twbs/bootstrap"}
+{"number": 41253, "title": "你们的中文文档做的一塌糊涂", "createdAt": "2025-02-27T04:03:44Z", "repo": "twbs/bootstrap"}
+{"number": 41276, "title": "Bootstrap 5 content function only gets called once", "createdAt": "2025-02-28T02:39:03Z", "repo": "twbs/bootstrap"}
+{"number": 41256, "title": "get the table \"parent / hosting\" element from within onPostBody", "createdAt": "2025-02-28T14:35:14Z", "repo": "twbs/bootstrap"}
+{"number": 41260, "title": "How to Customize Bootstrap with Sass Update in Angular 19? Facing Issues with @use and @import Deprecation", "createdAt": "2025-03-02T19:47:30Z", "repo": "twbs/bootstrap"}
+{"number": 41278, "title": "Could the bootstrap documentation be wrong in its explanation in this section \"Remove from Map\"?", "createdAt": "2025-03-07T12:44:43Z", "repo": "twbs/bootstrap"}
+{"number": 41285, "title": "Floating dropdown", "createdAt": "2025-03-11T02:58:31Z", "repo": "twbs/bootstrap"}
+{"number": 41287, "title": "Where can I download documentaion of Bootstrap 5.3 along with its custom SCSS files?", "createdAt": "2025-03-11T09:40:03Z", "repo": "twbs/bootstrap"}
+{"number": 41290, "title": "Accordions inside table", "createdAt": "2025-03-12T09:30:18Z", "repo": "twbs/bootstrap"}
+{"number": 41293, "title": "Bootlint Alternatives for Bootstrap 5", "createdAt": "2025-03-12T19:01:35Z", "repo": "twbs/bootstrap"}
+{"number": 41303, "title": "bootstrap graphic folio site | image loading issues", "createdAt": "2025-03-16T10:31:51Z", "repo": "twbs/bootstrap"}
+{"number": 41309, "title": "How I Successfully Installed Ruby on Rails on Debian 12 Without Breaking My ISPConfig Setup", "createdAt": "2025-03-21T11:00:06Z", "repo": "twbs/bootstrap"}
+{"number": 41326, "title": "in input-group with border at rounded-start and rounded-end not right with dir= rtl and correct in ltr", "createdAt": "2025-03-25T20:18:29Z", "repo": "twbs/bootstrap"}
+{"number": 41327, "title": "[Need feedback] Bootstrap collaboration metrics", "createdAt": "2025-03-25T21:45:28Z", "repo": "twbs/bootstrap"}
+{"number": 41329, "title": "Editing software for BS 5", "createdAt": "2025-03-27T15:19:29Z", "repo": "twbs/bootstrap"}
+{"number": 41335, "title": "Issue With Using Sass @use instead of @import for npm package", "createdAt": "2025-04-01T13:02:30Z", "repo": "twbs/bootstrap"}
+{"number": 41338, "title": "v5.3.4", "createdAt": "2025-04-03T16:10:58Z", "repo": "twbs/bootstrap"}
+{"number": 41341, "title": "Missing to add some breaking change for v5.x.x", "createdAt": "2025-04-03T19:58:43Z", "repo": "twbs/bootstrap"}
+{"number": 41343, "title": "why dependency track consider bootstrap version 5.3.3  affected by CVE-2024-6484 ?", "createdAt": "2025-04-04T07:56:35Z", "repo": "twbs/bootstrap"}
+{"number": 41356, "title": "Undefined mixin:  _assert-ascending error found in node_modules\\bootstrap\\scss\\_variables.scss", "createdAt": "2025-04-08T00:31:27Z", "repo": "twbs/bootstrap"}
+{"number": 41368, "title": "Class text balanced", "createdAt": "2025-04-12T05:48:55Z", "repo": "twbs/bootstrap"}
+{"number": 41369, "title": "Class narrow width (1%)", "createdAt": "2025-04-12T06:01:17Z", "repo": "twbs/bootstrap"}
+{"number": 41370, "title": "Bootstrap Update and Roadmap – April 2025", "createdAt": "2025-04-12T07:19:08Z", "repo": "twbs/bootstrap"}
+{"number": 41374, "title": "Problem with bootstrap in angular", "createdAt": "2025-04-13T15:58:12Z", "repo": "twbs/bootstrap"}
+{"number": 41375, "title": "Am I just old fashion who don't like learning new things or just more complex than it needs to be?", "createdAt": "2025-04-14T09:17:42Z", "repo": "twbs/bootstrap"}
+{"number": 41376, "title": "Upgrading to v5.3.4 is completely disrupting the layout.", "createdAt": "2025-04-14T09:47:27Z", "repo": "twbs/bootstrap"}
+{"number": 41386, "title": "Rubygem release of 5.3.5?", "createdAt": "2025-04-15T21:54:06Z", "repo": "twbs/bootstrap"}
+{"number": 41392, "title": "Patreon icon suggestion", "createdAt": "2025-04-18T12:59:27Z", "repo": "twbs/bootstrap"}
+{"number": 41407, "title": "Carousel not working", "createdAt": "2025-04-24T02:11:50Z", "repo": "twbs/bootstrap"}
+{"number": 41410, "title": "Modal backdrop covering the modal container", "createdAt": "2025-04-25T02:39:08Z", "repo": "twbs/bootstrap"}
+{"number": 41416, "title": "bi-copy is not working when i am using it in my span and loading on the screen i am using cdn properly and all other tags are working", "createdAt": "2025-04-26T09:45:52Z", "repo": "twbs/bootstrap"}
+{"number": 41423, "title": "Add Extra Bootstrap Ratios for All Breakpoints", "createdAt": "2025-04-29T17:06:46Z", "repo": "twbs/bootstrap"}
+{"number": 41427, "title": "Was using a Jumbotron with image and need help", "createdAt": "2025-05-01T19:46:19Z", "repo": "twbs/bootstrap"}
+{"number": 41437, "title": "v5.3.6", "createdAt": "2025-05-05T19:26:30Z", "repo": "twbs/bootstrap"}
+{"number": 41442, "title": "Bootstrap Collapse JS API with Angular", "createdAt": "2025-05-06T15:20:59Z", "repo": "twbs/bootstrap"}
+{"number": 41449, "title": "Question about Bootstrap", "createdAt": "2025-05-07T14:59:51Z", "repo": "twbs/bootstrap"}
+{"number": 41454, "title": "Integrity and crossorigin attributes", "createdAt": "2025-05-08T09:02:22Z", "repo": "twbs/bootstrap"}
+{"number": 41459, "title": "Start with boostrap", "createdAt": "2025-05-11T18:52:13Z", "repo": "twbs/bootstrap"}
+{"number": 41460, "title": "Bootstrap Datatable", "createdAt": "2025-05-12T05:12:35Z", "repo": "twbs/bootstrap"}
+{"number": 41481, "title": "reCAPTCHA 401 Unauthorized Error in Chrome Console", "createdAt": "2025-05-22T09:04:22Z", "repo": "twbs/bootstrap"}
+{"number": 41484, "title": "need some help for Bootstrap's grid system", "createdAt": "2025-05-22T14:06:38Z", "repo": "twbs/bootstrap"}
+{"number": 41489, "title": "Open a link as child of collapse with Bootstrap 5.3", "createdAt": "2025-05-23T15:49:54Z", "repo": "twbs/bootstrap"}
+{"number": 41517, "title": "buttons too high in row", "createdAt": "2025-06-04T08:44:46Z", "repo": "twbs/bootstrap"}
+{"number": 41518, "title": "Is bootstrap21.org affiliated with the official Bootstrap project?", "createdAt": "2025-06-04T19:05:55Z", "repo": "twbs/bootstrap"}
+{"number": 41527, "title": "Customize row backgroud color", "createdAt": "2025-06-07T15:13:37Z", "repo": "twbs/bootstrap"}
+{"number": 41533, "title": "Issue with `npm install bootstrap@v5.3.6`", "createdAt": "2025-06-09T21:20:21Z", "repo": "twbs/bootstrap"}
+{"number": 41537, "title": "Responsive Table  Additional Horizontal Scrollbar", "createdAt": "2025-06-11T14:37:16Z", "repo": "twbs/bootstrap"}
+{"number": 41541, "title": "bs official website navbar logo animation. my rate .", "createdAt": "2025-06-12T19:40:57Z", "repo": "twbs/bootstrap"}
+{"number": 41547, "title": "Seeking Feedback on My getBootstrap Marketplace Seller Application – No Response for Months", "createdAt": "2025-06-15T08:10:31Z", "repo": "twbs/bootstrap"}
+{"number": 41557, "title": "Bootstrap Event Handling Causing Performance Issues in Phaser Game", "createdAt": "2025-06-18T23:33:21Z", "repo": "twbs/bootstrap"}
+{"number": 41559, "title": "I don't succeed in making my website responsive. It is now I discover that bootstrap can help me.", "createdAt": "2025-06-19T09:01:42Z", "repo": "twbs/bootstrap"}
+{"number": 41570, "title": "--bs-dropdown-box-shadow is set, but never used.", "createdAt": "2025-06-25T15:56:27Z", "repo": "twbs/bootstrap"}
+{"number": 41572, "title": "Add skip-validation to form validation state selector", "createdAt": "2025-06-27T08:56:42Z", "repo": "twbs/bootstrap"}
+{"number": 41601, "title": "footer", "createdAt": "2025-07-19T20:31:30Z", "repo": "twbs/bootstrap"}
+{"number": 41613, "title": "怎样本地添加bootstrap呢使用pycharm，python flask", "createdAt": "2025-07-24T01:36:02Z", "repo": "twbs/bootstrap"}
+{"number": 41627, "title": "Collapse multiple toggles opening/closing items indivually instead of together", "createdAt": "2025-07-25T13:48:42Z", "repo": "twbs/bootstrap"}
+{"number": 41638, "title": "Resource address error", "createdAt": "2025-08-05T07:26:10Z", "repo": "twbs/bootstrap"}
+{"number": 41663, "title": "Bootstrap Dropdown", "createdAt": "2025-08-19T14:52:42Z", "repo": "twbs/bootstrap"}
+{"number": 41666, "title": "Why is the organisation called 'twbs'?", "createdAt": "2025-08-21T13:11:00Z", "repo": "twbs/bootstrap"}
+{"number": 41688, "title": "Strange padding in Bootstrap 5?", "createdAt": "2025-08-27T11:18:17Z", "repo": "twbs/bootstrap"}
+{"number": 41707, "title": "Starter template in arabic", "createdAt": "2025-08-29T13:00:31Z", "repo": "twbs/bootstrap"}
+{"number": 41716, "title": "Is anyone maintaining twbs/bootstrap-rubygem ?", "createdAt": "2025-09-02T09:53:13Z", "repo": "twbs/bootstrap"}
+{"number": 41722, "title": "I built a Bootstrap wrapper with more components, a simple color system, and modern animations 🎉", "createdAt": "2025-09-03T15:33:27Z", "repo": "twbs/bootstrap"}
+{"number": 41728, "title": "Responsive text size", "createdAt": "2025-09-06T22:40:27Z", "repo": "twbs/bootstrap"}
+{"number": 41733, "title": "radion, checbox secondary Variants", "createdAt": "2025-09-11T08:31:23Z", "repo": "twbs/bootstrap"}
+{"number": 41746, "title": "Cannot use CSS variables (var(--bs-primaryColor)) as $primary in Bootstrap SCSS – throws “is not a color” error", "createdAt": "2025-09-16T14:46:12Z", "repo": "twbs/bootstrap"}
+{"number": 41748, "title": "Support overriding component variables via `@use` + `with(...)`", "createdAt": "2025-09-16T17:17:43Z", "repo": "twbs/bootstrap"}
+{"number": 41753, "title": "Multiple color palettes across site", "createdAt": "2025-09-19T07:53:01Z", "repo": "twbs/bootstrap"}
+{"number": 41756, "title": "Bootstrap 5 – Glyphicons support and licensing clarification", "createdAt": "2025-09-22T06:05:29Z", "repo": "twbs/bootstrap"}
+{"number": 41765, "title": "Tooltip customClass function does not update if trigger's class changes while visible", "createdAt": "2025-09-23T23:16:34Z", "repo": "twbs/bootstrap"}
+{"number": 41771, "title": "bring justified text class back", "createdAt": "2025-09-26T15:19:33Z", "repo": "twbs/bootstrap"}
+{"number": 41773, "title": "The background color is only white.", "createdAt": "2025-09-26T23:49:35Z", "repo": "twbs/bootstrap"}
+{"number": 41787, "title": "Bootstrap 3 Community Fork (Security Patches & Maintenance)", "createdAt": "2025-10-03T12:00:25Z", "repo": "twbs/bootstrap"}
+{"number": 41792, "title": "Is there a good reason for cell paddings in tables to not use system variables?", "createdAt": "2025-10-05T12:30:01Z", "repo": "twbs/bootstrap"}
+{"number": 41796, "title": "Worldpay Integration", "createdAt": "2025-10-06T12:56:46Z", "repo": "twbs/bootstrap"}
+{"number": 41813, "title": "Is JavaScript involved while manipulating bootstrap grid?", "createdAt": "2025-10-14T21:57:02Z", "repo": "twbs/bootstrap"}
+{"number": 41814, "title": "How increase font size to all elements?", "createdAt": "2025-10-15T21:16:10Z", "repo": "twbs/bootstrap"}
+{"number": 41829, "title": "Can you just use Bootstrap with plain CSS? Without npm etc", "createdAt": "2025-10-22T15:00:19Z", "repo": "twbs/bootstrap"}
+{"number": 41830, "title": "Two Column Layout Help", "createdAt": "2025-10-22T15:18:22Z", "repo": "twbs/bootstrap"}
+{"number": 41838, "title": "Unwanted scrolling with checkbox toggle buttons", "createdAt": "2025-10-26T00:59:01Z", "repo": "twbs/bootstrap"}
+{"number": 41846, "title": "Funding the development of Bootstrap", "createdAt": "2025-11-03T12:09:36Z", "repo": "twbs/bootstrap"}
+{"number": 41851, "title": "have an idea to add a class between container and container-fluid", "createdAt": "2025-11-05T07:34:12Z", "repo": "twbs/bootstrap"}
+{"number": 41853, "title": "Button Variant mixin is not setting the hover/active background color correctly when used with white.", "createdAt": "2025-11-07T00:56:45Z", "repo": "twbs/bootstrap"}
+{"number": 41860, "title": "Can't compile", "createdAt": "2025-11-08T07:24:33Z", "repo": "twbs/bootstrap"}
+{"number": 41874, "title": "BS5 tooltips got mixed in with BS4 tooltips and now are bugged", "createdAt": "2025-11-14T21:52:10Z", "repo": "twbs/bootstrap"}
+{"number": 41885, "title": "From Beginner to Contributor: What was your \"aha!\" moment with GitHub?", "createdAt": "2025-11-23T14:35:56Z", "repo": "twbs/bootstrap"}
+{"number": 41910, "title": "Importing Bootstrap JS in multiple components causes errors", "createdAt": "2025-12-08T18:25:06Z", "repo": "twbs/bootstrap"}
+{"number": 41911, "title": "Tooltips and Accessibility", "createdAt": "2025-12-09T07:02:26Z", "repo": "twbs/bootstrap"}
+{"number": 41932, "title": "How can I prevent inactive Bootstrap buttons from showing as active when they are in focus on iOS?", "createdAt": "2025-12-16T16:10:39Z", "repo": "twbs/bootstrap"}
+{"number": 41946, "title": "Bootstrap CSS Breakpoint Debugger (CSS snippet for development)", "createdAt": "2025-12-18T04:42:20Z", "repo": "twbs/bootstrap"}
+{"number": 41960, "title": "Unified color declaring method or a color pallete", "createdAt": "2025-12-20T10:34:19Z", "repo": "twbs/bootstrap"}
+{"number": 41971, "title": "Cant make a big carousel!", "createdAt": "2025-12-23T14:12:30Z", "repo": "twbs/bootstrap"}
+{"number": 41985, "title": "LTR templates", "createdAt": "2026-01-02T12:54:53Z", "repo": "twbs/bootstrap"}
+{"number": 42010, "title": "loading=\"lazy\" feature", "createdAt": "2026-01-12T12:21:52Z", "repo": "twbs/bootstrap"}
+{"number": 42021, "title": "Woocommerce shortcodes  [product id=\"123\"] & [products ids=\"123\"] are not working", "createdAt": "2026-01-16T16:28:24Z", "repo": "twbs/bootstrap"}
+{"number": 42027, "title": "v6. Support for <select> at the box level", "createdAt": "2026-01-20T06:39:16Z", "repo": "twbs/bootstrap"}
+{"number": 42036, "title": "more info on the different parameters used", "createdAt": "2026-01-22T13:41:04Z", "repo": "twbs/bootstrap"}
+{"number": 42056, "title": "Border", "createdAt": "2026-02-02T11:41:51Z", "repo": "twbs/bootstrap"}
+{"number": 42057, "title": "Unclear documentation on the dispose method: calling it after hide", "createdAt": "2026-02-02T13:31:54Z", "repo": "twbs/bootstrap"}
+{"number": 42058, "title": "How are Bootstrap JS instances stored in DOM elements?", "createdAt": "2026-02-02T15:35:38Z", "repo": "twbs/bootstrap"}
+{"number": 42090, "title": "Bootstrap 6 feedback", "createdAt": "2026-02-21T04:32:07Z", "repo": "twbs/bootstrap"}
+{"number": 42096, "title": "How to add new colors to theme with all variants and features", "createdAt": "2026-02-23T20:39:43Z", "repo": "twbs/bootstrap"}
+{"number": 42136, "title": "Pagination component does not match the input/button components", "createdAt": "2026-03-09T02:13:14Z", "repo": "twbs/bootstrap"}
+{"number": 42138, "title": "Input & button height adjustments", "createdAt": "2026-03-09T03:41:57Z", "repo": "twbs/bootstrap"}
+{"number": 42144, "title": "Bootstrap Design Generator", "createdAt": "2026-03-10T15:10:34Z", "repo": "twbs/bootstrap"}
+{"number": 42145, "title": "Link & Pill shaped nav items height", "createdAt": "2026-03-11T00:38:17Z", "repo": "twbs/bootstrap"}
+{"number": 42152, "title": "Building Components On The Fly", "createdAt": "2026-03-11T20:42:15Z", "repo": "twbs/bootstrap"}
+{"number": 42171, "title": "Proper floating labels on selects have been possible for a while now; how do we want to target the placeholder option?", "createdAt": "2026-03-13T14:08:41Z", "repo": "twbs/bootstrap"}
+{"number": 42183, "title": "Width / Height utility percentage value names", "createdAt": "2026-03-13T23:27:15Z", "repo": "twbs/bootstrap"}
+{"number": 42187, "title": "Backdrop-blur Utility", "createdAt": "2026-03-16T10:18:15Z", "repo": "twbs/bootstrap"}
+{"number": 42227, "title": "Component Request: Timeline", "createdAt": "2026-03-22T14:50:35Z", "repo": "twbs/bootstrap"}
+{"number": 42228, "title": "Bootstrap UI Sounds", "createdAt": "2026-03-23T00:35:21Z", "repo": "twbs/bootstrap"}
+{"number": 42233, "title": "table-striped", "createdAt": "2026-03-23T17:20:05Z", "repo": "twbs/bootstrap"}
+{"number": 42274, "title": "Unable to modify $utilities map after loading Bootstrap v6-dev modules", "createdAt": "2026-04-04T15:35:29Z", "repo": "twbs/bootstrap"}
+{"number": 42281, "title": "Combobox: List selected items with badges/input chips", "createdAt": "2026-04-05T19:15:42Z", "repo": "twbs/bootstrap"}
+{"number": 42282, "title": "Datepicker: date-time or just time picker", "createdAt": "2026-04-05T19:26:16Z", "repo": "twbs/bootstrap"}
+{"number": 42287, "title": "Bootstrap débutante", "createdAt": "2026-04-06T16:10:12Z", "repo": "twbs/bootstrap"}
+{"number": 42288, "title": "Did the color math change? It now show rgb instead of hex value", "createdAt": "2026-04-06T19:28:24Z", "repo": "twbs/bootstrap"}
+{"number": 42326, "title": "v6: Docs - feedback / bugs", "createdAt": "2026-04-16T06:09:56Z", "repo": "twbs/bootstrap"}
+{"number": 42327, "title": "Switches look too short/narrow", "createdAt": "2026-04-16T06:16:50Z", "repo": "twbs/bootstrap"}
+{"number": 42337, "title": "Docs cleanup needed", "createdAt": "2026-04-21T14:44:23Z", "repo": "twbs/bootstrap"}
+{"number": 42346, "title": "Bootstrap 5.3.8: Hamburger icon does not show in the navbar", "createdAt": "2026-04-21T19:49:53Z", "repo": "twbs/bootstrap"}
+{"number": 42351, "title": "form-control select doesn't display chevron/select icon (light mode)", "createdAt": "2026-04-22T02:44:59Z", "repo": "twbs/bootstrap"}
+{"number": 42362, "title": "Vanilla-Extract migration", "createdAt": "2026-04-25T01:33:58Z", "repo": "twbs/bootstrap"}
+{"number": 42373, "title": "v6: bug: text-wrap and text-balance not working", "createdAt": "2026-04-30T06:40:04Z", "repo": "twbs/bootstrap"}
+{"number": 42377, "title": "Cursor spinning after load any version that older than 5.0.2", "createdAt": "2026-04-30T22:41:54Z", "repo": "twbs/bootstrap"}
+{"number": 42384, "title": "v6: `<kbd>` horizontal padding", "createdAt": "2026-05-02T04:57:07Z", "repo": "twbs/bootstrap"}
+{"number": 42393, "title": "Are there reference documents?  Or is that more of a \"read the source\" thing?", "createdAt": "2026-05-04T18:19:41Z", "repo": "twbs/bootstrap"}
+{"number": 42398, "title": "v6: Safari bugs on older versions", "createdAt": "2026-05-07T16:02:24Z", "repo": "twbs/bootstrap"}
+{"number": 42419, "title": "Change _start and _end back to _left and _right.", "createdAt": "2026-05-19T20:16:54Z", "repo": "twbs/bootstrap"}
+{"number": 42431, "title": "v6: Examples - Feedback / bugs", "createdAt": "2026-05-23T01:42:15Z", "repo": "twbs/bootstrap"}
+{"number": 42444, "title": "v6: Components - feedback / bugs", "createdAt": "2026-05-27T02:13:07Z", "repo": "twbs/bootstrap"}
+{"number": 42445, "title": "v6: Forms - feedback / bugs", "createdAt": "2026-05-27T15:00:46Z", "repo": "twbs/bootstrap"}
+{"number": 42469, "title": "Introducing bootstrap_ui_flutter – A Flutter/Dart port of Bootstrap 5.3", "createdAt": "2026-06-04T16:05:38Z", "repo": "twbs/bootstrap"}
+{"number": 42486, "title": "OTP component accessibility", "createdAt": "2026-06-08T17:27:11Z", "repo": "twbs/bootstrap"}
+{"number": 42519, "title": "Timeline for release?", "createdAt": "2026-06-16T19:53:00Z", "repo": "twbs/bootstrap"}
+{"number": 42596, "title": "v6: Why was the largest breakpoint name changed from `xxl` to `2xl`?", "createdAt": "2026-06-28T19:48:40Z", "repo": "twbs/bootstrap"}
+{"number": 42597, "title": "v6: Dialog default styling", "createdAt": "2026-06-28T20:10:03Z", "repo": "twbs/bootstrap"}
