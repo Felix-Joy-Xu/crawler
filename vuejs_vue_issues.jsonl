@@ -1,0 +1,397 @@
+{"number": 12407, "title": "Data re-rendering caused by passed slots in v-for loop", "createdAt": "2022-01-03T20:26:21Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12409, "title": "the element does render correctly by the list data ", "createdAt": "2022-01-06T03:56:21Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12410, "title": "test:type script failed in async component test process", "createdAt": "2022-01-06T06:23:10Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12411, "title": "Please add option eventType for watcher.", "createdAt": "2022-01-07T05:42:05Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12412, "title": "子组件的根节点会被父组件的作用域样式影响【强烈建议取消这功能】", "createdAt": "2022-01-07T08:52:04Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12415, "title": "SyntaxError: expected expression, got  . ", "createdAt": "2022-01-09T06:08:53Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12418, "title": "Error 'URL is not defined' when webpack5 builds the server program", "createdAt": "2022-01-13T08:11:39Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12420, "title": "Can not read props with array value inside watch", "createdAt": "2022-01-14T05:55:54Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12421, "title": "multi iframes don't display", "createdAt": "2022-01-14T08:41:25Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12424, "title": "当我用watch监听一个组件v-modal的值时 值发生了改变但watch并未触发", "createdAt": "2022-01-17T03:12:12Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12425, "title": "when I create Vue.directive like v-auth，and use a div with v-for over a div with v-auth.bug is appearing", "createdAt": "2022-01-19T09:21:32Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12427, "title": "`this` type inference doesnt work in `data` method", "createdAt": "2022-01-19T13:38:57Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12428, "title": "父子组件绑定的v-model值 在子组件中使用watch监听失败", "createdAt": "2022-01-20T09:39:03Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12429, "title": "Uncaught SyntaxError: Unexpected token '<'", "createdAt": "2022-01-20T10:14:57Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12432, "title": "staticClass en el componente asincrónico empaquetado no representado en el servidor por vue-server-renderer", "createdAt": "2022-01-21T18:27:42Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12433, "title": "Allow for bubbling of events in webcomponents", "createdAt": "2022-01-22T13:34:41Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12436, "title": "有没有props,emits的hooks?", "createdAt": "2022-01-22T17:14:17Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12437, "title": "VUE 3  SSR - Error (500) [vuex] do not mutate vuex store state outside mutation handlers.", "createdAt": "2022-01-22T19:27:44Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12438, "title": "vue compile / rendering does not work in child elements", "createdAt": "2022-01-22T21:51:34Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12439, "title": "how to custom sort component className", "createdAt": "2022-01-24T11:51:08Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12440, "title": "`<transition disappear>` attribute complementary to already existing `appear`", "createdAt": "2022-01-24T14:05:34Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12441, "title": "Vue 2 + Typescript + multiple types for props", "createdAt": "2022-01-25T10:32:46Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12442, "title": "Component in keep alive receives `activated` event when being `deactivated`", "createdAt": "2022-01-25T11:08:16Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12443, "title": "Dependent props rules", "createdAt": "2022-01-25T15:28:40Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12444, "title": "[FEATURE-REQUEST] Shorthand attributes/props", "createdAt": "2022-01-26T08:51:26Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12445, "title": "Memory leak, all event listeners not are automatically removed, and the browser leaves in the heap vue listeners", "createdAt": "2022-01-26T16:53:20Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12446, "title": "Missing directive triggers strange error message: `Cannot read properties of undefined (reading 'deep')`", "createdAt": "2022-01-27T03:01:19Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12447, "title": "v-model does not respond to google chrome autofill  fields", "createdAt": "2022-01-27T20:23:21Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12448, "title": "vue-server-renderer 多个入口情况会把所有入口的初始化资源加载进来", "createdAt": "2022-01-28T03:37:36Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12450, "title": "Vue runtime error log displays problems", "createdAt": "2022-01-29T04:11:53Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12451, "title": "Uncaught (in promise) TypeError: can't access property \"nextSibling\", node is null", "createdAt": "2022-01-29T15:44:36Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12453, "title": "Suggestion: introduce new function for template refs in setup functions", "createdAt": "2022-02-01T21:02:30Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12454, "title": "Property validator should report the property that failed type / validator check", "createdAt": "2022-02-02T06:22:22Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12458, "title": "SECURITY ISSUE - possibility to turn on vue devtools at prod mode", "createdAt": "2022-02-07T13:59:31Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12459, "title": "getInspectorState / mixed namespaced modules between tabs", "createdAt": "2022-02-08T12:05:24Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12461, "title": "HMR is not working", "createdAt": "2022-02-09T06:06:11Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12463, "title": "<slot>{xxx}</slot> doesn't work in complie umd.js (插槽语法编译后不执行)", "createdAt": "2022-02-09T09:04:29Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12466, "title": "Module Federation w/ vue-ssr", "createdAt": "2022-02-11T10:47:29Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12471, "title": "use vite with vue2 on ssr,  dynamic import cause Cannot add property _Ctor, object is not extensible", "createdAt": "2022-02-17T15:53:14Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12472, "title": "v-if on template stops custom directive hooks from being called", "createdAt": "2022-02-19T09:19:22Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12478, "title": "Not compatible with Firefox mobile", "createdAt": "2022-02-23T09:18:18Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12481, "title": "Vue.extend name always is `VueComponent` in webpack,   CDN is correct", "createdAt": "2022-02-25T06:00:24Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12482, "title": "vue2 not recognizing change when pushing a previously set array to query", "createdAt": "2022-02-26T11:22:13Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12488, "title": "serverPrefetch's `this` type doesn't include component properties", "createdAt": "2022-03-01T18:19:52Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12490, "title": "Firefox: Parent anchor tag link is opened, even though child input stops event propagation", "createdAt": "2022-03-02T12:31:58Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12493, "title": "Vue.extend方法中的cachedCtors感觉实际没有起到缓存构造函数的作用", "createdAt": "2022-03-05T14:20:38Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12494, "title": "On webcomponents, it is not possible to adjust rem unit values based on :host", "createdAt": "2022-03-06T13:29:05Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12496, "title": "Render with contenteditable makes duplicated text", "createdAt": "2022-03-08T06:19:35Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12497, "title": "The latest progress of Vue 2.7 and the REAL approximate release time", "createdAt": "2022-03-08T09:41:55Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12499, "title": "No error handling for importing a component with the same name as the component you are importing into", "createdAt": "2022-03-11T08:03:35Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12500, "title": "若依前后端不分离项目中，如何使用vue", "createdAt": "2022-03-11T11:05:31Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12502, "title": "Inline style binding issue", "createdAt": "2022-03-21T14:31:44Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12505, "title": "关于微信分享导致路由失败的问题", "createdAt": "2022-03-24T01:34:27Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12506, "title": "Using the same array V-for rendering on the same page will report an error", "createdAt": "2022-03-24T07:42:28Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12507, "title": "vuejs插值表达式 有没有办法支持 可选链操作符？", "createdAt": "2022-03-27T09:58:02Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12509, "title": "公司历史原因，在维护一个vue1的项目，vue1里面没有slot-scope的api，有什么可替代的写法吗", "createdAt": "2022-03-30T12:21:32Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12511, "title": "Module Federation & Vue 2 SSR: support async initialization", "createdAt": "2022-03-31T10:11:02Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12513, "title": "文档内容错误", "createdAt": "2022-04-01T09:55:00Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12516, "title": "Optimize the use and judgment of NODE_ENV", "createdAt": "2022-04-06T07:06:58Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12519, "title": "v-slot出来的值不会渲染", "createdAt": "2022-04-10T03:46:36Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12521, "title": "v-slot出来的值不会渲染", "createdAt": "2022-04-11T03:00:57Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12522, "title": "Repeated watch triggers 重复的watch触发行为", "createdAt": "2022-04-15T02:53:51Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12523, "title": "Hydration mismatch at {{ \"\" }} inside v-for", "createdAt": "2022-04-17T01:15:56Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12528, "title": "Initial data from props, BUT only object type data remains reactive", "createdAt": "2022-04-19T03:39:38Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12531, "title": "Different behavior between type [Boolean, String] and type String in custom my-select components", "createdAt": "2022-04-23T06:49:30Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12535, "title": "jsx 里面的props属性", "createdAt": "2022-05-06T08:30:26Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12536, "title": "《minemap下》vue父子组件中在data中不同时定义地图变量变量会导致地图渲染问题", "createdAt": "2022-05-06T13:57:25Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12537, "title": "bug", "createdAt": "2022-05-07T09:35:50Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12538, "title": "I mistakenly took 0 as the divisor in computed, Caused Vue devtool to crash", "createdAt": "2022-05-09T08:10:32Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12540, "title": "console.log window object throw unrelated error", "createdAt": "2022-05-21T08:51:57Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12541, "title": "execution error in invokeWithErrorHandling", "createdAt": "2022-05-23T06:59:40Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12544, "title": "vue2的组件我觉得太单一，不方便，我用的版本不支持，多标签，只能单标签，而且单标签都不能加任何其他外在数据。", "createdAt": "2022-05-26T08:48:52Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12545, "title": "Using 'v-for in array.sort()'  in dynamic components causes infinite update loop", "createdAt": "2022-05-27T09:54:06Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12547, "title": "Syntax error neither caught in window.error nor errorHandler", "createdAt": "2022-05-30T08:17:11Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12549, "title": "throw error when refWrapped list pushed refWrapped value", "createdAt": "2022-06-01T10:53:46Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12554, "title": "Refs are set to null instead of undefined when components are destroyed in vue v2.7.0-alpha.5", "createdAt": "2022-06-08T08:54:53Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12555, "title": "How do I understand this grammar? Is that right?", "createdAt": "2022-06-09T10:12:29Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12557, "title": "Focus on element wrapped in transition works incorrectly on ios(safari)", "createdAt": "2022-06-14T11:37:05Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12561, "title": "props is not reactive in 2.7.0-beta.2", "createdAt": "2022-06-17T13:44:27Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12565, "title": "use watchEffect should pauseTracking with array", "createdAt": "2022-06-20T15:13:59Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12566, "title": "Object property shorthand within template expressions throws error", "createdAt": "2022-06-20T15:15:41Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12567, "title": "ReferenceError: require is not defined", "createdAt": "2022-06-21T06:30:10Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12568, "title": "Vue 2.7.0-beta.4 `new Vue(...)` return type becomes `never` when using setup() in the root instance", "createdAt": "2022-06-21T17:42:11Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12569, "title": "Template Ref watcher not triggered in Vue 2.7", "createdAt": "2022-06-21T21:31:12Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12572, "title": "Cannot Cannot read properties of undefined (reading 'includes') (I want to check if user have already checked in my API)", "createdAt": "2022-06-22T08:51:32Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12574, "title": "Readonly breaks reactive class instance", "createdAt": "2022-06-22T14:20:46Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12576, "title": "@vue/cli-plugin-babel@4.5.18  error! error! error! error!", "createdAt": "2022-06-22T16:51:23Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12577, "title": "Vue 2.7: `getCurrentInstance()` returns `ComponentInstance` proxy instead of `ComponentInternalInstance`", "createdAt": "2022-06-22T22:00:32Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12578, "title": "Component template ref watcher triggers before its mounted hook is finished", "createdAt": "2022-06-23T11:03:21Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12579, "title": "v-if not working on <p> tag that has children tags", "createdAt": "2022-06-23T23:05:20Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12583, "title": "Vue sfc compiler does not handle <img src=\"@/assets/...\"> as alias", "createdAt": "2022-06-27T19:25:59Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12585, "title": "发布软件的正确流程是什么？", "createdAt": "2022-06-29T02:05:14Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12586, "title": "Why does re-initialising a Vue 2 app doesn't work", "createdAt": "2022-06-29T06:38:29Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12587, "title": "Variables starting with _ causes warning: \"not defined on the instance but referenced during render\"", "createdAt": "2022-06-29T09:22:16Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12589, "title": "`$el` in nested HOC won't change when the child component's root element changes", "createdAt": "2022-06-29T15:28:00Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12591, "title": "vue-loader error with script setup: Cannot read property 'content' of null", "createdAt": "2022-07-01T03:41:27Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12592, "title": "vue.min.js is missing in 2.7.0", "createdAt": "2022-07-01T06:11:12Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12593, "title": "Vue2.7 defineComponent cannot infer the type of mixins", "createdAt": "2022-07-01T06:23:52Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12595, "title": "Cannot assign to a NaN variable", "createdAt": "2022-07-01T09:53:52Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12596, "title": "getCurrentInstance type not correct", "createdAt": "2022-07-01T10:11:04Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12597, "title": "`shallowReactive` will unwrap `refs`", "createdAt": "2022-07-01T12:22:15Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12598, "title": "Upgrading to vue 2.7 broke vue-grid-layout", "createdAt": "2022-07-01T16:50:05Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12599, "title": "Yet another prop and event handler shorthand", "createdAt": "2022-07-02T00:25:38Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12600, "title": "Vue 2.7 does not expose proxyRefs", "createdAt": "2022-07-02T06:14:31Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12606, "title": "vue 2.7.0  vm.$el is an HTML comment (<!----->) when I render jsx", "createdAt": "2022-07-04T03:44:27Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12607, "title": "Wrong types for the .tsx elements", "createdAt": "2022-07-04T09:18:48Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12608, "title": "implement and export defineAsyncComponent compatible version in 2.7.x", "createdAt": "2022-07-04T14:18:14Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12611, "title": "Pug templates no longer compile with an initial indent", "createdAt": "2022-07-04T16:35:06Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12613, "title": "Vue2.7 setup  injectH ", "createdAt": "2022-07-05T06:15:00Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12614, "title": "onMounted is called when there is no active component instance to be associated with. Lifecycle injection APIs can only be used during execution of setup().", "createdAt": "2022-07-05T13:48:07Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12615, "title": "Setting the value of reactive property in SSR overwrites the reactive property with the plain JS value", "createdAt": "2022-07-05T18:59:00Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12617, "title": "HTMLAttributes types missing?", "createdAt": "2022-07-06T01:34:41Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12619, "title": "Cannot use functional option in defineComponent", "createdAt": "2022-07-06T06:11:38Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12620, "title": "Property 'xx' does not exist on type 'ElementAttrs'", "createdAt": "2022-07-06T06:56:16Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12621, "title": "SFC CSS v-bind doesn't create variable", "createdAt": "2022-07-06T10:07:40Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12622, "title": "Vue.component(id, component) mismatch type of DefineComponent", "createdAt": "2022-07-06T10:09:10Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12623, "title": "due to my template syntax error,  terminal stuck... loose control", "createdAt": "2022-07-06T10:56:28Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12624, "title": "ref value change in life-cycle hooks does not trigger watch & watchEffect", "createdAt": "2022-07-06T11:52:49Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12625, "title": "[2.7.x] Functional components don't compile properly", "createdAt": "2022-07-06T14:01:13Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12626, "title": "Dual package hazard with esm", "createdAt": "2022-07-06T14:05:15Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12627, "title": "[2.7.x] TypeError: Cannot read properties of undefined (reading 'on')", "createdAt": "2022-07-06T15:15:19Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12628, "title": "[2.7.x] [typescript] Type inference breaks under specific circumstances", "createdAt": "2022-07-06T18:02:37Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12631, "title": "`Vue.set` in plain array cause `Cannot read properties of undefined (reading 'shallow')`", "createdAt": "2022-07-07T03:24:05Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12630, "title": "Vue SFC template cannot display obj which has ref", "createdAt": "2022-07-07T04:07:13Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12632, "title": "Server side render error: Cannot read property 'shallow' of undefined", "createdAt": "2022-07-07T08:29:45Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12635, "title": "Vue.set in plain array cause Cannot read properties of undefined (reading 'shallow') in 2.7.3", "createdAt": "2022-07-08T02:27:06Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12636, "title": "Vue 2.7: injection \"Symbol(pinia)\" not found", "createdAt": "2022-07-08T07:32:20Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12637, "title": "TS2769: No overload matches this call when building Vue 2.7 TS components using scirpt setup with webpack", "createdAt": "2022-07-08T10:19:46Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12640, "title": "ref becomes unwrapped", "createdAt": "2022-07-08T16:03:43Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12641, "title": "`template or render function not defined` when mounting a component using vue-class-component", "createdAt": "2022-07-08T16:22:46Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12642, "title": "[2.7.x] [typescript] Type augmentation does not work", "createdAt": "2022-07-08T18:39:50Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12643, "title": "Inconsistent behavior using reactive and ref objects", "createdAt": "2022-07-09T14:47:15Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12645, "title": "Lack of some docs about 2.7", "createdAt": "2022-07-10T06:51:35Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12647, "title": "Composition API not rendering changes in Vue 2.7 in combination with Laravel and Vite", "createdAt": "2022-07-10T22:08:36Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12649, "title": "vue2.7 + ts can't recognize the global types declaration in sfc files", "createdAt": "2022-07-12T02:46:32Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12650, "title": "It seems that watcher doesn't meet expectation, when it watches a computed function with 'deep' option.", "createdAt": "2022-07-12T07:24:03Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12651, "title": "How to better cooperate with Vuex and Vue Router in <script setup></script> in 2.7", "createdAt": "2022-07-12T13:07:56Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12652, "title": "[2.7.4] computed inside array doesnt work in reactive and watch", "createdAt": "2022-07-12T21:53:11Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12654, "title": "custom v-model of vue2.7 can't autoupdate in parent node", "createdAt": "2022-07-13T07:24:40Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12655, "title": "Upgrade to 2.7.5 - Property '$children' does not exist on type 'never'.", "createdAt": "2022-07-13T10:14:27Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12656, "title": "Vue 2.7 defineComponent type inference does not work for provide/inject", "createdAt": "2022-07-13T17:54:15Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12657, "title": "Vue 2.x 通过 value 传值，子组件深拷贝后无法触发双向绑定，使用 this.$emit('input', val) 也无法触发父组件值改变", "createdAt": "2022-07-14T00:52:05Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12658, "title": "remove", "createdAt": "2022-07-14T01:47:06Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12660, "title": " TS2769: No overload matches this call error when typing component emits using `<script setup>`", "createdAt": "2022-07-14T13:22:56Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12664, "title": "Template Ref watcher is not triggered with `flush: post` option in Vue 2.7.", "createdAt": "2022-07-15T12:19:27Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12665, "title": "UnwrapRefSimple is not exported", "createdAt": "2022-07-15T14:43:18Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12666, "title": "vue.d.ts has bad reference to module 'v3-component-public-instance'", "createdAt": "2022-07-15T15:39:31Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12667, "title": "Inject Provide does not work anymore in 2.7.x", "createdAt": "2022-07-15T15:59:29Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12670, "title": "The useSlots method does not get slots correctly", "createdAt": "2022-07-16T02:36:11Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12671, "title": "vue-router doesn't accept components created with DefineComponent()", "createdAt": "2022-07-16T03:26:59Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12672, "title": "The useSlots method does not get the Slots array correctly.", "createdAt": "2022-07-16T04:50:59Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12673, "title": "When I use the render function in the vue2.7+ version setup, I can't get the $refs of the dom correctly", "createdAt": "2022-07-16T10:56:45Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12674, "title": "Vue 2.7 SFC `<script setup>` component's template is not rendered properly ", "createdAt": "2022-07-16T12:15:45Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12675, "title": "[2.7.7] Array of template refs are not watchable", "createdAt": "2022-07-16T15:56:23Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12676, "title": "Nested objects calling toRefs should not all return Ref objects", "createdAt": "2022-07-18T05:27:14Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12678, "title": "Provide/Inject does not work within same component", "createdAt": "2022-07-18T10:30:31Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12679, "title": "vue SFC type check was broken on tsx", "createdAt": "2022-07-19T04:33:03Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12680, "title": "Vue2.7 should support events on tsx", "createdAt": "2022-07-19T06:22:00Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12681, "title": "现有组件 a b c d e f g h ，如何在编译过程中 ，在上述 组件的模版中中增加一个固定的包裹组件 ", "createdAt": "2022-07-19T06:42:04Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12682, "title": "How do I define component metadata in vue2.7", "createdAt": "2022-07-19T06:56:20Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12683, "title": "RangeError: Maximum call stack size exceeded when using Vue 2.7.7, works with 2.7.6", "createdAt": "2022-07-19T18:44:38Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12685, "title": "kabab-case component doesn't work when I typed same name but camelcase ref.", "createdAt": "2022-07-20T15:24:36Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12686, "title": "@vue/compiler-sfc@2.7 should support esm-browser", "createdAt": "2022-07-21T01:41:23Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12689, "title": "Vue 2 - Browser, Firefox and previously chromium,  Source Maps are broken", "createdAt": "2022-07-21T18:03:35Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12690, "title": "The render function doesn't pass attrs and slots when rendering dynamic components", "createdAt": "2022-07-21T20:06:35Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12691, "title": "style标签设置scoped属性，文件有修改后构建造成短时间的页面样式丢失", "createdAt": "2022-07-22T04:17:11Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12692, "title": "ERR_INVALID_ARG_TYPE when upgrade Vue 2.6.14 to 2.7.8", "createdAt": "2022-07-22T09:42:41Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12693, "title": "Property 'expose' does not exist on type 'SetupContext<{}>'", "createdAt": "2022-07-22T11:49:44Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12696, "title": "Destroy performance in Chromium browsers on macOS (w. potential solution)", "createdAt": "2022-07-25T05:03:42Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12697, "title": "add provides property to vue instance", "createdAt": "2022-07-25T06:54:02Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12698, "title": "Memory leaking when create computed of composition-api outside of setup() scope", "createdAt": "2022-07-25T10:24:07Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12699, "title": "When using spread syntax in tsx file, will cause a type error: TS2559", "createdAt": "2022-07-26T02:55:22Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12700, "title": "watch for keep-alive component has error, for basic type prop is failed, for object type is successed!", "createdAt": "2022-07-27T02:53:53Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12701, "title": "Use vue.extend to create a new component, call the method in beforeDestroy, there is no response,it is working in 2.6", "createdAt": "2022-07-27T04:28:22Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12702, "title": "Vue is not update DOM when object property changes in array of objects", "createdAt": "2022-07-27T07:34:47Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12703, "title": "Watchers depending on current route re-evaluated after unmount", "createdAt": "2022-07-27T10:53:59Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12704, "title": "vue2.7 setup不支持vuex3  pinia不支持IE 有什么解决方案么", "createdAt": "2022-07-27T12:07:20Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12705, "title": "Computed properties on an instance can get tied to the active scope VM rather than the instance itself", "createdAt": "2022-07-27T15:13:33Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12706, "title": "vue2.7  v-model:value  is not supported?", "createdAt": "2022-07-27T15:20:01Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12707, "title": "vue2.7  v-model:value  is not supported?", "createdAt": "2022-07-27T15:27:45Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12708, "title": "::v-deep is not working", "createdAt": "2022-07-27T20:41:30Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12710, "title": "getCurrentInstance 保持 vue2 和 vue3 接口一致", "createdAt": "2022-07-28T07:25:28Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12712, "title": "Slots break when passing to child component", "createdAt": "2022-07-28T21:21:19Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12713, "title": "Watch with getter doesn't react on object property (with ref)", "createdAt": "2022-07-28T22:36:48Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12716, "title": "SetupBindings in vue.d.ts should be optional", "createdAt": "2022-07-29T04:17:23Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12714, "title": "2.7.x Building legacy bundle for production | Declaration or statement expected.", "createdAt": "2022-07-29T08:27:42Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12717, "title": "SetupBindings in vue.d.ts should be optional", "createdAt": "2022-07-29T10:06:49Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12718, "title": "Defining unknown properties as exist properties is wrong", "createdAt": "2022-07-29T12:23:29Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12719, "title": "Vue 2.7+ no longer fails on and report type errors in build and serve commands", "createdAt": "2022-07-29T14:22:44Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12726, "title": "Generic type `ExtendedVue` and `CombinedVueInstance` now require 6 parameters and break legacy code", "createdAt": "2022-08-05T18:11:52Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12730, "title": "new Vue cannot infer mixin types", "createdAt": "2022-08-08T12:47:02Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12731, "title": "(compiler-sfc) transformAssetUrl breaks when base includes host", "createdAt": "2022-08-09T10:18:23Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12734, "title": "Incomplete vue/dist files causes broken webjars/vue ", "createdAt": "2022-08-10T09:48:38Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12736, "title": "vue2.7, the options typings of defineComponent method is not inferred until a complete word is typed", "createdAt": "2022-08-11T01:23:57Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12741, "title": "toRefs(proxyRefs(...)) works, but warns that toRefs() expects a reactive object but received a plain one", "createdAt": "2022-08-15T06:40:41Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12742, "title": "defineComponent 对自定义属性会类型报错", "createdAt": "2022-08-15T11:57:07Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12743, "title": "FunctionDirective is not supported in `<script setup>` of Vue 2.7", "createdAt": "2022-08-15T19:53:32Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12745, "title": "use decorator before export default may cause compilation problems", "createdAt": "2022-08-16T07:16:57Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12746, "title": "Link to vuejs 2 documentation in description of repository details", "createdAt": "2022-08-16T07:19:00Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12748, "title": "Export type `DefineComponent`", "createdAt": "2022-08-16T09:39:23Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12749, "title": "use \"v-for\" and \"v-if\" on a same <template> tag render strange", "createdAt": "2022-08-17T08:11:14Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12750, "title": "RangeError: Maximum call stack size exceeded using vuelidate 0.7.x typings package", "createdAt": "2022-08-17T10:26:58Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12752, "title": "Breaking change vue 2.7.8 with vue-composition-api 1.7.0", "createdAt": "2022-08-18T09:58:13Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12753, "title": "Vue 2 types missing type parameter constraints", "createdAt": "2022-08-19T22:52:22Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12755, "title": "SyntaxError when tsx/jsx  and setup script are used together", "createdAt": "2022-08-21T13:02:42Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12756, "title": "The data properties are not able to use into other script parts", "createdAt": "2022-08-21T18:05:14Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12758, "title": "[2.7.x] Here is a type error when using ref() on attribute 'ref' in TSX", "createdAt": "2022-08-24T08:24:13Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12760, "title": "productionTip", "createdAt": "2022-08-24T10:27:35Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12761, "title": "Changing an item of an array directly by its index triggers a view responsiveness", "createdAt": "2022-08-25T08:03:59Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12762, "title": "The ref property is missing a function type declaration", "createdAt": "2022-08-26T02:38:11Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12765, "title": "SFC <script setup> not tree-shakable", "createdAt": "2022-08-27T17:04:36Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12768, "title": ";(value as any).__proto__ = arrayMethods Question point", "createdAt": "2022-08-29T08:51:42Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12769, "title": "An error occurred when I used the built-in component element in jsx", "createdAt": "2022-08-29T09:53:31Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12770, "title": "About the max attribute of keep-alive component", "createdAt": "2022-08-29T15:24:45Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12773, "title": "[2.7.10] [typescript] Cannot change the typing of $emit since 2.7.5", "createdAt": "2022-08-31T13:12:50Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12774, "title": "composition api set object value not trigger effect", "createdAt": "2022-09-01T14:46:17Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12775, "title": "External component (vue-ssr-carousel) doesn't work in Vite (vue2)/rollup production SSR build - render function or template not defined in component: carousel", "createdAt": "2022-09-02T08:16:45Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12776, "title": "can vue-templete-compile support Optional chaining (?.)", "createdAt": "2022-09-09T07:14:18Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12777, "title": "Vue.extend alters default class and icons", "createdAt": "2022-09-10T11:40:50Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12778, "title": "Spreading data functional components TSX type error", "createdAt": "2022-09-12T13:43:38Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12780, "title": "types error with options watch", "createdAt": "2022-09-13T11:45:27Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12781, "title": "RouterLink click.native handler stops being called after page rerender", "createdAt": "2022-09-14T13:04:33Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12782, "title": "vue.runtime.esm.js:2872 Uncaught (in promise) TypeError: Cannot read properties of null (reading '$vnode')", "createdAt": "2022-09-14T14:40:58Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12783, "title": "Confusing v-deep deprecation message", "createdAt": "2022-09-14T18:46:15Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12786, "title": "Using defineComponent with options API change property and data types", "createdAt": "2022-09-15T20:37:32Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12787, "title": "Production bundle for common.js inlcudes 'let' keyword", "createdAt": "2022-09-16T10:50:55Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12791, "title": "Vue 2.7 directive type error", "createdAt": "2022-09-20T07:20:33Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12797, "title": "Vue 2.7 组件库的组件怎么按需引入？ ", "createdAt": "2022-09-21T07:52:28Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12799, "title": "[2.7.10] readonly on frozen object causing TypeError: Cannot define property __v_rawToReadonly", "createdAt": "2022-09-21T08:42:37Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12802, "title": "Order of setup vs beforeCreate not consistent with Vue 3 behavior", "createdAt": "2022-09-26T16:08:14Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12805, "title": "script setup cannot work in vue2.7", "createdAt": "2022-09-27T10:48:55Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12807, "title": "css v-bind not working after build (production mode)", "createdAt": "2022-09-28T03:08:40Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12808, "title": "[2.7.10] Unexpected behavior of watcher callback triggered with composition API", "createdAt": "2022-09-28T08:46:31Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12811, "title": "TypeError: Cannot read properties of undefined (reading '_normalized')", "createdAt": "2022-10-01T05:37:18Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12812, "title": "while creating observe, a vue component has not been skipped", "createdAt": "2022-10-01T10:29:56Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12815, "title": "@vue/cli 5.0.8创建的项目，在node_modules下的项目vue-test，无法触发热重载", "createdAt": "2022-10-02T06:43:01Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12818, "title": "dist/vue.esm.js 2.7.10 has mixed EOL - build is unstable", "createdAt": "2022-10-08T18:14:57Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12819, "title": "dist/vue.esm.js 2.7.10 has mixed EOL - build is unstable", "createdAt": "2022-10-08T18:18:07Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12821, "title": "Issue on the props definition after update from 2.7.10 to 2.7.11", "createdAt": "2022-10-11T19:08:15Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12822, "title": "Current instance does not have CSS module named \"$style\" ", "createdAt": "2022-10-12T09:32:51Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12823, "title": "Array mutation methods no longer trigger a watcher on Vue 2.7", "createdAt": "2022-10-12T10:50:20Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12824, "title": "useCssModule is broken on Vue 2.7", "createdAt": "2022-10-12T11:49:11Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12825, "title": "Creating a vm in a detached EffectScope before any other vm is initialized breaks tracking of the activeEffectScope", "createdAt": "2022-10-12T22:25:28Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12827, "title": "vue2.7  keep-alive removed component  no memory free", "createdAt": "2022-10-14T01:53:22Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12828, "title": "Changing compilerOptions directives in vue.config.js not working in 2.7 when building", "createdAt": "2022-10-14T01:56:25Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12829, "title": "need a lifecycle hook which could exec when a component be going to destroy, and it happens before next component created", "createdAt": "2022-10-14T03:28:35Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12832, "title": "EventHandlers type error, DOM's Event  was tainted by `@types/node`", "createdAt": "2022-10-16T08:58:05Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12835, "title": "Improve Hydration Warnings", "createdAt": "2022-10-17T14:50:10Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12837, "title": "'WeakMap' is undefined in Vue 2.7.11 and above (IE10 and under)", "createdAt": "2022-10-18T09:47:01Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12841, "title": "Destructured default value failed on named slots", "createdAt": "2022-10-19T14:27:23Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12843, "title": "Pug: Issue with dynamic property access inside tag interpolation", "createdAt": "2022-10-20T11:47:36Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12844, "title": "Issue related with checkDuplicate function", "createdAt": "2022-10-20T13:06:57Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12847, "title": "compile `script setup` components to components with `setup()` returning a render function", "createdAt": "2022-10-23T20:33:14Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12848, "title": "Invalid HTML during SSR if async component fails to load / Error component from Dynamic Components is not used during SSR", "createdAt": "2022-10-24T10:33:27Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12852, "title": "The component rerenders without updating anything", "createdAt": "2022-10-26T14:28:41Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12854, "title": "usage of provide: mutates mixins ", "createdAt": "2022-10-26T15:02:04Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12858, "title": "$subscribe triggered when unrelated store used for first time in child component (Vue 2)", "createdAt": "2022-10-31T14:33:12Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12864, "title": "The link for Korean docs seems to be broken.", "createdAt": "2022-11-03T09:09:50Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12867, "title": "How can I use functions that exist in the html with <script setup>?", "createdAt": "2022-11-04T05:55:40Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12880, "title": "`boolean` prop shouldn't be required when defined with `defineProps`", "createdAt": "2022-11-18T17:09:35Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12881, "title": "watch a prop typeof array, unexpected execution", "createdAt": "2022-11-19T03:36:16Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12882, "title": "`boolean | null` prop doesn't accept `null` value", "createdAt": "2022-11-19T10:22:24Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12883, "title": "Vue 2.7 provide/inject not working with <script setup> in most builds", "createdAt": "2022-11-21T15:25:05Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12884, "title": "Vue2.7 和 Vue3 使用 toRefs 时表现不同。", "createdAt": "2022-11-26T05:22:59Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12891, "title": "Array props watcher not being triggered in 2.7", "createdAt": "2022-12-01T10:33:37Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12892, "title": "[2.7.14][class component][sfc][vite] Method names containing \"export\" and \"default\" break lifecycle hooks", "createdAt": "2022-12-01T14:21:15Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12896, "title": "Vue 2.7.14 mapState throws error with strict enabled", "createdAt": "2022-12-08T10:26:59Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12897, "title": "The flush property of watch does not work when it is post", "createdAt": "2022-12-09T03:24:05Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12900, "title": "vue-template-compiler `\"vue\": \"file:../..\"` devDependency breaks installs in yarn \"workspaces\" environments.", "createdAt": "2022-12-14T19:14:07Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12901, "title": "bind style merge not as expected", "createdAt": "2022-12-15T04:35:32Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12902, "title": "[2.7.x] [typescript] Type inference breaks under specific circumstances", "createdAt": "2022-12-15T11:00:04Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12903, "title": "big data render performance ", "createdAt": "2022-12-16T07:03:27Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12904, "title": "[2.7] Computed property is not being updated when built with Composition API and lib mode", "createdAt": "2022-12-16T20:19:42Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12909, "title": "@keydown.esc Not triggered by http sever but triggered by open html file directly", "createdAt": "2022-12-20T13:10:35Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12910, "title": "activated lifehook is not called in async component", "createdAt": "2022-12-26T08:18:04Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12913, "title": "A method to get the number of current history stacks", "createdAt": "2022-12-29T05:24:17Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12914, "title": "Why not automatically convert the input number type to [number]", "createdAt": "2022-12-29T05:44:00Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12918, "title": "Firefox 102.6.0 ESR addEventListener not properly works", "createdAt": "2023-01-04T02:43:38Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12922, "title": "v-else-if scopedSlots content not update ", "createdAt": "2023-01-07T03:28:02Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12924, "title": "SSR with webpack5, run renderToString() report \"cannot find module ''../js/xxx.js\" when use import() to lazy load components in router configs.", "createdAt": "2023-01-09T06:06:51Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12929, "title": "In SSR mode, v-html always rerender", "createdAt": "2023-01-15T18:27:06Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12930, "title": "[Bug] v2.7 props are unwrapped, the same doesn't hold true for v3.", "createdAt": "2023-01-16T02:44:53Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12931, "title": "Named mixins functions have a bug infering types of inject properties Vue 2.7.14", "createdAt": "2023-01-16T14:44:34Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12935, "title": "[2.7.x] Defined props using object syntax are not correctly inferred", "createdAt": "2023-01-18T12:27:18Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12936, "title": "\"TypeError: Converting circular structure to JSON\" when rendering refs wrapped in an array", "createdAt": "2023-01-18T14:36:14Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12937, "title": "v-for not reusing existing elements", "createdAt": "2023-01-18T18:23:19Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12939, "title": "setCurrentInstance is not exported, causes instance fixes to be unavailable", "createdAt": "2023-01-23T11:58:36Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12944, "title": "[Vue2.7] A type error. method can't be called in option \"data\"", "createdAt": "2023-01-27T09:06:46Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12945, "title": "使用动态插槽, 并且插槽名称为 #[变量+变量] 时, 插槽无效 (拼接出来的插槽名称开头为undefined)", "createdAt": "2023-01-29T09:19:15Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12947, "title": "2.7: TS7056 Triggered when ref type argument has a vue component as an option and an initial ref value is passed", "createdAt": "2023-02-02T22:24:49Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12948, "title": "How to hash packed static resource files in non-production mode？", "createdAt": "2023-02-03T10:02:02Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12952, "title": "[2.x, 3.x]: Parameter value leaking from parent to grandchild if all three layers use the same HTML element", "createdAt": "2023-02-06T09:39:54Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12991, "title": "@vue/compiler-sfc rewriteDefault() method truncate wrong code (Class Decorator code), which causes runtime error in @vitejs/plugin-vue2", "createdAt": "2023-02-08T13:20:20Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12954, "title": "event triggers repeatedly", "createdAt": "2023-02-09T12:26:10Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12959, "title": "why not cut off the links between components such as $parent in 'destroy' function ?", "createdAt": "2023-02-13T10:11:17Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12965, "title": "Nested pre tag working exception in vue-template-compiler", "createdAt": "2023-02-21T02:30:48Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12966, "title": "Define functional component in vue2.7 as a function", "createdAt": "2023-02-21T07:29:07Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12967, "title": "`watch()` doesn't trigger when adding new property with `Vue.set( )`", "createdAt": "2023-02-21T13:52:39Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12970, "title": "v-for中key重复导致vue报错（key duplicate cause the page suspended）", "createdAt": "2023-02-27T04:12:06Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12971, "title": " 升级vue2.7.14之后无法使用compositionAPI ", "createdAt": "2023-02-28T01:35:53Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12973, "title": "type VNodeChildren should support number type", "createdAt": "2023-03-02T03:42:20Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12975, "title": "[Vue 2.7] [Vue warn]: Avoid using variables that start with _ or $ in setup().", "createdAt": "2023-03-03T08:35:34Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12978, "title": "shallowRef's return type should match ref's", "createdAt": "2023-03-07T23:51:19Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12983, "title": "Optimized async functional components fail to server-side render on initial render", "createdAt": "2023-03-15T16:11:12Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12984, "title": "Regression(vue@>=2.7.11): Imported `ref`s are not returned in `setup()` when used for template ref", "createdAt": "2023-03-16T11:37:24Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12986, "title": "Reflect.deleteProperty不会更新视图", "createdAt": "2023-03-17T02:39:56Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12990, "title": "keepalive如何应用于动态组件", "createdAt": "2023-03-21T01:46:35Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12993, "title": "media print header in every page and long text print", "createdAt": "2023-03-23T05:49:09Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12994, "title": "how can I use the expression compile in my directives?", "createdAt": "2023-03-23T08:45:57Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12995, "title": "how to pass slots when use render function?", "createdAt": "2023-03-27T10:34:30Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12996, "title": "The order in which I obtain the virtual dom in $slot and render it is incorrect. Why?", "createdAt": "2023-03-28T02:37:48Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12998, "title": "$set shallowRef value lost reactivity", "createdAt": "2023-04-03T08:37:43Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13001, "title": "Transition component causes nested form to submit erroneously", "createdAt": "2023-04-13T14:08:46Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13002, "title": "Export types of built-in components", "createdAt": "2023-04-17T02:19:17Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13005, "title": "vue-property-decorator @ProvideReactive/@InjectReactive not working in 2.7.14", "createdAt": "2023-04-20T20:24:05Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13006, "title": "[2.7] Composition API's inject doesn't work for things provided in the same component", "createdAt": "2023-04-20T20:41:01Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13009, "title": "Augmenting `ComponentCustomOptions` with a function causes `TS2769` when using augmention", "createdAt": "2023-04-25T16:16:36Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13011, "title": "Backticks in the source code ruin a build process", "createdAt": "2023-04-26T16:14:01Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13013, "title": "Command Injection [High Severity] vulnerability in the lodash.template dependency ", "createdAt": "2023-04-27T14:46:28Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13016, "title": "Vue.Js should be a fully featured framework.", "createdAt": "2023-05-04T02:16:22Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13019, "title": "In notify, why is the return not checked when subs is empty", "createdAt": "2023-05-19T03:52:25Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13028, "title": "ios16.5白屏（white screen on ios16.5）", "createdAt": "2023-06-07T02:19:37Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13029, "title": "webpack build vue2.7.14 template compiler  es6 syntax not transferred", "createdAt": "2023-06-09T15:06:48Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13032, "title": "data property initialized to undefined does not update second level computed property", "createdAt": "2023-06-14T08:31:37Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13035, "title": "styles are not added to iframe while render a iframe window", "createdAt": "2023-06-17T02:10:44Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13037, "title": "Compiler-sfc generates ES5 code with arrow functions which breaks IE11. ", "createdAt": "2023-06-20T14:27:44Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13039, "title": "Vue.compile(template) - Direct siblings from same component on template change have wrong reference in life-cycle hooks", "createdAt": "2023-06-22T12:21:13Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13040, "title": "npm run build fails on compiling to npm package for vue 2.7.14", "createdAt": "2023-06-22T19:17:00Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13041, "title": "npm run build fails on compiling to npm package for vue 2.7.13", "createdAt": "2023-06-29T01:50:41Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13042, "title": "Node V18 support?", "createdAt": "2023-06-30T09:06:37Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13043, "title": "'slot' does not change normally in transition   in 2.7.14", "createdAt": "2023-07-01T17:31:09Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13045, "title": "vue2.x组件的dom上挂载了__vue__属性，暴露了组件数据，不安全", "createdAt": "2023-07-04T07:18:56Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13046, "title": "计算属性被解析成组件", "createdAt": "2023-07-04T08:58:07Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13048, "title": "consider enable discussion in this repo?", "createdAt": "2023-07-06T22:46:05Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13049, "title": "...", "createdAt": "2023-07-08T04:07:17Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13052, "title": "compiler-sfc not compatible with prettier v3", "createdAt": "2023-07-13T12:46:51Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13055, "title": "Can't \"provide\" reactive data property whose type is String or Number", "createdAt": "2023-07-27T02:15:06Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13056, "title": "The output of v-html directive is incorrect in case the <> of a tag are serialized", "createdAt": "2023-07-27T10:08:54Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13060, "title": "Using export & then using decorator before the word \"default\" breaks SFC compilation.", "createdAt": "2023-07-28T15:58:03Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13065, "title": "Property \"\" was accessed during render but is not defined on instance.", "createdAt": "2023-08-15T03:23:32Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13066, "title": "slots not re-rendering while passing `$scopedSlots` to children", "createdAt": "2023-08-17T03:49:24Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13071, "title": "compiler-sfc: type.startsWith is not a function", "createdAt": "2023-08-25T03:51:56Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13074, "title": "Textarea Character Limit Bug: Inability to Add Characters After Deletion (Safari Browser)", "createdAt": "2023-08-29T04:12:40Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13075, "title": "In the latest version of Google(116.0.5845.141), when the disabled attribute of the input tag is false, the html compiled by vue is disabled=disabled", "createdAt": "2023-08-30T10:26:28Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13077, "title": "<script setup>supports defineExpose(), which cannot be exported correctly", "createdAt": "2023-09-02T15:54:38Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13078, "title": "import type { CSSProperties } from 'vue' is error", "createdAt": "2023-09-04T23:31:55Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13079, "title": "vue ssr cli webpack bug", "createdAt": "2023-09-07T08:22:19Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13081, "title": "Vue 2 support", "createdAt": "2023-09-09T18:48:25Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13082, "title": "Vue 2 support", "createdAt": "2023-09-09T19:15:16Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13083, "title": "assets not showing ", "createdAt": "2023-09-11T00:10:17Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13085, "title": "useSlots&v-for related bugs", "createdAt": "2023-09-17T02:36:33Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13086, "title": "Manually created EffectScopes get deactivated in dev environments when setting a ref used in a component template.", "createdAt": "2023-09-18T19:55:38Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13092, "title": "Volar如何对全局指令GlobalDirective支持？", "createdAt": "2023-09-28T06:45:15Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13094, "title": "Can 2.6.15 be published for this issue with the below fix", "createdAt": "2023-10-08T18:32:15Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13104, "title": "Vue 2.7 strictTemplates error", "createdAt": "2023-10-17T05:42:32Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13106, "title": "Type augmentation is broken when using typescript's moduleResolution: \"Bundler\" option", "createdAt": "2023-10-24T22:25:23Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13108, "title": "[Docs] $emit('input', value) cancels event.preventDefault()", "createdAt": "2023-10-25T12:38:59Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13111, "title": "named slot + forceUpdate dont work", "createdAt": "2023-11-02T07:19:04Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13113, "title": "<percentage> in css @property is handled incorrectly after run build", "createdAt": "2023-11-06T10:15:52Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13117, "title": "`triggerRef` does not trigger `watch`", "createdAt": "2023-11-09T17:53:58Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13119, "title": "vue的tags组件router-link标签跳转已打开页面不重新加载数据,有什么好方法吗？", "createdAt": "2023-11-17T07:05:54Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13122, "title": "Vue2.7 defineEmits/defineProps compile error", "createdAt": "2023-11-23T11:08:46Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13128, "title": "Vue 2.7.16 bug: Some types has not export", "createdAt": "2023-12-08T03:48:02Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13131, "title": "Version 2.7.15 introduced breaking changes about getCurrentScope", "createdAt": "2023-12-12T05:57:58Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13134, "title": "$forceUpdate causes getCurrentScope to get an incorrect value", "createdAt": "2023-12-15T09:02:21Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13138, "title": "Missing \"./types\" specifier in \"vue\" package, how to use withDefaults in Vue2.7.15 with ts setup", "createdAt": "2023-12-23T12:49:18Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13139, "title": "When ref and reactive are used together with computed and watch, computed loses its effect.", "createdAt": "2023-12-24T13:07:58Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13140, "title": " Using v-show and :style=\"display: 'block'\" simultaneously does not yield the expected results in version 2.7.16.", "createdAt": "2023-12-28T02:17:31Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13164, "title": "function setCurrentInstance(vm) crashes when vm._scope is undefined", "createdAt": "2024-02-01T16:08:56Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13168, "title": "如果只是在某个方法调用时写jsx也是需要这样写吗?", "createdAt": "2024-02-08T06:20:31Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13175, "title": "Component caching - wrong type returned in a `set` method", "createdAt": "2024-03-14T12:06:43Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13177, "title": "Dynamic component not rendering slot tree", "createdAt": "2024-03-15T07:33:14Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13202, "title": " Urgent: Black Duck Vulnerability Fix Needed for 'vue-template-compiler'  ", "createdAt": "2024-08-15T14:15:59Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13204, "title": "Why does manipulating the style property of the DOM not take effect?", "createdAt": "2024-08-26T09:14:48Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13212, "title": "Memory leak when using functional components in Vue 2.7.14", "createdAt": "2024-09-19T09:05:06Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13233, "title": "test", "createdAt": "2025-02-16T18:30:52Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13235, "title": "[Feature Request] Be able to skip hydration", "createdAt": "2025-02-26T09:51:04Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13236, "title": "Cannot load extension with file or directory name _plugin-vue_export-helper.js. Filenames starting with \"_\" are reserved for use by the system.", "createdAt": "2025-02-27T10:12:36Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13237, "title": "Bug: Controlled components can lead to an inconsistent state between Vue and DOM", "createdAt": "2025-02-27T13:53:19Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13238, "title": "v-if and v-else on same element has inconsistent (or undocumented) behaviour", "createdAt": "2025-02-28T10:54:23Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13240, "title": "Vue-specific attributes are invalid html", "createdAt": "2025-03-07T18:10:11Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13241, "title": "Custom error handler causing recursive error handling leading to Maximum call stack size exceeded error", "createdAt": "2025-03-14T03:44:47Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13242, "title": "Custom equality for watch", "createdAt": "2025-03-15T14:19:15Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13243, "title": "自定义事件冒泡问题", "createdAt": "2025-03-15T16:22:22Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13263, "title": "replace lodash with es-toolkit in vue-server-renderer for modern utility and safer maintenance", "createdAt": "2025-07-17T09:30:45Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13287, "title": "improve the warning in `inject`", "createdAt": "2025-11-07T00:59:35Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13305, "title": "Developer Tools Integration: JSON Formatter for Vue.js Developers", "createdAt": "2026-02-03T03:39:18Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13308, "title": "[High] Memory Leak in vue", "createdAt": "2026-02-05T17:07:01Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13309, "title": "[Medium] Race Condition in vue", "createdAt": "2026-02-05T17:07:04Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13324, "title": "Closed by author", "createdAt": "2026-03-06T15:15:47Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13351, "title": "Protect vue from AI slop PRs", "createdAt": "2026-05-13T07:54:53Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13352, "title": "GIT42 flyby: Vue's civilization (don't panic)", "createdAt": "2026-05-18T04:11:07Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13359, "title": "Implement reactive form validation system with automatic field-level error handling", "createdAt": "2026-06-09T04:28:19Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13360, "title": "Add state management persistence layer with automatic hydration and versioning", "createdAt": "2026-06-09T04:28:48Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13361, "title": "Implement component composition analysis tool for detecting reusability patterns and anti-patterns", "createdAt": "2026-06-09T04:28:59Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13362, "title": "Add internationalization (i18n) primitives with pluralization and date/currency formatting", "createdAt": "2026-06-09T04:29:21Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13363, "title": "Implement build-time component dependency analysis with automatic optimization recommendations", "createdAt": "2026-06-09T04:29:59Z", "state": "OPEN", "repo": "vuejs/vue"}

@@ -1,0 +1,520 @@
+{"number": 12406, "title": "[automated] Patreon sponsors update", "createdAt": "2022-01-03T15:03:16Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12408, "title": "[automated] Patreon backers update (Jan 2022", "createdAt": "2022-01-05T05:05:19Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12413, "title": "Create Learning", "createdAt": "2022-01-07T16:26:26Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12414, "title": "Chore: fixed punctuation errors", "createdAt": "2022-01-09T02:01:27Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12416, "title": "refactor(observer): avoid eager new Dep()", "createdAt": "2022-01-12T07:21:17Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12417, "title": "Transform component's children to its default slot contents (fix #12232)", "createdAt": "2022-01-12T20:52:12Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12419, "title": "build(deps): bump follow-redirects from 1.13.0 to 1.14.7", "createdAt": "2022-01-13T14:27:25Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12422, "title": "docs(readme & backers): HTTP => HTTPS", "createdAt": "2022-01-14T22:26:16Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12423, "title": "build(deps-dev): bump shelljs from 0.8.3 to 0.8.5", "createdAt": "2022-01-15T04:30:54Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12426, "title": "Vue SSR did not inject the extracted CSS file", "createdAt": "2022-01-19T12:58:26Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12430, "title": "Update index.js", "createdAt": "2022-01-21T02:36:28Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12431, "title": "Update index.html", "createdAt": "2022-01-21T12:49:36Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12434, "title": "fix(ssr): fix compatibility with webpack@4 and webpack@5 for monorepos", "createdAt": "2022-01-22T15:11:17Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12435, "title": "fix(ssr): fix compatibility with webpack@4 and webpack@5 for monorepos", "createdAt": "2022-01-22T15:54:05Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12452, "title": "Master", "createdAt": "2022-02-01T18:05:55Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12455, "title": "fix(core): add prop name to invalid prop type warning message (fix #12454)", "createdAt": "2022-02-03T05:23:54Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12456, "title": "[automated] Patreon backers update (Feb 2022", "createdAt": "2022-02-05T05:06:00Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12457, "title": "Branch1", "createdAt": "2022-02-06T07:25:58Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12460, "title": "Grievous Salute", "createdAt": "2022-02-09T01:40:34Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12462, "title": "Create test1", "createdAt": "2022-02-09T06:26:08Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12464, "title": "chore: fix license link", "createdAt": "2022-02-10T07:00:07Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12465, "title": "build(deps-dev): bump karma from 3.1.4 to 6.3.14", "createdAt": "2022-02-11T06:28:38Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12467, "title": "feat #12466 Module Federation vue-server-renderer", "createdAt": "2022-02-11T11:17:40Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12468, "title": "build(deps): bump ajv from 6.6.2 to 6.12.6", "createdAt": "2022-02-12T02:15:30Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12469, "title": "build(deps): bump follow-redirects from 1.14.7 to 1.14.8", "createdAt": "2022-02-12T12:08:47Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12473, "title": "fix keep-alive pruneCache not work in some max values", "createdAt": "2022-02-20T13:35:32Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12474, "title": "Update README.md", "createdAt": "2022-02-21T17:44:27Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12475, "title": "added message", "createdAt": "2022-02-21T18:03:54Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12476, "title": "build(deps): bump trim-off-newlines from 1.0.1 to 1.0.3", "createdAt": "2022-02-22T18:22:28Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12477, "title": "试一试", "createdAt": "2022-02-23T03:13:23Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12479, "title": "Added message", "createdAt": "2022-02-24T07:44:00Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12480, "title": "fix(compiler): add missing code range on warn", "createdAt": "2022-02-25T04:57:47Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12483, "title": "Add \"Support Ukraine\" badge in README", "createdAt": "2022-02-27T14:08:42Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12484, "title": "added message ", "createdAt": "2022-02-28T00:14:46Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12485, "title": "2.6", "createdAt": "2022-02-28T14:46:52Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12486, "title": "fix(compiler):  codeframe infinite loop", "createdAt": "2022-03-01T02:12:21Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12487, "title": "chore: fix typos [skip ci]", "createdAt": "2022-03-01T12:24:38Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12489, "title": "build(deps-dev): bump karma from 3.1.4 to 6.3.16", "createdAt": "2022-03-02T04:25:30Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12491, "title": "Master", "createdAt": "2022-03-03T13:30:14Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12495, "title": "types(compiler): add missing start/end fields", "createdAt": "2022-03-07T18:44:35Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12498, "title": "Ignore", "createdAt": "2022-03-08T11:09:09Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12501, "title": "chore: Improve npm package specification", "createdAt": "2022-03-17T12:13:02Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12503, "title": "Master", "createdAt": "2022-03-22T17:18:23Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12504, "title": "Allow inferring types from Vue.set(object, ...) pattern", "createdAt": "2022-03-23T16:50:58Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12508, "title": "Update README.md", "createdAt": "2022-03-28T23:10:18Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12510, "title": "Switch to gender neutral terms", "createdAt": "2022-03-30T19:46:28Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12512, "title": "fix Module Federation & Vue 2 SSR: support async initialization #12511", "createdAt": "2022-03-31T14:49:41Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12515, "title": "updated readme with tree structure", "createdAt": "2022-04-05T07:31:17Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12517, "title": "Optimize the use and judgment of NODE_ENV", "createdAt": "2022-04-06T07:10:20Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12518, "title": "Update events.js", "createdAt": "2022-04-09T12:34:24Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12520, "title": "Merge the code of the event modifier", "createdAt": "2022-04-10T09:57:50Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12524, "title": "fix(compiler): Warning for v if or template changes", "createdAt": "2022-04-18T06:48:28Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12525, "title": "Update transition group duration", "createdAt": "2022-04-18T07:24:21Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12526, "title": "add warning message for v-if with empty key", "createdAt": "2022-04-18T08:25:19Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12527, "title": "add logic to check string constructor", "createdAt": "2022-04-18T09:39:46Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12529, "title": "add my message just for experiment", "createdAt": "2022-04-21T08:13:13Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12530, "title": "Master", "createdAt": "2022-04-21T08:36:18Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12532, "title": "yes", "createdAt": "2022-04-25T06:12:40Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12533, "title": "added message", "createdAt": "2022-04-29T03:11:04Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12534, "title": "added message", "createdAt": "2022-05-05T12:39:55Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12539, "title": "Update README.md", "createdAt": "2022-05-15T07:10:04Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12542, "title": "chore: Missing script: \"lint\"", "createdAt": "2022-05-24T06:28:29Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12543, "title": "Update README.md", "createdAt": "2022-05-25T08:46:07Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12546, "title": "cambios en comentario", "createdAt": "2022-05-27T19:49:45Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12548, "title": "feat: 新增vue调试环境", "createdAt": "2022-05-31T11:53:19Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12550, "title": "chore: exclude trivial refactors from `git blame` results", "createdAt": "2022-06-02T08:32:03Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12551, "title": "fix(core): hydrated node assertion in production", "createdAt": "2022-06-03T21:25:30Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12552, "title": "Hotfix/01 branch", "createdAt": "2022-06-07T04:24:05Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12553, "title": "tytftui", "createdAt": "2022-06-07T04:26:55Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12556, "title": "Update README.md", "createdAt": "2022-06-09T17:24:26Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12558, "title": "Create asdf", "createdAt": "2022-06-14T15:17:38Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12559, "title": "fix: if语句有return，就不需要else", "createdAt": "2022-06-17T03:04:30Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12560, "title": "perf(core): loop through `oldCh` from `start + 1`", "createdAt": "2022-06-17T12:13:45Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12562, "title": "fix(core): props is not reactive", "createdAt": "2022-06-17T16:31:25Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12563, "title": "chore(types): remove unnecessary type assertion", "createdAt": "2022-06-20T10:33:01Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12564, "title": "chore(compiler-sfc): replace `substr` with `slice`", "createdAt": "2022-06-20T13:42:27Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12570, "title": "demo ", "createdAt": "2022-06-22T02:05:34Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12571, "title": "fix: types/v3-directive not published", "createdAt": "2022-06-22T07:27:52Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12573, "title": "Type script", "createdAt": "2022-06-22T13:01:31Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12575, "title": "fix(reactivity): readonly can't get  Prototype's method", "createdAt": "2022-06-22T16:00:07Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12580, "title": "Update README.md", "createdAt": "2022-06-24T04:54:48Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12581, "title": "fix: no such file or directory `compiler-sfc/dist`", "createdAt": "2022-06-24T08:05:19Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12582, "title": "1", "createdAt": "2022-06-25T04:44:36Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12584, "title": "fix: threw error is more reliable", "createdAt": "2022-06-28T09:19:08Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12588, "title": "Update README.md", "createdAt": "2022-06-29T12:24:45Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12590, "title": "feat: allow passing directive definition directly to h()", "createdAt": "2022-06-30T16:52:06Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12594, "title": "fix: strip strings before detecting type syntax", "createdAt": "2022-07-01T07:20:39Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12601, "title": "chore(benchmarks:ssr): require createRenderer function path error", "createdAt": "2022-07-02T15:20:11Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12602, "title": "fix: rewrite haschanged fn (#12595)", "createdAt": "2022-07-02T19:33:32Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12603, "title": "fix: fix hasChanged", "createdAt": "2022-07-03T07:59:40Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12604, "title": "fix: shallow reactive unwrap refs", "createdAt": "2022-07-03T13:05:08Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12605, "title": "fix: shallow reactive will unwrap refs (#12597)", "createdAt": "2022-07-03T13:29:26Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12609, "title": "feat(compiler-sfc): supports reactivity transform", "createdAt": "2022-07-04T14:40:33Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12610, "title": "analyze the initial rendering process", "createdAt": "2022-07-04T15:11:36Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12612, "title": "Define component improvements", "createdAt": "2022-07-05T02:07:31Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12616, "title": "fix(hooks): add renderTracked/Triggered merge strategy", "createdAt": "2022-07-05T23:25:41Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12618, "title": "fix: pass vue instance as this pointer to setup (fix #12613)", "createdAt": "2022-07-06T03:47:46Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12629, "title": "feat: 调试代码", "createdAt": "2022-07-07T02:10:19Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12633, "title": "fix(ssr): fix array setting error at created in ssr [#12632]", "createdAt": "2022-07-07T09:27:32Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12634, "title": "fix(compiler-sfc): support more indent lang", "createdAt": "2022-07-08T01:19:55Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12639, "title": "Patreon update 1573577869963", "createdAt": "2022-07-08T13:39:27Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12644, "title": "updated by me", "createdAt": "2022-07-09T21:08:57Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12646, "title": "chore(changelog): fix dead link", "createdAt": "2022-07-10T07:15:13Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12648, "title": "fix: add missing export (`onBeforeUnmount`) from `vue.runtime.mjs`", "createdAt": "2022-07-11T12:16:44Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12653, "title": "Fix some URLs in warn messages which link to v2 doc site", "createdAt": "2022-07-13T01:40:42Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12659, "title": "$refs can also contain CreateComponentPublicInstance", "createdAt": "2022-07-14T03:23:11Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12661, "title": "fix(src/server/render.js): fixes component directives rendering (fix #10733)", "createdAt": "2022-07-14T23:37:36Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12662, "title": "refactor: add some types support", "createdAt": "2022-07-15T03:12:47Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12663, "title": "fix(types): `Vue` default option type", "createdAt": "2022-07-15T08:40:48Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12668, "title": "fix #12666: vue.d.ts: Relativise to v3-component-public-instance", "createdAt": "2022-07-15T16:10:49Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12669, "title": "fix: post watcher not triggered (fix #12664)", "createdAt": "2022-07-15T18:10:40Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12677, "title": "chore(compiler-sfc): remove useless vue-template-es2015-compiler", "createdAt": "2022-07-18T09:12:10Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12684, "title": "fix(types): export `defineAsyncComponent` type", "createdAt": "2022-07-20T13:57:37Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12687, "title": "fix(codegen): improve resolve component name in <script setup>", "createdAt": "2022-07-21T12:46:40Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12688, "title": "fix(reactivity): when setting a property the shallowReactive object s…", "createdAt": "2022-07-21T13:28:22Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12694, "title": "Added Message", "createdAt": "2022-07-23T05:41:08Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12695, "title": "Format contributing.md", "createdAt": "2022-07-24T07:31:16Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12709, "title": "2.6", "createdAt": "2022-07-28T01:47:18Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12711, "title": "added message", "createdAt": "2022-07-28T21:13:15Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12715, "title": "added message", "createdAt": "2022-07-29T08:57:14Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12720, "title": "docs(pull request template) add on to pull request template in the other information section and change title of section", "createdAt": "2022-07-29T16:00:45Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12721, "title": "d", "createdAt": "2022-08-01T05:55:50Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12722, "title": "h", "createdAt": "2022-08-01T06:11:54Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12723, "title": "Dev", "createdAt": "2022-08-02T12:13:18Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12724, "title": "chore: add new comment line in /types/test/common.d.ts", "createdAt": "2022-08-03T02:33:20Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12725, "title": "chore: fix some legacy doc urls in warnings and readme", "createdAt": "2022-08-03T06:38:17Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12727, "title": "fix(types): Make SetupBindings optional (fix #12726, #12717)", "createdAt": "2022-08-05T18:39:50Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12728, "title": "README.md updated", "createdAt": "2022-08-06T09:24:28Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12732, "title": "fix: allow full hostnames in asset url base, fix #12731", "createdAt": "2022-08-09T10:22:02Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12733, "title": "Update README.md", "createdAt": "2022-08-10T07:39:21Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12735, "title": "chore(v3/lifecycle): Enhanced type for onErrorCaptured", "createdAt": "2022-08-10T10:35:05Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12737, "title": "feat(types): new Vue() improvements (#12730)", "createdAt": "2022-08-11T08:53:38Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12738, "title": "fix: vue ssr server error when mapped item is undefined", "createdAt": "2022-08-12T13:15:49Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12739, "title": "Update README.md", "createdAt": "2022-08-13T12:55:37Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12740, "title": "Dev", "createdAt": "2022-08-13T12:58:21Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12744, "title": "fix: directives shorthand normalize error (fix #12743)", "createdAt": "2022-08-16T03:33:32Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12747, "title": "fix(compiler-sfc): make sure rewriteDefault get current result when u…", "createdAt": "2022-08-16T07:19:22Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12751, "title": "Code style update with ES6 object destructuring syntax", "createdAt": "2022-08-17T12:37:05Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12754, "title": "fix(12753): Add missing type parameter constraints", "createdAt": "2022-08-19T23:02:29Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12757, "title": "fix(12589): fix parents HOC $el not update when component update", "createdAt": "2022-08-22T11:20:39Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12759, "title": "feat(types): add  type  in ReservedProps", "createdAt": "2022-08-24T08:35:13Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12763, "title": "fix(types): Fix missing function type declaration for ref attribute", "createdAt": "2022-08-26T02:52:57Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12764, "title": "chore: update PR Template", "createdAt": "2022-08-26T13:16:44Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12766, "title": "chore: remove eslint related contents", "createdAt": "2022-08-29T07:28:46Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12767, "title": "Update README.md", "createdAt": "2022-08-29T08:38:25Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12771, "title": "feat(core): keep-alive component that responds to max property changes (fix  #12770)", "createdAt": "2022-08-29T15:52:06Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12772, "title": "refactor: word spell error", "createdAt": "2022-08-30T11:02:07Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12779, "title": "fix(types): fix error with options watch", "createdAt": "2022-09-13T11:38:35Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12784, "title": "chore: `deep` combinator DEPRECATED usage warn", "createdAt": "2022-09-15T14:32:18Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12785, "title": "Update README.md", "createdAt": "2022-09-15T17:30:00Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12788, "title": "Vue", "createdAt": "2022-09-17T06:04:43Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12789, "title": "fix(types):fix Spreading data functional components TSX type error (fix #12778)", "createdAt": "2022-09-18T15:17:07Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12790, "title": "Update README.md", "createdAt": "2022-09-19T13:39:02Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12792, "title": "fix(types): vue 3 directive type compatibility", "createdAt": "2022-09-20T08:18:24Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12793, "title": "fix(types): remove number type of provide", "createdAt": "2022-09-20T08:22:44Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12794, "title": "fix(types): deny unknown attributes by default", "createdAt": "2022-09-20T10:07:52Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12795, "title": "GitHub Workflows security hardening", "createdAt": "2022-09-20T10:13:52Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12796, "title": "feat(types): only extract default prop types if prop options", "createdAt": "2022-09-20T15:05:31Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12798, "title": "fix: vue2.7 use readonly on frozen object causeing error", "createdAt": "2022-09-21T08:36:10Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12800, "title": "fix(types): style attribute svg", "createdAt": "2022-09-23T11:06:35Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12801, "title": "resolved vulnerabilities", "createdAt": "2022-09-26T08:23:38Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12804, "title": "added message", "createdAt": "2022-09-27T07:44:44Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12806, "title": "fix(watch): avoid traversing objects that are marked non-reactive", "createdAt": "2022-09-27T11:36:33Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12809, "title": "added message", "createdAt": "2022-09-29T09:01:27Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12810, "title": "Update README.md", "createdAt": "2022-09-30T02:42:39Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12813, "title": "fix(12812): skip the component while creating observer", "createdAt": "2022-10-01T10:57:29Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12814, "title": "Update README.md", "createdAt": "2022-10-01T15:42:33Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12816, "title": "Update README.md", "createdAt": "2022-10-05T11:52:49Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12817, "title": "Update README.md", "createdAt": "2022-10-05T16:49:40Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12820, "title": "Update README.md", "createdAt": "2022-10-11T11:51:51Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12826, "title": "fix: allow keys from Object.prototype like 'constructor' etc as value in attribute 'key'", "createdAt": "2022-10-13T15:42:24Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12830, "title": "fix #12623: infinite loop in generateCodeFrame", "createdAt": "2022-10-15T17:12:59Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12831, "title": "Update README.md", "createdAt": "2022-10-15T18:27:39Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12833, "title": "Support new type defs about directives.", "createdAt": "2022-10-16T12:05:02Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12834, "title": "Update the dev to main in the PR template", "createdAt": "2022-10-16T12:08:05Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12836, "title": "chore(types): Add HTMLInput autocomplete values", "createdAt": "2022-10-17T15:24:48Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12838, "title": "ci: bump actions versions", "createdAt": "2022-10-19T03:26:24Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12839, "title": "chore: fix some broken links to v2 docs", "createdAt": "2022-10-19T04:35:07Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12840, "title": "fix(types): stricter type condition for `EventHandlers`", "createdAt": "2022-10-19T09:42:30Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12842, "title": "fix(compiler-sfc): fix template usage check edge case for v-slot destructured default value (#12841)", "createdAt": "2022-10-19T14:48:59Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12845, "title": "chore: migrate to picocolors", "createdAt": "2022-10-21T00:15:40Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12846, "title": "Update README.md", "createdAt": "2022-10-22T14:16:44Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12849, "title": "types(common): improve LooseRequired<T>", "createdAt": "2022-10-26T13:51:07Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12850, "title": "refactor(types): improve `isValidDuration` type", "createdAt": "2022-10-26T14:07:02Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12851, "title": "fix(compiler-sfc): Optimize the value of emitIdentifier", "createdAt": "2022-10-26T14:19:35Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12853, "title": "feat(sfc): support using extends interface with `defineProps`", "createdAt": "2022-10-26T14:34:49Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12855, "title": "style: remove WTF, keep it classy, enjoy Typescript", "createdAt": "2022-10-28T10:50:39Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12856, "title": "style: remove WTF, also keep it classy [skip ci]", "createdAt": "2022-10-28T14:11:38Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12857, "title": "Update jsx.d.ts TableHTMLAttributes", "createdAt": "2022-10-31T07:03:49Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12859, "title": "Update build.js", "createdAt": "2022-11-01T13:21:51Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12860, "title": "Test -  Added message", "createdAt": "2022-11-01T16:57:41Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12861, "title": "chore: fix typo", "createdAt": "2022-11-02T13:26:27Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12862, "title": "fix(compiler-sfc): resolve object expression parsing errors in `v-on`", "createdAt": "2022-11-02T14:02:47Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12863, "title": "chore: fix typo", "createdAt": "2022-11-02T14:07:33Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12865, "title": "fixed/nested-setup", "createdAt": "2022-11-03T12:26:25Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12866, "title": "fix/nested-setup", "createdAt": "2022-11-04T02:37:10Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12868, "title": "chore(types): remove unnecessary type assertions", "createdAt": "2022-11-05T03:19:46Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12869, "title": "refactor: compiler-sfc", "createdAt": "2022-11-06T15:53:37Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12870, "title": "change some grammar mistakes", "createdAt": "2022-11-07T16:24:05Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12871, "title": "refactor: tidy up getFirstComponentChild", "createdAt": "2022-11-09T05:22:49Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12872, "title": "fix(sfc/types): improve the type inference using `withDefaults`", "createdAt": "2022-11-09T06:28:55Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12873, "title": "fix(compiler-sfc): fix macro usage in multi-variable declaration", "createdAt": "2022-11-09T06:54:51Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12874, "title": "refactor: tidy up compiler", "createdAt": "2022-11-09T10:19:54Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12875, "title": "可以让vue支持普通函数和箭头函数", "createdAt": "2022-11-14T09:23:09Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12876, "title": "added massage", "createdAt": "2022-11-14T14:35:59Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12877, "title": "comment errors", "createdAt": "2022-11-18T10:15:11Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12878, "title": "chore: comment typos", "createdAt": "2022-11-18T10:21:52Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12879, "title": "fix(compiler-sfc): add semicolon after `defineProps` statement", "createdAt": "2022-11-18T11:30:41Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12885, "title": "Master", "createdAt": "2022-11-28T08:21:57Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12886, "title": "2.6", "createdAt": "2022-11-28T08:22:14Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12887, "title": "fix(types): deny unknown attributes by default", "createdAt": "2022-11-28T16:03:57Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12888, "title": "fix: toString utils should unref the `Ref<T>`", "createdAt": "2022-11-30T03:40:06Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12889, "title": "Merge pull request #1 from vuejs/dev", "createdAt": "2022-12-01T02:36:08Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12890, "title": "refactor: standardized typeof controls in utils.", "createdAt": "2022-12-01T08:47:58Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12893, "title": "added message", "createdAt": "2022-12-03T23:08:36Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12894, "title": "chore: fix typo", "createdAt": "2022-12-06T11:28:23Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12895, "title": "Update README.md", "createdAt": "2022-12-07T15:26:04Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12898, "title": "fix #12897:call newly pushed watcher orderly", "createdAt": "2022-12-09T06:29:53Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12899, "title": "Grammar issue, 'please consider sponsor Vue's development' should eit…", "createdAt": "2022-12-11T06:09:44Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12905, "title": "fix(patch): clone insert hooks to avoid being mutated during iteration", "createdAt": "2022-12-19T09:23:04Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12906, "title": "fix(compiler-sfc): fix rewriteDefault problem when using @babel/parser@^7.20.0", "createdAt": "2022-12-19T16:54:17Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12907, "title": "chore: add prettier cache", "createdAt": "2022-12-20T06:53:18Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12908, "title": "added message", "createdAt": "2022-12-20T11:22:49Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12911, "title": "chore: update links (http=https)", "createdAt": "2022-12-27T01:25:17Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12912, "title": "chore: fix typo in apiAsyncComponent.ts", "createdAt": "2022-12-27T19:22:51Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12915, "title": "refactor: guardIESVGBug function", "createdAt": "2022-12-31T07:47:35Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12916, "title": "Update README.md", "createdAt": "2023-01-02T02:10:13Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12917, "title": "refactor(compiler): add stack type instead of any", "createdAt": "2023-01-02T03:36:47Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12919, "title": "Update README.md", "createdAt": "2023-01-04T09:07:20Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12920, "title": "ghghgfhUpdate README.md", "createdAt": "2023-01-04T15:33:28Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12921, "title": "added message", "createdAt": "2023-01-05T15:31:29Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12923, "title": "Master", "createdAt": "2023-01-07T06:50:29Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12926, "title": "Fix #12770:About the max attribute of keep-alive component", "createdAt": "2023-01-11T17:39:49Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12927, "title": "chore: fix typo in utils.ts (#12927) [skip ci]", "createdAt": "2023-01-12T11:44:17Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12928, "title": "fix(compiler): scoped slot can't udate with with different slot content", "createdAt": "2023-01-13T15:45:52Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12932, "title": "fix(core):  prop check warning with ref unwrap in dev", "createdAt": "2023-01-17T09:00:11Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12933, "title": "fix: error vue path in select2 example", "createdAt": "2023-01-17T09:15:58Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12934, "title": "Update ENV.js", "createdAt": "2023-01-17T17:24:57Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12938, "title": "fix(patch): Do not consider nodes with different scope ids the same (fix #10416)", "createdAt": "2023-01-18T21:17:41Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12940, "title": "fix(setup): export setCurrentInstance (#12939)", "createdAt": "2023-01-23T12:01:15Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12941, "title": "added message", "createdAt": "2023-01-23T12:50:08Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12942, "title": "Feat/show important directive", "createdAt": "2023-01-24T14:01:32Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12943, "title": "Update README.md", "createdAt": "2023-01-26T18:01:39Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12946, "title": "fix: correctly update styles", "createdAt": "2023-01-30T06:58:54Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12949, "title": "chore: fixed some typos", "createdAt": "2023-02-04T02:35:32Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12950, "title": "DEYISIKLIK ETDIM", "createdAt": "2023-02-04T06:59:47Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12951, "title": "Update to rollup 3", "createdAt": "2023-02-05T06:22:40Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12953, "title": "2.6", "createdAt": "2023-02-08T09:56:40Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12955, "title": "fix(events): fix the problem of repeated calling of events function", "createdAt": "2023-02-09T12:32:04Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12956, "title": "Update README.md", "createdAt": "2023-02-12T09:53:32Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12957, "title": "fix(types): remove unused code", "createdAt": "2023-02-12T09:56:08Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12958, "title": "updated the readme.md file", "createdAt": "2023-02-12T15:45:09Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12962, "title": "hello", "createdAt": "2023-02-16T14:03:55Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12963, "title": "Dev", "createdAt": "2023-02-16T14:15:21Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12964, "title": "fix(types): support inferring `inject`", "createdAt": "2023-02-18T08:49:20Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 12968, "title": "Weex", "createdAt": "2023-02-25T20:19:33Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12969, "title": "1001 原型链", "createdAt": "2023-02-26T15:30:59Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12972, "title": "fix: trigger when adding new property with Vue.set", "createdAt": "2023-02-28T09:38:34Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12974, "title": "fix: type VNodeChildren supports type number", "createdAt": "2023-03-02T06:33:18Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12976, "title": "added message", "createdAt": "2023-03-04T08:05:47Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12977, "title": "Update README.md", "createdAt": "2023-03-06T12:35:55Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12979, "title": "fix#12978 shallowRef's return type ", "createdAt": "2023-03-07T23:54:12Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12980, "title": "Added New Comment Update README.md", "createdAt": "2023-03-08T10:41:24Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12981, "title": "fix(types): add new directive types to options in favour of deprecated", "createdAt": "2023-03-09T17:33:54Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12982, "title": "Update README.md", "createdAt": "2023-03-09T18:34:04Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12985, "title": "fix(sfc): check template `ref` usage, fix #12984", "createdAt": "2023-03-16T11:54:35Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 12987, "title": "fix(keep-alive): avoid change reference of keep-alive's vnode on prev…", "createdAt": "2023-03-18T13:49:41Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12988, "title": "Remove index signature from CSSProperties", "createdAt": "2023-03-20T04:34:42Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12989, "title": "fix: `inBrowser` needs to check existence of `document`", "createdAt": "2023-03-20T10:27:57Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12992, "title": "pulling test", "createdAt": "2023-03-22T09:36:54Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 12997, "title": "fix: typescript resolution", "createdAt": "2023-03-30T13:34:29Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13000, "title": "Update README.md", "createdAt": "2023-04-13T09:11:50Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13004, "title": "fix(types): fix method-based emits with props", "createdAt": "2023-04-20T04:02:20Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13007, "title": "Update README.md", "createdAt": "2023-04-21T03:21:16Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13008, "title": "fix(svg): apply every namespace in slot when call applyNS", "createdAt": "2023-04-24T12:06:57Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13010, "title": "refactor(shared): update `genStaticKeys`", "createdAt": "2023-04-26T13:43:39Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 13012, "title": "Branch v2.6.14", "createdAt": "2023-04-26T22:26:42Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13014, "title": "refactor(stream): This commit refactors the RenderStream class in the…", "createdAt": "2023-04-28T14:12:03Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13015, "title": "Update README.md", "createdAt": "2023-04-30T16:24:55Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13017, "title": "added message", "createdAt": "2023-05-04T02:29:52Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13020, "title": "Update README.md", "createdAt": "2023-05-20T09:48:05Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13021, "title": "Update jsx.d.ts", "createdAt": "2023-05-20T15:31:39Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13022, "title": "fix(core/instance/render): inherit instance listeners to rendered vnode", "createdAt": "2023-05-24T08:33:29Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13023, "title": "Update README.md", "createdAt": "2023-05-29T11:06:34Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13024, "title": "Marcos aurelio - fiz uma coreção no scc", "createdAt": "2023-05-31T04:40:18Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13025, "title": "added message", "createdAt": "2023-06-04T14:39:36Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13026, "title": "added message", "createdAt": "2023-06-04T14:47:42Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13027, "title": "added message", "createdAt": "2023-06-04T14:52:38Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13030, "title": "added new message", "createdAt": "2023-06-13T08:05:05Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13031, "title": "Hi there i'm learning pull", "createdAt": "2023-06-13T15:46:47Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13033, "title": "readme", "createdAt": "2023-06-16T06:20:20Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13034, "title": "Update README.md", "createdAt": "2023-06-16T20:19:28Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13036, "title": "feat(build): add source when build", "createdAt": "2023-06-17T06:51:26Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13038, "title": "Update README.md", "createdAt": "2023-06-21T11:10:32Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13044, "title": "Update README.md", "createdAt": "2023-07-02T19:17:47Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13047, "title": "chore: improve the types for $set and $delete", "createdAt": "2023-07-05T01:57:49Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13050, "title": "Make isPrimitive more functional and clean", "createdAt": "2023-07-09T19:57:40Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13051, "title": "Update README.md", "createdAt": "2023-07-11T16:17:58Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13053, "title": "chore(compiler-sfc): specify prettier version (fix #13052)", "createdAt": "2023-07-19T17:06:06Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 13054, "title": "perf(server-renderer):normalizeValue function prioritizes the judgmen…", "createdAt": "2023-07-22T14:46:47Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13057, "title": "changes in merge", "createdAt": "2023-07-27T11:26:14Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13058, "title": "Update README.md", "createdAt": "2023-07-27T11:30:01Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13059, "title": "added none sense", "createdAt": "2023-07-28T12:38:42Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13061, "title": "Dev", "createdAt": "2023-08-03T08:24:24Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13062, "title": "Update README.md", "createdAt": "2023-08-03T08:30:16Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13063, "title": "fix(types): fix props type error with js script", "createdAt": "2023-08-04T08:34:31Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13064, "title": "Update README.md", "createdAt": "2023-08-05T06:49:37Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13067, "title": "fix: type VNodeChildren supports type number ", "createdAt": "2023-08-17T05:14:56Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 13068, "title": "fix(types): serverPrefetch's this type doesn't include component properties ", "createdAt": "2023-08-17T05:56:01Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 13069, "title": "Update README.md", "createdAt": "2023-08-22T07:19:24Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13070, "title": "fix(lifecycle): scope might changed when call hook", "createdAt": "2023-08-23T17:51:11Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 13072, "title": "hello world", "createdAt": "2023-08-26T09:20:21Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13073, "title": "Update README.md", "createdAt": "2023-08-26T17:40:59Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13076, "title": "Update README.md", "createdAt": "2023-08-30T17:34:13Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13084, "title": "Update README.md", "createdAt": "2023-09-11T00:22:27Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13087, "title": "Update README.md", "createdAt": "2023-09-22T09:58:19Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13088, "title": "Added message", "createdAt": "2023-09-24T17:36:08Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13089, "title": "feat(types): support inferring attrs", "createdAt": "2023-09-25T12:01:49Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13090, "title": "Resolved several typos and grammar errors", "createdAt": "2023-09-25T17:22:22Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13091, "title": "added message", "createdAt": "2023-09-26T21:44:42Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13093, "title": "Update README.md", "createdAt": "2023-09-28T13:50:03Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13095, "title": "Added", "createdAt": "2023-10-09T10:36:11Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13096, "title": "Create readme1", "createdAt": "2023-10-11T08:22:54Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13097, "title": "nvm I just want to practice PR test", "createdAt": "2023-10-17T05:31:56Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13098, "title": "Only set .__vue__ instance in __DEV__", "createdAt": "2023-10-18T18:48:38Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13099, "title": "Update README.md", "createdAt": "2023-10-19T10:16:56Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13100, "title": "chore(deps): bump postcss from 8.4.17 to 8.4.31", "createdAt": "2023-10-22T01:41:01Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13101, "title": "chore(deps-dev): bump tough-cookie from 4.1.2 to 4.1.3", "createdAt": "2023-10-22T01:41:05Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13102, "title": "chore(deps-dev): bump socket.io-parser from 4.2.1 to 4.2.4", "createdAt": "2023-10-22T01:41:07Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13103, "title": "chore(deps-dev): bump vite from 2.9.15 to 2.9.16", "createdAt": "2023-10-22T01:41:12Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13105, "title": "fix: convert emits to props, fix #13104", "createdAt": "2023-10-23T10:29:49Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13107, "title": "fix: type augmentation and compiler-sfc types w/moduleResolution: bundler (fix #13106)", "createdAt": "2023-10-24T22:55:38Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 13109, "title": "fix(types): no props typings in js files", "createdAt": "2023-11-01T08:43:52Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13110, "title": "fix: diff of list [a,b,c,d] and [e,b,b,f],error happened and make vue-router cant update", "createdAt": "2023-11-01T11:42:28Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13112, "title": "fix(core - patch)：when before patch: old keys like [a, b, c ...] new …", "createdAt": "2023-11-03T01:13:47Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13114, "title": "Update README.md", "createdAt": "2023-11-07T13:00:46Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13115, "title": "Update README.md", "createdAt": "2023-11-07T17:47:07Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13116, "title": "feat：注释", "createdAt": "2023-11-09T07:30:09Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13118, "title": "Myvue", "createdAt": "2023-11-13T08:13:08Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13120, "title": "fix: Optimize scope values", "createdAt": "2023-11-20T10:01:00Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13121, "title": "Update README.md", "createdAt": "2023-11-22T10:42:00Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13123, "title": "Update README.md", "createdAt": "2023-11-25T07:05:17Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13124, "title": "fix(compiler-sfc): support SequenceExpression for `defineEmit`(fix #13122)", "createdAt": "2023-11-27T13:40:52Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13125, "title": "Update README.md", "createdAt": "2023-12-01T12:25:41Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13126, "title": "Update README.md", "createdAt": "2023-12-05T19:16:29Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13127, "title": "chore(deps-dev): bump vite from 4.5.0 to 5.0.5", "createdAt": "2023-12-05T23:42:23Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13129, "title": "update backers.md", "createdAt": "2023-12-08T15:05:35Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13130, "title": "Creating Master branch to replicate tutorial steps", "createdAt": "2023-12-09T20:01:54Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13132, "title": "fix(types): ref() return type should not be any when initial value is any", "createdAt": "2023-12-14T12:45:46Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13133, "title": "fix(type): convert emits to props", "createdAt": "2023-12-15T05:56:47Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13135, "title": "fix(types): fix `shallowRef` type error", "createdAt": "2023-12-15T14:27:13Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13136, "title": "Update README.md", "createdAt": "2023-12-19T13:21:46Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13137, "title": "Declare other resource-linking properties as assets", "createdAt": "2023-12-22T02:29:36Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13141, "title": "Update README.md", "createdAt": "2023-12-29T07:51:57Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13142, "title": "chore: eol readme", "createdAt": "2023-12-31T02:59:57Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 13143, "title": "My_Own_README.md", "createdAt": "2024-01-02T13:55:24Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13144, "title": "MY_2024_README.md", "createdAt": "2024-01-02T14:33:20Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13145, "title": "Fork Testing Final Report", "createdAt": "2024-01-03T10:33:09Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13146, "title": "Update README.md", "createdAt": "2024-01-03T19:48:17Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13147, "title": "added message", "createdAt": "2024-01-05T18:48:46Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13148, "title": "added message", "createdAt": "2024-01-05T18:48:55Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13149, "title": "added message", "createdAt": "2024-01-05T18:52:47Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13150, "title": "fix: Save initial transform, WebkitTransform, transitionDuration styles an…", "createdAt": "2024-01-08T19:48:09Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13151, "title": "chore(deps-dev): bump follow-redirects from 1.15.3 to 1.15.4", "createdAt": "2024-01-09T15:15:38Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13152, "title": "hi there", "createdAt": "2024-01-10T18:26:34Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13153, "title": "Update README.md", "createdAt": "2024-01-10T18:28:30Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13154, "title": "Update README.md by bhargavi dave", "createdAt": "2024-01-11T08:57:01Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13155, "title": "Update README.md", "createdAt": "2024-01-11T10:24:37Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13156, "title": "Update README.md", "createdAt": "2024-01-12T10:28:59Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13157, "title": "Update README.md", "createdAt": "2024-01-13T19:03:34Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13158, "title": "Update index.html", "createdAt": "2024-01-17T16:31:22Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13159, "title": "chore(deps-dev): bump vite from 5.0.5 to 5.0.12", "createdAt": "2024-01-19T23:05:32Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13160, "title": "Update README.md", "createdAt": "2024-01-25T11:31:15Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13161, "title": "Update README.md", "createdAt": "2024-01-28T09:52:08Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13162, "title": "added message", "createdAt": "2024-01-30T16:41:14Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13163, "title": "added message", "createdAt": "2024-01-31T12:41:00Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13165, "title": "Update index.ts", "createdAt": "2024-02-02T11:25:43Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13166, "title": "Update index.ts recent", "createdAt": "2024-02-02T11:32:27Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13167, "title": "Add files via upload", "createdAt": "2024-02-06T06:37:17Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13169, "title": "Update README.md", "createdAt": "2024-02-08T23:25:29Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13170, "title": "init pr", "createdAt": "2024-02-21T08:46:14Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13171, "title": "Update README.md", "createdAt": "2024-02-21T12:04:00Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13172, "title": "fix: Repairing the comparison between NaN and other values", "createdAt": "2024-02-23T04:30:44Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13173, "title": "Update mixin.ts with @param annotations", "createdAt": "2024-03-06T11:30:16Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13174, "title": "Update README.md", "createdAt": "2024-03-11T04:29:02Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13176, "title": "Update README.md", "createdAt": "2024-03-14T17:24:41Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13178, "title": "Update README.md", "createdAt": "2024-03-27T13:45:32Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13179, "title": "Update README.md", "createdAt": "2024-04-01T06:39:08Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13180, "title": "Update README.md", "createdAt": "2024-04-07T18:45:49Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13181, "title": "Update README.md", "createdAt": "2024-04-26T05:42:06Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13182, "title": "added message", "createdAt": "2024-05-01T18:59:21Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13183, "title": "Update README.md", "createdAt": "2024-05-02T13:26:15Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13184, "title": "Update README.md", "createdAt": "2024-05-02T14:23:46Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13185, "title": "Update README.md", "createdAt": "2024-05-07T23:16:02Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13186, "title": "ok", "createdAt": "2024-05-10T14:37:25Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13187, "title": "Update README.md (browser compatibility reference)", "createdAt": "2024-05-20T11:29:04Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 13188, "title": "pull", "createdAt": "2024-05-22T03:47:50Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13189, "title": "fix(core/vdom/path): fixed update error in updateChildren", "createdAt": "2024-05-28T15:25:10Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13190, "title": "updates forkoo pullling ok", "createdAt": "2024-06-04T14:14:48Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13191, "title": "Update README.md", "createdAt": "2024-06-12T17:43:37Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13192, "title": "chore: fix link broken", "createdAt": "2024-06-14T10:31:23Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 13193, "title": "Update README.md", "createdAt": "2024-06-18T17:35:56Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13194, "title": "Update README.md", "createdAt": "2024-06-19T13:37:04Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13195, "title": "2 u", "createdAt": "2024-06-20T10:52:20Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13196, "title": "Update README.md", "createdAt": "2024-06-26T18:46:36Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13197, "title": "Update README.md", "createdAt": "2024-07-06T14:49:21Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13198, "title": "fix(v-show): determine v-show  when updating styles", "createdAt": "2024-07-09T04:22:02Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13199, "title": "Update README.md", "createdAt": "2024-07-09T11:01:55Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13200, "title": "Update README.md", "createdAt": "2024-07-10T08:35:51Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13201, "title": "Update README.md", "createdAt": "2024-08-04T02:06:48Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13203, "title": "Update README.md", "createdAt": "2024-08-21T13:01:25Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13205, "title": "Update README.md", "createdAt": "2024-08-26T13:01:35Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13206, "title": "Ci", "createdAt": "2024-08-27T16:48:32Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13207, "title": "Update README.md", "createdAt": "2024-08-28T18:40:12Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13208, "title": "Update README.md", "createdAt": "2024-08-30T03:36:29Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13209, "title": "Update README.md", "createdAt": "2024-08-30T03:42:48Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13210, "title": "Update README.md", "createdAt": "2024-08-30T03:44:23Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13211, "title": "Update README.md", "createdAt": "2024-09-01T05:51:38Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13213, "title": "Update README.md", "createdAt": "2024-09-27T22:49:52Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13214, "title": "Update .editorconfig", "createdAt": "2024-10-01T10:29:13Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13215, "title": "Update README.md", "createdAt": "2024-10-09T09:00:13Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13216, "title": "fixed spelling mistakes", "createdAt": "2024-10-10T05:25:01Z", "state": "MERGED", "repo": "vuejs/vue"}
+{"number": 13217, "title": "added message", "createdAt": "2024-10-12T02:54:26Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13218, "title": "fix: ignore slots that contains only whitespace (#10839)", "createdAt": "2024-10-17T01:44:36Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13219, "title": "fix(slots): ignore slots that contains only whitespace (#10839)", "createdAt": "2024-10-17T02:06:55Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13220, "title": "added new title", "createdAt": "2024-10-19T15:08:33Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13221, "title": "Update state.ts", "createdAt": "2024-10-22T05:59:07Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13222, "title": "Update README.md", "createdAt": "2024-10-31T19:30:24Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13223, "title": "fix(types): backport fix for `withDefaults` when used together with generics", "createdAt": "2024-11-08T19:09:44Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13224, "title": "Update README.md", "createdAt": "2024-11-14T04:00:40Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13225, "title": "perf(core): getType uses a cache for well known types.", "createdAt": "2024-11-18T08:50:46Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13226, "title": "added message", "createdAt": "2025-01-12T16:58:52Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13227, "title": "merged", "createdAt": "2025-01-17T11:56:52Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13228, "title": "Removed unnecessary period for consistency in README", "createdAt": "2025-01-23T11:18:03Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13229, "title": "refactory: computed react", "createdAt": "2025-01-24T18:09:17Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13230, "title": "Fix: Correct the type definition for AsyncComponentFactory to use Pro…", "createdAt": "2025-01-26T23:14:18Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13231, "title": "added message", "createdAt": "2025-02-05T15:07:01Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13232, "title": "Update package.json", "createdAt": "2025-02-13T00:39:41Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13234, "title": "message", "createdAt": "2025-02-24T16:58:54Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13239, "title": "Update README.md", "createdAt": "2025-03-05T09:54:09Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13245, "title": "Update README.md", "createdAt": "2025-03-24T07:23:26Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13246, "title": "chore: fix typo", "createdAt": "2025-04-11T17:28:35Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13247, "title": "Update README.md", "createdAt": "2025-04-15T22:17:44Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13248, "title": "Update README.md by Adi", "createdAt": "2025-04-16T13:31:13Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13249, "title": "123", "createdAt": "2025-05-08T15:41:24Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13250, "title": "Update README.md", "createdAt": "2025-05-10T19:00:34Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13251, "title": "added massage", "createdAt": "2025-05-11T10:35:46Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13252, "title": "Update README.md", "createdAt": "2025-05-16T05:01:14Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13253, "title": "Improve code clarity and consistency through minor refinements", "createdAt": "2025-05-27T01:20:29Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13254, "title": "Master", "createdAt": "2025-06-03T23:04:05Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13256, "title": "added message", "createdAt": "2025-06-19T19:53:09Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13257, "title": "Update README.md", "createdAt": "2025-06-21T15:49:13Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13259, "title": "Update README.md", "createdAt": "2025-07-04T10:04:04Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13260, "title": "Update README.md", "createdAt": "2025-07-08T14:43:07Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13261, "title": "Just for demo purpose. I will delete this.", "createdAt": "2025-07-12T07:12:38Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13262, "title": "added message", "createdAt": "2025-07-14T11:11:39Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13264, "title": "Update README.md", "createdAt": "2025-07-20T02:28:07Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13265, "title": "added message", "createdAt": "2025-07-20T02:36:50Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13266, "title": "Added message", "createdAt": "2025-07-24T08:27:14Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13267, "title": "Hi there", "createdAt": "2025-07-27T00:54:42Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13268, "title": "added messgae", "createdAt": "2025-07-31T08:37:21Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13269, "title": "Added message Update README.md", "createdAt": "2025-08-15T13:11:22Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13271, "title": "Create SECURITY.md for security policy and reporting", "createdAt": "2025-08-24T04:21:28Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13272, "title": "Add greeting message to README", "createdAt": "2025-08-28T15:52:52Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13273, "title": "added message", "createdAt": "2025-08-28T19:18:24Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13274, "title": "added message", "createdAt": "2025-08-29T18:33:20Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13275, "title": "Added message", "createdAt": "2025-09-04T07:17:37Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13276, "title": "Update README.md", "createdAt": "2025-09-04T07:51:45Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13277, "title": "Added message", "createdAt": "2025-09-05T13:56:49Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13278, "title": "Update README.md", "createdAt": "2025-09-12T15:27:32Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13281, "title": "Update README.md", "createdAt": "2025-10-02T11:54:09Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13282, "title": "Update README.md by forking", "createdAt": "2025-10-05T15:05:00Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13283, "title": "nkubito editing forks readme", "createdAt": "2025-10-09T09:26:32Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13285, "title": "Update README.md", "createdAt": "2025-10-22T02:59:22Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13286, "title": "Update README.md", "createdAt": "2025-11-04T14:47:20Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13288, "title": "chore(warn): include key name in inject() usage warning", "createdAt": "2025-11-09T13:22:15Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13289, "title": "docs: make README top-level H1 to satisfy markdownlint", "createdAt": "2025-11-12T05:07:29Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13290, "title": "fix(v3): include key in inject() warning message", "createdAt": "2025-11-27T06:52:07Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13291, "title": "Update README.md", "createdAt": "2025-11-28T19:26:33Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13292, "title": "fix(scheduler): add missing type annotation to callActivatedHooks", "createdAt": "2025-12-02T04:23:20Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13293, "title": "Feature 1", "createdAt": "2025-12-04T06:04:43Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13295, "title": "fix: avoid recursive error handling", "createdAt": "2026-01-12T04:09:39Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13296, "title": "feat: add equals option to watch", "createdAt": "2026-01-12T04:28:37Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13297, "title": "fix: keep forwarded scoped slots updating", "createdAt": "2026-01-12T05:40:51Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13298, "title": "fix: merge reactive inject from provide mixins", "createdAt": "2026-01-12T07:13:40Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13299, "title": "fix: preserve nested pre whitespace", "createdAt": "2026-01-14T04:34:46Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13304, "title": "mm", "createdAt": "2026-01-24T23:22:55Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13307, "title": "Fix memory leak in functional components by tearing down render watchers", "createdAt": "2026-02-03T16:27:35Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13311, "title": "Add greeting to README", "createdAt": "2026-02-06T21:59:14Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13317, "title": "Add greeting to README", "createdAt": "2026-02-20T00:12:21Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13318, "title": "added message ", "createdAt": "2026-02-20T20:29:14Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13319, "title": "Fix #12319: .exact modifier : Failed to generate render function", "createdAt": "2026-02-21T05:00:18Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13320, "title": "Fix #13104: Vue 2.7 strictTemplates error", "createdAt": "2026-02-21T05:08:34Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13322, "title": "Test/forking example", "createdAt": "2026-02-22T08:38:53Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13325, "title": "fix(compiler): prevent syntax error when using exact with all system modifiers", "createdAt": "2026-03-16T12:42:47Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13328, "title": "Add greeting message to README", "createdAt": "2026-03-29T02:06:24Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13329, "title": "docs: Add Chinese README", "createdAt": "2026-03-29T12:11:26Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13335, "title": "Add greeting message to README", "createdAt": "2026-04-12T15:06:22Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13337, "title": "fix(vdom): fix memory leak in functional components (#13212)", "createdAt": "2026-04-20T04:40:32Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13338, "title": "test: fix typo in readonly compatibility test name", "createdAt": "2026-04-20T21:12:33Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13339, "title": "fix(vdom): fix memory leak in functional components (#13212)", "createdAt": "2026-04-20T23:40:58Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13340, "title": "fix(vdom): fix memory leak in functional components (#13212)", "createdAt": "2026-04-20T23:43:04Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13341, "title": ".4062073974432528:bf3abd146f59f418e2a8a4c07835a22b_69e846fb1ffbb16c7ee08be6.69e84a001ffbb16c7ee08c13.69e84a006798bf44ff19d882:Trae CN.T(2026/4/22 12:09:36)", "createdAt": "2026-04-22T05:11:28Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13342, "title": ".4062073974432528:3906f3676a6133f6e287728eb66cdc83_69e846fb1ffbb16c7ee08be6.69e85e8c1ffbb16c7ee08d91.69e85e8b6798bf44ff19d883:Trae CN.T(2026/4/22 13:37:16)", "createdAt": "2026-04-22T05:52:35Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13343, "title": "fix(compiler): avoid empty if() guard for .exact with all sys modifiers", "createdAt": "2026-04-23T03:01:36Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13344, "title": ".2385318931605690:025bacce569318461522979c69401de3_69f72c96eb4415a9574e62f0.69f72eadeb4415a9574e62fc.69f72eac6c44c20fcd398c4c:Trae CN.T(2026/5/3 19:17:01)", "createdAt": "2026-05-03T11:36:04Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13345, "title": "Revert changes", "createdAt": "2026-05-07T03:52:17Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13346, "title": "pull", "createdAt": "2026-05-07T03:56:32Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13347, "title": "fix(compiler): warn if colon shorthand is used on v-if/v-html/etc.", "createdAt": "2026-05-12T09:38:13Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13348, "title": "fix(compiler): warn if interpolation is used in slot name", "createdAt": "2026-05-12T09:44:19Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13349, "title": "fix(observer): warn if  is used on an existing property", "createdAt": "2026-05-12T09:47:42Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13350, "title": "Update README.md", "createdAt": "2026-05-12T15:09:25Z", "state": "CLOSED", "repo": "vuejs/vue"}
+{"number": 13358, "title": "added message", "createdAt": "2026-06-04T12:47:30Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13368, "title": "fix(inject): include key name in inject() warning when called outside setup", "createdAt": "2026-06-16T15:39:51Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13369, "title": "perf(observer): add early return in Dep.notify() when subs is empty", "createdAt": "2026-06-16T15:40:08Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13370, "title": "fix(error-handling): prevent infinite recursion when errorHandler throws", "createdAt": "2026-06-16T15:40:30Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13371, "title": "fix(hydration): use warn() instead of console.warn for hydration mismatch", "createdAt": "2026-06-16T15:40:52Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13372, "title": "fix(props): include prop name in \"not a constructor\" type warning", "createdAt": "2026-06-16T15:41:14Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13373, "title": " fix inject usage warning to include key (fix #13287)", "createdAt": "2026-06-17T13:58:11Z", "state": "OPEN", "repo": "vuejs/vue"}
+{"number": 13374, "title": "added message", "createdAt": "2026-06-20T20:41:39Z", "state": "OPEN", "repo": "vuejs/vue"}
