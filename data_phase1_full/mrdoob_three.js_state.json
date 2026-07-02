@@ -10695,9 +10695,10 @@
     33916
   ],
   "pr_idx": 7837,
-  "issue_idx": 2700,
+  "issue_idx": 2853,
   "disc_idx": 0,
   "failed_pr": [],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
