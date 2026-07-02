@@ -6140,8 +6140,9 @@
   ],
   "pr_idx": 3159,
   "issue_idx": 1888,
-  "disc_idx": 260,
+  "disc_idx": 1085,
   "failed_pr": [],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
