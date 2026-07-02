@@ -293,9 +293,45 @@ class GitHubGraphQLClient:
 # ==========================================
 # 辅助函数: 原子化存储与状态管理
 # ==========================================
+def get_active_part_path(file_path, max_size=50 * 1024 * 1024):
+    base, ext = os.path.splitext(file_path)
+    
+    # 1. 检查是否存在分片文件 (如 base_part1.jsonl, base_part2.jsonl ...)
+    part_num = 1
+    while True:
+        part_path = f"{base}_part{part_num}{ext}"
+        if not os.path.exists(part_path):
+            break
+        part_num += 1
+    
+    # 如果 part_num 为 1，说明不存在任何分片文件
+    if part_num == 1:
+        if os.path.exists(file_path):
+            if os.path.getsize(file_path) >= max_size:
+                part1_path = f"{base}_part1{ext}"
+                try:
+                    os.rename(file_path, part1_path)
+                    print(f"[文件分片] 原文件超过限制，重命名为: {part1_path}")
+                    return f"{base}_part2{ext}"
+                except Exception as e:
+                    print(f"[文件分片] 重命名原文件失败: {e}")
+                    return part1_path
+            else:
+                return file_path
+        else:
+            return file_path
+    else:
+        # 存在分片文件。最新存在的分片是 part_num - 1
+        latest_part_path = f"{base}_part{part_num - 1}{ext}"
+        if os.path.getsize(latest_part_path) >= max_size:
+            return f"{base}_part{part_num}{ext}"
+        else:
+            return latest_part_path
+
 def save_jsonl(file_path, data_list):
     if not data_list: return
-    with open(file_path, 'a', encoding='utf-8') as f:
+    active_path = get_active_part_path(file_path)
+    with open(active_path, 'a', encoding='utf-8') as f:
         for item in data_list:
             f.write(json.dumps(item, ensure_ascii=False) + "\n")
 
