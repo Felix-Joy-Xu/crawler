@@ -3568,9 +3568,10 @@
     10873
   ],
   "pr_idx": 1703,
-  "issue_idx": 1120,
-  "disc_idx": 0,
+  "issue_idx": 1658,
+  "disc_idx": 200,
   "failed_pr": [],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
