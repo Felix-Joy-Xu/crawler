@@ -2023,3 +2023,35 @@
 {"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 13829, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-03T16:58:55Z", "author": "AUTOMATIC1111"}
 {"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 13832, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-03T17:03:29Z", "author": "AUTOMATIC1111"}
 {"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 13839, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-03T16:44:52Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 13855, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-05T05:57:56Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 13865, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-05T16:31:34Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 13884, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-07T05:29:02Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 13929, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-19T06:01:34Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 13931, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-19T06:11:45Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 13936, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-26T08:57:09Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 13944, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-20T11:49:41Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 13948, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-26T08:18:21Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 13957, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-12-02T06:59:25Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 13962, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-19T06:01:06Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 13968, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-19T06:00:01Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 13977, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-19T05:59:28Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 13996, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-19T05:57:10Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 14004, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-19T05:40:21Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 14009, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-20T14:44:53Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 14031, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-11-20T03:34:54Z", "author": "bneigher"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 14031, "type": "review_comment", "body": "does this need to upgraded as well? or does MPS still need this version of torch?\r\nhttps://github.com/AUTOMATIC1111/stable-diffusion-webui/blob/master/webui-macos-env.sh#L14\r\n```\r\nexport TORCH_COMMAND=\"pip install torch==2.0.1 torchvision==0.15.2\"\r\n```\r\n", "createdAt": "2023-11-20T03:34:54Z", "author": "bneigher"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 14031, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-11-20T05:28:21Z", "author": "KohakuBlueleaf"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 14031, "type": "review_comment", "body": "> does this need to upgraded as well? or does MPS still need this version of torch? https://github.com/AUTOMATIC1111/stable-diffusion-webui/blob/master/webui-macos-env.sh#L14\r\n> \r\n> ```\r\n> export TORCH_COMMAND=\"pip install torch==2.0.1 torchvision==0.15.2\"\r\n> ```\r\n\r\nYes it should be updated\r\nI don't know if I change all the torch version parts\r\n\r\nMaybe we need a singlr file for this kind of things", "createdAt": "2023-11-20T05:28:21Z", "author": "KohakuBlueleaf"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 14031, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-12-16T07:22:42Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 14035, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-20T05:56:41Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 14046, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-12-02T06:43:56Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 14059, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-26T08:54:32Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 14063, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-12-02T06:58:40Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 14084, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-26T08:29:23Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 14108, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-26T13:15:52Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 14119, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-12-02T06:44:51Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 14120, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-12-02T06:54:17Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 14121, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-12-02T06:45:55Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 14125, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-12-02T06:53:23Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 14126, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-12-02T06:48:35Z", "author": "AUTOMATIC1111"}
+{"repo": "AUTOMATIC1111/stable-diffusion-webui", "pr_number": 14131, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-12-02T06:46:15Z", "author": "AUTOMATIC1111"}
