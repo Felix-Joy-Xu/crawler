@@ -1,0 +1,423 @@
+{"number": 2916, "title": "Add HID mouse support", "createdAt": "2022-01-01T23:56:41Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 2945, "title": "Reference USB driver for Google devices for Windows.", "createdAt": "2022-01-14T10:07:22Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 2946, "title": "Workaround for NoSuchMethodException: injectInputEvent (fixes #2250)", "createdAt": "2022-01-15T15:30:21Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 2947, "title": "Automatically retry with a lower definition on MediaCodec error", "createdAt": "2022-01-15T22:33:22Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 2948, "title": "Fix build with ffmpeg 5.0", "createdAt": "2022-01-16T00:46:08Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 2952, "title": "Upgrade FFmpeg (5.0) for Windows 64-bit ", "createdAt": "2022-01-17T18:13:44Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 2962, "title": "Updated README.sp to 1.21", "createdAt": "2022-01-23T09:37:37Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 2970, "title": "Add a shorcut \"open a terminal here\" on Windows", "createdAt": "2022-01-26T09:09:52Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 2971, "title": "Add server options to send raw H.264 without using the client", "createdAt": "2022-01-26T10:29:13Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 2974, "title": "Add OTG mode (HID only)", "createdAt": "2022-01-26T22:11:04Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 2978, "title": "Update README.zh-Hans.md to 1.21", "createdAt": "2022-01-28T08:10:50Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 2989, "title": "Update README.zh-Hans.md and FAQ.zh-Hans.md", "createdAt": "2022-01-30T03:05:11Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 2990, "title": "Downscale and retry also on early MediaCodec error", "createdAt": "2022-01-30T08:24:34Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 2994, "title": "Add missing spaces", "createdAt": "2022-02-02T10:51:25Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 2999, "title": "doing some changes in bump_version script", "createdAt": "2022-02-05T00:07:02Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 3005, "title": "Improve device selection", "createdAt": "2022-02-06T18:34:29Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3011, "title": "Add OTG support for Windows", "createdAt": "2022-02-10T08:51:02Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3012, "title": "add shell completions for all versions", "createdAt": "2022-02-10T14:48:41Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3016, "title": "I have macOS High Sierra cant install Scrcpy on it please help", "createdAt": "2022-02-12T04:54:10Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3020, "title": "Add --no-cleanup option", "createdAt": "2022-02-13T16:29:58Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3023, "title": "German translation of the README.md", "createdAt": "2022-02-14T23:11:17Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3024, "title": "Fixed links and 2 typos in German README", "createdAt": "2022-02-15T09:47:49Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3026, "title": "Updated Links in German README (not linking to windows download)", "createdAt": "2022-02-16T07:47:14Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3029, "title": "Dynamically allocate ADB devices", "createdAt": "2022-02-17T18:53:35Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3030, "title": "Add --print-fps to enable FPS counter on start", "createdAt": "2022-02-17T20:31:52Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3031, "title": "Add HID support for macOS", "createdAt": "2022-02-17T20:51:46Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3032, "title": "Update FAQ about Windows scaling behavior", "createdAt": "2022-02-17T21:02:19Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3035, "title": "Dynamically allocate adb/usb devices using a vector, to avoid a hardcoded limit", "createdAt": "2022-02-18T20:33:59Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3043, "title": "Also retry if MediaCodec.configure() throws IllegalArgumentException", "createdAt": "2022-02-20T22:40:22Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3048, "title": "Add Bash completion script", "createdAt": "2022-02-22T18:23:13Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3065, "title": "Update README & Ln.java comment", "createdAt": "2022-02-25T22:10:48Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3067, "title": "just test", "createdAt": "2022-02-27T00:42:04Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3085, "title": "Different exit codes for failure to connect and disconnect", "createdAt": "2022-03-05T15:20:53Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3103, "title": "build appimage for scrcpy using github actions", "createdAt": "2022-03-10T09:09:09Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 3105, "title": "app/src/usb/scrcpy_otg.cDev", "createdAt": "2022-03-12T01:47:44Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3113, "title": "Use $ANDROID_SERIAL if no selector is specified", "createdAt": "2022-03-14T11:36:59Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3126, "title": "Update README.zh-Hans.md", "createdAt": "2022-03-18T03:54:08Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3140, "title": "Consider emulators as TCP/IP devices", "createdAt": "2022-03-22T20:08:28Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3151, "title": "Update README.it.md", "createdAt": "2022-03-26T05:20:00Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3163, "title": "support udt timeout codec option", "createdAt": "2022-04-02T07:16:53Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3174, "title": "Fix a few minor README issues", "createdAt": "2022-04-09T14:46:18Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3177, "title": "Many improvements to documentation", "createdAt": "2022-04-10T15:45:54Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3190, "title": "Adapt event injection to Android 13", "createdAt": "2022-04-16T07:35:59Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3191, "title": "Actions on start exit", "createdAt": "2022-04-16T13:55:42Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 3206, "title": "Upgrade Windows dependencies (adb and libusb)", "createdAt": "2022-04-22T11:40:12Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3210, "title": "Add option to prevent power on on start", "createdAt": "2022-04-23T13:12:16Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3216, "title": "Improve Indonesian document", "createdAt": "2022-04-25T08:44:00Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3217, "title": "Improve German translation", "createdAt": "2022-04-25T08:44:33Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3218, "title": "Use GitHub instead of Github", "createdAt": "2022-04-25T08:44:55Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3219, "title": "Apply requested window size in OTG mode", "createdAt": "2022-04-25T16:53:55Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3252, "title": "Add build support for Windows on ARM64 (based on llvm-mingw)", "createdAt": "2022-05-09T02:13:04Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 3282, "title": "Grammar issue", "createdAt": "2022-05-21T11:17:57Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3283, "title": "[WIP] Build dependencies from sources", "createdAt": "2022-05-21T12:33:55Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3341, "title": "Support Kitkat", "createdAt": "2022-06-20T08:49:22Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3351, "title": "Desktop entry file for Linux app launchers #295", "createdAt": "2022-06-27T03:45:20Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3369, "title": "Support smooth scrolling on notebook touchpads.", "createdAt": "2022-07-06T05:36:21Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3378, "title": "Optimized icons filesize.", "createdAt": "2022-07-12T20:07:04Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 3379, "title": "Update and fixes to README.md, FAQ.md, README.pt-br.md and adding translation for FAQ.", "createdAt": "2022-07-14T17:54:38Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3393, "title": "Move README and FAQ translations to the wiki", "createdAt": "2022-07-23T14:18:09Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3399, "title": "Replace '%g' by '%f' as printf format", "createdAt": "2022-07-26T10:33:43Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3416, "title": "added fallback getting displayInfo when displayInfo is null", "createdAt": "2022-08-02T10:50:54Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3418, "title": "Update scrcpy-console.bat", "createdAt": "2022-08-05T07:57:39Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3448, "title": "Use DisplayManagerGlobal instance", "createdAt": "2022-08-16T21:55:23Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3449, "title": "Remove deprecated meson.source_root()", "createdAt": "2022-08-16T22:24:54Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3476, "title": "Update readme.md", "createdAt": "2022-08-29T16:23:50Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3479, "title": "Scrcpy master edits", "createdAt": "2022-08-31T23:27:30Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3482, "title": "master / have less files with the scrcpy options inside", "createdAt": "2022-09-02T22:25:44Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3511, "title": "Update scrcpy-windows.manifest", "createdAt": "2022-09-28T11:39:51Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3517, "title": "[Draft] Add option to install the server as an APK", "createdAt": "2022-10-02T16:18:36Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3523, "title": "Add -s auto-complete option", "createdAt": "2022-10-07T14:27:17Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3546, "title": "Can't concatenate strings in cross-platform config", "createdAt": "2022-10-22T13:36:51Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3547, "title": "Support wchar_t in argv in windows", "createdAt": "2022-10-23T06:21:04Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3573, "title": "fixed to get displayInfo in Android Q with No flags", "createdAt": "2022-11-09T04:49:16Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3579, "title": "Force mouse source when --forward-all-clicks", "createdAt": "2022-11-13T18:12:05Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3592, "title": "Use current adb port (if any) for --tcpip", "createdAt": "2022-11-24T08:13:19Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3646, "title": "use of while loop in strncpy function", "createdAt": "2022-12-30T14:11:34Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3673, "title": "add devices msgbox prompt", "createdAt": "2023-01-12T00:56:07Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3697, "title": "sc_mutex_held should be guarded by NDEBUG", "createdAt": "2023-01-28T09:26:27Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3703, "title": "Forward audio", "createdAt": "2023-01-29T17:55:26Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3704, "title": "Fix chrome when --forward-all-clicks is enabled", "createdAt": "2023-01-29T22:20:00Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3713, "title": "Add support for H265 and AV1", "createdAt": "2023-02-03T11:55:36Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3715, "title": "Added Fedora Instruction in README", "createdAt": "2023-02-04T17:39:29Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3721, "title": "Add GitHub actions for scrcpy server", "createdAt": "2023-02-05T14:52:23Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3756, "title": "-", "createdAt": "2023-02-26T18:42:56Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3757, "title": "Forward audio", "createdAt": "2023-02-26T18:44:08Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3758, "title": "Fix hardcode deviceId while inject touch event.", "createdAt": "2023-02-27T14:32:27Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 3761, "title": "Initialize sc_fps_counter.interrupted and sc_video_buffer.b.stopped to false explicitly", "createdAt": "2023-03-02T09:59:41Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3774, "title": "Rework README/documentation", "createdAt": "2023-03-06T09:24:39Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3787, "title": "Fix an \"expected expression\" error", "createdAt": "2023-03-12T06:26:28Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3816, "title": "Update Gentoo instructions", "createdAt": "2023-03-14T20:54:35Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3817, "title": "Fix linux desktop files validation", "createdAt": "2023-03-14T20:55:53Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3822, "title": "Update desktop entry file exec keys", "createdAt": "2023-03-15T11:48:22Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3826, "title": "Fix notifiction", "createdAt": "2023-03-16T10:26:48Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3838, "title": "Add more accented characters decomposition", "createdAt": "2023-03-19T14:50:11Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3839, "title": "Update audio.md", "createdAt": "2023-03-20T02:27:28Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3862, "title": "Create AudioRecord using reflection as a fallback", "createdAt": "2023-03-26T17:23:19Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3865, "title": "Fix debug build by adding compat.c to tests", "createdAt": "2023-03-27T13:24:23Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3877, "title": "Add Music Controls Shortcut (like pause, next song, play, previous song)", "createdAt": "2023-03-29T14:53:51Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3889, "title": "Add Android version check in raw audio recorder", "createdAt": "2023-04-04T14:44:20Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3895, "title": "Get better OpenGL version than 2.1 on macOS", "createdAt": "2023-04-05T14:34:06Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3902, "title": "Turn device screen off _after_ everything has been set up", "createdAt": "2023-04-08T10:02:25Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3914, "title": "Add new option to show clipboard updates in verbose mode", "createdAt": "2023-04-13T15:34:20Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 3930, "title": "Update AudioCapture.java", "createdAt": "2023-04-18T15:15:42Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3944, "title": "I see no reason why the rotation variable is an unsigned instead of a…", "createdAt": "2023-04-23T12:11:09Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3949, "title": "Clarify API versions that support Audio Forwarding", "createdAt": "2023-04-26T13:49:47Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3959, "title": "Minimal VNC server implementation", "createdAt": "2023-04-30T14:41:28Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 3978, "title": "Add --no-video (to mirror audio only)", "createdAt": "2023-05-07T11:21:50Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 3979, "title": "Notify ScreenEncoder when a folding event occurs", "createdAt": "2023-05-07T20:17:03Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 3998, "title": "Merge upgrade", "createdAt": "2023-05-13T19:21:50Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4001, "title": "SDL_CreateRender value change", "createdAt": "2023-05-14T10:35:34Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4004, "title": "Close", "createdAt": "2023-05-16T09:19:12Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4005, "title": "Installing on Windows with winget", "createdAt": "2023-05-16T10:54:07Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4033, "title": "--no-playback, --no-video-playback, --no-audio-playback", "createdAt": "2023-05-24T19:30:51Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 4035, "title": "Add `--no-kill-adb-before-hid` option", "createdAt": "2023-05-25T07:38:57Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4044, "title": "Add option to select audio source", "createdAt": "2023-05-30T19:40:56Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 4045, "title": "fix stream offset", "createdAt": "2023-05-31T03:27:39Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4052, "title": "Add `--time-limit`", "createdAt": "2023-06-01T16:48:29Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4057, "title": "Fixing Typo", "createdAt": "2023-06-04T02:03:07Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4075, "title": "Add InputManagerGlobal method for Android 14 Beta3", "createdAt": "2023-06-09T06:14:09Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4127, "title": "Introduce `--root` option for (rooted) secure display support on Android 12+ ", "createdAt": "2023-06-29T04:55:49Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 4130, "title": "Add --pause-on-exit to simplify launchers", "createdAt": "2023-06-29T19:47:01Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 4132, "title": "Update build.md", "createdAt": "2023-06-30T13:50:09Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4154, "title": "Add Socket for standalone server", "createdAt": "2023-07-10T21:44:42Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4173, "title": "fix tcp/ip link", "createdAt": "2023-07-18T16:10:07Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4213, "title": "Add option to mirror camera", "createdAt": "2023-08-03T06:39:56Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4214, "title": "Update macos.md", "createdAt": "2023-08-03T07:52:17Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 4220, "title": "Fix some Wpedantic warnings", "createdAt": "2023-08-06T21:48:06Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4284, "title": "Fixed unrendered images on readme preview", "createdAt": "2023-09-09T06:58:52Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4300, "title": "Update linux.md", "createdAt": "2023-09-18T23:08:33Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4303, "title": "Update bug_report.md", "createdAt": "2023-09-19T20:10:06Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 4343, "title": "Phanhosi", "createdAt": "2023-10-10T11:36:43Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4357, "title": "Update scrcpy-noconsole.vbs", "createdAt": "2023-10-15T16:09:42Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4364, "title": "Added scrcpy-server to .gitignore", "createdAt": "2023-10-20T10:08:03Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4371, "title": "Some small fixes", "createdAt": "2023-10-23T12:54:33Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4373, "title": "Some more small fixes", "createdAt": "2023-10-24T13:25:15Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4374, "title": "Fix some warnings", "createdAt": "2023-10-24T14:55:48Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4381, "title": "Create שיקוף מסך", "createdAt": "2023-10-27T09:23:17Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4410, "title": "Flac audio codec", "createdAt": "2023-11-07T12:13:50Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4416, "title": "fix: fix CleanUp classpath bug", "createdAt": "2023-11-10T18:02:58Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4427, "title": "Enhance CI Workflow: Automate `.deb` Package Build and Release for Multiple Distributions", "createdAt": "2023-11-15T18:22:16Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 4435, "title": "Add note about exclusive_caps to v4l2 documentation", "createdAt": "2023-11-17T15:27:34Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4441, "title": "Improve orientation support", "createdAt": "2023-11-20T23:27:17Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 4446, "title": "Fix turn screen off on Android 14", "createdAt": "2023-11-21T17:00:21Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4448, "title": "Fix Linux desktop files", "createdAt": "2023-11-21T18:15:15Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4456, "title": "Fix turn screen off on Android 14", "createdAt": "2023-11-23T22:54:43Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 4460, "title": "Improve crossbuild", "createdAt": "2023-11-24T20:29:04Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4469, "title": "Restart capture when screen resolution changes", "createdAt": "2023-11-27T09:08:20Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4473, "title": "[WIP] UHID mouse/keyboard input", "createdAt": "2023-11-28T09:26:26Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4487, "title": "Fix AV1 demuxing", "createdAt": "2023-12-01T20:17:13Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 4502, "title": "Add workaround for Android U", "createdAt": "2023-12-04T13:15:08Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4529, "title": "Simulate tilt multitouch event by pressing Shift", "createdAt": "2023-12-13T16:25:56Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4532, "title": "Fix bash completion syntax", "createdAt": "2023-12-14T15:54:22Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4556, "title": "Add --hid-capture & --hid-replay options", "createdAt": "2023-12-31T19:03:23Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 4564, "title": "Create codeql.yml", "createdAt": "2024-01-04T21:33:24Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4572, "title": "Improve audio player behavior", "createdAt": "2024-01-07T21:05:48Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 4577, "title": "Add isolated build environment based on Docker; implements #3136", "createdAt": "2024-01-09T09:41:58Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 4579, "title": "Add a missing separator between patterns", "createdAt": "2024-01-10T06:38:07Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4645, "title": "Force fullscreen when using the KMSDRM video driver", "createdAt": "2024-02-03T22:53:40Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 4649, "title": "Configure clean up actions dynamically", "createdAt": "2024-02-05T12:33:17Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 4657, "title": "Add the VirtualDisplay method to fix the SurfaceControl API changes.", "createdAt": "2024-02-09T08:06:21Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4658, "title": "Add --scale, --position-x-offset, --position-y-offset and --rotation-offset", "createdAt": "2024-02-09T08:39:39Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4682, "title": "Update linux.md", "createdAt": "2024-02-19T08:04:58Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4698, "title": "Add rotation support for non default display", "createdAt": "2024-02-23T17:47:39Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4712, "title": "Upgrade SDL 2.30.0 (causes issue on Windows)", "createdAt": "2024-03-01T08:38:52Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4713, "title": "Build all dependencies for Windows releases", "createdAt": "2024-03-01T19:03:23Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 4716, "title": "Update Copyright", "createdAt": "2024-03-02T14:40:10Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4740, "title": "fix freeze and thaw rotation for Android 15 preview", "createdAt": "2024-03-07T19:27:44Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4741, "title": "Simplify/restrict shortcut mods", "createdAt": "2024-03-07T22:15:55Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 4748, "title": "Add a shortcut to pause/unpause display", "createdAt": "2024-03-09T14:19:26Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 4761, "title": "fix: window crash on tiling wayland WM", "createdAt": "2024-03-15T14:48:10Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4822, "title": "Add clipboard workaround for Honor device", "createdAt": "2024-04-07T01:40:17Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4830, "title": "feat: boss key", "createdAt": "2024-04-09T11:51:26Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4840, "title": "Fix incorrect capture when using DisplayManager API", "createdAt": "2024-04-12T02:48:31Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4841, "title": "Fix could not rotate secondary display", "createdAt": "2024-04-12T06:19:21Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4859, "title": "Websocket changes sync with latest version 2.4", "createdAt": "2024-04-17T20:00:14Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4868, "title": "Add scrcpy window without video playback", "createdAt": "2024-04-20T16:37:20Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 4877, "title": "Forward all clicks by default for UHID and AOA", "createdAt": "2024-04-23T07:58:32Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4917, "title": "Added Autostart instructions for Windows without AutoADB", "createdAt": "2024-05-12T12:31:10Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 4930, "title": "Fix: the server stopped when requesting the maximum integer value(2147483647) for 'videoBitRate'", "createdAt": "2024-05-16T07:04:22Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4939, "title": "Add table of contents to FAQ.md", "createdAt": "2024-05-21T15:14:22Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 4947, "title": "server: add root support", "createdAt": "2024-05-26T16:36:49Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 4952, "title": "使用代理服务器下载安装包 先安装依赖所需软件", "createdAt": "2024-05-28T06:40:02Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 4977, "title": "Add --root option to bypass AID_SHELL secure display restriction starting in A12", "createdAt": "2024-06-07T21:40:02Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5008, "title": "Modify `virtualDisplay` API priority and use `DisplayManager` first.", "createdAt": "2024-06-21T05:57:30Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5014, "title": "Add --root option to bypass AID_SHELL secure display restriction starting in A12", "createdAt": "2024-06-23T00:21:08Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5022, "title": "Add option to configure mouse bindings", "createdAt": "2024-06-24T21:16:41Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5039, "title": "Forward mouse hover events", "createdAt": "2024-06-29T10:42:14Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5044, "title": "Do not report controller error on device disconnected", "createdAt": "2024-07-01T06:45:08Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5051, "title": "Update bug_report.md", "createdAt": "2024-07-03T09:49:21Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5058, "title": "Always initialise display->gl_context before it's used", "createdAt": "2024-07-04T23:55:21Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5076, "title": "Improve mouse events and add secondary bindings", "createdAt": "2024-07-09T21:13:00Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5079, "title": "GamePad support", "createdAt": "2024-07-12T03:57:19Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5097, "title": "TayT Create devcontainer.json", "createdAt": "2024-07-16T13:51:01Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5102, "title": "Add option to keep audio playing on device while mirroring", "createdAt": "2024-07-16T19:43:03Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5109, "title": "Fix Honor Android 14 devices --turn-screen-off failed", "createdAt": "2024-07-17T12:29:51Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5120, "title": "T Create devcontainer.json", "createdAt": "2024-07-19T09:00:42Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5147, "title": "Add missing client build dependency in Fedora.", "createdAt": "2024-07-28T07:38:48Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5148, "title": "Add workaround for TCL Android 12 Smart TVs.", "createdAt": "2024-07-28T12:15:36Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5153, "title": "Add ability to setup server by config file", "createdAt": "2024-07-30T21:42:39Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5154, "title": "Enable workarounds by default", "createdAt": "2024-07-30T22:55:57Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5171, "title": "Fix typo", "createdAt": "2024-08-05T14:02:55Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5172, "title": "Add optional versioned server file checker", "createdAt": "2024-08-06T00:47:32Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5175, "title": "[feat] add support to create virtual display", "createdAt": "2024-08-06T21:44:47Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5187, "title": "Adding Rocky Linux dependencies to build.md", "createdAt": "2024-08-12T19:31:47Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 5189, "title": "Create readmehabeeb.txt", "createdAt": "2024-08-12T23:07:03Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5190, "title": "Create devcontainer.json", "createdAt": "2024-08-13T08:37:43Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 5214, "title": "add dispatch_to_vd option to server", "createdAt": "2024-08-18T11:40:45Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5217, "title": "Create nooraldain", "createdAt": "2024-08-18T18:19:09Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5227, "title": "Gamepad is passed to Android Device.", "createdAt": "2024-08-23T01:44:26Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5255, "title": "initial MPRIS support", "createdAt": "2024-09-01T17:44:43Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 5270, "title": "Add gamepad support", "createdAt": "2024-09-06T21:18:15Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5280, "title": "handle SDL_WINDOWEVENT_SHOWN like SDL_WINDOWEVENT_EXPOSED", "createdAt": "2024-09-10T11:38:55Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5306, "title": "Add GitHub Actions workflow for release builds", "createdAt": "2024-09-18T22:35:47Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5315, "title": "test", "createdAt": "2024-09-23T02:32:47Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5322, "title": "Forward Alt and Super", "createdAt": "2024-09-27T16:37:36Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5332, "title": "Upgrade FFmpeg (7.1) for Windows", "createdAt": "2024-10-01T19:17:34Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5334, "title": "Added shortopt-flag '-z' for --shortcut-mod", "createdAt": "2024-10-02T18:35:19Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5347, "title": "Fix mc window", "createdAt": "2024-10-07T14:48:08Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5348, "title": "Fix window access typo for macOS", "createdAt": "2024-10-07T14:53:23Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5370, "title": "Add virtual display feature", "createdAt": "2024-10-12T07:32:10Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5398, "title": "Update macos.md", "createdAt": "2024-10-23T00:48:05Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5415, "title": "Listen to display changed events", "createdAt": "2024-10-28T17:48:17Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5416, "title": "Add more details to --list-encoders output", "createdAt": "2024-10-28T22:29:19Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5417, "title": "Disable broken options on Android 14", "createdAt": "2024-10-28T22:32:38Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5418, "title": "Adapt \"turn screen off\" for Android 15", "createdAt": "2024-10-28T23:59:26Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5420, "title": "Rename --display-buffer to --video-buffer", "createdAt": "2024-10-29T18:10:13Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5431, "title": "Power on the device only for main display", "createdAt": "2024-10-31T19:22:02Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5432, "title": "Add shortcut to reset video capture/encoding", "createdAt": "2024-10-31T21:54:01Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5439, "title": "Add a Chinese readme", "createdAt": "2024-11-02T09:29:45Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5441, "title": " midoutech", "createdAt": "2024-11-02T20:46:19Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5442, "title": "Test screen on for current displayId", "createdAt": "2024-11-03T11:36:35Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5447, "title": "Add screen off timeout configuration", "createdAt": "2024-11-03T21:55:51Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5455, "title": "On-device OpenGL video filters", "createdAt": "2024-11-07T09:26:35Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5466, "title": "introduce new debugging method that works on devices > android-11", "createdAt": "2024-11-10T18:22:00Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5476, "title": "Add FakeContext.getContentResolver()", "createdAt": "2024-11-12T11:28:44Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5498, "title": "Add IDisplayWindowListener.aidl file", "createdAt": "2024-11-18T13:31:01Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5499, "title": "Use explicit file protocol for AVIO", "createdAt": "2024-11-18T17:14:45Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5505, "title": "Support refresh rates over 60 FPS in NewDisplayCapture", "createdAt": "2024-11-20T07:41:53Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5506, "title": "Dissociate virtual display size and capture size", "createdAt": "2024-11-20T12:03:22Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5515, "title": "Add release static builds for Linux (and macOS?)", "createdAt": "2024-11-22T21:30:22Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5517, "title": "macos: enable static binaries", "createdAt": "2024-11-23T15:19:12Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5525, "title": "Update README.md", "createdAt": "2024-11-24T22:19:05Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5526, "title": "Add macOS intel64 build-action", "createdAt": "2024-11-24T23:02:40Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5550, "title": "Add install keyword for quick search", "createdAt": "2024-11-27T15:35:54Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5560, "title": "Implement get_executable_path() for macOS", "createdAt": "2024-11-28T20:00:29Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5572, "title": "List and launch apps faster, add option to launch new instance, show app suggestions", "createdAt": "2024-11-30T14:54:52Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 5574, "title": "Add ability to generate .ico file from app icon for shortcut files", "createdAt": "2024-11-30T16:42:33Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 5591, "title": " Quero jogar ark", "createdAt": "2024-12-03T22:10:05Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5613, "title": "Improve cleanup reliability", "createdAt": "2024-12-05T19:12:45Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5614, "title": "Inject main display events to the original display", "createdAt": "2024-12-05T19:40:57Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5615, "title": "Add --no-vd-destroy-content", "createdAt": "2024-12-05T20:04:45Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5623, "title": "Fix gamepad L2/R2 in games", "createdAt": "2024-12-06T11:56:46Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5644, "title": "Add AV1 decoder in release builds", "createdAt": "2024-12-09T17:39:10Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5647, "title": "Improve manual rotation reliability", "createdAt": "2024-12-10T18:13:07Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 5658, "title": "Set icon and server env paths for meson devenv", "createdAt": "2024-12-12T12:48:13Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5669, "title": "Get camera list from camera service directly", "createdAt": "2024-12-15T16:02:13Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5673, "title": "fall back to dumpsys output when we can't get the display info", "createdAt": "2024-12-16T08:45:38Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5686, "title": "Revert c27ab46, re-adding WinGet as an installation option", "createdAt": "2024-12-19T01:15:35Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5692, "title": "Clean up includes", "createdAt": "2024-12-20T20:33:52Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5697, "title": "Support older macOS versions in CI build", "createdAt": "2024-12-22T17:20:28Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5703, "title": "Sets the policy for how the display should show IME.", "createdAt": "2024-12-25T07:39:30Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5722, "title": "Small grammatical fixes to connection.md", "createdAt": "2024-12-31T21:21:54Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5731, "title": "Error: `brew cask` is no longer a `brew` command. Use `brew <command>…", "createdAt": "2025-01-03T20:10:36Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5762, "title": "Use matrix build in GitHub Actions", "createdAt": "2025-01-16T19:36:42Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5763, "title": "allow requesting IDR frames through the control channel", "createdAt": "2025-01-17T11:19:01Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5764, "title": "allow requesting IDR frames through the control channel", "createdAt": "2025-01-17T11:35:05Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5765, "title": "feat: handle WM_LBUTTONDOWN WM_LBUTTONUP in Win32", "createdAt": "2025-01-17T15:47:06Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 5790, "title": "Update README.md", "createdAt": "2025-01-24T18:27:47Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5804, "title": "Only disable control for no-window if we also don't do any other video operations", "createdAt": "2025-01-30T20:06:12Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5838, "title": "Start the virtualdisplay‘s desktop", "createdAt": "2025-02-11T03:23:13Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5854, "title": "[Documentation] Appended fallback comment in server.", "createdAt": "2025-02-17T18:02:14Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5869, "title": "Draft: Add many audio sources (including voice)", "createdAt": "2025-02-22T11:58:55Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5870, "title": "Add many audio sources (including voice)", "createdAt": "2025-02-22T12:00:03Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 5893, "title": "Abandoned", "createdAt": "2025-03-03T07:27:19Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5894, "title": "Add device orientation information to header information", "createdAt": "2025-03-03T08:10:06Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5905, "title": "Arm build (Github Actions)", "createdAt": "2025-03-06T00:26:26Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 5918, "title": "Add device orientation information to header information", "createdAt": "2025-03-13T12:17:43Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5929, "title": "Update run", "createdAt": "2025-03-16T10:24:48Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 5965, "title": "Only capture audio from specified apps", "createdAt": "2025-04-01T09:09:20Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 5973, "title": "Add injectmode option", "createdAt": "2025-04-04T03:54:21Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6008, "title": "Make inject mode configurable", "createdAt": "2025-04-16T04:27:54Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6009, "title": "Associate UHID devices to displays on Android 15", "createdAt": "2025-04-16T06:38:03Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6013, "title": "fix #2841 by adding dynamic options", "createdAt": "2025-04-16T22:13:00Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6040, "title": "Create scrcpy", "createdAt": "2025-04-29T04:57:08Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6050, "title": "fix ubuntu version", "createdAt": "2025-05-02T08:48:34Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6072, "title": "If virtualdisplay does not have the FLAG_TRUSTED flag, scrcpy should complain that display-ime-policy is not supported", "createdAt": "2025-05-08T12:30:13Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6079, "title": "fix zsh completion file", "createdAt": "2025-05-09T13:42:32Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6080, "title": "Report specific error for INJECT_EVENT permission", "createdAt": "2025-05-09T16:23:42Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6102, "title": "Create Подключение для камеры", "createdAt": "2025-05-21T14:36:58Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6107, "title": "Add app name SDL hint", "createdAt": "2025-05-22T18:23:21Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6120, "title": "合并", "createdAt": "2025-06-03T05:54:15Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6129, "title": "Run a main looper", "createdAt": "2025-06-05T18:42:33Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6149, "title": "Fix deprecated brew command", "createdAt": "2025-06-12T13:27:59Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6158, "title": "Codex/thêm nút back home recent vào android emulator", "createdAt": "2025-06-15T04:22:23Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6159, "title": "Add session metadata for video stream", "createdAt": "2025-06-15T10:38:07Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6172, "title": "Improve/fix mouse scrolling support", "createdAt": "2025-06-20T08:04:48Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6194, "title": "feat: Add F11 as an additional shortcut for fullscreen toggle", "createdAt": "2025-06-29T08:35:19Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6202, "title": "feat/hello world", "createdAt": "2025-07-02T15:46:00Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6205, "title": "VR_Flickering_Fix", "createdAt": "2025-07-03T07:42:57Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6216, "title": "Migrate from SDL2 to SDL3", "createdAt": "2025-07-11T20:48:17Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6229, "title": "Create DigitalEarnFireBusiness", "createdAt": "2025-07-16T12:30:13Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6243, "title": "Add camera torch and zoom", "createdAt": "2025-07-20T16:57:35Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6244, "title": "Add catching of CTRL_BREAK_EVENT signal on Windows OS", "createdAt": "2025-07-21T02:26:18Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6247, "title": "Add architect documentation for scrcpy", "createdAt": "2025-07-21T17:41:49Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6254, "title": "Made windows build instructions more clear in build.md", "createdAt": "2025-07-23T07:01:17Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6259, "title": "Small SDL3 macOS fixes", "createdAt": "2025-07-25T10:39:28Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6296, "title": "Codex/modify startserver for scrcpy connection", "createdAt": "2025-08-14T21:45:59Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6334, "title": "Add Windows VBS script for automatic scrcpy launch on device connection", "createdAt": "2025-09-06T18:15:29Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6335, "title": "Add --otg-automatic-screenshot", "createdAt": "2025-09-06T23:16:00Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6338, "title": "Feature get app icon", "createdAt": "2025-09-08T18:23:43Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6343, "title": "feat: exit on close", "createdAt": "2025-09-11T11:23:53Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6344, "title": "Enable Presentation API on virtual display so apps with dual-screen support can use it as extended display", "createdAt": "2025-09-11T12:54:59Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6349, "title": "feat: Añadir la opción --ssh-tunnel para simplificar la conexión remota", "createdAt": "2025-09-13T05:26:56Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6350, "title": "Deprecated Resizable virtual display", "createdAt": "2025-09-13T14:01:56Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6351, "title": "Resizable virtual display with factor", "createdAt": "2025-09-14T08:05:24Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6368, "title": "Support Kitkat in scrcpy v3", "createdAt": "2025-09-18T17:16:34Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6380, "title": "Add USB drivers as prerequisite to windows.md", "createdAt": "2025-09-26T14:01:46Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6390, "title": "https://github.com/Genymobile/scrcpy.gitCreate SECURITY.md", "createdAt": "2025-09-28T19:08:35Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6391, "title": "Create devcontainer.jsontt", "createdAt": "2025-09-28T23:46:07Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6395, "title": "README.md: Improve formatting of warning", "createdAt": "2025-09-30T13:01:31Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6408, "title": "Clean handling of ANDROID_PLATFORM containing decimal, like 36.1", "createdAt": "2025-10-05T21:03:06Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6423, "title": "docs: Add compact Wi-Fi ADB guide with quick commands, safety notes, and optional community toolbox link", "createdAt": "2025-10-13T18:41:26Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6431, "title": "Updated Windows instructions", "createdAt": "2025-10-15T15:56:54Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6439, "title": "Forward client audio ", "createdAt": "2025-10-19T16:55:19Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6440, "title": "Dockerfile to build scrcpy", "createdAt": "2025-10-19T17:22:39Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6464, "title": "Check headers for reallocarray", "createdAt": "2025-11-01T19:10:44Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6472, "title": "Update release.yml", "createdAt": "2025-11-07T02:43:38Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6473, "title": "Tsf0823", "createdAt": "2025-11-07T02:50:33Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6487, "title": "Fix: when calling `Throwable.printStackTrace`, logs from other threads may be inserted.", "createdAt": "2025-11-18T07:24:08Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6490, "title": "Fix incorrect icon filename in build documentation", "createdAt": "2025-11-19T15:21:04Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6494, "title": "[Draft] Extract reflection helper to reduce duplicate code", "createdAt": "2025-11-24T14:01:01Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6518, "title": "Add `--root` functionality for secure displays above A11", "createdAt": "2025-12-08T00:26:52Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6519, "title": "feat: add --otg-mirror for concurrent HID input and mirroring", "createdAt": "2025-12-08T00:48:16Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6560, "title": "Support audio isolation for virtual displays", "createdAt": "2025-12-26T06:14:02Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6561, "title": "Support audio isolation for virtual displays", "createdAt": "2025-12-26T07:56:25Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6569, "title": "Prevent division-by-zero when mouse moves at start", "createdAt": "2025-12-29T16:27:38Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6597, "title": "fix desktop file for linux ", "createdAt": "2026-01-13T05:57:21Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6609, "title": "Update FAQ.md", "createdAt": "2026-01-15T23:27:09Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6610, "title": "chore: Update outdated GitHub Actions versions", "createdAt": "2026-01-16T08:29:41Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6621, "title": "Update JDK17 installation on Mac", "createdAt": "2026-01-22T15:49:12Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6633, "title": "[AI] Add Cursor AI rules and documentation", "createdAt": "2026-01-28T08:46:34Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6637, "title": "Allow macOS to get better OpenGL version again", "createdAt": "2026-01-28T18:00:49Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6639, "title": "Fix software renderer visual corruption on macOS with ARM64 emulators", "createdAt": "2026-01-29T01:40:29Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6649, "title": "Refactor: Use common sc_screen for normal and OTG modes", "createdAt": "2026-02-03T18:31:46Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6651, "title": "Refactor: Move rendering to sc_screen and introduce sc_texture", "createdAt": "2026-02-04T19:35:30Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6661, "title": "Add config file support for persisting default options", "createdAt": "2026-02-09T16:22:24Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6662, "title": "Display disconnected icon before closing", "createdAt": "2026-02-09T17:56:20Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6663, "title": "Properly serialize command line arguments for Windows", "createdAt": "2026-02-09T21:43:24Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6664, "title": "Improve adb devices parsing", "createdAt": "2026-02-09T21:52:49Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6665, "title": "Detect TCP devices provided by mDNS", "createdAt": "2026-02-09T21:55:17Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6667, "title": "Keep Windows terminal open on error by default", "createdAt": "2026-02-10T19:14:13Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6670, "title": "Set low-latency high-priority encoder hints by default", "createdAt": "2026-02-12T19:39:47Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6671, "title": "Prevent build from falling back to system libs", "createdAt": "2026-02-12T19:41:18Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6673, "title": "Tsf0823", "createdAt": "2026-02-13T01:55:15Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6674, "title": "2026", "createdAt": "2026-02-13T01:58:34Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6675, "title": "perf: Linux optimization - 60% latency reduction", "createdAt": "2026-02-13T06:24:37Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6676, "title": "Support image clipboard", "createdAt": "2026-02-13T09:56:09Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6694, "title": "Open the scrcpy window earlier", "createdAt": "2026-02-25T22:22:12Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6695, "title": "Correct output information", "createdAt": "2026-02-28T03:07:40Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6698, "title": "Feature: Do not disturb", "createdAt": "2026-03-01T20:30:20Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6703, "title": "Add support for INFO button", "createdAt": "2026-03-04T14:09:09Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6705, "title": "Add adaptive virtual display that adjusts to window size.", "createdAt": "2026-03-04T21:11:55Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6721, "title": "Feature: MPEG-TS Streaming via SRT, TCP, and UDP (`--stream-sink`)", "createdAt": "2026-03-13T13:04:15Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6722, "title": " Activity launches when Android desktop mode is active (Android 16 QPR1+ / Android 17)", "createdAt": "2026-03-14T01:24:41Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6723, "title": "Created scrcpy-console-easy-wireless.bat", "createdAt": "2026-03-15T11:46:39Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6725, "title": "doc/v4l2: add an example for how to create a loopback device", "createdAt": "2026-03-15T21:27:52Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6727, "title": "Fix Android 16 crash: add missing IDisplayWindowListener methods", "createdAt": "2026-03-17T07:54:32Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6746, "title": "Use optimal size alignment", "createdAt": "2026-03-31T19:27:44Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6748, "title": "Feature: Add flag to emulate QWERTY in OTG mode", "createdAt": "2026-04-01T01:39:27Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6749, "title": "feat: add --screencap and --control options for powerful CLI automation", "createdAt": "2026-04-01T03:18:33Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6752, "title": "Correct typos", "createdAt": "2026-04-04T22:35:01Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6753, "title": "doc : fix one message throwed", "createdAt": "2026-04-05T11:58:44Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6754, "title": "Fix screensaver disabled unexpectedly", "createdAt": "2026-04-05T16:55:34Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6758, "title": "Factorize resize event handling", "createdAt": "2026-04-07T17:56:19Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6761, "title": "Add option to enforce window aspect ratio to always match video", "createdAt": "2026-04-08T16:40:26Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6766, "title": "Replace retry-with-lower-resolution mechanism with video capabilities constraints", "createdAt": "2026-04-11T14:29:59Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6769, "title": "Add support for VP8 and VP9 video encoders", "createdAt": "2026-04-13T17:26:59Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6770, "title": "Reset capture on rotation (fix square displays)", "createdAt": "2026-04-14T21:50:32Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6771, "title": "Align the virtual display size", "createdAt": "2026-04-16T17:17:35Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6772, "title": "Add flex display support (resizable virtual display)", "createdAt": "2026-04-16T20:04:02Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6774, "title": "Fix aspect ratio accuracy", "createdAt": "2026-04-17T16:18:24Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6775, "title": "Set default audio-output-buffer to 10ms", "createdAt": "2026-04-17T16:28:45Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6776, "title": "Update protocol documentation", "createdAt": "2026-04-17T21:04:34Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6777, "title": "Add F11 as fullscreen shortcut", "createdAt": "2026-04-17T21:41:17Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6779, "title": "Added scroll wheel to zoom in / out - since some apps require that feature", "createdAt": "2026-04-19T03:32:46Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6780, "title": "Add MOD+q shortcut to quit", "createdAt": "2026-04-20T16:40:30Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6782, "title": "Move feature-test macros to compiler flags", "createdAt": "2026-04-21T09:03:37Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6785, "title": "Claude/add screenshot feature xy dhv", "createdAt": "2026-04-24T14:23:46Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6788, "title": "Fix turning virtual display on via right-click", "createdAt": "2026-04-25T07:43:28Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6789, "title": "[Draft] Keep awake by simulating user activity", "createdAt": "2026-04-25T08:08:25Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6791, "title": "Add Hangul/English and Hanja key support", "createdAt": "2026-04-26T03:30:24Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6792, "title": "Add --keep-active", "createdAt": "2026-04-26T07:40:30Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6794, "title": "Fix OpenGL runner shutdown deadlock", "createdAt": "2026-04-28T16:31:00Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6801, "title": "Document release signature verification", "createdAt": "2026-04-30T10:54:48Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6802, "title": "Allow window position or size setting to fail", "createdAt": "2026-04-30T11:09:44Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6804, "title": "Add missing dependency libv4l-dev to doc/build.md", "createdAt": "2026-04-30T13:09:21Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6807, "title": "Add option to change the background color", "createdAt": "2026-05-05T18:11:26Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6809, "title": "Share SDL hints between normal and OTG modes", "createdAt": "2026-05-06T07:31:14Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6816, "title": "Replace run-on-main-thread implementation", "createdAt": "2026-05-09T15:44:14Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6819, "title": "docs: fix typos and incorrect comments in documentation", "createdAt": "2026-05-10T00:50:09Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6822, "title": "Restore retry-on-error mechanism", "createdAt": "2026-05-10T14:27:10Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6824, "title": "Hotfix/scrcpy eof erros", "createdAt": "2026-05-11T10:22:39Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6825, "title": "Set terminal tab title to scrcpy and device name", "createdAt": "2026-05-11T13:27:05Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6849, "title": "Add --ignore-video-encoder-constraints", "createdAt": "2026-05-18T21:37:18Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6850, "title": "The push operation failed. However, a manual push was successful. Therefore, an additional parameter --no-push was added.", "createdAt": "2026-05-19T05:33:58Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6852, "title": "Add --media-scan to register pushed files with MediaStore", "createdAt": "2026-05-19T07:07:05Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6853, "title": "Fix gamepad", "createdAt": "2026-05-19T18:06:23Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6854, "title": "Include LICENSE file in release archives", "createdAt": "2026-05-19T18:46:01Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6857, "title": "Add Windows ARM 64 support", "createdAt": "2026-05-22T12:38:47Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6859, "title": "Fix size constraints algorithm", "createdAt": "2026-05-22T19:14:14Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
+{"number": 6866, "title": "Update README", "createdAt": "2026-05-25T14:26:52Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6868, "title": "A more manageable scrcpy-noconsole.bat Windows batch script", "createdAt": "2026-05-27T09:11:58Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6872, "title": "feat: add --shortcut-key option to customize shortcut key bindings", "createdAt": "2026-05-28T12:20:51Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6873, "title": "Fix initial gamepad open with SDL joystick IDs", "createdAt": "2026-05-28T13:16:10Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6880, "title": "Fix AbstractMethodError on Android 16 (IDisplayWindowListener)", "createdAt": "2026-05-29T23:03:13Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6883, "title": "fix(audio): separate --no-audio-playback from audio capture", "createdAt": "2026-06-01T19:48:43Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6886, "title": "Add new gui for wireless adb connections to launch scrcpy easily", "createdAt": "2026-06-02T07:41:31Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6889, "title": "Add Keywords to desktop entries", "createdAt": "2026-06-03T08:34:08Z", "state": "CLOSED", "repo": "Genymobile/scrcpy"}
+{"number": 6894, "title": "Add keyboard shortcuts for scrolling", "createdAt": "2026-06-06T22:40:08Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6906, "title": "Add voice communication playback capture option", "createdAt": "2026-06-20T01:32:09Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6911, "title": "Fix data race", "createdAt": "2026-06-22T22:02:44Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6918, "title": "Rename sc_delay_buffer to sc_video_regulator", "createdAt": "2026-06-26T17:08:25Z", "state": "OPEN", "repo": "Genymobile/scrcpy"}
+{"number": 6922, "title": "Fix size constraints for camera capture", "createdAt": "2026-06-27T18:10:55Z", "state": "MERGED", "repo": "Genymobile/scrcpy"}
