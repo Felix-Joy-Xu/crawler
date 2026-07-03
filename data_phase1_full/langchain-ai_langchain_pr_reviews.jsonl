@@ -14830,3 +14830,163 @@
 {"repo": "langchain-ai/langchain", "pr_number": 12600, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-03T11:58:59Z", "author": "dmenini"}
 {"repo": "langchain-ai/langchain", "pr_number": 12606, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-30T23:27:55Z", "author": "hwchase17"}
 {"repo": "langchain-ai/langchain", "pr_number": 12606, "type": "review_comment", "body": "is this meant to be here? seems a copy?", "createdAt": "2023-10-30T23:27:55Z", "author": "hwchase17"}
+{"repo": "langchain-ai/langchain", "pr_number": 12610, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-30T23:58:09Z", "author": "hwchase17"}
+{"repo": "langchain-ai/langchain", "pr_number": 12611, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T00:17:09Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T02:37:36Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "transfer", "createdAt": "2023-10-31T02:37:36Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T02:51:48Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "fix", "createdAt": "2023-10-31T02:51:48Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T03:00:04Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "fix", "createdAt": "2023-10-31T03:00:04Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T03:05:24Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "probably better above langserve instructions", "createdAt": "2023-10-31T03:05:24Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T03:06:06Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "need to add this back", "createdAt": "2023-10-31T03:06:06Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T03:06:16Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "need a title", "createdAt": "2023-10-31T03:06:16Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T03:06:37Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "`plate_chain_chain` is weird", "createdAt": "2023-10-31T03:06:37Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T03:10:25Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "fix", "createdAt": "2023-10-31T03:10:25Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T03:11:54Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "do we want the indented quoteblock back?", "createdAt": "2023-10-31T03:11:54Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T03:13:11Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "should we link this", "createdAt": "2023-10-31T03:13:11Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T03:13:31Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "this one dropped a ton of stuff", "createdAt": "2023-10-31T03:13:31Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T03:13:53Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "Retrieval", "createdAt": "2023-10-31T03:13:53Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T03:14:44Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "also dropped a ton", "createdAt": "2023-10-31T03:14:44Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T03:15:14Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "todo", "createdAt": "2023-10-31T03:15:14Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T03:15:20Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "also check pyproject for issue", "createdAt": "2023-10-31T03:15:20Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T03:16:34Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "remove - I think this is duckduckgo now", "createdAt": "2023-10-31T03:16:34Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T03:18:00Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "remove", "createdAt": "2023-10-31T03:18:00Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T03:18:43Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "lowercase?", "createdAt": "2023-10-31T03:18:43Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T03:18:58Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "is this chain.py or environment?", "createdAt": "2023-10-31T03:18:57Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T06:26:05Z", "author": "hwchase17"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "```suggestion\r\nHyde is a retrieval method that stands for Hypothetical Document Embeddings (HyDE). It is a method used to enhance retrieval by generating a hypothetical document for an incoming query. \r\n```", "createdAt": "2023-10-31T06:26:04Z", "author": "hwchase17"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T15:22:28Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "done", "createdAt": "2023-10-31T15:22:28Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T15:22:56Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "done.", "createdAt": "2023-10-31T15:22:56Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T15:23:16Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "done.", "createdAt": "2023-10-31T15:23:16Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T15:23:44Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "cleaned this.", "createdAt": "2023-10-31T15:23:44Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T15:28:10Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "done.", "createdAt": "2023-10-31T15:28:10Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T15:28:25Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "fixed.", "createdAt": "2023-10-31T15:28:24Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T15:29:32Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "removed.", "createdAt": "2023-10-31T15:29:32Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T15:30:04Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "done, not there now.", "createdAt": "2023-10-31T15:30:04Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T15:30:27Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "fixed.", "createdAt": "2023-10-31T15:30:26Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T15:30:45Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12615, "type": "review_comment", "body": "fixed.", "createdAt": "2023-10-31T15:30:45Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langchain", "pr_number": 12624, "type": "review", "body": "this is great, thanks @NikolaosPapailiou! few comments", "state": "COMMENTED", "createdAt": "2023-10-31T16:58:57Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12624, "type": "review_comment", "body": "only need to add to extra_testing extra for unit tests, so no need here. and preference to not add any dependencies to pyproject which aren't need for testing, so no changes needed to pyproject at all", "createdAt": "2023-10-31T16:56:53Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12624, "type": "review_comment", "body": "nit: can we add `*` to signature after metric", "createdAt": "2023-10-31T16:57:30Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12624, "type": "review_comment", "body": "can we add `*` to all non-inherited methods to separate args and kwargs", "createdAt": "2023-10-31T16:57:55Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12624, "type": "review_comment", "body": "should return self.embedding", "createdAt": "2023-10-31T16:58:13Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12624, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T19:45:42Z", "author": "NikolaosPapailiou"}
+{"repo": "langchain-ai/langchain", "pr_number": 12624, "type": "review_comment", "body": "Applied.", "createdAt": "2023-10-31T19:45:42Z", "author": "NikolaosPapailiou"}
+{"repo": "langchain-ai/langchain", "pr_number": 12624, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T19:45:48Z", "author": "NikolaosPapailiou"}
+{"repo": "langchain-ai/langchain", "pr_number": 12624, "type": "review_comment", "body": "Applied.", "createdAt": "2023-10-31T19:45:48Z", "author": "NikolaosPapailiou"}
+{"repo": "langchain-ai/langchain", "pr_number": 12624, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T19:45:52Z", "author": "NikolaosPapailiou"}
+{"repo": "langchain-ai/langchain", "pr_number": 12624, "type": "review_comment", "body": "Applied.", "createdAt": "2023-10-31T19:45:52Z", "author": "NikolaosPapailiou"}
+{"repo": "langchain-ai/langchain", "pr_number": 12624, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T19:45:57Z", "author": "NikolaosPapailiou"}
+{"repo": "langchain-ai/langchain", "pr_number": 12624, "type": "review_comment", "body": "Applied.", "createdAt": "2023-10-31T19:45:57Z", "author": "NikolaosPapailiou"}
+{"repo": "langchain-ai/langchain", "pr_number": 12624, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T21:00:52Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12624, "type": "review_comment", "body": "ah sorry should clarify, we can (unfortunately) only do this for methods that aren't already defined on the  base `VectorStore`. so we can't do it for similarity_search_by_vector, similarity_search, max_marginal_relevance_search_by_vector, max_marginal_relevance_search,  add_texts, from_texts", "createdAt": "2023-10-31T21:00:52Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12624, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-11-01T06:07:31Z", "author": "NikolaosPapailiou"}
+{"repo": "langchain-ai/langchain", "pr_number": 12624, "type": "review_comment", "body": "Thanks for the clarification! \r\nApplied.", "createdAt": "2023-11-01T06:07:30Z", "author": "NikolaosPapailiou"}
+{"repo": "langchain-ai/langchain", "pr_number": 12627, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-01T15:10:03Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12630, "type": "review", "body": "Awesome this fixes my issue", "state": "APPROVED", "createdAt": "2023-10-31T13:16:48Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langchain", "pr_number": 12630, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T14:13:22Z", "author": "obi1kenobi"}
+{"repo": "langchain-ai/langchain", "pr_number": 12630, "type": "review_comment", "body": "mypy supports [type narrowing](https://mypy.readthedocs.io/en/stable/type_narrowing.html), which makes the `cast` here a no-op. Narrowing here means that it sees that it's inside an `if` whose condition ensures `self.first`'s type is `RunnableAssign`, and for the rest of the block it knows that `self.first` stays `RunnableAssign` even though outside the block it could be something else.", "createdAt": "2023-10-31T14:13:22Z", "author": "obi1kenobi"}
+{"repo": "langchain-ai/langchain", "pr_number": 12630, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T15:08:22Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langchain", "pr_number": 12630, "type": "review_comment", "body": "For some reason mypy was inferring this here as `Never`. Maybe because this is a bit circular (thus the import inside the function)", "createdAt": "2023-10-31T15:08:22Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langchain", "pr_number": 12630, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T15:14:12Z", "author": "obi1kenobi"}
+{"repo": "langchain-ai/langchain", "pr_number": 12630, "type": "review_comment", "body": "Huh, that's wild. Sounds like a bug.\r\n\r\n`Never` might have been appropriate if `Runnable` and `RunnableAssign` didn't have any classes in common (i.e. could not both be true), but `RunnableAssign` is a `Runnable` already.\r\n\r\nWe're unfortunately running a year-old version of mypy (0.9xx instead of 1.6.1 which is latest) so I don't think we can report this or get help on it until we upgrade. It's possible that upgrading gets us bug fixes for stuff like this.", "createdAt": "2023-10-31T15:14:12Z", "author": "obi1kenobi"}
+{"repo": "langchain-ai/langchain", "pr_number": 12630, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T15:15:18Z", "author": "obi1kenobi"}
+{"repo": "langchain-ai/langchain", "pr_number": 12630, "type": "review_comment", "body": "Might also be good to leave a note about why this cast is appropriate, since otherwise at least to my eyes it seems out of place. Put a sign up on Chesterton's fence describing why it's there, in a sense :)", "createdAt": "2023-10-31T15:15:18Z", "author": "obi1kenobi"}
+{"repo": "langchain-ai/langchain", "pr_number": 12641, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T16:13:47Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12641, "type": "review_comment", "body": "ubernit: should there be space after -d before quote `-d ' '`", "createdAt": "2023-10-31T16:13:47Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12641, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T16:53:20Z", "author": "obi1kenobi"}
+{"repo": "langchain-ai/langchain", "pr_number": 12641, "type": "review_comment", "body": "Long time habit to never leave whitespace after the `-d` parameter to `cut` specifically. I'm not even sure why we always did that at Kensho... 😅 Thanks!", "createdAt": "2023-10-31T16:53:20Z", "author": "obi1kenobi"}
+{"repo": "langchain-ai/langchain", "pr_number": 12644, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T16:11:07Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12644, "type": "review_comment", "body": "fix", "createdAt": "2023-10-31T16:11:06Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12644, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T19:02:43Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12644, "type": "review_comment", "body": "```suggestion\r\nfrom rag_matching_engine import chain as rag_matching_engine_chain\r\n```", "createdAt": "2023-10-31T19:02:43Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12644, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T19:03:02Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12646, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T16:03:24Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12646, "type": "review_comment", "body": "Links on pypi.org are broken right now", "createdAt": "2023-10-31T16:03:24Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12646, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T16:03:34Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12646, "type": "review_comment", "body": "need to release to update pypi", "createdAt": "2023-10-31T16:03:34Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12647, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T16:05:19Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langchain", "pr_number": 12647, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T16:11:51Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12648, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T16:11:37Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langchain", "pr_number": 12648, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T16:11:41Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12654, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T16:40:18Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12655, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T16:50:25Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langchain", "pr_number": 12657, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T16:53:05Z", "author": "dakinggg"}
+{"repo": "langchain-ai/langchain", "pr_number": 12658, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T17:02:45Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12660, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T18:43:54Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langchain", "pr_number": 12661, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T18:02:30Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12665, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T21:58:04Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12666, "type": "review", "body": "cc @jeffchuber ", "state": "COMMENTED", "createdAt": "2023-10-31T21:14:29Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12666, "type": "review_comment", "body": "can we update max_marginal_relevance_search_by_vector to call this", "createdAt": "2023-10-31T21:14:25Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12666, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-11-03T11:19:21Z", "author": "Hexecu"}
+{"repo": "langchain-ai/langchain", "pr_number": 12666, "type": "review_comment", "body": "EDIT: I revisited my earlier implementation and realized it wasn't optimal. I've made the necessary adjustments and everything should be in order now. Thanks for your patience.", "createdAt": "2023-11-03T11:19:21Z", "author": "Hexecu"}
+{"repo": "langchain-ai/langchain", "pr_number": 12668, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T20:52:16Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12671, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T20:52:35Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12672, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T20:51:52Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12675, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T20:48:48Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12676, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T20:57:04Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12676, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T20:57:10Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langchain", "pr_number": 12678, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T21:51:19Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12679, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T21:24:07Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12682, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-11-01T00:17:34Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12682, "type": "review_comment", "body": "new lint ci didnt like this", "createdAt": "2023-11-01T00:17:33Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12683, "type": "review", "body": "template?", "state": "COMMENTED", "createdAt": "2023-11-01T04:43:20Z", "author": "hwchase17"}
+{"repo": "langchain-ai/langchain", "pr_number": 12684, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T23:55:41Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12684, "type": "review_comment", "body": "I think this might be incorrect. Maybe something more similar to https://github.com/langchain-ai/langchain/pull/12682/files#diff-d26831cc3cbf5bf1acc93d4768150a54333b0c34d881d33e12f091dd50b18298R45-R49", "createdAt": "2023-10-31T23:55:41Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12684, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-01T00:10:25Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12686, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-02T23:24:37Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12688, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-11-03T07:41:09Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langchain", "pr_number": 12688, "type": "review_comment", "body": "Can this be in a runnable lambda that accepts a config?", "createdAt": "2023-11-03T07:40:33Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langchain", "pr_number": 12688, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-11-03T20:44:16Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12688, "type": "review_comment", "body": "I think the conclusion last night was that this needs a Lambda change, so thoughts on editing to be that in future once that's out?", "createdAt": "2023-11-03T20:44:16Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12688, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-03T20:57:07Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12688, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-11-04T13:50:18Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langchain", "pr_number": 12688, "type": "review_comment", "body": "What change does it need in RunnableLambda?", "createdAt": "2023-11-04T13:50:18Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langchain", "pr_number": 12690, "type": "review", "body": "lgtm", "state": "APPROVED", "createdAt": "2023-11-02T01:20:15Z", "author": "leo-gan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12690, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-02T22:46:25Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12691, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-01T02:16:01Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langchain", "pr_number": 12694, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-11-01T20:04:21Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12694, "type": "review_comment", "body": "float", "createdAt": "2023-11-01T20:04:20Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12694, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-11-01T21:06:17Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12694, "type": "review_comment", "body": "probably should add a default value here for backwards compat", "createdAt": "2023-11-01T21:06:17Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12694, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-11-02T02:37:42Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langchain", "pr_number": 12694, "type": "review_comment", "body": "What if you keep this schema exactly as it is right now, but allow `Value` to be of a dict type, the dict type can have { 'type': ..., 'value\": } inside it? This means that can still use python primitive types easily without needing to carry an additional value_type, and can describe more complex objects with a dict? Does bad happen if we use that representation?  ", "createdAt": "2023-11-02T02:37:42Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langchain", "pr_number": 12694, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-11-02T03:40:01Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12694, "type": "review_comment", "body": "we need to update all the vector store translators ", "createdAt": "2023-11-02T03:40:01Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12694, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-13T16:14:41Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langchain", "pr_number": 12694, "type": "review_comment", "body": "Perhaps a doc-string here to explain what the date format is so folks don't have to look up what iso-8601 is? (YYYY-MM-DD)", "createdAt": "2023-11-13T16:10:37Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langchain", "pr_number": 12694, "type": "review_comment", "body": "I would suggest using `value` instead\r\n\r\n```suggestion\r\n    value: str\r\n```\r\n\r\nWe're already parameterizing on `date` in the type name and in the `type` literal itself, don't think more differentiation is needed -- it'll force caller code to have additional unnecessary conditionals", "createdAt": "2023-11-13T16:12:45Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langchain", "pr_number": 12694, "type": "review_comment", "body": "Should there be a recovery strategy from this?\r\n\r\nFor example, if the parser is used to surface information to the UI to show the user what's happening, partial results are perfectly fine -- that way the user knows what part of the string was not properly understood", "createdAt": "2023-11-13T16:14:13Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langchain", "pr_number": 12694, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-11-13T16:27:59Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12694, "type": "review_comment", "body": "yea could just raise warning instead?", "createdAt": "2023-11-13T16:27:59Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12694, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-13T16:32:47Z", "author": "efriis"}
+{"repo": "langchain-ai/langchain", "pr_number": 12694, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-11-13T19:46:09Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12694, "type": "review_comment", "body": "slight pref to keep date but don't feel strongly", "createdAt": "2023-11-13T19:46:09Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langchain", "pr_number": 12711, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-01T14:20:42Z", "author": "eyurtsev"}
