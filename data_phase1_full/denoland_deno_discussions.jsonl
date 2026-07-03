@@ -1,0 +1,567 @@
+{"number": 13258, "title": "How can Deno.readDir be promisified?", "createdAt": "2022-01-01T22:02:27Z", "repo": "denoland/deno"}
+{"number": 13298, "title": "`deno fmt --check` is too strict on md files", "createdAt": "2022-01-06T21:30:57Z", "repo": "denoland/deno"}
+{"number": 13333, "title": "Support `power-assert` as official", "createdAt": "2022-01-11T01:06:02Z", "repo": "denoland/deno"}
+{"number": 13373, "title": "remove window variable #13367", "createdAt": "2022-01-14T16:02:09Z", "repo": "denoland/deno"}
+{"number": 13386, "title": "best practice for private local common modules?", "createdAt": "2022-01-16T05:44:58Z", "repo": "denoland/deno"}
+{"number": 13407, "title": "Conn.write and concurent buffer mutation", "createdAt": "2022-01-18T06:05:25Z", "repo": "denoland/deno"}
+{"number": 13419, "title": "ViteJS counterpart in Deno", "createdAt": "2022-01-19T05:12:43Z", "repo": "denoland/deno"}
+{"number": 13456, "title": "Deno TCP setNoDelay", "createdAt": "2022-01-21T14:02:31Z", "repo": "denoland/deno"}
+{"number": 13465, "title": "Which key algorithms are available?", "createdAt": "2022-01-22T01:28:32Z", "repo": "denoland/deno"}
+{"number": 13470, "title": "How to make a node/deno compatible ts module - import statements", "createdAt": "2022-01-22T14:50:37Z", "repo": "denoland/deno"}
+{"number": 13487, "title": "How does multipart processing work on the server when using the Fetch API?", "createdAt": "2022-01-25T05:21:18Z", "repo": "denoland/deno"}
+{"number": 13505, "title": "fetch throttling", "createdAt": "2022-01-27T00:39:45Z", "repo": "denoland/deno"}
+{"number": 13523, "title": "Let's discuss React in Deno", "createdAt": "2022-01-28T17:15:32Z", "repo": "denoland/deno"}
+{"number": 13559, "title": "Feature request: Support global files require", "createdAt": "2022-02-01T08:56:50Z", "repo": "denoland/deno"}
+{"number": 13604, "title": "`baseUrl` and `paths` in tsconfig.json compatibility", "createdAt": "2022-02-05T18:52:41Z", "repo": "denoland/deno"}
+{"number": 13607, "title": "How to run a script on deno deploy with --unstable and --no-check flags?", "createdAt": "2022-02-06T14:01:28Z", "repo": "denoland/deno"}
+{"number": 13653, "title": "npm package to deno converter", "createdAt": "2022-02-11T23:35:27Z", "repo": "denoland/deno"}
+{"number": 13652, "title": "proper way to handle dynamic properties from JS code", "createdAt": "2022-02-12T07:37:13Z", "repo": "denoland/deno"}
+{"number": 13707, "title": "Suggestion: Show file system intellisense for custom functions if tagged", "createdAt": "2022-02-18T00:42:36Z", "repo": "denoland/deno"}
+{"number": 13717, "title": "Unable to set global \"document\" available to imported ts", "createdAt": "2022-02-19T10:41:53Z", "repo": "denoland/deno"}
+{"number": 13722, "title": "disable Deno object in javascript", "createdAt": "2022-02-19T16:08:43Z", "repo": "denoland/deno"}
+{"number": 13802, "title": "Ignoring template strings when formatting on save", "createdAt": "2022-03-01T10:03:49Z", "repo": "denoland/deno"}
+{"number": 13806, "title": "deno vendor should check compressed archive into git by default", "createdAt": "2022-03-01T19:08:42Z", "repo": "denoland/deno"}
+{"number": 13819, "title": "Node has shown their attitude of Ukraine", "createdAt": "2022-03-03T08:21:25Z", "repo": "denoland/deno"}
+{"number": 13858, "title": "Deno.error", "createdAt": "2022-03-07T08:58:36Z", "repo": "denoland/deno"}
+{"number": 14053, "title": "Is there any plan to add support on mongoose library for Deno?", "createdAt": "2022-03-15T00:32:43Z", "repo": "denoland/deno"}
+{"number": 13983, "title": "sessionStorage in worker module", "createdAt": "2022-03-16T11:57:34Z", "repo": "denoland/deno"}
+{"number": 14008, "title": "How to Deno.listen on existing file descriptor?", "createdAt": "2022-03-17T04:24:38Z", "repo": "denoland/deno"}
+{"number": 14010, "title": "Hosting and maintaining a deno web server in production", "createdAt": "2022-03-17T10:36:25Z", "repo": "denoland/deno"}
+{"number": 14025, "title": "Speeding up subprocess/deno.run", "createdAt": "2022-03-18T13:47:33Z", "repo": "denoland/deno"}
+{"number": 14041, "title": "How can I use Deno.run() and get output in \"tty\" mode ? (like progress bar)", "createdAt": "2022-03-19T13:45:42Z", "repo": "denoland/deno"}
+{"number": 14036, "title": "`deno task` feedback", "createdAt": "2022-03-19T14:43:23Z", "repo": "denoland/deno"}
+{"number": 14055, "title": "How to run a Linux Command in the Background with Deno.run", "createdAt": "2022-03-19T23:30:41Z", "repo": "denoland/deno"}
+{"number": 14048, "title": "Compiled code shows secrets in the clear", "createdAt": "2022-03-20T16:18:56Z", "repo": "denoland/deno"}
+{"number": 14058, "title": "Automatic Body Compression Clarification", "createdAt": "2022-03-21T05:51:11Z", "repo": "denoland/deno"}
+{"number": 14084, "title": "`deno task` descriptions", "createdAt": "2022-03-22T22:15:24Z", "repo": "denoland/deno"}
+{"number": 14143, "title": "How to set console log level?", "createdAt": "2022-03-28T20:05:18Z", "repo": "denoland/deno"}
+{"number": 14147, "title": "Default Deno.bench warmups may not be high enough for some CI runners", "createdAt": "2022-03-29T18:49:41Z", "repo": "denoland/deno"}
+{"number": 14156, "title": "`deno test` printer feedback", "createdAt": "2022-03-30T20:49:58Z", "repo": "denoland/deno"}
+{"number": 14162, "title": "Porting Deno to NetBSD", "createdAt": "2022-03-31T07:59:57Z", "repo": "denoland/deno"}
+{"number": 14197, "title": "Design challenges with Stdin and Signals", "createdAt": "2022-04-03T23:54:49Z", "repo": "denoland/deno"}
+{"number": 14248, "title": "Converting UnsafePointers to string", "createdAt": "2022-04-10T20:49:01Z", "repo": "denoland/deno"}
+{"number": 14273, "title": "Design for platform dependent operations", "createdAt": "2022-04-13T19:11:45Z", "repo": "denoland/deno"}
+{"number": 14348, "title": "Delay between GitHub release and Blog Post", "createdAt": "2022-04-21T08:42:49Z", "repo": "denoland/deno"}
+{"number": 14442, "title": "Opened file cannot be closed after the response returned", "createdAt": "2022-04-30T14:52:18Z", "repo": "denoland/deno"}
+{"number": 14466, "title": "Creating Deno Stack", "createdAt": "2022-05-02T17:44:12Z", "repo": "denoland/deno"}
+{"number": 14519, "title": "Monthly hiring discussions like Next.js", "createdAt": "2022-05-07T08:22:36Z", "repo": "denoland/deno"}
+{"number": 14600, "title": "I  install failed by cargo build for deno v1.21.3", "createdAt": "2022-05-14T02:22:10Z", "repo": "denoland/deno"}
+{"number": 14616, "title": "Persist localStorage wihout --location when upgrading installed scripts?", "createdAt": "2022-05-15T12:29:07Z", "repo": "denoland/deno"}
+{"number": 14673, "title": "Awesome Deno Organization", "createdAt": "2022-05-19T15:14:23Z", "repo": "denoland/deno"}
+{"number": 14707, "title": "Differences between async and sync functions", "createdAt": "2022-05-23T21:45:47Z", "repo": "denoland/deno"}
+{"number": 14715, "title": "Is there a recommended way to remove temporary directories and files?", "createdAt": "2022-05-24T17:52:33Z", "repo": "denoland/deno"}
+{"number": 14736, "title": "improve typescript compilation times with snapshots", "createdAt": "2022-05-26T19:35:47Z", "repo": "denoland/deno"}
+{"number": 14752, "title": "suggestion: deno2.0 killer combo, graph all", "createdAt": "2022-05-29T00:35:03Z", "repo": "denoland/deno"}
+{"number": 14755, "title": "Programmatically compile: how to substitute Deno.emit?", "createdAt": "2022-05-29T12:04:01Z", "repo": "denoland/deno"}
+{"number": 14803, "title": "Is it safe to store secrets in op_state?", "createdAt": "2022-05-31T19:14:09Z", "repo": "denoland/deno"}
+{"number": 14767, "title": "I can't seem to upgrade deno on macOS 10.14.6 via brew", "createdAt": "2022-06-01T12:05:38Z", "repo": "denoland/deno"}
+{"number": 14770, "title": "denoland organization .github health files and profile", "createdAt": "2022-06-01T14:34:43Z", "repo": "denoland/deno"}
+{"number": 14790, "title": "How can I develop a proxy server with Deno or nodejs?", "createdAt": "2022-06-03T04:13:00Z", "repo": "denoland/deno"}
+{"number": 14833, "title": "deno for nodejs dev", "createdAt": "2022-06-09T17:40:52Z", "repo": "denoland/deno"}
+{"number": 14839, "title": "Idiomatic injection of modules into deno_runtime/deno_core", "createdAt": "2022-06-10T16:20:00Z", "repo": "denoland/deno"}
+{"number": 14851, "title": "How to disable HTTP/2 in `fetch`?", "createdAt": "2022-06-11T18:53:52Z", "repo": "denoland/deno"}
+{"number": 14871, "title": "Does compiling my commandline app to an executable make my code private?", "createdAt": "2022-06-15T12:40:02Z", "repo": "denoland/deno"}
+{"number": 14881, "title": "Is it possible to write a nameserver with Deno?", "createdAt": "2022-06-16T02:13:26Z", "repo": "denoland/deno"}
+{"number": 14902, "title": "How to add types file for javascript lib", "createdAt": "2022-06-18T03:04:57Z", "repo": "denoland/deno"}
+{"number": 14906, "title": "AST and code generation using current TypeScript version", "createdAt": "2022-06-18T12:35:15Z", "repo": "denoland/deno"}
+{"number": 14912, "title": "File changes watching only on specified files", "createdAt": "2022-06-19T18:28:15Z", "repo": "denoland/deno"}
+{"number": 14926, "title": "How to serve deno binary from deno compile ?", "createdAt": "2022-06-21T07:34:02Z", "repo": "denoland/deno"}
+{"number": 14941, "title": "Suggestion: move the `--doc` option to the `deno check` command", "createdAt": "2022-06-22T18:08:00Z", "repo": "denoland/deno"}
+{"number": 14950, "title": "How to create a Deno module from a public GitHub repository?", "createdAt": "2022-06-23T17:12:12Z", "repo": "denoland/deno"}
+{"number": 14962, "title": "bundle js for browser using deno", "createdAt": "2022-06-25T20:58:19Z", "repo": "denoland/deno"}
+{"number": 14984, "title": "Per-file permission system", "createdAt": "2022-06-27T23:11:01Z", "repo": "denoland/deno"}
+{"number": 14999, "title": "`Deno.test` could be a function which is imported", "createdAt": "2022-06-28T23:28:00Z", "repo": "denoland/deno"}
+{"number": 15001, "title": "why npm is not support for deno?", "createdAt": "2022-06-29T03:42:00Z", "repo": "denoland/deno"}
+{"number": 15039, "title": "Upgrade simple HTTP server to run multi-threaded - Errors", "createdAt": "2022-07-02T09:43:41Z", "repo": "denoland/deno"}
+{"number": 15040, "title": "ReferenceError: XMLHttpRequest is not defined", "createdAt": "2022-07-02T11:52:16Z", "repo": "denoland/deno"}
+{"number": 15049, "title": "websocket onMessage data type", "createdAt": "2022-07-03T05:28:45Z", "repo": "denoland/deno"}
+{"number": 15052, "title": "@solana/spl-token is missing in Deno", "createdAt": "2022-07-03T11:33:57Z", "repo": "denoland/deno"}
+{"number": 15101, "title": "Is deno ecosystem production ready now?", "createdAt": "2022-07-03T17:42:14Z", "repo": "denoland/deno"}
+{"number": 15078, "title": "Suggestion: Name the OS-interacting functions semantically, instead of after the POSIX syscall names", "createdAt": "2022-07-05T07:50:38Z", "repo": "denoland/deno"}
+{"number": 15104, "title": "Suggestion: Import Files Using Command Line Arguments", "createdAt": "2022-07-06T13:40:06Z", "repo": "denoland/deno"}
+{"number": 15106, "title": "Problem Using NPM Libary monero-javascript", "createdAt": "2022-07-06T15:48:14Z", "repo": "denoland/deno"}
+{"number": 15109, "title": "Placeholders in links in import_map", "createdAt": "2022-07-06T16:35:45Z", "repo": "denoland/deno"}
+{"number": 15115, "title": "What to check into version control from deno cache?", "createdAt": "2022-07-07T08:57:39Z", "repo": "denoland/deno"}
+{"number": 15121, "title": "Why is Deno that slow?", "createdAt": "2022-07-08T09:40:01Z", "repo": "denoland/deno"}
+{"number": 15167, "title": "I want to ask, Is didn't update for deno Doc?", "createdAt": "2022-07-12T15:50:29Z", "repo": "denoland/deno"}
+{"number": 15182, "title": "How to mock auto inputs to test `prompt` function", "createdAt": "2022-07-13T02:43:50Z", "repo": "denoland/deno"}
+{"number": 15205, "title": "What does this Deno Worker error means?", "createdAt": "2022-07-14T15:16:09Z", "repo": "denoland/deno"}
+{"number": 15243, "title": "Fetch Proxy per request", "createdAt": "2022-07-19T05:07:05Z", "repo": "denoland/deno"}
+{"number": 15244, "title": "Cfg for Deno", "createdAt": "2022-07-19T10:53:19Z", "repo": "denoland/deno"}
+{"number": 15280, "title": "deno fmt is checking hundreds of files when I only have 5 modules in my project", "createdAt": "2022-07-22T16:01:56Z", "repo": "denoland/deno"}
+{"number": 15303, "title": "Problem to sing-up", "createdAt": "2022-07-25T02:24:48Z", "repo": "denoland/deno"}
+{"number": 15383, "title": "GLIBC not found", "createdAt": "2022-07-25T03:00:50Z", "repo": "denoland/deno"}
+{"number": 15321, "title": "Support of Temporal", "createdAt": "2022-07-27T06:47:14Z", "repo": "denoland/deno"}
+{"number": 15355, "title": "What is the equivalent of .npmignore in deno?", "createdAt": "2022-07-30T19:17:52Z", "repo": "denoland/deno"}
+{"number": 15356, "title": "HowTO test that a module is *no-panic* and *no-prompt* when statically imported?", "createdAt": "2022-07-31T04:09:50Z", "repo": "denoland/deno"}
+{"number": 15363, "title": "Unix socket bidirectional communication", "createdAt": "2022-07-31T17:53:31Z", "repo": "denoland/deno"}
+{"number": 15378, "title": "call async javascript function from rust", "createdAt": "2022-08-01T18:50:10Z", "repo": "denoland/deno"}
+{"number": 15396, "title": "after upgrade to 1.24.1 repeated unrecognized address error", "createdAt": "2022-08-03T10:50:50Z", "repo": "denoland/deno"}
+{"number": 15415, "title": "Add support for git hooks and commit lint", "createdAt": "2022-08-05T22:27:01Z", "repo": "denoland/deno"}
+{"number": 15421, "title": "Question: Node.js Native Addons", "createdAt": "2022-08-07T11:16:06Z", "repo": "denoland/deno"}
+{"number": 15471, "title": "test tags", "createdAt": "2022-08-14T00:43:30Z", "repo": "denoland/deno"}
+{"number": 15503, "title": "Native Deno front-end bundler?", "createdAt": "2022-08-19T20:54:09Z", "repo": "denoland/deno"}
+{"number": 15526, "title": "Ideas around import_map tooling.", "createdAt": "2022-08-21T16:41:45Z", "repo": "denoland/deno"}
+{"number": 15534, "title": "Type for literal module specifiers", "createdAt": "2022-08-22T10:28:46Z", "repo": "denoland/deno"}
+{"number": 15537, "title": "[mono repo] CLI app entry convention?", "createdAt": "2022-08-22T15:34:18Z", "repo": "denoland/deno"}
+{"number": 15550, "title": "Self-hosting module server", "createdAt": "2022-08-23T04:40:17Z", "repo": "denoland/deno"}
+{"number": 15554, "title": "Why there is few deno frameworks support web worker?", "createdAt": "2022-08-23T08:22:03Z", "repo": "denoland/deno"}
+{"number": 15569, "title": "Way to export all `y` allowed flag options.", "createdAt": "2022-08-24T03:46:46Z", "repo": "denoland/deno"}
+{"number": 15580, "title": "Guidelines on how to author code with less dependencies", "createdAt": "2022-08-24T15:21:28Z", "repo": "denoland/deno"}
+{"number": 15610, "title": "Setting permissions for files", "createdAt": "2022-08-26T02:34:05Z", "repo": "denoland/deno"}
+{"number": 15614, "title": "find the versions of dependencies via the command line", "createdAt": "2022-08-26T06:40:42Z", "repo": "denoland/deno"}
+{"number": 15625, "title": "How can I transfer glob arguments to a deno script in tasks", "createdAt": "2022-08-26T14:18:14Z", "repo": "denoland/deno"}
+{"number": 15628, "title": "Adding events to WebSocketStream", "createdAt": "2022-08-26T17:15:54Z", "repo": "denoland/deno"}
+{"number": 15655, "title": "RISC-V Support", "createdAt": "2022-08-28T13:58:45Z", "repo": "denoland/deno"}
+{"number": 15667, "title": "Uncaught Error: [Package Error] \"http\" does not exist. (Imported by \"@graphql-yoga/node\")", "createdAt": "2022-08-29T11:47:59Z", "repo": "denoland/deno"}
+{"number": 15674, "title": "FFI shared lib imports", "createdAt": "2022-08-29T18:54:54Z", "repo": "denoland/deno"}
+{"number": 15690, "title": "combine handlers for 'std/http/server.ts'", "createdAt": "2022-08-30T15:56:20Z", "repo": "denoland/deno"}
+{"number": 15701, "title": "How make my module read files from its source in another project?", "createdAt": "2022-08-31T04:43:10Z", "repo": "denoland/deno"}
+{"number": 15706, "title": "call npm bin script from Deno", "createdAt": "2022-08-31T15:24:04Z", "repo": "denoland/deno"}
+{"number": 15725, "title": "run multiple tasks in parallel", "createdAt": "2022-09-01T14:27:26Z", "repo": "denoland/deno"}
+{"number": 15733, "title": "Ability to use modules via git repo?", "createdAt": "2022-09-01T20:53:53Z", "repo": "denoland/deno"}
+{"number": 15736, "title": "Static analysis on module source code?", "createdAt": "2022-09-02T03:00:44Z", "repo": "denoland/deno"}
+{"number": 15737, "title": "Messaging queue module running on deno deploy?", "createdAt": "2022-09-02T03:15:53Z", "repo": "denoland/deno"}
+{"number": 15752, "title": "New deno mirror on npmjs.org?", "createdAt": "2022-09-03T06:40:12Z", "repo": "denoland/deno"}
+{"number": 15802, "title": "create non-blocking subprocess", "createdAt": "2022-09-07T12:36:50Z", "repo": "denoland/deno"}
+{"number": 15810, "title": "Is there a Deno equivalent of the `libnode` endeavor? (C interface for cdylib builds)", "createdAt": "2022-09-07T19:57:42Z", "repo": "denoland/deno"}
+{"number": 15815, "title": "`spawn()` vs. `spawnChild().output()`", "createdAt": "2022-09-08T13:52:05Z", "repo": "denoland/deno"}
+{"number": 15842, "title": "Would Deno consider supporting custom registry for npm: specifiers?", "createdAt": "2022-09-10T04:39:37Z", "repo": "denoland/deno"}
+{"number": 15872, "title": "How to read an int from stdin?", "createdAt": "2022-09-12T12:03:40Z", "repo": "denoland/deno"}
+{"number": 15875, "title": "How does the `compile` feature work under the hood?", "createdAt": "2022-09-12T15:07:04Z", "repo": "denoland/deno"}
+{"number": 15902, "title": "Does Deno work or is it compatible with redox-os?", "createdAt": "2022-09-14T04:15:58Z", "repo": "denoland/deno"}
+{"number": 15915, "title": "How to add lock file in deno.json?", "createdAt": "2022-09-15T15:11:43Z", "repo": "denoland/deno"}
+{"number": 15950, "title": "Peer dependencies", "createdAt": "2022-09-18T08:46:20Z", "repo": "denoland/deno"}
+{"number": 15958, "title": "Does deno deploy has the client?", "createdAt": "2022-09-19T11:58:03Z", "repo": "denoland/deno"}
+{"number": 15961, "title": "It would be nice if variables could be used in the README.md", "createdAt": "2022-09-19T18:32:09Z", "repo": "denoland/deno"}
+{"number": 15988, "title": "How does CPU time calculated in deno deploy?", "createdAt": "2022-09-22T06:49:29Z", "repo": "denoland/deno"}
+{"number": 16026, "title": "Top-level function arrow syntax", "createdAt": "2022-09-26T11:26:51Z", "repo": "denoland/deno"}
+{"number": 16039, "title": "Deploy question regarding using npm specifiers", "createdAt": "2022-09-26T21:25:39Z", "repo": "denoland/deno"}
+{"number": 16052, "title": "Add flag for filtering env-variables on Deno.env access", "createdAt": "2022-09-27T08:59:33Z", "repo": "denoland/deno"}
+{"number": 16067, "title": "How to fork a readable stream", "createdAt": "2022-09-28T06:43:50Z", "repo": "denoland/deno"}
+{"number": 16134, "title": "Automatic Body Compression", "createdAt": "2022-10-02T23:59:20Z", "repo": "denoland/deno"}
+{"number": 16151, "title": "Should deno bundle default to bundle everything?", "createdAt": "2022-10-04T09:11:02Z", "repo": "denoland/deno"}
+{"number": 16168, "title": "Proxyquire or Import Stubbing?", "createdAt": "2022-10-05T20:50:12Z", "repo": "denoland/deno"}
+{"number": 16181, "title": "error 10013", "createdAt": "2022-10-06T15:52:47Z", "repo": "denoland/deno"}
+{"number": 16192, "title": "Library Imports", "createdAt": "2022-10-07T09:51:20Z", "repo": "denoland/deno"}
+{"number": 16206, "title": "Deno Native Messaging host", "createdAt": "2022-10-08T14:44:37Z", "repo": "denoland/deno"}
+{"number": 16240, "title": "Can't extract tar gz file", "createdAt": "2022-10-10T23:14:33Z", "repo": "denoland/deno"}
+{"number": 16264, "title": "using EventSource server side", "createdAt": "2022-10-13T16:54:10Z", "repo": "denoland/deno"}
+{"number": 16292, "title": "Measure runtime code coverage caused by running Postman/newman tests", "createdAt": "2022-10-15T12:04:06Z", "repo": "denoland/deno"}
+{"number": 16337, "title": "Enhance compile to optimize; build minimal deno executable", "createdAt": "2022-10-17T23:21:15Z", "repo": "denoland/deno"}
+{"number": 16396, "title": "Is there any way of knowing http protocol using fetch?", "createdAt": "2022-10-24T11:08:42Z", "repo": "denoland/deno"}
+{"number": 16400, "title": "Old documentation structure was better", "createdAt": "2022-10-24T14:30:05Z", "repo": "denoland/deno"}
+{"number": 16563, "title": "Invalid promise id with async code and deno_core", "createdAt": "2022-11-08T00:53:33Z", "repo": "denoland/deno"}
+{"number": 16601, "title": "import.meta extends, importer and main module meta datas", "createdAt": "2022-11-11T20:58:15Z", "repo": "denoland/deno"}
+{"number": 16605, "title": "canot fetch data from firestore", "createdAt": "2022-11-12T05:50:52Z", "repo": "denoland/deno"}
+{"number": 16614, "title": "Gsoc", "createdAt": "2022-11-13T02:55:30Z", "repo": "denoland/deno"}
+{"number": 16618, "title": "How is it better than PNPM?", "createdAt": "2022-11-13T09:32:05Z", "repo": "denoland/deno"}
+{"number": 16622, "title": "How to check whether Deno.child is still alive", "createdAt": "2022-11-14T04:45:20Z", "repo": "denoland/deno"}
+{"number": 16644, "title": "Behavior of deno.lock and import_map.json in modules for deno.land/x", "createdAt": "2022-11-15T07:59:12Z", "repo": "denoland/deno"}
+{"number": 16698, "title": "can't use npm on firebase 9 with deno", "createdAt": "2022-11-18T06:00:29Z", "repo": "denoland/deno"}
+{"number": 16716, "title": "Resolve entrypoint from import_map.json?", "createdAt": "2022-11-19T19:18:57Z", "repo": "denoland/deno"}
+{"number": 16749, "title": "NPM-module vs. Deno.js library", "createdAt": "2022-11-21T20:48:50Z", "repo": "denoland/deno"}
+{"number": 16751, "title": "implement bufferToString?", "createdAt": "2022-11-21T22:59:24Z", "repo": "denoland/deno"}
+{"number": 16758, "title": "deno vs elixir", "createdAt": "2022-11-22T06:37:03Z", "repo": "denoland/deno"}
+{"number": 16808, "title": "Deno types in `eslint`/`tsc` without VSCode extension?", "createdAt": "2022-11-25T12:22:06Z", "repo": "denoland/deno"}
+{"number": 16902, "title": "How to specify the cryptographic algorithms used in TLS.", "createdAt": "2022-12-02T16:00:57Z", "repo": "denoland/deno"}
+{"number": 16915, "title": "How to use Deno with a different version of TypeScript?", "createdAt": "2022-12-03T14:49:07Z", "repo": "denoland/deno"}
+{"number": 16917, "title": "Documentations for methods and variables in Deno repl", "createdAt": "2022-12-03T17:24:32Z", "repo": "denoland/deno"}
+{"number": 16924, "title": "Permission errors for deno install npm:PACKAGE", "createdAt": "2022-12-04T10:39:37Z", "repo": "denoland/deno"}
+{"number": 16933, "title": "\"Could not check if server accepts SSL connections\" error only when using Promise.all", "createdAt": "2022-12-04T18:23:05Z", "repo": "denoland/deno"}
+{"number": 16962, "title": "Are there mature commercial productions using deno?", "createdAt": "2022-12-06T07:45:23Z", "repo": "denoland/deno"}
+{"number": 16971, "title": "Deno URL imports in VITE frontend code (not just vite.config.mjs)", "createdAt": "2022-12-06T20:10:23Z", "repo": "denoland/deno"}
+{"number": 16981, "title": "Sudden integration failure for npm Prisma and Deno project", "createdAt": "2022-12-07T18:55:05Z", "repo": "denoland/deno"}
+{"number": 16991, "title": "Is Deno relatively unsuccessful, failing to gain traction?", "createdAt": "2022-12-08T16:17:04Z", "repo": "denoland/deno"}
+{"number": 17004, "title": "How to import a path with npm specifiers?", "createdAt": "2022-12-10T13:31:24Z", "repo": "denoland/deno"}
+{"number": 17007, "title": "Getting error while calculating chunks size and summing up it to bytes and checkin its size", "createdAt": "2022-12-10T15:21:15Z", "repo": "denoland/deno"}
+{"number": 17024, "title": "Reading large text file", "createdAt": "2022-12-12T16:47:44Z", "repo": "denoland/deno"}
+{"number": 17026, "title": "How to `fetch()` a file to specific directory?", "createdAt": "2022-12-12T18:57:58Z", "repo": "denoland/deno"}
+{"number": 17036, "title": "I would like to read more the `deno install` logs, is there a way to do this?", "createdAt": "2022-12-13T14:49:33Z", "repo": "denoland/deno"}
+{"number": 17062, "title": "Configurable resources limition (such as execution time, memory usage, etc)", "createdAt": "2022-12-15T13:43:06Z", "repo": "denoland/deno"}
+{"number": 17102, "title": "[readable/writable]StreamFrom[Reader/Writer] vs FsFile.[readable/writable]", "createdAt": "2022-12-17T15:10:44Z", "repo": "denoland/deno"}
+{"number": 17114, "title": "googleapis.deno.dev bug", "createdAt": "2022-12-18T12:23:46Z", "repo": "denoland/deno"}
+{"number": 17138, "title": "What are module attributes, and how do they work when running in Deno?", "createdAt": "2022-12-20T04:09:13Z", "repo": "denoland/deno"}
+{"number": 17182, "title": "Native Messaging => Deno local server => espeak-ng => MediaStreamTrack in browser", "createdAt": "2022-12-24T22:53:57Z", "repo": "denoland/deno"}
+{"number": 17184, "title": "seek help!!! hide the console", "createdAt": "2022-12-25T11:35:12Z", "repo": "denoland/deno"}
+{"number": 17206, "title": "HTML/XSS Sanitizer?", "createdAt": "2022-12-28T07:37:12Z", "repo": "denoland/deno"}
+{"number": 17233, "title": "Get username,password or hash from req.url", "createdAt": "2022-12-31T09:02:58Z", "repo": "denoland/deno"}
+{"number": 17236, "title": "V8 memory leak?", "createdAt": "2022-12-31T23:42:10Z", "repo": "denoland/deno"}
+{"number": 17238, "title": "Why is deno allocating 5.5GB of memory?", "createdAt": "2023-01-01T22:21:02Z", "repo": "denoland/deno"}
+{"number": 17258, "title": "`Deno.symlink` uses very broad permissions", "createdAt": "2023-01-03T23:02:37Z", "repo": "denoland/deno"}
+{"number": 17308, "title": "Proposal to add runtime APIs: `Deno.connectGrpc` and `Deno.listenGrpc`", "createdAt": "2023-01-08T15:10:30Z", "repo": "denoland/deno"}
+{"number": 17331, "title": "How do I run `npm:` packages locally during development?", "createdAt": "2023-01-10T07:16:19Z", "repo": "denoland/deno"}
+{"number": 17345, "title": "How to call deno in rust?", "createdAt": "2023-01-11T08:15:02Z", "repo": "denoland/deno"}
+{"number": 17437, "title": "Cannot send `Request` to web worker", "createdAt": "2023-01-15T13:54:02Z", "repo": "denoland/deno"}
+{"number": 17445, "title": "Support for formatting css files using `deno fmt`", "createdAt": "2023-01-16T14:28:07Z", "repo": "denoland/deno"}
+{"number": 17486, "title": "Deno.js Site UX: Add a download link to Deno.js binaries", "createdAt": "2023-01-21T10:18:52Z", "repo": "denoland/deno"}
+{"number": 17570, "title": "Import error: could not find npm package 'constants' referenced by 'iso-constants@0.1.2'", "createdAt": "2023-01-28T14:49:23Z", "repo": "denoland/deno"}
+{"number": 17606, "title": "How can I configure deno to use a socks5 proxy?", "createdAt": "2023-01-31T22:47:46Z", "repo": "denoland/deno"}
+{"number": 17608, "title": "As a library author, how do I debug npm packages in deno?", "createdAt": "2023-02-01T02:58:05Z", "repo": "denoland/deno"}
+{"number": 17621, "title": "How to dim semicolons in editor or IDE", "createdAt": "2023-02-02T05:35:01Z", "repo": "denoland/deno"}
+{"number": 17684, "title": "Generate Secure Random Secret or Token", "createdAt": "2023-02-07T19:39:31Z", "repo": "denoland/deno"}
+{"number": 17688, "title": "denoflare -WebAssembly/Wasm -Module-based workers. how can i solve this?", "createdAt": "2023-02-08T01:05:51Z", "repo": "denoland/deno"}
+{"number": 17702, "title": "Error: 'import', and 'export' cannot be used outside of module code at ...", "createdAt": "2023-02-09T13:51:14Z", "repo": "denoland/deno"}
+{"number": 17750, "title": "Which Build System can be used with Deno (Nx?, Turborepo?, Bazel?, etc?)", "createdAt": "2023-02-12T17:15:27Z", "repo": "denoland/deno"}
+{"number": 17797, "title": "How to make import maps work in a monorepo setting?", "createdAt": "2023-02-16T10:08:43Z", "repo": "denoland/deno"}
+{"number": 17808, "title": "Easier debuggability for pending promises after a test has finished", "createdAt": "2023-02-17T12:03:27Z", "repo": "denoland/deno"}
+{"number": 17837, "title": "Loading the default export from a JS module?", "createdAt": "2023-02-21T05:55:50Z", "repo": "denoland/deno"}
+{"number": 17898, "title": "How to redirect cconsole.log's output to a file", "createdAt": "2023-02-23T13:34:38Z", "repo": "denoland/deno"}
+{"number": 17922, "title": "How to resolve relative path after deno compile?", "createdAt": "2023-02-24T17:33:28Z", "repo": "denoland/deno"}
+{"number": 17964, "title": "package.json: conditional exports: deno export", "createdAt": "2023-02-26T21:41:32Z", "repo": "denoland/deno"}
+{"number": 18042, "title": "Proposal: WebView API", "createdAt": "2023-03-05T23:44:26Z", "repo": "denoland/deno"}
+{"number": 18081, "title": "Deno run like a service", "createdAt": "2023-03-09T00:03:38Z", "repo": "denoland/deno"}
+{"number": 18143, "title": "Microservices with Deno as a Monorepo", "createdAt": "2023-03-12T04:41:15Z", "repo": "denoland/deno"}
+{"number": 18144, "title": "Consider official Deno devcontainer feature", "createdAt": "2023-03-12T04:44:31Z", "repo": "denoland/deno"}
+{"number": 18201, "title": "Still not being possible to use Deno.readTextFileSync on deno deploy", "createdAt": "2023-03-15T02:42:54Z", "repo": "denoland/deno"}
+{"number": 18292, "title": "Deno task files", "createdAt": "2023-03-20T17:43:05Z", "repo": "denoland/deno"}
+{"number": 18293, "title": "Importing a `js` file could fall back to `ts` file in a `ts` file", "createdAt": "2023-03-20T17:56:38Z", "repo": "denoland/deno"}
+{"number": 18393, "title": "How to intercept console.logs from jsRuntime instance?", "createdAt": "2023-03-23T17:58:02Z", "repo": "denoland/deno"}
+{"number": 18407, "title": "not use Path Based Imports", "createdAt": "2023-03-24T05:53:11Z", "repo": "denoland/deno"}
+{"number": 18476, "title": "How to load a .node file (Node-API module)?", "createdAt": "2023-03-28T11:31:51Z", "repo": "denoland/deno"}
+{"number": 18488, "title": "How do I uninstall deno from my system?", "createdAt": "2023-03-29T11:22:40Z", "repo": "denoland/deno"}
+{"number": 18575, "title": "How to set babel config options for internal jsx compiler (throwIfNamespace)", "createdAt": "2023-04-03T13:34:57Z", "repo": "denoland/deno"}
+{"number": 18576, "title": "Proposal: Deno super strict mode", "createdAt": "2023-04-03T13:54:59Z", "repo": "denoland/deno"}
+{"number": 18591, "title": "What's the alternative to Deno.core.ops when embedding deno-runtime?", "createdAt": "2023-04-04T14:14:16Z", "repo": "denoland/deno"}
+{"number": 18621, "title": "Create Deno test crate", "createdAt": "2023-04-06T23:47:16Z", "repo": "denoland/deno"}
+{"number": 18628, "title": "How do I import modules from github if they are using `require` internally?", "createdAt": "2023-04-07T11:52:15Z", "repo": "denoland/deno"}
+{"number": 18654, "title": "Binary Bundling / V8 IR / AST repr?", "createdAt": "2023-04-11T05:36:10Z", "repo": "denoland/deno"}
+{"number": 18728, "title": "Misleading recommendation for permissions when using compiled binary", "createdAt": "2023-04-16T20:08:46Z", "repo": "denoland/deno"}
+{"number": 18771, "title": "Will CVE-2023-2033 affect Chrome only, or all V8 based JS engines?", "createdAt": "2023-04-19T12:30:38Z", "repo": "denoland/deno"}
+{"number": 18798, "title": "Option-B for deno compile: is it being worked on?", "createdAt": "2023-04-22T00:58:20Z", "repo": "denoland/deno"}
+{"number": 18809, "title": "Is there a good way to mock the fetch function?", "createdAt": "2023-04-23T13:35:02Z", "repo": "denoland/deno"}
+{"number": 18837, "title": "importing js module from cli", "createdAt": "2023-04-25T12:34:39Z", "repo": "denoland/deno"}
+{"number": 18925, "title": "Cleaning up Web Cache API", "createdAt": "2023-04-30T00:14:34Z", "repo": "denoland/deno"}
+{"number": 18930, "title": "Is changing location & cwd with workers possible?", "createdAt": "2023-04-30T18:10:27Z", "repo": "denoland/deno"}
+{"number": 18969, "title": "node-sqlite-wasm not working with Deno", "createdAt": "2023-05-03T08:36:26Z", "repo": "denoland/deno"}
+{"number": 18975, "title": "Deno KV: consider using LMDB instead of SQLite for local", "createdAt": "2023-05-03T15:35:08Z", "repo": "denoland/deno"}
+{"number": 19026, "title": "KV: partial mutation for object", "createdAt": "2023-05-07T12:51:14Z", "repo": "denoland/deno"}
+{"number": 19027, "title": "Simplified unit/integration testing - mocking imports and global variables", "createdAt": "2023-05-07T12:53:59Z", "repo": "denoland/deno"}
+{"number": 19068, "title": "Screen Capture API", "createdAt": "2023-05-10T07:12:28Z", "repo": "denoland/deno"}
+{"number": 19117, "title": "`deno run downloadedscript.js --allow-net=thirdpartysite.com` not very safe", "createdAt": "2023-05-13T01:39:08Z", "repo": "denoland/deno"}
+{"number": 19218, "title": "Deno deploy compatibility linter", "createdAt": "2023-05-22T18:58:50Z", "repo": "denoland/deno"}
+{"number": 19224, "title": "Uploding files through deno causing content length error", "createdAt": "2023-05-23T12:23:47Z", "repo": "denoland/deno"}
+{"number": 19231, "title": "How to pass JavaScript functions from V8 to Rust?", "createdAt": "2023-05-23T19:52:41Z", "repo": "denoland/deno"}
+{"number": 19232, "title": "Deno_Core: injecting a v8 variable into the runtime", "createdAt": "2023-05-23T20:19:39Z", "repo": "denoland/deno"}
+{"number": 19273, "title": "no deno.zip file", "createdAt": "2023-05-26T07:53:47Z", "repo": "denoland/deno"}
+{"number": 19342, "title": "First-class support for full-stack web development", "createdAt": "2023-06-01T08:28:43Z", "repo": "denoland/deno"}
+{"number": 19432, "title": "Using Deno in Production", "createdAt": "2023-06-05T05:12:02Z", "repo": "denoland/deno"}
+{"number": 19368, "title": "is Deno ready for Production", "createdAt": "2023-06-05T05:45:14Z", "repo": "denoland/deno"}
+{"number": 19460, "title": "Deno KV - support data structures", "createdAt": "2023-06-10T22:24:23Z", "repo": "denoland/deno"}
+{"number": 19488, "title": "What should we use instead of `process.nextTick` and `setImmediate?`", "createdAt": "2023-06-13T20:39:46Z", "repo": "denoland/deno"}
+{"number": 19543, "title": "A new way to managing dependencies", "createdAt": "2023-06-17T15:13:09Z", "repo": "denoland/deno"}
+{"number": 19559, "title": "What concerns need to be addressed to make async import a first class citizen in Denoland?", "createdAt": "2023-06-20T15:23:08Z", "repo": "denoland/deno"}
+{"number": 19565, "title": "PoC Reveals Incompatibility about Vitest. Should I Raise an Issue on Vitest or Deno Repository?", "createdAt": "2023-06-21T13:55:27Z", "repo": "denoland/deno"}
+{"number": 19594, "title": "Integrated Second/Third Party Polyfill Instalation", "createdAt": "2023-06-23T13:45:35Z", "repo": "denoland/deno"}
+{"number": 19702, "title": "Where does deno.land host its assets, websites, apis, etc.?", "createdAt": "2023-07-04T00:48:29Z", "repo": "denoland/deno"}
+{"number": 19710, "title": "Changes made to config.toml to have cargo build from source on M2", "createdAt": "2023-07-04T05:28:57Z", "repo": "denoland/deno"}
+{"number": 19727, "title": "make the migration experience from nodejs easier", "createdAt": "2023-07-06T00:10:05Z", "repo": "denoland/deno"}
+{"number": 19751, "title": "Give deno info a typescript api", "createdAt": "2023-07-07T02:54:47Z", "repo": "denoland/deno"}
+{"number": 19757, "title": "Deno tcp socket usage and example", "createdAt": "2023-07-07T11:33:20Z", "repo": "denoland/deno"}
+{"number": 19809, "title": "size of undefined in bytes", "createdAt": "2023-07-12T14:09:37Z", "repo": "denoland/deno"}
+{"number": 19873, "title": "How to run the cache web api", "createdAt": "2023-07-19T05:10:25Z", "repo": "denoland/deno"}
+{"number": 19938, "title": "Add URL permission for http requests", "createdAt": "2023-07-25T15:15:05Z", "repo": "denoland/deno"}
+{"number": 19949, "title": "Best way to capture v8::Value types through the FFI?", "createdAt": "2023-07-26T14:42:13Z", "repo": "denoland/deno"}
+{"number": 19965, "title": "HashMap", "createdAt": "2023-07-27T19:58:52Z", "repo": "denoland/deno"}
+{"number": 19984, "title": "How to send HTTP2 Push?", "createdAt": "2023-07-30T18:30:11Z", "repo": "denoland/deno"}
+{"number": 19985, "title": "Security Focus - HackerOne / bug triage campaign", "createdAt": "2023-07-30T20:20:31Z", "repo": "denoland/deno"}
+{"number": 20064, "title": "Custom environment variables for worker thread.", "createdAt": "2023-08-04T19:58:19Z", "repo": "denoland/deno"}
+{"number": 20151, "title": "How would I implement a virtual filesystem in Deno?", "createdAt": "2023-08-14T14:33:03Z", "repo": "denoland/deno"}
+{"number": 20164, "title": "deno is good", "createdAt": "2023-08-15T15:05:09Z", "repo": "denoland/deno"}
+{"number": 20166, "title": "Deno's fetch implementation is insecure by default (`fetch(\"file:///app/.env\")`)", "createdAt": "2023-08-15T17:26:33Z", "repo": "denoland/deno"}
+{"number": 20177, "title": "What is the best way to build an Backend in Deno?", "createdAt": "2023-08-16T13:10:48Z", "repo": "denoland/deno"}
+{"number": 20199, "title": "Support Import map placeholders for monorepo modules", "createdAt": "2023-08-17T22:59:58Z", "repo": "denoland/deno"}
+{"number": 20249, "title": "Could Deno benefit from enabling verbatimModuleSyntax by default", "createdAt": "2023-08-23T10:07:15Z", "repo": "denoland/deno"}
+{"number": 20721, "title": "Inquiry/Suggestion concerning ext/kv atomic() and .get()", "createdAt": "2023-09-05T08:04:45Z", "repo": "denoland/deno"}
+{"number": 20429, "title": "Deno team and their take on Bun", "createdAt": "2023-09-09T08:08:20Z", "repo": "denoland/deno"}
+{"number": 20722, "title": "Deno panicked while trying to install the DeptNews Quarto template", "createdAt": "2023-09-09T11:10:01Z", "repo": "denoland/deno"}
+{"number": 20468, "title": "Fake filesystem, environment variables, and system info", "createdAt": "2023-09-12T01:16:40Z", "repo": "denoland/deno"}
+{"number": 20490, "title": "Will or not Chromium + Deno hybrid project?", "createdAt": "2023-09-14T07:01:41Z", "repo": "denoland/deno"}
+{"number": 20511, "title": "Feature request: Deno + SvelteKit + Tauri project", "createdAt": "2023-09-15T09:09:56Z", "repo": "denoland/deno"}
+{"number": 20551, "title": "The Compiled exe gets undeletable", "createdAt": "2023-09-16T20:04:00Z", "repo": "denoland/deno"}
+{"number": 20580, "title": "How to view Deno KV data locally?", "createdAt": "2023-09-20T06:43:12Z", "repo": "denoland/deno"}
+{"number": 20581, "title": "How to view Deno KV data in production?", "createdAt": "2023-09-20T06:47:21Z", "repo": "denoland/deno"}
+{"number": 20598, "title": "Detecting premature connection close by client with `Deno.serve`", "createdAt": "2023-09-21T04:26:26Z", "repo": "denoland/deno"}
+{"number": 20734, "title": "is it possible to be able to be compatible with commonjs?", "createdAt": "2023-09-28T23:26:31Z", "repo": "denoland/deno"}
+{"number": 20921, "title": "Workspace for Deno, Bun, and NPM projects", "createdAt": "2023-10-16T22:51:53Z", "repo": "denoland/deno"}
+{"number": 20943, "title": "...", "createdAt": "2023-10-19T12:21:16Z", "repo": "denoland/deno"}
+{"number": 20957, "title": "Integrating JsRuntime properly with Axum", "createdAt": "2023-10-22T19:48:51Z", "repo": "denoland/deno"}
+{"number": 20983, "title": "Is deno mutli threaded from TS/JS point of view", "createdAt": "2023-10-26T06:35:52Z", "repo": "denoland/deno"}
+{"number": 21100, "title": "What is a good way to add files to watch for Deno.watchFs?", "createdAt": "2023-11-06T16:18:12Z", "repo": "denoland/deno"}
+{"number": 21119, "title": "Syntax highlighting for `deno.lock` files on GitHub", "createdAt": "2023-11-08T17:43:11Z", "repo": "denoland/deno"}
+{"number": 21150, "title": "How to detect what is module is using an implicit import?", "createdAt": "2023-11-10T16:06:08Z", "repo": "denoland/deno"}
+{"number": 21174, "title": "Install `deno` via `cargo install` failed on macOS aarch64", "createdAt": "2023-11-13T06:56:26Z", "repo": "denoland/deno"}
+{"number": 21203, "title": "ESM Import File extension substitution", "createdAt": "2023-11-14T11:40:03Z", "repo": "denoland/deno"}
+{"number": 21200, "title": "How to set babel config options for internal jsx compiler?", "createdAt": "2023-11-14T12:48:54Z", "repo": "denoland/deno"}
+{"number": 21237, "title": "Solution similar to `\"compilerOptions\": { \"types\": [\"bun-types\"] }` for Deno for Node+Deno projects?", "createdAt": "2023-11-17T09:04:16Z", "repo": "denoland/deno"}
+{"number": 21418, "title": "Pass folder name in Deno through cli gives errors", "createdAt": "2023-12-01T10:09:27Z", "repo": "denoland/deno"}
+{"number": 21486, "title": "Publishing module with already-made tag", "createdAt": "2023-12-07T09:02:36Z", "repo": "denoland/deno"}
+{"number": 21517, "title": "How can I work with N-API interface directly? How to build Deno from source-code to get the N-API bindings like `libnode` does for NodeJS?", "createdAt": "2023-12-08T18:03:08Z", "repo": "denoland/deno"}
+{"number": 21524, "title": "Embedding deno in rust", "createdAt": "2023-12-10T09:31:23Z", "repo": "denoland/deno"}
+{"number": 21618, "title": "Support for password hashing", "createdAt": "2023-12-17T15:00:53Z", "repo": "denoland/deno"}
+{"number": 21729, "title": "Any way to write a hierarchical browser for Deno KV?", "createdAt": "2023-12-29T03:27:16Z", "repo": "denoland/deno"}
+{"number": 21744, "title": "Getting VS Code to allow unstable API's (KV in particular.)", "createdAt": "2023-12-30T23:14:31Z", "repo": "denoland/deno"}
+{"number": 21800, "title": "Error extracting video metadata for file \"E:\\$$ Tuts\\This is the end\\9. Yeah Right.mp4\": The filename, directory name, or volume label syntax is incorrect. (os error 123)", "createdAt": "2024-01-05T10:11:14Z", "repo": "denoland/deno"}
+{"number": 21818, "title": "How to implement Promise chains/Streams?", "createdAt": "2024-01-05T23:42:57Z", "repo": "denoland/deno"}
+{"number": 21834, "title": "Deno deploy ISOLATE_INTERNAL_FAILURE", "createdAt": "2024-01-07T02:03:46Z", "repo": "denoland/deno"}
+{"number": 21867, "title": "When are we gonna get Datagram stabilized?", "createdAt": "2024-01-09T12:42:17Z", "repo": "denoland/deno"}
+{"number": 21934, "title": "How to make plugins for deno fmt", "createdAt": "2024-01-14T14:30:11Z", "repo": "denoland/deno"}
+{"number": 21968, "title": "How to use Deno as a Rust crate but with the complete Node & Deno standard library, module resolution, commonjs support, etc?", "createdAt": "2024-01-17T11:48:09Z", "repo": "denoland/deno"}
+{"number": 21973, "title": "How to run deno in an airgapped environment? Can I package deno applications to be self contained and not require internet access?", "createdAt": "2024-01-17T20:03:40Z", "repo": "denoland/deno"}
+{"number": 22003, "title": "Do Deno Cloud services use AWS or its own hardware infrastructure?", "createdAt": "2024-01-19T21:56:17Z", "repo": "denoland/deno"}
+{"number": 22009, "title": "Deno KV Sort", "createdAt": "2024-01-20T14:28:39Z", "repo": "denoland/deno"}
+{"number": 22013, "title": "Pre-built binaries in releases are quarantined by Windows anti-virus as a Trojan", "createdAt": "2024-01-21T03:50:05Z", "repo": "denoland/deno"}
+{"number": 22184, "title": "Should I be able to pass a Deno fetch response into Node Readable.fromWeb() ?", "createdAt": "2024-01-30T09:36:23Z", "repo": "denoland/deno"}
+{"number": 22191, "title": "`deno run --vendor --no-remote` does not work", "createdAt": "2024-01-30T15:46:44Z", "repo": "denoland/deno"}
+{"number": 22202, "title": "Codemod to migrate from Deno.run to Deno.Command?", "createdAt": "2024-01-31T12:39:41Z", "repo": "denoland/deno"}
+{"number": 22241, "title": "How can errors from JavaScript/Typescript bubble up to Rust to gracefully fail?", "createdAt": "2024-02-02T20:35:14Z", "repo": "denoland/deno"}
+{"number": 22252, "title": "Does Deno consider replacing `SWC` with `OXC`", "createdAt": "2024-02-04T01:14:13Z", "repo": "denoland/deno"}
+{"number": 22321, "title": "Is it possible to catch a heap limit reached exception?", "createdAt": "2024-02-07T11:13:50Z", "repo": "denoland/deno"}
+{"number": 22401, "title": "DNS with Deno Deploy?", "createdAt": "2024-02-13T04:01:07Z", "repo": "denoland/deno"}
+{"number": 22447, "title": "Does `expandGlob` work with partial directory names?", "createdAt": "2024-02-17T03:14:54Z", "repo": "denoland/deno"}
+{"number": 22460, "title": "How do I specify the peer dependency version of an npm package?", "createdAt": "2024-02-18T06:15:42Z", "repo": "denoland/deno"}
+{"number": 22467, "title": "Interactive plot in Jupyter notebook with Deno kernel", "createdAt": "2024-02-18T21:11:11Z", "repo": "denoland/deno"}
+{"number": 22526, "title": "Anyway to receive mails using IMAP in deno.", "createdAt": "2024-02-22T07:05:47Z", "repo": "denoland/deno"}
+{"number": 22601, "title": "How to support extend types in syntax `declare module 'xx'`", "createdAt": "2024-02-27T01:40:03Z", "repo": "denoland/deno"}
+{"number": 22619, "title": "error: Permission denied (os error 13)", "createdAt": "2024-02-28T10:49:25Z", "repo": "denoland/deno"}
+{"number": 22685, "title": "Cross compilation does not work", "createdAt": "2024-03-04T00:50:28Z", "repo": "denoland/deno"}
+{"number": 22779, "title": "Import modules from decentralized networks", "createdAt": "2024-03-07T18:11:10Z", "repo": "denoland/deno"}
+{"number": 22788, "title": "Rust: Unable to bootstrap MainWorker", "createdAt": "2024-03-08T01:54:56Z", "repo": "denoland/deno"}
+{"number": 22880, "title": "How to use npm:vscode-languageserver/node in deno", "createdAt": "2024-03-13T02:24:29Z", "repo": "denoland/deno"}
+{"number": 22903, "title": "Status of fig completions?", "createdAt": "2024-03-13T19:11:52Z", "repo": "denoland/deno"}
+{"number": 22990, "title": "How to get acces to `import.meta.url` info or similar in rust ops", "createdAt": "2024-03-19T18:38:05Z", "repo": "denoland/deno"}
+{"number": 23031, "title": "Access Deno internals to send WebSocket ping message", "createdAt": "2024-03-22T16:35:18Z", "repo": "denoland/deno"}
+{"number": 23165, "title": "Deno --check worker modules best practices", "createdAt": "2024-04-01T15:36:25Z", "repo": "denoland/deno"}
+{"number": 23248, "title": "Rust: ops/extensions within a Worker?", "createdAt": "2024-04-05T23:24:45Z", "repo": "denoland/deno"}
+{"number": 23255, "title": "Error: Cannot find module '../lightningcss.win32-x64-msvc.node'", "createdAt": "2024-04-06T14:46:53Z", "repo": "denoland/deno"}
+{"number": 23256, "title": "Is it possible to run npm programs that run local scripts which require from a local node modules folder?", "createdAt": "2024-04-06T16:07:00Z", "repo": "denoland/deno"}
+{"number": 23265, "title": "What is the state of deno compatibility?", "createdAt": "2024-04-07T13:17:36Z", "repo": "denoland/deno"}
+{"number": 23324, "title": "Is there any reason Http2ServerRequest and Http2ServerResponse in http2.ts not exported as named export?", "createdAt": "2024-04-11T18:27:25Z", "repo": "denoland/deno"}
+{"number": 23403, "title": "Better tools for creating CLI", "createdAt": "2024-04-16T15:15:13Z", "repo": "denoland/deno"}
+{"number": 23408, "title": "How to Make and publish a CLI tool to jsr", "createdAt": "2024-04-16T19:09:15Z", "repo": "denoland/deno"}
+{"number": 23468, "title": "Running nodejs (cjs) libs with node_modules deps using `deno-runtime`", "createdAt": "2024-04-20T03:25:15Z", "repo": "denoland/deno"}
+{"number": 23495, "title": "New way to readLines?", "createdAt": "2024-04-22T20:09:48Z", "repo": "denoland/deno"}
+{"number": 23502, "title": "Deno has already introduced sqlite in the source code, why not open the corresponding interface", "createdAt": "2024-04-23T03:22:30Z", "repo": "denoland/deno"}
+{"number": 23503, "title": "A sdk version manager for deno.", "createdAt": "2024-04-23T07:59:24Z", "repo": "denoland/deno"}
+{"number": 23527, "title": "Would deno focus on desktop environment and rendering to a window?", "createdAt": "2024-04-24T10:51:11Z", "repo": "denoland/deno"}
+{"number": 23588, "title": "How to forcibly destroy a websocket connection?", "createdAt": "2024-04-28T10:04:51Z", "repo": "denoland/deno"}
+{"number": 23696, "title": "What import attribute types are available?", "createdAt": "2024-05-04T19:36:37Z", "repo": "denoland/deno"}
+{"number": 23780, "title": "is it possible to somehow run an ancient cgi script from Deno.serve?", "createdAt": "2024-05-11T22:42:32Z", "repo": "denoland/deno"}
+{"number": 23814, "title": "Removal of comments in version 1.43.3", "createdAt": "2024-05-14T20:19:03Z", "repo": "denoland/deno"}
+{"number": 23886, "title": "Diagnostic-languageserver stopped working in Deno >= 1.43", "createdAt": "2024-05-19T01:54:04Z", "repo": "denoland/deno"}
+{"number": 23900, "title": "Confuse about the way import module on Deno project", "createdAt": "2024-05-20T13:20:20Z", "repo": "denoland/deno"}
+{"number": 24176, "title": "deno cache import map", "createdAt": "2024-06-11T09:21:41Z", "repo": "denoland/deno"}
+{"number": 24189, "title": "how to run an external command synchronously while passing things to it on stdin?  Preferably without await", "createdAt": "2024-06-12T17:46:29Z", "repo": "denoland/deno"}
+{"number": 24254, "title": "why don't package version found with npm: specifier match the version on npm site?", "createdAt": "2024-06-18T23:27:10Z", "repo": "denoland/deno"}
+{"number": 24258, "title": "better-sqlite3 works under node20 but gives error under deno", "createdAt": "2024-06-19T05:33:53Z", "repo": "denoland/deno"}
+{"number": 24312, "title": "Evaluate using Profile-Guided Optimization (PGO) for Deno", "createdAt": "2024-06-22T12:44:44Z", "repo": "denoland/deno"}
+{"number": 24343, "title": "Create a javascript object by rust?", "createdAt": "2024-06-26T08:04:33Z", "repo": "denoland/deno"}
+{"number": 24460, "title": "what are people using for auth with deno?  (can't get Lucia to work sadly)", "createdAt": "2024-07-08T07:45:22Z", "repo": "denoland/deno"}
+{"number": 24496, "title": "deno publish --resolve-import-map-specifiers flag", "createdAt": "2024-07-10T05:42:49Z", "repo": "denoland/deno"}
+{"number": 24568, "title": "How to proxy pass RTMP stream in deno deploy?", "createdAt": "2024-07-13T05:53:32Z", "repo": "denoland/deno"}
+{"number": 24569, "title": "Zed Editor LSP issues", "createdAt": "2024-07-13T08:28:19Z", "repo": "denoland/deno"}
+{"number": 24640, "title": "Deno APIs missing in Deno runtime", "createdAt": "2024-07-18T12:17:26Z", "repo": "denoland/deno"}
+{"number": 24657, "title": "Deno behaves differently from browsers when importing modules from redirected URLs", "createdAt": "2024-07-20T16:21:46Z", "repo": "denoland/deno"}
+{"number": 24667, "title": "Debugging a \"Is a directory (os error 21)\" error", "createdAt": "2024-07-22T05:34:00Z", "repo": "denoland/deno"}
+{"number": 24826, "title": "How to upload a file from the client or from postman to the server?", "createdAt": "2024-08-01T08:35:32Z", "repo": "denoland/deno"}
+{"number": 24976, "title": "How to prevent the sorting of imports with fmt?", "createdAt": "2024-08-09T21:48:10Z", "repo": "denoland/deno"}
+{"number": 24977, "title": "Are there plans to support github scheme for imports?", "createdAt": "2024-08-09T22:14:09Z", "repo": "denoland/deno"}
+{"number": 25003, "title": "Web Framework Benchmarks", "createdAt": "2024-08-12T14:52:32Z", "repo": "denoland/deno"}
+{"number": 25058, "title": "How to bundle/publish native libraries within a package?", "createdAt": "2024-08-15T19:47:22Z", "repo": "denoland/deno"}
+{"number": 25105, "title": "AI Codebase Chat + Documentation for Deno", "createdAt": "2024-08-20T05:13:00Z", "repo": "denoland/deno"}
+{"number": 25145, "title": "deno doc --lint complaints about a private type when it's public, but in a different entrypoint", "createdAt": "2024-08-22T05:24:17Z", "repo": "denoland/deno"}
+{"number": 25186, "title": "How to call js function in rust and pass argument to it?", "createdAt": "2024-08-23T15:34:41Z", "repo": "denoland/deno"}
+{"number": 25205, "title": "question: Where is the web cache storage persisted to disk?", "createdAt": "2024-08-25T16:43:04Z", "repo": "denoland/deno"}
+{"number": 25248, "title": "How do I insert the `deno task` argument into the middle of that command?", "createdAt": "2024-08-28T02:23:10Z", "repo": "denoland/deno"}
+{"number": 25302, "title": "Best way to share a bundle across users - in isolated corp env", "createdAt": "2024-08-29T21:28:23Z", "repo": "denoland/deno"}
+{"number": 25320, "title": "Deno deploy custom domain is very complicated...", "createdAt": "2024-08-31T07:38:53Z", "repo": "denoland/deno"}
+{"number": 25372, "title": "How do I report a segmentation fault?", "createdAt": "2024-09-02T20:50:19Z", "repo": "denoland/deno"}
+{"number": 25471, "title": "Weird permission requests", "createdAt": "2024-09-05T15:37:07Z", "repo": "denoland/deno"}
+{"number": 25492, "title": "Type narrowing for two variables", "createdAt": "2024-09-06T14:24:56Z", "repo": "denoland/deno"}
+{"number": 25507, "title": "errno with FFI", "createdAt": "2024-09-08T00:18:15Z", "repo": "denoland/deno"}
+{"number": 25540, "title": "Reason for Older Deno Version on Homebrew", "createdAt": "2024-09-09T19:18:46Z", "repo": "denoland/deno"}
+{"number": 25601, "title": "Detect server restart with --watch ?", "createdAt": "2024-09-12T18:27:54Z", "repo": "denoland/deno"}
+{"number": 25642, "title": "Vite svg `import reactLogo from \"./assets/react.svg\"` has no default", "createdAt": "2024-09-15T10:26:20Z", "repo": "denoland/deno"}
+{"number": 25685, "title": "Does Deno allow AWS to add support for native Deno support to AWS Lambda?", "createdAt": "2024-09-17T13:07:58Z", "repo": "denoland/deno"}
+{"number": 25744, "title": "Am I supposed to be using `deno task` in order to run something something like `npm:create-svelte`?", "createdAt": "2024-09-19T21:34:15Z", "repo": "denoland/deno"}
+{"number": 25796, "title": "How to find out cause of very high '(program)' time in Chrome DevTools Performance profiler?", "createdAt": "2024-09-22T04:25:24Z", "repo": "denoland/deno"}
+{"number": 25799, "title": "Is it possible to embed `deno_core` with a self-managed event loop?", "createdAt": "2024-09-22T07:51:19Z", "repo": "denoland/deno"}
+{"number": 25814, "title": "Convert package-lock.json or yarn.lock to deno.lock", "createdAt": "2024-09-22T23:34:35Z", "repo": "denoland/deno"}
+{"number": 25880, "title": "Evaluate Module vs Run Script?", "createdAt": "2024-09-26T03:54:40Z", "repo": "denoland/deno"}
+{"number": 25882, "title": "OffscreenCanvas with WebGPU", "createdAt": "2024-09-26T06:26:36Z", "repo": "denoland/deno"}
+{"number": 25883, "title": "Run Task of Project in Workspace?!", "createdAt": "2024-09-26T07:03:03Z", "repo": "denoland/deno"}
+{"number": 25930, "title": "How does `deno_core` get notified when there is a new task in `queueMicroktask`?", "createdAt": "2024-09-29T06:59:16Z", "repo": "denoland/deno"}
+{"number": 25948, "title": "Using Node.js built-in modules", "createdAt": "2024-09-30T20:04:32Z", "repo": "denoland/deno"}
+{"number": 25964, "title": "Vue3(Ts) + Deno: deno interferes with ts type file checking in vue", "createdAt": "2024-10-01T14:18:01Z", "repo": "denoland/deno"}
+{"number": 25973, "title": "Use biome as built-in linter and formatter.", "createdAt": "2024-10-01T18:50:36Z", "repo": "denoland/deno"}
+{"number": 26030, "title": "PyO3 for Deno/V8/FFI?", "createdAt": "2024-10-04T15:33:39Z", "repo": "denoland/deno"}
+{"number": 26077, "title": "Following modules were not evaluated; make sure they are imported from other code", "createdAt": "2024-10-09T03:50:05Z", "repo": "denoland/deno"}
+{"number": 26092, "title": "Thank you Deno team", "createdAt": "2024-10-10T01:40:24Z", "repo": "denoland/deno"}
+{"number": 26094, "title": "Is there a widely agreed upon deno cache directory?", "createdAt": "2024-10-10T02:07:18Z", "repo": "denoland/deno"}
+{"number": 26106, "title": "Why choose SQLite for DenoKV over alternatives like LevelDB?", "createdAt": "2024-10-10T10:25:30Z", "repo": "denoland/deno"}
+{"number": 26150, "title": "Issue with Pino's transport on Windows using Deno 2 and TypeScript - no output is written to the log file", "createdAt": "2024-10-11T12:18:09Z", "repo": "denoland/deno"}
+{"number": 26165, "title": "How to exit `Deno.serve` from a signal listener properly?", "createdAt": "2024-10-11T19:48:02Z", "repo": "denoland/deno"}
+{"number": 26211, "title": "Provide a Command to Upgrade Dependencies Similar to pnpm update", "createdAt": "2024-10-13T16:47:07Z", "repo": "denoland/deno"}
+{"number": 26221, "title": "Is deno lsp intended ONLY for use with Deno?", "createdAt": "2024-10-13T23:10:54Z", "repo": "denoland/deno"}
+{"number": 26244, "title": "After thinking about JSR, still question ...  WHY ?!", "createdAt": "2024-10-14T17:28:26Z", "repo": "denoland/deno"}
+{"number": 26260, "title": "How can I run `npm-run-all` using Deno 2 ?", "createdAt": "2024-10-15T03:37:18Z", "repo": "denoland/deno"}
+{"number": 26266, "title": "Dynamic file imports inside JSR packages not working", "createdAt": "2024-10-15T12:56:51Z", "repo": "denoland/deno"}
+{"number": 26268, "title": "Does deno serve support express?", "createdAt": "2024-10-15T14:03:14Z", "repo": "denoland/deno"}
+{"number": 26294, "title": "WHY `deno install` type checks modules, but `deno run` do not ?", "createdAt": "2024-10-16T07:47:45Z", "repo": "denoland/deno"}
+{"number": 26296, "title": "[2.0.0] Deno.cron is not a function", "createdAt": "2024-10-16T08:39:20Z", "repo": "denoland/deno"}
+{"number": 26307, "title": "Why does `deno info` outputs `/` after `:` in package names", "createdAt": "2024-10-16T12:59:52Z", "repo": "denoland/deno"}
+{"number": 26365, "title": "How does packasge resulution work in Deno?", "createdAt": "2024-10-17T20:16:18Z", "repo": "denoland/deno"}
+{"number": 26384, "title": "Problem with private registry", "createdAt": "2024-10-18T11:27:47Z", "repo": "denoland/deno"}
+{"number": 26392, "title": "WHY Deno 2.0 supports `process` global, but require to create `require` method manually ?!", "createdAt": "2024-10-18T16:07:47Z", "repo": "denoland/deno"}
+{"number": 26398, "title": "Issue with Importing 'main' Property in Deno in vscode", "createdAt": "2024-10-18T18:42:19Z", "repo": "denoland/deno"}
+{"number": 26399, "title": "Is there an equivalent to npm_package_ variables?", "createdAt": "2024-10-18T19:13:41Z", "repo": "denoland/deno"}
+{"number": 26432, "title": "__dirname and Deno", "createdAt": "2024-10-20T16:22:52Z", "repo": "denoland/deno"}
+{"number": 26456, "title": "No cluster fork support in Deno v2?", "createdAt": "2024-10-21T20:33:05Z", "repo": "denoland/deno"}
+{"number": 26566, "title": "Adding npm Package from GitHub", "createdAt": "2024-10-26T15:07:08Z", "repo": "denoland/deno"}
+{"number": 26589, "title": "Alternative to node's \"private\": \"true\" in deno?", "createdAt": "2024-10-27T19:56:29Z", "repo": "denoland/deno"}
+{"number": 26658, "title": "Error: x-deno-subhost header must be set", "createdAt": "2024-10-31T07:27:06Z", "repo": "denoland/deno"}
+{"number": 26662, "title": "How to update a transitive dependency with `deno install`?", "createdAt": "2024-10-31T13:28:07Z", "repo": "denoland/deno"}
+{"number": 26686, "title": "Using a NPM package that has / in name?", "createdAt": "2024-11-02T05:50:09Z", "repo": "denoland/deno"}
+{"number": 26687, "title": "Create GitHub actions with Deno 2.0", "createdAt": "2024-11-02T06:28:03Z", "repo": "denoland/deno"}
+{"number": 26692, "title": "Does Deno.writeTextFile acquire a lock?", "createdAt": "2024-11-02T18:44:40Z", "repo": "denoland/deno"}
+{"number": 26708, "title": "Deno.listenDatagram milestone visibility", "createdAt": "2024-11-04T09:00:54Z", "repo": "denoland/deno"}
+{"number": 26734, "title": "`deno doc` - usage for `--category-docs` and `--default-symbol-map`", "createdAt": "2024-11-05T07:57:00Z", "repo": "denoland/deno"}
+{"number": 26737, "title": "Deno 2.0 Decorators", "createdAt": "2024-11-05T09:01:25Z", "repo": "denoland/deno"}
+{"number": 26745, "title": "Suggestion to make it easier to trust Deno's Node compatibility", "createdAt": "2024-11-05T16:01:10Z", "repo": "denoland/deno"}
+{"number": 26757, "title": "Running svelte lsp with deno as the runtime", "createdAt": "2024-11-06T02:07:20Z", "repo": "denoland/deno"}
+{"number": 26771, "title": "\"nodeModulesDir\" option to add JSR packages?", "createdAt": "2024-11-07T08:36:27Z", "repo": "denoland/deno"}
+{"number": 26793, "title": "Bolt.new for Deno 2.0", "createdAt": "2024-11-08T21:40:52Z", "repo": "denoland/deno"}
+{"number": 26805, "title": "How to deploy as docker image?", "createdAt": "2024-11-10T07:05:14Z", "repo": "denoland/deno"}
+{"number": 26835, "title": "Question about your code for Node.js built-in modules loading", "createdAt": "2024-11-12T15:05:31Z", "repo": "denoland/deno"}
+{"number": 26848, "title": "Official Deno Version Manager", "createdAt": "2024-11-13T03:32:26Z", "repo": "denoland/deno"}
+{"number": 26921, "title": "I wish I could see the Network tab in Deno", "createdAt": "2024-11-18T23:52:40Z", "repo": "denoland/deno"}
+{"number": 27043, "title": "Deno behave differently after npm install on npm workspace", "createdAt": "2024-11-24T22:51:26Z", "repo": "denoland/deno"}
+{"number": 27115, "title": "Including and running scripts/binaries in a compiled binary", "createdAt": "2024-11-27T18:11:52Z", "repo": "denoland/deno"}
+{"number": 27120, "title": "Can't pass unstable flags to tasks", "createdAt": "2024-11-28T02:45:41Z", "repo": "denoland/deno"}
+{"number": 27149, "title": "Debugging experience", "createdAt": "2024-11-29T15:09:58Z", "repo": "denoland/deno"}
+{"number": 27173, "title": "Format astro and svelte files in vscode", "createdAt": "2024-11-30T13:19:39Z", "repo": "denoland/deno"}
+{"number": 27190, "title": "RFC: Enhancing Permission Management in Deno with Permission Config Files", "createdAt": "2024-12-02T10:06:47Z", "repo": "denoland/deno"}
+{"number": 27257, "title": "How to properly add @types/<something>?", "createdAt": "2024-12-06T12:49:50Z", "repo": "denoland/deno"}
+{"number": 27276, "title": "Is it possible to define setup file for deno test or deno run?", "createdAt": "2024-12-08T17:47:14Z", "repo": "denoland/deno"}
+{"number": 27344, "title": "What happens if I don't use the \"npm:\" import specifier when importing from npm?", "createdAt": "2024-12-12T20:10:11Z", "repo": "denoland/deno"}
+{"number": 27445, "title": "Difference in \"need to specify version\" between jsr and deno.land", "createdAt": "2024-12-21T22:43:25Z", "repo": "denoland/deno"}
+{"number": 27446, "title": "what is oak?", "createdAt": "2024-12-22T12:44:18Z", "repo": "denoland/deno"}
+{"number": 27447, "title": "How to Ensure Library B Uses the Same Version of Library C as My App", "createdAt": "2024-12-22T13:07:51Z", "repo": "denoland/deno"}
+{"number": 27467, "title": "When should `kv.close()` be called?", "createdAt": "2024-12-25T11:46:39Z", "repo": "denoland/deno"}
+{"number": 27472, "title": "Deno LSP doesn't complain about importing nonexistent symbols, is this a bug?", "createdAt": "2024-12-26T09:18:30Z", "repo": "denoland/deno"}
+{"number": 27474, "title": "(Unknown export './helpers/zod.ts' for '@openai/openai@4.75.0') is this an issue on my end? or it's the package's?", "createdAt": "2024-12-27T01:39:15Z", "repo": "denoland/deno"}
+{"number": 27493, "title": "How can I see in an IDE, linting errors that Deno doesn't catch?", "createdAt": "2024-12-29T16:02:32Z", "repo": "denoland/deno"}
+{"number": 27501, "title": "BUG: `deno compile --help` broken link", "createdAt": "2024-12-30T18:47:26Z", "repo": "denoland/deno"}
+{"number": 27502, "title": "error: \"Writing deno compile executable to temporary file\" when `deno compile main.js`", "createdAt": "2024-12-30T21:16:09Z", "repo": "denoland/deno"}
+{"number": 27503, "title": "`deno compile --include public/icon.ico` doesn't work", "createdAt": "2024-12-30T21:25:00Z", "repo": "denoland/deno"}
+{"number": 27504, "title": "Guidance around imlementing callbacks with custom deno embedding", "createdAt": "2024-12-30T21:43:41Z", "repo": "denoland/deno"}
+{"number": 27506, "title": "Bring the `Result` api from Rust to Deno", "createdAt": "2024-12-30T23:00:21Z", "repo": "denoland/deno"}
+{"number": 27520, "title": "Add flag to ignore env requests", "createdAt": "2025-01-01T19:17:34Z", "repo": "denoland/deno"}
+{"number": 27525, "title": "Deno Deploy - Nested Fetch And Other Recursive Serverless Patterns Are Not Possible", "createdAt": "2025-01-02T11:32:07Z", "repo": "denoland/deno"}
+{"number": 27554, "title": "Intellij debugger doesn't reconnect when using `--watch`", "createdAt": "2025-01-04T15:13:54Z", "repo": "denoland/deno"}
+{"number": 27598, "title": "Import from package containing colon e.g. 'astro:content'", "createdAt": "2025-01-09T10:14:09Z", "repo": "denoland/deno"}
+{"number": 27618, "title": "Is it possible to use node `process.binding` in Deno?", "createdAt": "2025-01-10T07:58:00Z", "repo": "denoland/deno"}
+{"number": 27621, "title": "Is it safe to use Deno as a javascript/typescript sandbox?", "createdAt": "2025-01-10T12:41:11Z", "repo": "denoland/deno"}
+{"number": 27645, "title": "A Deno SDK for Any OpenAPI Through URL Imports", "createdAt": "2025-01-12T21:43:13Z", "repo": "denoland/deno"}
+{"number": 27749, "title": "How can I use deno to install Buf SDKs through NPM?", "createdAt": "2025-01-21T06:00:24Z", "repo": "denoland/deno"}
+{"number": 27960, "title": "Performance improvements", "createdAt": "2025-02-04T18:05:48Z", "repo": "denoland/deno"}
+{"number": 28010, "title": "de-no is a reversal of no-de? =)", "createdAt": "2025-02-07T16:15:03Z", "repo": "denoland/deno"}
+{"number": 28024, "title": "Can Deno open a .node[compiled node addons] files?", "createdAt": "2025-02-09T14:34:19Z", "repo": "denoland/deno"}
+{"number": 28163, "title": "Cant find type .mts file", "createdAt": "2025-02-18T08:37:26Z", "repo": "denoland/deno"}
+{"number": 28191, "title": "Does node:sqlite preserve the Deno security sandbox?", "createdAt": "2025-02-20T00:01:24Z", "repo": "denoland/deno"}
+{"number": 28230, "title": "How to manage global installed? (e.g., `deno outdated --global`)", "createdAt": "2025-02-21T18:37:11Z", "repo": "denoland/deno"}
+{"number": 28233, "title": "Why does the official website `deno.com` use Google search?", "createdAt": "2025-02-21T19:02:25Z", "repo": "denoland/deno"}
+{"number": 28270, "title": "./$types resolution not working in Neovim", "createdAt": "2025-02-24T08:49:37Z", "repo": "denoland/deno"}
+{"number": 28288, "title": "Benchmarking node:sqlite", "createdAt": "2025-02-25T04:27:40Z", "repo": "denoland/deno"}
+{"number": 28296, "title": "ESLint vs. Deno Lint", "createdAt": "2025-02-25T12:19:38Z", "repo": "denoland/deno"}
+{"number": 28368, "title": "What does the NPM package install if you're already on Deno?", "createdAt": "2025-03-02T23:47:36Z", "repo": "denoland/deno"}
+{"number": 28389, "title": "nextjs+prisma on deno deploy", "createdAt": "2025-03-05T00:45:33Z", "repo": "denoland/deno"}
+{"number": 28404, "title": "Awkward node/deno question", "createdAt": "2025-03-05T21:19:37Z", "repo": "denoland/deno"}
+{"number": 28434, "title": "Why does `ParseOptions.boolean` only affect double-hyphenated options? (such as `--flag` but not `-f`)", "createdAt": "2025-03-08T23:06:49Z", "repo": "denoland/deno"}
+{"number": 28443, "title": "How to reuse full-featured Deno in my Rust project?", "createdAt": "2025-03-09T14:40:55Z", "repo": "denoland/deno"}
+{"number": 28452, "title": "Template for Astro v5, Deno v2, and Tailwind CSS v4", "createdAt": "2025-03-10T16:20:08Z", "repo": "denoland/deno"}
+{"number": 28509, "title": "Check if module is evaluated", "createdAt": "2025-03-15T09:50:44Z", "repo": "denoland/deno"}
+{"number": 28536, "title": "How to reduce deno compile binary size?", "createdAt": "2025-03-18T03:57:49Z", "repo": "denoland/deno"}
+{"number": 28541, "title": "What are the LTS releases?", "createdAt": "2025-03-18T14:46:00Z", "repo": "denoland/deno"}
+{"number": 28628, "title": "Drizzle Kit with Deno Import Map fails with MODULE_NOT_FOUND error", "createdAt": "2025-03-26T03:19:16Z", "repo": "denoland/deno"}
+{"number": 28690, "title": "MCP + Deno LSP integration", "createdAt": "2025-03-31T17:48:08Z", "repo": "denoland/deno"}
+{"number": 28698, "title": "Handle Deno Web Worker error", "createdAt": "2025-04-01T12:35:14Z", "repo": "denoland/deno"}
+{"number": 28766, "title": "Anyone's got npm:elastic-apm-node working?", "createdAt": "2025-04-05T13:52:29Z", "repo": "denoland/deno"}
+{"number": 28862, "title": "How to check transpired code from jsx/tsx → js/ts ?", "createdAt": "2025-04-12T04:05:01Z", "repo": "denoland/deno"}
+{"number": 28876, "title": "npm --save-exact analogous?", "createdAt": "2025-04-13T13:17:20Z", "repo": "denoland/deno"}
+{"number": 28907, "title": "When referencing an object using a relative path, no error will be reported even if the file doesn't exist.", "createdAt": "2025-04-15T11:26:10Z", "repo": "denoland/deno"}
+{"number": 28913, "title": "How to disable eslint in deno project?", "createdAt": "2025-04-15T16:45:14Z", "repo": "denoland/deno"}
+{"number": 28924, "title": "What bundler does Deno work with?", "createdAt": "2025-04-16T04:16:04Z", "repo": "denoland/deno"}
+{"number": 29002, "title": "Permission denied error", "createdAt": "2025-04-22T16:36:54Z", "repo": "denoland/deno"}
+{"number": 29081, "title": "Why do we need a max queue delay?", "createdAt": "2025-04-28T18:09:52Z", "repo": "denoland/deno"}
+{"number": 29110, "title": "Deno formatting options using fmt?", "createdAt": "2025-04-30T13:41:19Z", "repo": "denoland/deno"}
+{"number": 29261, "title": "debugging unresolved promises", "createdAt": "2025-05-12T12:07:11Z", "repo": "denoland/deno"}
+{"number": 29356, "title": "How to get pixels from ImageBitmap?", "createdAt": "2025-05-17T20:26:46Z", "repo": "denoland/deno"}
+{"number": 29378, "title": "How does FFI works ?", "createdAt": "2025-05-19T17:05:37Z", "repo": "denoland/deno"}
+{"number": 29403, "title": "OpenPGP Deno Standard Library Module", "createdAt": "2025-05-21T02:25:38Z", "repo": "denoland/deno"}
+{"number": 29419, "title": "Where is `core/internal.d.ts`?", "createdAt": "2025-05-22T14:09:44Z", "repo": "denoland/deno"}
+{"number": 29665, "title": "Is there any example of how to add custom ops or rust implemented modules to deno?", "createdAt": "2025-06-09T07:11:45Z", "repo": "denoland/deno"}
+{"number": 29915, "title": "deno.land is down?", "createdAt": "2025-06-27T11:46:42Z", "repo": "denoland/deno"}
+{"number": 29992, "title": "Discord invite", "createdAt": "2025-07-03T20:12:16Z", "repo": "denoland/deno"}
+{"number": 30008, "title": "Deno Bundle: Use Rolldown instead of ESBuild", "createdAt": "2025-07-05T09:13:35Z", "repo": "denoland/deno"}
+{"number": 30039, "title": "How to write rust native extensions for deno, similar to Node-API.", "createdAt": "2025-07-09T02:44:19Z", "repo": "denoland/deno"}
+{"number": 30076, "title": "How do you ensure supply chain security", "createdAt": "2025-07-11T07:33:39Z", "repo": "denoland/deno"}
+{"number": 30140, "title": "How to properly install deno as a runtime with pnpm?", "createdAt": "2025-07-18T14:42:59Z", "repo": "denoland/deno"}
+{"number": 30172, "title": "My thoughts on how Deno can evolve and carve out its own space.", "createdAt": "2025-07-22T17:28:15Z", "repo": "denoland/deno"}
+{"number": 30186, "title": "Does Deno not support a combined package/workspace?", "createdAt": "2025-07-24T04:07:23Z", "repo": "denoland/deno"}
+{"number": 30231, "title": "How to terminate and release the runtime?", "createdAt": "2025-07-29T00:50:25Z", "repo": "denoland/deno"}
+{"number": 30234, "title": "How to correctly handle exceptions in op2 asynchronous functions?", "createdAt": "2025-07-29T11:18:00Z", "repo": "denoland/deno"}
+{"number": 30240, "title": "Add Deno APIs on top of Node.js, instead of Node.js APIs on top of Deno", "createdAt": "2025-07-30T02:45:49Z", "repo": "denoland/deno"}
+{"number": 30272, "title": "@testing-library/dom in Deno 2", "createdAt": "2025-07-31T21:44:21Z", "repo": "denoland/deno"}
+{"number": 30326, "title": "Deno WebGPU libraries", "createdAt": "2025-08-05T17:41:43Z", "repo": "denoland/deno"}
+{"number": 30341, "title": "Let `deno doc` pull default settings from `deno.json`", "createdAt": "2025-08-07T08:12:15Z", "repo": "denoland/deno"}
+{"number": 30342, "title": "Generated html from `deno doc` should allow some customization", "createdAt": "2025-08-07T08:45:09Z", "repo": "denoland/deno"}
+{"number": 30355, "title": "how to choose deploy deno version, for example if one version of deno is buggy i would like another", "createdAt": "2025-08-08T06:54:34Z", "repo": "denoland/deno"}
+{"number": 30494, "title": "First-class support for Postgres", "createdAt": "2025-08-22T18:15:16Z", "repo": "denoland/deno"}
+{"number": 30553, "title": "deno run -A npm:web-test-runner", "createdAt": "2025-08-28T13:34:05Z", "repo": "denoland/deno"}
+{"number": 30620, "title": "'The import specifier can be remapped to'", "createdAt": "2025-09-05T01:30:26Z", "repo": "denoland/deno"}
+{"number": 30632, "title": "New standard library: `std/worker`", "createdAt": "2025-09-07T07:33:52Z", "repo": "denoland/deno"}
+{"number": 30703, "title": "Different .env parsing in Deno vs Docker (KEY=\"a b c\" issue)", "createdAt": "2025-09-13T13:37:27Z", "repo": "denoland/deno"}
+{"number": 30727, "title": "Allow `stdin` for `deno bundle` (both for the cli and `Deno.bundle()` API)", "createdAt": "2025-09-15T11:13:55Z", "repo": "denoland/deno"}
+{"number": 30857, "title": "How to collect coverage of `.test.ts` files?", "createdAt": "2025-09-26T14:57:32Z", "repo": "denoland/deno"}
+{"number": 30888, "title": "Deno version reverted?", "createdAt": "2025-09-30T19:41:12Z", "repo": "denoland/deno"}
+{"number": 30928, "title": "Allow .jsonc file imports", "createdAt": "2025-10-05T18:55:26Z", "repo": "denoland/deno"}
+{"number": 31040, "title": "Deno `fetch` type error: `client` from `Deno.createHttpClient()` not recognized by TypeScript / VSCode", "createdAt": "2025-10-21T10:33:28Z", "repo": "denoland/deno"}
+{"number": 31090, "title": "`lsp` supported version range for `tsserver`?", "createdAt": "2025-10-25T16:57:24Z", "repo": "denoland/deno"}
+{"number": 31091, "title": "Adoption of TypeScript-Go in Deno", "createdAt": "2025-10-25T23:50:17Z", "repo": "denoland/deno"}
+{"number": 31093, "title": "[Deploy] How to retrieve my deploy ?", "createdAt": "2025-10-26T08:45:53Z", "repo": "denoland/deno"}
+{"number": 31149, "title": "Docker alpine issue: sh: deno: not found", "createdAt": "2025-10-31T14:32:42Z", "repo": "denoland/deno"}
+{"number": 31167, "title": "Allow Processing Continuation with 'Not Found' Status Instead of Throwing `NotCapable`", "createdAt": "2025-11-03T04:03:00Z", "repo": "denoland/deno"}
+{"number": 31228, "title": "What's the recommended way to implement gRPC in Deno?", "createdAt": "2025-11-08T11:38:44Z", "repo": "denoland/deno"}
+{"number": 31280, "title": "Deno Open Telemetry data to a simple file log", "createdAt": "2025-11-13T15:50:55Z", "repo": "denoland/deno"}
+{"number": 31373, "title": "Error: \"The procedure entry point IsWow64Process2 could not be located in the dynamic link library [Location Of Folder Containing Deno.exe]\"", "createdAt": "2025-11-21T13:48:55Z", "repo": "denoland/deno"}
+{"number": 31459, "title": "Is building a binary-reproducible vendor directory feasible?", "createdAt": "2025-11-30T01:59:15Z", "repo": "denoland/deno"}
+{"number": 31525, "title": "Suggestions for improving Deno workflow and lockfile management", "createdAt": "2025-12-08T00:17:09Z", "repo": "denoland/deno"}
+{"number": 31611, "title": "_", "createdAt": "2025-12-15T02:47:30Z", "repo": "denoland/deno"}
+{"number": 31731, "title": "can't create and start an `nextjs` project with the `deno` offical docs", "createdAt": "2025-12-29T10:07:09Z", "repo": "denoland/deno"}
+{"number": 31733, "title": "how can make the `pm2` config file works in the `deno` for the `nextjs` project?", "createdAt": "2025-12-29T12:05:55Z", "repo": "denoland/deno"}
+{"number": 31754, "title": "Recommended way to pass permissions?", "createdAt": "2026-01-02T17:46:21Z", "repo": "denoland/deno"}
+{"number": 31767, "title": "get stuck when building nextjs project with deno, and why does it will start the `nodejs` process?", "createdAt": "2026-01-04T22:10:11Z", "repo": "denoland/deno"}
+{"number": 31776, "title": "`extends` field in `tsconfig.json`", "createdAt": "2026-01-05T21:09:34Z", "repo": "denoland/deno"}
+{"number": 31905, "title": "node:fs is the standard", "createdAt": "2026-01-21T15:15:28Z", "repo": "denoland/deno"}
+{"number": 31969, "title": "Importing JSON files `as const`?", "createdAt": "2026-01-28T15:43:07Z", "repo": "denoland/deno"}
+{"number": 32041, "title": "Deno on heroku", "createdAt": "2026-02-04T00:22:03Z", "repo": "denoland/deno"}
+{"number": 32060, "title": "how to update deno without deno.old file?", "createdAt": "2026-02-05T00:20:27Z", "repo": "denoland/deno"}
+{"number": 32132, "title": "What is the recommended way to load environment variables securely in Deno for production?", "createdAt": "2026-02-11T20:28:00Z", "repo": "denoland/deno"}
+{"number": 32208, "title": "Deno compile restrictions?", "createdAt": "2026-02-17T14:26:26Z", "repo": "denoland/deno"}
+{"number": 32387, "title": "Deno FFI for an load generator written in Rust", "createdAt": "2026-03-02T01:32:06Z", "repo": "denoland/deno"}
+{"number": 32444, "title": "Failed to compile deno_runtime", "createdAt": "2026-03-04T06:12:13Z", "repo": "denoland/deno"}
+{"number": 32447, "title": "Deno debian packaging", "createdAt": "2026-03-04T09:31:30Z", "repo": "denoland/deno"}
+{"number": 32517, "title": "deno 对于 mcpServers 的支持", "createdAt": "2026-03-06T01:57:03Z", "repo": "denoland/deno"}
+{"number": 32576, "title": "Embedding the latest version of deno with deno_runtime", "createdAt": "2026-03-08T09:25:26Z", "repo": "denoland/deno"}
+{"number": 32768, "title": "Marketing automation with Supabase Edge Functions (Deno) — open sourced", "createdAt": "2026-03-16T10:00:59Z", "repo": "denoland/deno"}
+{"number": 32787, "title": "ORCH — CLI orchestrator for AI agent teams (TypeScript strict, Node 20+)", "createdAt": "2026-03-17T15:09:13Z", "repo": "denoland/deno"}
+{"number": 33057, "title": "How to transpile a TypeScript file into a JavaScript file using Deno?", "createdAt": "2026-03-29T13:13:41Z", "repo": "denoland/deno"}
+{"number": 33109, "title": "Deno's Security & JSR - Time to push forward?", "createdAt": "2026-04-01T06:36:08Z", "repo": "denoland/deno"}
+{"number": 33244, "title": "Does Deno.env.toObject() not support partial environment variable access?", "createdAt": "2026-04-12T03:16:20Z", "repo": "denoland/deno"}
+{"number": 33394, "title": "Event loop starvation after 2.7.8", "createdAt": "2026-04-23T21:35:27Z", "repo": "denoland/deno"}
+{"number": 33558, "title": "Embed Agent Friendly Code Score Badge", "createdAt": "2026-04-27T05:48:57Z", "repo": "denoland/deno"}
+{"number": 33785, "title": "Consider Nova Engine as an experimental backend", "createdAt": "2026-05-02T14:07:44Z", "repo": "denoland/deno"}
+{"number": 34332, "title": "deno compile different target than current arch?", "createdAt": "2026-05-23T17:25:32Z", "repo": "denoland/deno"}
+{"number": 34758, "title": "Its a malware please beware of it ! You tried well but thanks to deepseek and my best Friend ALLAH who gave me ablity to catch you!", "createdAt": "2026-06-03T01:34:32Z", "repo": "denoland/deno"}
+{"number": 35092, "title": "ccline — AI terminal helper for Deno developers", "createdAt": "2026-06-10T10:08:17Z", "repo": "denoland/deno"}

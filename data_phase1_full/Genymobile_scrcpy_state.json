@@ -3911,9 +3911,10 @@
     6923
   ],
   "pr_idx": 423,
-  "issue_idx": 2940,
+  "issue_idx": 3483,
   "disc_idx": 0,
   "failed_pr": [],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
