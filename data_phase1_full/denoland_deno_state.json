@@ -22084,9 +22084,11 @@
     35092
   ],
   "pr_idx": 12168,
-  "issue_idx": 3790,
+  "issue_idx": 4890,
   "disc_idx": 0,
   "failed_pr": [],
-  "failed_issue": [],
+  "failed_issue": [
+    24420
+  ],
   "failed_disc": []
 }

@@ -31321,12 +31321,13 @@
     46984
   ],
   "pr_idx": 20587,
-  "issue_idx": 9990,
+  "issue_idx": 10729,
   "disc_idx": 0,
   "failed_pr": [
     29572,
     39570
   ],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
