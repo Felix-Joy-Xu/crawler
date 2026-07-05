@@ -1,0 +1,374 @@
+{"number": 4565, "title": "Publishing this app as a standalone offline executable with electron js", "createdAt": "2022-01-10T17:48:55Z", "repo": "excalidraw/excalidraw"}
+{"number": 4612, "title": "excalidraw implementation discussion", "createdAt": "2022-01-16T15:56:53Z", "repo": "excalidraw/excalidraw"}
+{"number": 4615, "title": "toolbar color change", "createdAt": "2022-01-17T12:23:58Z", "repo": "excalidraw/excalidraw"}
+{"number": 4661, "title": "I just want to thank you!", "createdAt": "2022-01-28T18:17:29Z", "repo": "excalidraw/excalidraw"}
+{"number": 4685, "title": "how to use live collaboration with my organization server", "createdAt": "2022-02-01T05:00:11Z", "repo": "excalidraw/excalidraw"}
+{"number": 4752, "title": "Using this within an application", "createdAt": "2022-02-04T13:31:03Z", "repo": "excalidraw/excalidraw"}
+{"number": 4771, "title": "need to give one button in toolbar and on click of button can we open excalidraw to 100% full blown view", "createdAt": "2022-02-10T11:51:36Z", "repo": "excalidraw/excalidraw"}
+{"number": 4772, "title": "Release date for the next stable version", "createdAt": "2022-02-10T16:41:12Z", "repo": "excalidraw/excalidraw"}
+{"number": 4787, "title": "Due diligence audit", "createdAt": "2022-02-15T11:24:24Z", "repo": "excalidraw/excalidraw"}
+{"number": 4825, "title": "Disable upload File", "createdAt": "2022-02-21T10:21:44Z", "repo": "excalidraw/excalidraw"}
+{"number": 4870, "title": "need to use save image event on click of  my custom button click function", "createdAt": "2022-03-04T06:30:04Z", "repo": "excalidraw/excalidraw"}
+{"number": 4924, "title": "Status on React Component Collab Support", "createdAt": "2022-03-11T17:06:34Z", "repo": "excalidraw/excalidraw"}
+{"number": 4908, "title": "Anyone have luck with PDF imports / exports?", "createdAt": "2022-03-11T20:03:31Z", "repo": "excalidraw/excalidraw"}
+{"number": 4910, "title": "How we can add predefined Icons and Boxes on Scene similar to Google Cloud Architecture Diagrame", "createdAt": "2022-03-12T05:18:53Z", "repo": "excalidraw/excalidraw"}
+{"number": 4919, "title": "breaking after upgrading to 0.11.0 from 0.4.3", "createdAt": "2022-03-14T08:32:58Z", "repo": "excalidraw/excalidraw"}
+{"number": 4920, "title": "while Passing the initialData after saving it in local storage getting TypeError", "createdAt": "2022-03-14T08:45:56Z", "repo": "excalidraw/excalidraw"}
+{"number": 4948, "title": "Looking for contributors on the unofficial VSCode extension", "createdAt": "2022-03-21T21:55:19Z", "repo": "excalidraw/excalidraw"}
+{"number": 4961, "title": "getFiles not returning images", "createdAt": "2022-03-23T01:15:35Z", "repo": "excalidraw/excalidraw"}
+{"number": 4962, "title": "how to remove  load button form excalidraw", "createdAt": "2022-03-23T05:34:20Z", "repo": "excalidraw/excalidraw"}
+{"number": 4969, "title": "Joining an excalidraw.com collaboration room from the Obsidian plugin", "createdAt": "2022-03-25T18:16:48Z", "repo": "excalidraw/excalidraw"}
+{"number": 4994, "title": "on click on any button need to show excalidraw in full blown view", "createdAt": "2022-03-30T11:14:13Z", "repo": "excalidraw/excalidraw"}
+{"number": 4999, "title": "How to use action API", "createdAt": "2022-03-31T14:42:33Z", "repo": "excalidraw/excalidraw"}
+{"number": 5050, "title": "How to format text in excalidraw ?", "createdAt": "2022-04-16T19:02:35Z", "repo": "excalidraw/excalidraw"}
+{"number": 5051, "title": "Aligning elements in the group", "createdAt": "2022-04-16T19:07:03Z", "repo": "excalidraw/excalidraw"}
+{"number": 5060, "title": "console error when try load excalidraw", "createdAt": "2022-04-18T04:39:24Z", "repo": "excalidraw/excalidraw"}
+{"number": 5059, "title": "how to implment toast message in excalidraw", "createdAt": "2022-04-18T06:28:06Z", "repo": "excalidraw/excalidraw"}
+{"number": 5107, "title": "How to run production build in development?", "createdAt": "2022-04-27T13:36:42Z", "repo": "excalidraw/excalidraw"}
+{"number": 5145, "title": "Getting loading chunk error on performing any actions", "createdAt": "2022-05-05T12:27:09Z", "repo": "excalidraw/excalidraw"}
+{"number": 5199, "title": "using excalidraw on an \"e-paper tablet\" like remarkable2 or Onyx Boox Note Air 2", "createdAt": "2022-05-16T09:42:09Z", "repo": "excalidraw/excalidraw"}
+{"number": 5212, "title": "Programmatically switching theme doesn't work", "createdAt": "2022-05-19T21:50:37Z", "repo": "excalidraw/excalidraw"}
+{"number": 5263, "title": "Suggestion: Lasso tool for more precise selections", "createdAt": "2022-06-01T23:06:55Z", "repo": "excalidraw/excalidraw"}
+{"number": 5284, "title": "Nested Collections", "createdAt": "2022-06-06T22:08:20Z", "repo": "excalidraw/excalidraw"}
+{"number": 5318, "title": "Is there a way for excalidraw files to be opened by other software such as Visio?", "createdAt": "2022-06-16T22:12:32Z", "repo": "excalidraw/excalidraw"}
+{"number": 5323, "title": "Excalidraw for RPG", "createdAt": "2022-06-18T07:04:53Z", "repo": "excalidraw/excalidraw"}
+{"number": 5335, "title": "Is it possible to implement photoshop-style layers?", "createdAt": "2022-06-20T17:17:22Z", "repo": "excalidraw/excalidraw"}
+{"number": 5343, "title": "Guide/Example for storing images remotely?", "createdAt": "2022-06-21T16:18:04Z", "repo": "excalidraw/excalidraw"}
+{"number": 5340, "title": "can someone please help me with understanding the structure of code", "createdAt": "2022-06-21T22:08:42Z", "repo": "excalidraw/excalidraw"}
+{"number": 5341, "title": "Moving a complex diagram around", "createdAt": "2022-06-21T22:08:57Z", "repo": "excalidraw/excalidraw"}
+{"number": 5345, "title": "Option for Isometric Grid", "createdAt": "2022-06-22T08:48:08Z", "repo": "excalidraw/excalidraw"}
+{"number": 5369, "title": "is it possible to use within a react native app?", "createdAt": "2022-06-27T21:55:37Z", "repo": "excalidraw/excalidraw"}
+{"number": 5433, "title": "how to add custom button to sidebar", "createdAt": "2022-07-11T05:32:45Z", "repo": "excalidraw/excalidraw"}
+{"number": 5441, "title": "append custom container component", "createdAt": "2022-07-14T04:44:39Z", "repo": "excalidraw/excalidraw"}
+{"number": 5473, "title": "Interest in the copy style button", "createdAt": "2022-07-20T15:10:45Z", "repo": "excalidraw/excalidraw"}
+{"number": 5475, "title": "Development Setup Help", "createdAt": "2022-07-20T21:53:03Z", "repo": "excalidraw/excalidraw"}
+{"number": 5485, "title": "drawing strictly horizontal or strictly vertical lines", "createdAt": "2022-07-26T06:27:47Z", "repo": "excalidraw/excalidraw"}
+{"number": 5490, "title": "How to prevent library shapes from breaking when resizing them?", "createdAt": "2022-07-26T18:15:31Z", "repo": "excalidraw/excalidraw"}
+{"number": 5492, "title": "I can't trigger the apple pencil's eraser by taping two times of my index finger", "createdAt": "2022-07-27T07:34:08Z", "repo": "excalidraw/excalidraw"}
+{"number": 5515, "title": "For the love of God : introduce mouse mode for zooming and moving the canvas", "createdAt": "2022-07-30T22:12:27Z", "repo": "excalidraw/excalidraw"}
+{"number": 5517, "title": "how to add custom code on click of svg/png option when save as image is triggered", "createdAt": "2022-08-01T10:02:41Z", "repo": "excalidraw/excalidraw"}
+{"number": 5623, "title": "Path of the images", "createdAt": "2022-08-25T11:58:27Z", "repo": "excalidraw/excalidraw"}
+{"number": 5713, "title": "release the entire color palette please!", "createdAt": "2022-09-22T18:51:13Z", "repo": "excalidraw/excalidraw"}
+{"number": 5740, "title": "How to override some functions with your own processing", "createdAt": "2022-10-06T04:20:12Z", "repo": "excalidraw/excalidraw"}
+{"number": 5754, "title": "Hide/show left toolbar when pen tool is selected", "createdAt": "2022-10-11T11:13:24Z", "repo": "excalidraw/excalidraw"}
+{"number": 5791, "title": "What algorithm is used to draw smooth curves in real time?", "createdAt": "2022-10-25T13:58:35Z", "repo": "excalidraw/excalidraw"}
+{"number": 5838, "title": "An unofficial client for excalidraw", "createdAt": "2022-11-06T14:43:44Z", "repo": "excalidraw/excalidraw"}
+{"number": 5870, "title": "Feature request for Excalidraw", "createdAt": "2022-11-12T17:45:20Z", "repo": "excalidraw/excalidraw"}
+{"number": 5882, "title": "Making re-usable components, is it possible?", "createdAt": "2022-11-15T09:04:38Z", "repo": "excalidraw/excalidraw"}
+{"number": 5896, "title": "Share entire collection of scenes", "createdAt": "2022-11-17T14:33:25Z", "repo": "excalidraw/excalidraw"}
+{"number": 5899, "title": "More Draw Element Stroke Width Options", "createdAt": "2022-11-17T16:05:16Z", "repo": "excalidraw/excalidraw"}
+{"number": 5902, "title": "Collaboration app for npm", "createdAt": "2022-11-18T13:01:34Z", "repo": "excalidraw/excalidraw"}
+{"number": 5922, "title": "In the reconciliation function, what is the role of cursor and offset", "createdAt": "2022-11-23T08:51:02Z", "repo": "excalidraw/excalidraw"}
+{"number": 5945, "title": "What to do with git merge conflicts in .excalidraw files?", "createdAt": "2022-12-02T18:31:35Z", "repo": "excalidraw/excalidraw"}
+{"number": 5969, "title": "how to use placeholder for auto add figure with arrow ?", "createdAt": "2022-12-07T16:19:59Z", "repo": "excalidraw/excalidraw"}
+{"number": 5998, "title": "Can I change the appearance of the selected shape?", "createdAt": "2022-12-16T07:54:40Z", "repo": "excalidraw/excalidraw"}
+{"number": 6017, "title": "What does viewportCoordsToSceneCoords method do?", "createdAt": "2022-12-20T13:07:05Z", "repo": "excalidraw/excalidraw"}
+{"number": 6043, "title": "Frame (container) feature", "createdAt": "2022-12-29T14:38:01Z", "repo": "excalidraw/excalidraw"}
+{"number": 6057, "title": "Can I change 2nd and 3rd default font?", "createdAt": "2023-01-02T03:12:13Z", "repo": "excalidraw/excalidraw"}
+{"number": 6065, "title": "Quick Question on Margin and/or Padding with Text within an shape", "createdAt": "2023-01-04T13:03:41Z", "repo": "excalidraw/excalidraw"}
+{"number": 6082, "title": "Import SVG and then edit individual elements", "createdAt": "2023-01-08T11:43:32Z", "repo": "excalidraw/excalidraw"}
+{"number": 6083, "title": "Missing Stroke fill for basic shapes", "createdAt": "2023-01-08T13:26:28Z", "repo": "excalidraw/excalidraw"}
+{"number": 6087, "title": "feature request: Scroll-to-Zoom Option", "createdAt": "2023-01-09T06:09:04Z", "repo": "excalidraw/excalidraw"}
+{"number": 6113, "title": "Hope I can customize the sorting of the colors", "createdAt": "2023-01-14T08:55:49Z", "repo": "excalidraw/excalidraw"}
+{"number": 6120, "title": "autoexport png when exit", "createdAt": "2023-01-15T11:19:43Z", "repo": "excalidraw/excalidraw"}
+{"number": 6157, "title": "Feedback from Joe!", "createdAt": "2023-01-24T07:49:38Z", "repo": "excalidraw/excalidraw"}
+{"number": 6158, "title": "No-click/no-press drawing", "createdAt": "2023-01-24T14:24:31Z", "repo": "excalidraw/excalidraw"}
+{"number": 6206, "title": "buraya mı yazıyoruz?", "createdAt": "2023-02-07T23:24:39Z", "repo": "excalidraw/excalidraw"}
+{"number": 6234, "title": "How can I reference Excalidraw modules where import is not supported", "createdAt": "2023-02-13T15:39:06Z", "repo": "excalidraw/excalidraw"}
+{"number": 6236, "title": "Github Projects", "createdAt": "2023-02-13T19:55:24Z", "repo": "excalidraw/excalidraw"}
+{"number": 6253, "title": "Adding images to library", "createdAt": "2023-02-16T15:18:44Z", "repo": "excalidraw/excalidraw"}
+{"number": 6255, "title": "After loading a scene from JSON, the images don't render.", "createdAt": "2023-02-16T16:42:11Z", "repo": "excalidraw/excalidraw"}
+{"number": 6300, "title": "Zoom-in/scroll to topic/targetting draws", "createdAt": "2023-03-02T03:35:43Z", "repo": "excalidraw/excalidraw"}
+{"number": 6317, "title": "Excalidraw Docker Extension", "createdAt": "2023-03-05T11:15:57Z", "repo": "excalidraw/excalidraw"}
+{"number": 6324, "title": "load Excalidraw file as initialData", "createdAt": "2023-03-06T18:12:35Z", "repo": "excalidraw/excalidraw"}
+{"number": 6344, "title": "Handle events while clicking elements and support custom components", "createdAt": "2023-03-10T09:58:18Z", "repo": "excalidraw/excalidraw"}
+{"number": 6359, "title": "How to Mirror an object or group of objects", "createdAt": "2023-03-15T13:57:40Z", "repo": "excalidraw/excalidraw"}
+{"number": 6361, "title": "Why excalidraw does not use standard, open-source file format/extension?", "createdAt": "2023-03-16T08:59:16Z", "repo": "excalidraw/excalidraw"}
+{"number": 6378, "title": "What means of `mixed text` option in formula input?", "createdAt": "2023-03-19T13:45:26Z", "repo": "excalidraw/excalidraw"}
+{"number": 6381, "title": "Adding image to scene with Excalidraw Api", "createdAt": "2023-03-21T11:24:42Z", "repo": "excalidraw/excalidraw"}
+{"number": 6430, "title": "How to Save My Current Drawing", "createdAt": "2023-04-02T07:44:23Z", "repo": "excalidraw/excalidraw"}
+{"number": 6429, "title": "Support custom attribute in element", "createdAt": "2023-04-05T00:29:48Z", "repo": "excalidraw/excalidraw"}
+{"number": 6455, "title": "Determine running version", "createdAt": "2023-04-14T13:07:19Z", "repo": "excalidraw/excalidraw"}
+{"number": 6463, "title": "Frustrated about no auto-save and backup", "createdAt": "2023-04-16T10:38:48Z", "repo": "excalidraw/excalidraw"}
+{"number": 6487, "title": "Lost my data", "createdAt": "2023-04-18T15:20:44Z", "repo": "excalidraw/excalidraw"}
+{"number": 6494, "title": "Implementing Lasso Select - Looking for tips", "createdAt": "2023-04-20T03:02:39Z", "repo": "excalidraw/excalidraw"}
+{"number": 6535, "title": "Lost initial diagram before signup", "createdAt": "2023-04-29T06:38:30Z", "repo": "excalidraw/excalidraw"}
+{"number": 6537, "title": "Help to use excalidraw with html/js only", "createdAt": "2023-05-01T13:17:42Z", "repo": "excalidraw/excalidraw"}
+{"number": 6548, "title": "How to use import { Excalidraw } module in self-hosting html file ?", "createdAt": "2023-05-03T12:17:17Z", "repo": "excalidraw/excalidraw"}
+{"number": 6556, "title": "Is it possible to use JSX code when using Excalidraw in Browser ?", "createdAt": "2023-05-04T17:23:55Z", "repo": "excalidraw/excalidraw"}
+{"number": 6563, "title": "Change Default value for shape properties", "createdAt": "2023-05-05T23:16:41Z", "repo": "excalidraw/excalidraw"}
+{"number": 6569, "title": "Simple example on how to use Excalidraw in standalone (html/js) with Backend on PHP Server", "createdAt": "2023-05-08T18:01:43Z", "repo": "excalidraw/excalidraw"}
+{"number": 6617, "title": "How do you compile standalone excalidraw with webpack ?", "createdAt": "2023-05-24T11:51:28Z", "repo": "excalidraw/excalidraw"}
+{"number": 6629, "title": "Is it possible to add gif images in Excali draw?", "createdAt": "2023-05-28T16:29:15Z", "repo": "excalidraw/excalidraw"}
+{"number": 6642, "title": "Improvement idea", "createdAt": "2023-06-03T09:25:05Z", "repo": "excalidraw/excalidraw"}
+{"number": 6648, "title": "I accidentally cleared the canvas, is there a way to restore the previous drawing?", "createdAt": "2023-06-05T09:47:07Z", "repo": "excalidraw/excalidraw"}
+{"number": 6664, "title": "excalidraw.com Terms of Service", "createdAt": "2023-06-09T19:47:57Z", "repo": "excalidraw/excalidraw"}
+{"number": 6665, "title": "Using excalidraw.com for commercial purposes", "createdAt": "2023-06-09T20:04:19Z", "repo": "excalidraw/excalidraw"}
+{"number": 6676, "title": "Implementing Collaboration in <Excalidraw />", "createdAt": "2023-06-14T10:53:50Z", "repo": "excalidraw/excalidraw"}
+{"number": 6697, "title": "Adding custom element to toolbar", "createdAt": "2023-06-20T20:14:32Z", "repo": "excalidraw/excalidraw"}
+{"number": 6702, "title": "export from iframe?", "createdAt": "2023-06-21T15:01:33Z", "repo": "excalidraw/excalidraw"}
+{"number": 6715, "title": "Can I download an older version of Excalidraw that uses React 14?", "createdAt": "2023-06-23T14:18:00Z", "repo": "excalidraw/excalidraw"}
+{"number": 6732, "title": "Let your drawing move! I made motion-excalidraw, isn't cool?", "createdAt": "2023-06-30T16:02:46Z", "repo": "excalidraw/excalidraw"}
+{"number": 6765, "title": "Module parse failed: Unexpected character '' (1:4)", "createdAt": "2023-07-14T16:09:16Z", "repo": "excalidraw/excalidraw"}
+{"number": 6767, "title": "Offline", "createdAt": "2023-07-14T22:15:34Z", "repo": "excalidraw/excalidraw"}
+{"number": 6770, "title": "Embedding self hosted docker instance of excalidraw in a next js app route", "createdAt": "2023-07-15T12:31:35Z", "repo": "excalidraw/excalidraw"}
+{"number": 6795, "title": "How do I update scene on change?", "createdAt": "2023-07-21T16:28:01Z", "repo": "excalidraw/excalidraw"}
+{"number": 6829, "title": "File managment", "createdAt": "2023-07-30T06:08:07Z", "repo": "excalidraw/excalidraw"}
+{"number": 6855, "title": "excalidraw to gif", "createdAt": "2023-08-04T19:43:22Z", "repo": "excalidraw/excalidraw"}
+{"number": 6863, "title": "How about adding a feature for Format Copy from one element to another...", "createdAt": "2023-08-07T11:56:58Z", "repo": "excalidraw/excalidraw"}
+{"number": 6864, "title": "Move object ignoring all snapping", "createdAt": "2023-08-07T17:27:28Z", "repo": "excalidraw/excalidraw"}
+{"number": 6868, "title": "How to enable language menu?", "createdAt": "2023-08-08T12:27:18Z", "repo": "excalidraw/excalidraw"}
+{"number": 6870, "title": "Is there a way to search for a specific icon name in Excalidraw libraries?", "createdAt": "2023-08-10T13:10:05Z", "repo": "excalidraw/excalidraw"}
+{"number": 6871, "title": "I accidentally discovered a drawing tool called PDDON that is comparable to  Excalidraw. Let's take a look at how to use this drawing tool", "createdAt": "2023-08-10T17:56:21Z", "repo": "excalidraw/excalidraw"}
+{"number": 6875, "title": "How to increase loading speed of embedded links?", "createdAt": "2023-08-12T12:47:15Z", "repo": "excalidraw/excalidraw"}
+{"number": 6924, "title": "How to remove the embedded link to the dark exported image", "createdAt": "2023-08-23T04:30:11Z", "repo": "excalidraw/excalidraw"}
+{"number": 6928, "title": "Are deleted strokes useful ?", "createdAt": "2023-08-24T12:02:06Z", "repo": "excalidraw/excalidraw"}
+{"number": 7000, "title": "Resizable squares", "createdAt": "2023-09-16T21:11:38Z", "repo": "excalidraw/excalidraw"}
+{"number": 7013, "title": "Is there any way to get json data from excalidraw using javascript?", "createdAt": "2023-09-19T16:39:27Z", "repo": "excalidraw/excalidraw"}
+{"number": 7014, "title": "Is there any way to get json data from excalidraw using javascript?", "createdAt": "2023-09-19T16:51:36Z", "repo": "excalidraw/excalidraw"}
+{"number": 7056, "title": "Self-hosting installation", "createdAt": "2023-09-29T09:00:19Z", "repo": "excalidraw/excalidraw"}
+{"number": 7061, "title": "Is there any way to change the font of Normal text?", "createdAt": "2023-09-30T05:23:45Z", "repo": "excalidraw/excalidraw"}
+{"number": 7070, "title": "Weird new text behaviour - broken alignment", "createdAt": "2023-10-02T19:03:01Z", "repo": "excalidraw/excalidraw"}
+{"number": 7099, "title": "Draw individual shapes instead of completed editor <Excalidraw />", "createdAt": "2023-10-06T05:51:24Z", "repo": "excalidraw/excalidraw"}
+{"number": 7111, "title": "keyboard shortcuts as props", "createdAt": "2023-10-06T15:23:15Z", "repo": "excalidraw/excalidraw"}
+{"number": 7140, "title": "Where is Server Data Located?", "createdAt": "2023-10-12T14:29:49Z", "repo": "excalidraw/excalidraw"}
+{"number": 7183, "title": "Hide tools", "createdAt": "2023-10-23T21:44:58Z", "repo": "excalidraw/excalidraw"}
+{"number": 7184, "title": "Accessing Excalidraw icons when making a custom main menu", "createdAt": "2023-10-24T18:55:22Z", "repo": "excalidraw/excalidraw"}
+{"number": 7206, "title": "Is there a way to share a shape library with only my workspace co-workers?", "createdAt": "2023-10-30T09:27:16Z", "repo": "excalidraw/excalidraw"}
+{"number": 7209, "title": "Catching Ids of Library Items", "createdAt": "2023-10-30T14:37:28Z", "repo": "excalidraw/excalidraw"}
+{"number": 7215, "title": "Search text in embedded pdf", "createdAt": "2023-11-01T10:17:13Z", "repo": "excalidraw/excalidraw"}
+{"number": 7217, "title": "Help with excalidraw colab integration react code!", "createdAt": "2023-11-01T13:19:24Z", "repo": "excalidraw/excalidraw"}
+{"number": 7218, "title": "Feature Request - Dice Roller add-in or premium feature?", "createdAt": "2023-11-01T16:27:14Z", "repo": "excalidraw/excalidraw"}
+{"number": 7219, "title": "Updating ALLOWED_DOMAINS", "createdAt": "2023-11-01T16:40:15Z", "repo": "excalidraw/excalidraw"}
+{"number": 7261, "title": "How does the target parameter get set when browsing libraries from a standalone Excalidraw?", "createdAt": "2023-11-09T20:21:12Z", "repo": "excalidraw/excalidraw"}
+{"number": 7264, "title": "Usecase: Annotating and discussing papers or sections of books", "createdAt": "2023-11-10T13:13:38Z", "repo": "excalidraw/excalidraw"}
+{"number": 7266, "title": "Implement Live collaboration on top of <Excalidraw />", "createdAt": "2023-11-10T19:44:51Z", "repo": "excalidraw/excalidraw"}
+{"number": 7268, "title": "Excalidraw package - how can I detect when the library sidebar is opened and when a library has been installed?", "createdAt": "2023-11-11T08:12:25Z", "repo": "excalidraw/excalidraw"}
+{"number": 7290, "title": "Frame tool name-border", "createdAt": "2023-11-15T16:27:10Z", "repo": "excalidraw/excalidraw"}
+{"number": 7302, "title": "Rotate with pivot", "createdAt": "2023-11-17T07:45:30Z", "repo": "excalidraw/excalidraw"}
+{"number": 7318, "title": "What are all the steps to publish forked excalidraw package ?", "createdAt": "2023-11-20T07:00:20Z", "repo": "excalidraw/excalidraw"}
+{"number": 7342, "title": "Silly questions for npm package installations", "createdAt": "2023-11-25T21:53:56Z", "repo": "excalidraw/excalidraw"}
+{"number": 7350, "title": "Custom Components? Rendering an instance of Tiptap?", "createdAt": "2023-11-28T08:54:17Z", "repo": "excalidraw/excalidraw"}
+{"number": 7408, "title": "Open .excalidraw files from Android file manager?", "createdAt": "2023-12-07T13:20:03Z", "repo": "excalidraw/excalidraw"}
+{"number": 7411, "title": "How to make groupIds editable", "createdAt": "2023-12-08T05:03:16Z", "repo": "excalidraw/excalidraw"}
+{"number": 7413, "title": "Is there a discussion on the function of setting the frame background?", "createdAt": "2023-12-08T10:36:10Z", "repo": "excalidraw/excalidraw"}
+{"number": 7440, "title": "Tool bar", "createdAt": "2023-12-14T13:03:32Z", "repo": "excalidraw/excalidraw"}
+{"number": 7458, "title": "can i use excalidraw to build a whiteboard tool", "createdAt": "2023-12-18T14:17:32Z", "repo": "excalidraw/excalidraw"}
+{"number": 7472, "title": "Integrating in the NextJs", "createdAt": "2023-12-23T12:53:46Z", "repo": "excalidraw/excalidraw"}
+{"number": 7497, "title": "Hide the menu on the left side with CRTL", "createdAt": "2023-12-31T15:18:47Z", "repo": "excalidraw/excalidraw"}
+{"number": 7529, "title": "Do you know any voting or live polling solution for Excalidraw?", "createdAt": "2024-01-09T10:35:11Z", "repo": "excalidraw/excalidraw"}
+{"number": 7553, "title": "[IntelliJ Integration] How to restore images (binary files) with `updateScene` or else ?", "createdAt": "2024-01-12T14:36:34Z", "repo": "excalidraw/excalidraw"}
+{"number": 7574, "title": "Sample Excalidraw using javascript : how to exportBlob as image", "createdAt": "2024-01-17T10:58:58Z", "repo": "excalidraw/excalidraw"}
+{"number": 7580, "title": "How can I generate previews of library items for use in other UI components?", "createdAt": "2024-01-18T15:25:45Z", "repo": "excalidraw/excalidraw"}
+{"number": 7589, "title": "Save and load Canvas via JS", "createdAt": "2024-01-20T23:34:50Z", "repo": "excalidraw/excalidraw"}
+{"number": 7614, "title": "Feature request - animated arrow (connector)", "createdAt": "2024-01-26T22:52:15Z", "repo": "excalidraw/excalidraw"}
+{"number": 7688, "title": "Exporting the scene data from npm instance of excalidraw to Obsidian Excalidraw. Is it possible?", "createdAt": "2024-02-14T14:39:26Z", "repo": "excalidraw/excalidraw"}
+{"number": 7691, "title": "Petition to make hook arrowhead", "createdAt": "2024-02-15T00:47:26Z", "repo": "excalidraw/excalidraw"}
+{"number": 7705, "title": "Excalidraw with context path", "createdAt": "2024-02-19T16:45:41Z", "repo": "excalidraw/excalidraw"}
+{"number": 7740, "title": "Hide cursor in follow mode", "createdAt": "2024-03-01T13:49:40Z", "repo": "excalidraw/excalidraw"}
+{"number": 7746, "title": "Changing a Single Point from Sharp to Smooth (or Vice Versa)", "createdAt": "2024-03-04T20:36:39Z", "repo": "excalidraw/excalidraw"}
+{"number": 7773, "title": "Text box gets clipped at the bottom after too many newlines", "createdAt": "2024-03-13T00:52:53Z", "repo": "excalidraw/excalidraw"}
+{"number": 7789, "title": "feature request: sync theme with system theme", "createdAt": "2024-03-18T21:21:13Z", "repo": "excalidraw/excalidraw"}
+{"number": 7811, "title": "Excalidraw obsdian plugin is not working on onix boox Air 3C", "createdAt": "2024-03-25T16:17:24Z", "repo": "excalidraw/excalidraw"}
+{"number": 7836, "title": "How to set default zoom for elements?", "createdAt": "2024-04-02T03:57:53Z", "repo": "excalidraw/excalidraw"}
+{"number": 7837, "title": "I lost all my data in Excalidraw", "createdAt": "2024-04-02T08:44:24Z", "repo": "excalidraw/excalidraw"}
+{"number": 7862, "title": "Is there a way to snap objects to a grid like Gimp?", "createdAt": "2024-04-07T19:47:53Z", "repo": "excalidraw/excalidraw"}
+{"number": 7892, "title": "Excalidraw integration in NotesHub", "createdAt": "2024-04-14T21:53:29Z", "repo": "excalidraw/excalidraw"}
+{"number": 7905, "title": "[Feature Suggestion] Navigating huge mindmaps by replaceing object groups with one box as expand/collapse", "createdAt": "2024-04-17T12:13:34Z", "repo": "excalidraw/excalidraw"}
+{"number": 7906, "title": "How to Draw an Icon Button When an Element is Created on Excalidraw", "createdAt": "2024-04-17T17:12:58Z", "repo": "excalidraw/excalidraw"}
+{"number": 7954, "title": "Can we Create Animated Diagrams", "createdAt": "2024-04-25T08:07:26Z", "repo": "excalidraw/excalidraw"}
+{"number": 7960, "title": "Transcluded block text doesn't include link", "createdAt": "2024-04-27T14:23:32Z", "repo": "excalidraw/excalidraw"}
+{"number": 7965, "title": "Gifs images in diagrams?", "createdAt": "2024-04-29T20:32:35Z", "repo": "excalidraw/excalidraw"}
+{"number": 7986, "title": "move the stroke panel from left to right", "createdAt": "2024-05-06T11:42:52Z", "repo": "excalidraw/excalidraw"}
+{"number": 8011, "title": "Is the excalidraw plus sidebar included in this repo?", "createdAt": "2024-05-12T11:34:11Z", "repo": "excalidraw/excalidraw"}
+{"number": 8033, "title": "Is there anyone who can give advice on implementing line jumps?", "createdAt": "2024-05-19T11:56:35Z", "repo": "excalidraw/excalidraw"}
+{"number": 8074, "title": "how to use Excalidraw live collaboration in my nextjs app?", "createdAt": "2024-05-28T09:04:48Z", "repo": "excalidraw/excalidraw"}
+{"number": 8077, "title": "How can I use the convertToExcalidrawElements API to draw polygons?", "createdAt": "2024-05-29T09:08:04Z", "repo": "excalidraw/excalidraw"}
+{"number": 8083, "title": "How do I know if an element is deleted?", "createdAt": "2024-05-30T08:30:38Z", "repo": "excalidraw/excalidraw"}
+{"number": 8089, "title": "Is unstable_batchedUpdates still needed?", "createdAt": "2024-06-01T04:21:25Z", "repo": "excalidraw/excalidraw"}
+{"number": 8090, "title": "Export drawings to powerpoint as objects", "createdAt": "2024-06-01T21:52:15Z", "repo": "excalidraw/excalidraw"}
+{"number": 8091, "title": "Lag when drawing a line with pen tool", "createdAt": "2024-06-02T06:48:30Z", "repo": "excalidraw/excalidraw"}
+{"number": 8093, "title": "Suggestion : Make a scaling system for Measuring plans for engineer and architect", "createdAt": "2024-06-02T21:10:31Z", "repo": "excalidraw/excalidraw"}
+{"number": 8110, "title": "Trouble importing WelcomeScreen and MainMenu", "createdAt": "2024-06-08T18:32:00Z", "repo": "excalidraw/excalidraw"}
+{"number": 8121, "title": "Make the state management a Library", "createdAt": "2024-06-11T09:13:03Z", "repo": "excalidraw/excalidraw"}
+{"number": 8143, "title": "Is there a way to save the position and zooming where you left off in the excalidraw whenever you save/open the .excalidraw file?", "createdAt": "2024-06-17T10:01:50Z", "repo": "excalidraw/excalidraw"}
+{"number": 8163, "title": "Using Excalidraw React build in a vanilla JS application", "createdAt": "2024-06-21T19:02:25Z", "repo": "excalidraw/excalidraw"}
+{"number": 8173, "title": "Collaboration feature In Excalidraw Plugin", "createdAt": "2024-06-25T11:26:31Z", "repo": "excalidraw/excalidraw"}
+{"number": 8186, "title": "Does the excalidraw Support Custom Elements?", "createdAt": "2024-06-27T19:24:47Z", "repo": "excalidraw/excalidraw"}
+{"number": 8192, "title": "Excalidraw+: Disable Image Downscale", "createdAt": "2024-07-01T05:34:08Z", "repo": "excalidraw/excalidraw"}
+{"number": 8207, "title": "How to build @excalidraw/excalidraw package", "createdAt": "2024-07-05T08:01:43Z", "repo": "excalidraw/excalidraw"}
+{"number": 8213, "title": "Option to add title to svg to make key words searchable in GitHub", "createdAt": "2024-07-06T15:14:33Z", "repo": "excalidraw/excalidraw"}
+{"number": 8217, "title": "Adding a search bar in the library section", "createdAt": "2024-07-08T07:33:28Z", "repo": "excalidraw/excalidraw"}
+{"number": 8239, "title": "local  selt hosted AI", "createdAt": "2024-07-14T09:26:44Z", "repo": "excalidraw/excalidraw"}
+{"number": 8270, "title": "Add images to libraries", "createdAt": "2024-07-22T14:52:52Z", "repo": "excalidraw/excalidraw"}
+{"number": 8272, "title": "Is there any expectations when the new library version will be released?", "createdAt": "2024-07-23T04:08:22Z", "repo": "excalidraw/excalidraw"}
+{"number": 8277, "title": "Feature Request: command to change shape already drawn.", "createdAt": "2024-07-24T02:19:26Z", "repo": "excalidraw/excalidraw"}
+{"number": 8278, "title": "Feature Request: Text Highlight Feature", "createdAt": "2024-07-24T02:23:07Z", "repo": "excalidraw/excalidraw"}
+{"number": 8288, "title": "How to append images from Imgur with Obsidian Imgur plugin", "createdAt": "2024-07-27T13:17:04Z", "repo": "excalidraw/excalidraw"}
+{"number": 8289, "title": "Please add double arrow, thanks", "createdAt": "2024-07-27T14:05:08Z", "repo": "excalidraw/excalidraw"}
+{"number": 8292, "title": "Share slides without download option", "createdAt": "2024-07-29T10:58:02Z", "repo": "excalidraw/excalidraw"}
+{"number": 8305, "title": "Using Liveblocks for collaboration", "createdAt": "2024-08-01T08:15:26Z", "repo": "excalidraw/excalidraw"}
+{"number": 8307, "title": "Set up excalidraw and excalidraw-room on an EC2 instance and proxy the app using Cloudflare", "createdAt": "2024-08-01T14:02:27Z", "repo": "excalidraw/excalidraw"}
+{"number": 8311, "title": "how can i change the font?", "createdAt": "2024-08-02T10:52:33Z", "repo": "excalidraw/excalidraw"}
+{"number": 8319, "title": "Custom Shortcuts for Tool Selection", "createdAt": "2024-08-04T02:58:57Z", "repo": "excalidraw/excalidraw"}
+{"number": 8370, "title": "Choose Arrow type", "createdAt": "2024-08-13T04:41:53Z", "repo": "excalidraw/excalidraw"}
+{"number": 8405, "title": "how to open my dialog when I click library open event", "createdAt": "2024-08-21T06:55:44Z", "repo": "excalidraw/excalidraw"}
+{"number": 8414, "title": "how to create a table", "createdAt": "2024-08-22T14:41:21Z", "repo": "excalidraw/excalidraw"}
+{"number": 8432, "title": "when I share a link with someone, is that a snapshot ?", "createdAt": "2024-08-26T22:24:50Z", "repo": "excalidraw/excalidraw"}
+{"number": 8447, "title": "Set max items per minute?", "createdAt": "2024-08-30T11:50:14Z", "repo": "excalidraw/excalidraw"}
+{"number": 8466, "title": "Lack of snapping when drawing a line to another existing line.", "createdAt": "2024-09-04T12:56:54Z", "repo": "excalidraw/excalidraw"}
+{"number": 8487, "title": "Excalidraw live collaboration", "createdAt": "2024-09-10T18:30:34Z", "repo": "excalidraw/excalidraw"}
+{"number": 8519, "title": "Idea / Feature Request: Presentation Mode for Shared Sessions", "createdAt": "2024-09-18T08:10:27Z", "repo": "excalidraw/excalidraw"}
+{"number": 8553, "title": "Changing the Default Grid Step to 1 in Excalidraw for Browser Integration", "createdAt": "2024-09-27T05:40:23Z", "repo": "excalidraw/excalidraw"}
+{"number": 8557, "title": "Publishing excalidrawing to digitalgarden but images are not loading how to fix?!", "createdAt": "2024-09-27T17:54:04Z", "repo": "excalidraw/excalidraw"}
+{"number": 8570, "title": "Disabling the 'add text' feature on double-click or double-tap.", "createdAt": "2024-09-30T08:17:28Z", "repo": "excalidraw/excalidraw"}
+{"number": 8579, "title": "sloppiness not work", "createdAt": "2024-10-02T05:36:44Z", "repo": "excalidraw/excalidraw"}
+{"number": 8599, "title": "The excalidrawRef is always empty.", "createdAt": "2024-10-05T04:55:07Z", "repo": "excalidraw/excalidraw"}
+{"number": 8734, "title": "vercel部署ui出错", "createdAt": "2024-10-06T18:00:34Z", "repo": "excalidraw/excalidraw"}
+{"number": 8608, "title": "How to update only one element in the scene", "createdAt": "2024-10-07T20:15:43Z", "repo": "excalidraw/excalidraw"}
+{"number": 8623, "title": "Please don't  send spam mails", "createdAt": "2024-10-10T08:59:05Z", "repo": "excalidraw/excalidraw"}
+{"number": 8651, "title": "Importing Illustrations from Tools like Illustrator or Affinity Designer into Excalidraw with Editable Colors", "createdAt": "2024-10-16T21:29:01Z", "repo": "excalidraw/excalidraw"}
+{"number": 8655, "title": "[Request] - When is the next release?", "createdAt": "2024-10-17T03:46:45Z", "repo": "excalidraw/excalidraw"}
+{"number": 8663, "title": "Hebrew characters?", "createdAt": "2024-10-18T05:43:56Z", "repo": "excalidraw/excalidraw"}
+{"number": 8667, "title": "edit question", "createdAt": "2024-10-18T08:22:23Z", "repo": "excalidraw/excalidraw"}
+{"number": 8711, "title": "Update billing details", "createdAt": "2024-10-25T04:31:01Z", "repo": "excalidraw/excalidraw"}
+{"number": 8721, "title": "What about adding animated SVG support in Excalidraw?", "createdAt": "2024-10-26T12:29:40Z", "repo": "excalidraw/excalidraw"}
+{"number": 8744, "title": "Issues embedding Excalidraw into ReactFlow.", "createdAt": "2024-11-01T17:50:22Z", "repo": "excalidraw/excalidraw"}
+{"number": 8749, "title": "Restore unsaved scene", "createdAt": "2024-11-03T12:07:17Z", "repo": "excalidraw/excalidraw"}
+{"number": 8764, "title": "C4 Model Diagrams in Excalidraw", "createdAt": "2024-11-05T21:18:02Z", "repo": "excalidraw/excalidraw"}
+{"number": 8775, "title": "navigation bar got bigger, can't fix it now", "createdAt": "2024-11-07T15:26:27Z", "repo": "excalidraw/excalidraw"}
+{"number": 8778, "title": "more fill options", "createdAt": "2024-11-08T02:53:42Z", "repo": "excalidraw/excalidraw"}
+{"number": 8779, "title": "Using old fonts", "createdAt": "2024-11-08T12:13:07Z", "repo": "excalidraw/excalidraw"}
+{"number": 8809, "title": "How can I remove footer, main menu, help icon and lock the canvas if viewModeEnabled is true?", "createdAt": "2024-11-14T16:25:39Z", "repo": "excalidraw/excalidraw"}
+{"number": 8810, "title": "Excalifont: add support for Kyrgyz characters", "createdAt": "2024-11-15T05:38:32Z", "repo": "excalidraw/excalidraw"}
+{"number": 8815, "title": "Option to automatically re-organize lines", "createdAt": "2024-11-17T10:14:26Z", "repo": "excalidraw/excalidraw"}
+{"number": 8816, "title": "UI scaling", "createdAt": "2024-11-18T05:43:25Z", "repo": "excalidraw/excalidraw"}
+{"number": 8819, "title": "Wireframe Generation", "createdAt": "2024-11-18T14:00:33Z", "repo": "excalidraw/excalidraw"}
+{"number": 8820, "title": "How open an all project view on start", "createdAt": "2024-11-18T14:04:21Z", "repo": "excalidraw/excalidraw"}
+{"number": 8827, "title": "How to self host css for theme", "createdAt": "2024-11-19T17:36:13Z", "repo": "excalidraw/excalidraw"}
+{"number": 8835, "title": "How to use one domain for both excalidraw and excalidraw-room?", "createdAt": "2024-11-20T16:11:02Z", "repo": "excalidraw/excalidraw"}
+{"number": 8836, "title": "Why it is not working in my server the AI Tool and the sidebar it is not opening", "createdAt": "2024-11-20T18:23:07Z", "repo": "excalidraw/excalidraw"}
+{"number": 8869, "title": "Add a create new in options.", "createdAt": "2024-12-03T08:00:43Z", "repo": "excalidraw/excalidraw"}
+{"number": 8889, "title": "Diagram as a Code", "createdAt": "2024-12-06T11:06:04Z", "repo": "excalidraw/excalidraw"}
+{"number": 8913, "title": "Max size", "createdAt": "2024-12-13T10:01:59Z", "repo": "excalidraw/excalidraw"}
+{"number": 8919, "title": "Is step-by-step playback capability available?", "createdAt": "2024-12-16T17:24:02Z", "repo": "excalidraw/excalidraw"}
+{"number": 8920, "title": "Please change duplicate to auto selected new duplicated drawing", "createdAt": "2024-12-16T17:32:39Z", "repo": "excalidraw/excalidraw"}
+{"number": 8922, "title": "Why does the crosshair disappear when I use the digital pen? How can I make the cursor always visible when I'm using a digital pen?", "createdAt": "2024-12-17T07:49:00Z", "repo": "excalidraw/excalidraw"}
+{"number": 8930, "title": "is there any way to hide this menu ?", "createdAt": "2024-12-19T19:30:35Z", "repo": "excalidraw/excalidraw"}
+{"number": 8931, "title": "Why does the font file provided by the website not support Chinese?", "createdAt": "2024-12-20T02:16:41Z", "repo": "excalidraw/excalidraw"}
+{"number": 8959, "title": "how to know whether `AppState` is changed using `onPointerUp` API", "createdAt": "2024-12-28T17:25:33Z", "repo": "excalidraw/excalidraw"}
+{"number": 8966, "title": "Can’t access my Excalidraw file anymore.", "createdAt": "2024-12-31T16:13:36Z", "repo": "excalidraw/excalidraw"}
+{"number": 8987, "title": "How to use eraser to erase handwriting on pictures?", "createdAt": "2025-01-07T03:02:27Z", "repo": "excalidraw/excalidraw"}
+{"number": 8993, "title": "Typescript Example", "createdAt": "2025-01-08T20:05:39Z", "repo": "excalidraw/excalidraw"}
+{"number": 9012, "title": "Pre-Loading Data For Excalidraw", "createdAt": "2025-01-14T21:08:52Z", "repo": "excalidraw/excalidraw"}
+{"number": 9024, "title": "New release?", "createdAt": "2025-01-17T16:38:09Z", "repo": "excalidraw/excalidraw"}
+{"number": 9102, "title": "Support for Symbols in AI-Generated Text-to-Diagram in Excalidraw", "createdAt": "2025-02-06T12:53:47Z", "repo": "excalidraw/excalidraw"}
+{"number": 9103, "title": "Explain the working of the code base", "createdAt": "2025-02-06T12:57:22Z", "repo": "excalidraw/excalidraw"}
+{"number": 9111, "title": "Excalidraw with configurable storage for a fully self-hosted solution", "createdAt": "2025-02-08T16:41:03Z", "repo": "excalidraw/excalidraw"}
+{"number": 9113, "title": "Mode to automatically descrease font when text no longer fit rectangle?", "createdAt": "2025-02-08T21:44:00Z", "repo": "excalidraw/excalidraw"}
+{"number": 9133, "title": "About  App.tsx component", "createdAt": "2025-02-13T04:41:34Z", "repo": "excalidraw/excalidraw"}
+{"number": 9147, "title": "Excalifont: Two \"f\" together results in extra whitespace (pdf/font-kit)", "createdAt": "2025-02-16T20:18:35Z", "repo": "excalidraw/excalidraw"}
+{"number": 9153, "title": "Feature request: Support arrows connecting to other arrows", "createdAt": "2025-02-17T10:20:55Z", "repo": "excalidraw/excalidraw"}
+{"number": 9155, "title": "change the default folder in vercel.json", "createdAt": "2025-02-18T03:08:35Z", "repo": "excalidraw/excalidraw"}
+{"number": 9157, "title": "how to embed Excalidraw in Docusaurus", "createdAt": "2025-02-18T11:13:30Z", "repo": "excalidraw/excalidraw"}
+{"number": 9178, "title": "Default settings / behavior", "createdAt": "2025-02-24T02:43:01Z", "repo": "excalidraw/excalidraw"}
+{"number": 9184, "title": "broken images?", "createdAt": "2025-02-24T23:28:18Z", "repo": "excalidraw/excalidraw"}
+{"number": 9185, "title": "Can someone verify whether my approach is right?", "createdAt": "2025-02-25T02:44:38Z", "repo": "excalidraw/excalidraw"}
+{"number": 9192, "title": "Request : Add edit line for basic shape", "createdAt": "2025-02-26T09:15:01Z", "repo": "excalidraw/excalidraw"}
+{"number": 9206, "title": "Custom element types", "createdAt": "2025-03-01T10:17:19Z", "repo": "excalidraw/excalidraw"}
+{"number": 9215, "title": "Customizing Pen Options & Limiting Input to Apple Pencil", "createdAt": "2025-03-03T10:18:07Z", "repo": "excalidraw/excalidraw"}
+{"number": 9216, "title": "Unable to kill \"excalidraw.orb.local\" process", "createdAt": "2025-03-03T10:26:46Z", "repo": "excalidraw/excalidraw"}
+{"number": 9222, "title": "I use a wacom pad under Linux and have problems in chrome based browsers", "createdAt": "2025-03-04T22:46:18Z", "repo": "excalidraw/excalidraw"}
+{"number": 9232, "title": "While im able to save the canvas elements to db, I am unable to apply them on reload.", "createdAt": "2025-03-07T06:06:47Z", "repo": "excalidraw/excalidraw"}
+{"number": 9239, "title": "Embedding Excalidraw in a Custom Website", "createdAt": "2025-03-10T04:26:51Z", "repo": "excalidraw/excalidraw"}
+{"number": 9249, "title": "Forked Excalidraw package renders without correct css", "createdAt": "2025-03-11T20:58:20Z", "repo": "excalidraw/excalidraw"}
+{"number": 9252, "title": "How about an Element Extension System?", "createdAt": "2025-03-12T06:40:07Z", "repo": "excalidraw/excalidraw"}
+{"number": 9280, "title": "Excalidraw library not loading rectangles with label correctly", "createdAt": "2025-03-18T09:57:51Z", "repo": "excalidraw/excalidraw"}
+{"number": 9303, "title": "MainMenu.DefaultItems.CommandPalette in MainMenu doesn't work", "createdAt": "2025-03-26T09:43:02Z", "repo": "excalidraw/excalidraw"}
+{"number": 9306, "title": "Feature Request: Layer/Element Visibility Toggle Within Frames", "createdAt": "2025-03-26T20:10:59Z", "repo": "excalidraw/excalidraw"}
+{"number": 9309, "title": "Lost part of the whiteboard", "createdAt": "2025-03-27T13:50:56Z", "repo": "excalidraw/excalidraw"}
+{"number": 9311, "title": "How to Edit the Main Hamburger Menu Items?", "createdAt": "2025-03-27T17:19:43Z", "repo": "excalidraw/excalidraw"}
+{"number": 9325, "title": "Curious for few missing features.", "createdAt": "2025-04-01T08:15:14Z", "repo": "excalidraw/excalidraw"}
+{"number": 9355, "title": "Web embedding support for Claude's Artifact", "createdAt": "2025-04-08T03:55:09Z", "repo": "excalidraw/excalidraw"}
+{"number": 9359, "title": "cytoscape.js library with excalidraw", "createdAt": "2025-04-08T16:27:26Z", "repo": "excalidraw/excalidraw"}
+{"number": 9376, "title": "Feature Request: Pan and Select with mouse", "createdAt": "2025-04-12T07:52:04Z", "repo": "excalidraw/excalidraw"}
+{"number": 9395, "title": "Is it legal to implement an auth on top of it and publish", "createdAt": "2025-04-15T08:55:20Z", "repo": "excalidraw/excalidraw"}
+{"number": 9428, "title": "Download support Koranex califont.", "createdAt": "2025-04-22T16:56:31Z", "repo": "excalidraw/excalidraw"}
+{"number": 9445, "title": "How do I fork a line?", "createdAt": "2025-04-28T06:52:06Z", "repo": "excalidraw/excalidraw"}
+{"number": 9507, "title": "How to do Excalidraw to SVG from server side.", "createdAt": "2025-05-11T14:49:34Z", "repo": "excalidraw/excalidraw"}
+{"number": 9526, "title": "delete free shared board", "createdAt": "2025-05-14T21:55:02Z", "repo": "excalidraw/excalidraw"}
+{"number": 9531, "title": "How do i get the UI scaled properly and canvas sized properly?", "createdAt": "2025-05-15T18:35:50Z", "repo": "excalidraw/excalidraw"}
+{"number": 9551, "title": "Rendering Cloudflare R2 Bucket Image URLs in Excalidraw", "createdAt": "2025-05-21T03:49:38Z", "repo": "excalidraw/excalidraw"}
+{"number": 9564, "title": "Is there anyway to sync files from Mac/iOS to PC?", "createdAt": "2025-05-23T19:24:44Z", "repo": "excalidraw/excalidraw"}
+{"number": 9575, "title": "How to drag & drop custom elements into Excalidraw as real shapes?", "createdAt": "2025-05-25T17:38:02Z", "repo": "excalidraw/excalidraw"}
+{"number": 9589, "title": "Better approach on handling freehand drawing", "createdAt": "2025-05-28T14:30:45Z", "repo": "excalidraw/excalidraw"}
+{"number": 9640, "title": "No response after subscription – how can I get help?", "createdAt": "2025-06-09T22:39:16Z", "repo": "excalidraw/excalidraw"}
+{"number": 9659, "title": "Information on how rendering of lines and storing of lines are maden", "createdAt": "2025-06-15T19:06:43Z", "repo": "excalidraw/excalidraw"}
+{"number": 9666, "title": "MCP?", "createdAt": "2025-06-18T06:36:17Z", "repo": "excalidraw/excalidraw"}
+{"number": 9692, "title": "How can I swap ctrl+enter and enter action in the texttool ?", "createdAt": "2025-06-23T21:48:04Z", "repo": "excalidraw/excalidraw"}
+{"number": 9701, "title": "web page size", "createdAt": "2025-06-27T07:30:18Z", "repo": "excalidraw/excalidraw"}
+{"number": 9702, "title": "Sponsoring via Github Sponsors", "createdAt": "2025-06-27T13:46:51Z", "repo": "excalidraw/excalidraw"}
+{"number": 9749, "title": "Simple table", "createdAt": "2025-07-15T22:17:29Z", "repo": "excalidraw/excalidraw"}
+{"number": 9767, "title": "Embedding Excalidraw into Next.JS fails", "createdAt": "2025-07-21T12:11:05Z", "repo": "excalidraw/excalidraw"}
+{"number": 9774, "title": "Error! Failed to fetch", "createdAt": "2025-07-23T02:46:53Z", "repo": "excalidraw/excalidraw"}
+{"number": 9823, "title": "Finding and Replacing text", "createdAt": "2025-08-03T06:17:52Z", "repo": "excalidraw/excalidraw"}
+{"number": 9833, "title": "How to build and use the ES module", "createdAt": "2025-08-05T20:34:12Z", "repo": "excalidraw/excalidraw"}
+{"number": 9857, "title": "How to make image responsive in different screens ?", "createdAt": "2025-08-12T11:25:40Z", "repo": "excalidraw/excalidraw"}
+{"number": 9862, "title": "Export excalidraw back to mermaid", "createdAt": "2025-08-13T09:13:26Z", "repo": "excalidraw/excalidraw"}
+{"number": 9866, "title": "Help with auto exporting drawings to PNG", "createdAt": "2025-08-13T15:30:10Z", "repo": "excalidraw/excalidraw"}
+{"number": 9886, "title": "Daro19888@onet.pl", "createdAt": "2025-08-19T01:16:36Z", "repo": "excalidraw/excalidraw"}
+{"number": 9909, "title": "Can we add angles to the elements?", "createdAt": "2025-08-25T09:56:39Z", "repo": "excalidraw/excalidraw"}
+{"number": 9922, "title": "Please add locks to fix elements doing a dance show when you don't even need that tool", "createdAt": "2025-08-28T13:52:55Z", "repo": "excalidraw/excalidraw"}
+{"number": 9924, "title": "Looking for new good first issues..", "createdAt": "2025-08-29T14:40:10Z", "repo": "excalidraw/excalidraw"}
+{"number": 9926, "title": "Is LaTeX supported (or mathjax)?", "createdAt": "2025-08-30T08:40:52Z", "repo": "excalidraw/excalidraw"}
+{"number": 9950, "title": "What the onUserFollow function is for?(it's not documented)", "createdAt": "2025-09-07T07:31:05Z", "repo": "excalidraw/excalidraw"}
+{"number": 9953, "title": "Seeking Contribution Opportunities - Open to Suggestions!", "createdAt": "2025-09-08T09:52:14Z", "repo": "excalidraw/excalidraw"}
+{"number": 9972, "title": "Desktop version", "createdAt": "2025-09-13T04:49:57Z", "repo": "excalidraw/excalidraw"}
+{"number": 9973, "title": "Desktop version", "createdAt": "2025-09-13T04:49:57Z", "repo": "excalidraw/excalidraw"}
+{"number": 10002, "title": "Navbar disappear randomly", "createdAt": "2025-09-22T02:39:54Z", "repo": "excalidraw/excalidraw"}
+{"number": 10017, "title": "Remove Some Tools", "createdAt": "2025-09-23T17:40:50Z", "repo": "excalidraw/excalidraw"}
+{"number": 10019, "title": "How are my drawings stored ?", "createdAt": "2025-09-24T07:56:23Z", "repo": "excalidraw/excalidraw"}
+{"number": 10028, "title": "Canvas Exceeds Max Size", "createdAt": "2025-09-27T11:55:40Z", "repo": "excalidraw/excalidraw"}
+{"number": 10035, "title": "Help with installation", "createdAt": "2025-09-29T12:29:13Z", "repo": "excalidraw/excalidraw"}
+{"number": 10048, "title": "How to enable the command palette when using the excalidraw package", "createdAt": "2025-10-02T06:28:45Z", "repo": "excalidraw/excalidraw"}
+{"number": 10174, "title": "How to allow link to be inserted inside textbox element?", "createdAt": "2025-10-14T08:14:56Z", "repo": "excalidraw/excalidraw"}
+{"number": 10242, "title": "Creating personas in Excalidraw", "createdAt": "2025-10-24T10:14:54Z", "repo": "excalidraw/excalidraw"}
+{"number": 10306, "title": "Weird behavior with programmatically created elements.", "createdAt": "2025-11-09T11:32:57Z", "repo": "excalidraw/excalidraw"}
+{"number": 10313, "title": "Where is Excalidraw Map? like tldraw map?", "createdAt": "2025-11-11T01:07:22Z", "repo": "excalidraw/excalidraw"}
+{"number": 10329, "title": "Link to target not working as desired", "createdAt": "2025-11-13T00:06:46Z", "repo": "excalidraw/excalidraw"}
+{"number": 10336, "title": "Option for emoji insertion in more tools section.", "createdAt": "2025-11-14T14:59:15Z", "repo": "excalidraw/excalidraw"}
+{"number": 10337, "title": "[Idea/Feature] Excalidraw as rendering engine for mermaid diagrams?", "createdAt": "2025-11-14T16:40:05Z", "repo": "excalidraw/excalidraw"}
+{"number": 10346, "title": "[Feature Request] Textbox Resizing Behavior Improvement", "createdAt": "2025-11-17T09:58:07Z", "repo": "excalidraw/excalidraw"}
+{"number": 10408, "title": "[Feature request] Button on Toolbar (or sticky always onscreen) for quick jump to linked object", "createdAt": "2025-11-26T10:58:44Z", "repo": "excalidraw/excalidraw"}
+{"number": 10478, "title": "Can't create straight lines using Shift > Line anymore", "createdAt": "2025-12-07T14:05:23Z", "repo": "excalidraw/excalidraw"}
+{"number": 10500, "title": "Can I split a line at vertex?", "createdAt": "2025-12-11T13:24:19Z", "repo": "excalidraw/excalidraw"}
+{"number": 10503, "title": "Built a Durable Object backend for real time Excalidraw sync", "createdAt": "2025-12-12T18:44:41Z", "repo": "excalidraw/excalidraw"}
+{"number": 10580, "title": "Embedded frames", "createdAt": "2025-12-29T18:17:07Z", "repo": "excalidraw/excalidraw"}
+{"number": 10665, "title": "excalidraw没有开启新画布的功能吗？", "createdAt": "2026-01-17T02:39:38Z", "repo": "excalidraw/excalidraw"}
+{"number": 10686, "title": "How do you manage to track movements outside the screen?", "createdAt": "2026-01-22T16:21:10Z", "repo": "excalidraw/excalidraw"}
+{"number": 10687, "title": "How to change the width and height of an object manually", "createdAt": "2026-01-22T18:14:41Z", "repo": "excalidraw/excalidraw"}
+{"number": 10757, "title": "Excalidraw Desktop app with multi‑tab support", "createdAt": "2026-02-06T22:44:03Z", "repo": "excalidraw/excalidraw"}
+{"number": 10776, "title": "How to set roundness of retangle?", "createdAt": "2026-02-13T03:08:43Z", "repo": "excalidraw/excalidraw"}
+{"number": 10785, "title": "This is an updated standalone version of Excalidraw for PHP that you can integrate into your web application using HTML/JavaScript with a PHP backend.", "createdAt": "2026-02-16T07:32:47Z", "repo": "excalidraw/excalidraw"}
+{"number": 10852, "title": "Can't do anything", "createdAt": "2026-02-26T13:03:32Z", "repo": "excalidraw/excalidraw"}
+{"number": 10853, "title": "Missing translation for sign up and preferences ?", "createdAt": "2026-02-26T20:57:45Z", "repo": "excalidraw/excalidraw"}
+{"number": 10865, "title": "youtube thumbnail upon ctrl+v", "createdAt": "2026-02-28T22:27:14Z", "repo": "excalidraw/excalidraw"}
+{"number": 10866, "title": "[Excalifont] [Feature Request] Add support for monospaced numbers (`font-feature-settings: \"tnum\";`)", "createdAt": "2026-02-28T22:50:23Z", "repo": "excalidraw/excalidraw"}
+{"number": 10951, "title": "Live Collaboration - Your Name (Can I configure it somehow)", "createdAt": "2026-03-13T18:46:35Z", "repo": "excalidraw/excalidraw"}
+{"number": 10959, "title": "Is there a way to use the Right Click Menu to Insert a Excalidraw Drawing", "createdAt": "2026-03-15T16:18:20Z", "repo": "excalidraw/excalidraw"}
+{"number": 10960, "title": "Tailwind 4 + Vite: Excalidraw canvas renders at height 0px — cause and fix", "createdAt": "2026-03-15T17:55:17Z", "repo": "excalidraw/excalidraw"}
+{"number": 10966, "title": "Vinopera : building a workspace OS on top of Excalidraw", "createdAt": "2026-03-16T21:13:51Z", "repo": "excalidraw/excalidraw"}
+{"number": 10973, "title": "A cloud tool", "createdAt": "2026-03-17T21:57:25Z", "repo": "excalidraw/excalidraw"}
+{"number": 11014, "title": "[Feature/plugin request] infinite zoom for Excalidraw", "createdAt": "2026-03-23T03:11:01Z", "repo": "excalidraw/excalidraw"}
+{"number": 11073, "title": "Can I programmatically trace a path with the laser tool?", "createdAt": "2026-03-27T22:33:33Z", "repo": "excalidraw/excalidraw"}
+{"number": 11093, "title": "Thx a lot for excalifont", "createdAt": "2026-03-31T20:11:37Z", "repo": "excalidraw/excalidraw"}
+{"number": 11100, "title": "Proposal: Automated \"Batch Export by Group\" for Modular Documentation (Mermaid Workflow)", "createdAt": "2026-04-02T16:50:47Z", "repo": "excalidraw/excalidraw"}
+{"number": 11108, "title": "Excalidraw Plus MCP Alpha Feedback: 39/39 Tests Passed, 4 Feature Requests", "createdAt": "2026-04-04T19:08:45Z", "repo": "excalidraw/excalidraw"}
+{"number": 11110, "title": "ExcaliMath — open-source plugin that adds LaTeX equations, function graphs, and STEM shape libraries to Excalidraw", "createdAt": "2026-04-05T05:18:40Z", "repo": "excalidraw/excalidraw"}
+{"number": 11126, "title": "Contributing", "createdAt": "2026-04-08T16:02:14Z", "repo": "excalidraw/excalidraw"}
+{"number": 11216, "title": "Unofficial Excalidraw Desktop", "createdAt": "2026-04-21T14:18:59Z", "repo": "excalidraw/excalidraw"}
+{"number": 11259, "title": "[Request?] Zoning or user-edependent edit rights.", "createdAt": "2026-04-29T17:04:47Z", "repo": "excalidraw/excalidraw"}
+{"number": 11428, "title": "Is it possible to get crisp edges for images for things such as pixel art?", "createdAt": "2026-06-01T11:28:39Z", "repo": "excalidraw/excalidraw"}
+{"number": 11443, "title": "Table creator script.", "createdAt": "2026-06-04T22:59:19Z", "repo": "excalidraw/excalidraw"}
+{"number": 11538, "title": "Bind a text view to a property.", "createdAt": "2026-06-22T20:54:55Z", "repo": "excalidraw/excalidraw"}
+{"number": 11579, "title": "Excalidraw Agent", "createdAt": "2026-06-29T18:03:42Z", "repo": "excalidraw/excalidraw"}

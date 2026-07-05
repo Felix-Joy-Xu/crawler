@@ -22085,10 +22085,11 @@
   ],
   "pr_idx": 12168,
   "issue_idx": 9342,
-  "disc_idx": 480,
+  "disc_idx": 567,
   "failed_pr": [],
   "failed_issue": [
     24420
   ],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
