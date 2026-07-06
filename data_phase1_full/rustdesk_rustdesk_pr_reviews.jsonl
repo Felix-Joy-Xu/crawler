@@ -1,0 +1,5 @@
+{"repo": "rustdesk/rustdesk", "pr_number": 430, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-03-13T10:53:57Z", "author": "rustdesk"}
+{"repo": "rustdesk/rustdesk", "pr_number": 430, "type": "review_comment", "body": "问题在于VideoService只创建一次，中间插拔显示器就有问题了", "createdAt": "2022-03-13T10:53:57Z", "author": "rustdesk"}
+{"repo": "rustdesk/rustdesk", "pr_number": 445, "type": "review", "body": "My bad, I accidentally deleted the commit. ", "state": "COMMENTED", "createdAt": "2022-04-11T02:34:55Z", "author": "Redion"}
+{"repo": "rustdesk/rustdesk", "pr_number": 759, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-06-13T13:12:54Z", "author": "Kingtous"}
+{"repo": "rustdesk/rustdesk", "pr_number": 759, "type": "review_comment", "body": "每个连接页面单独一个FFI实例。目前看来比较冗余，后期需要抽取Session相关的model出来。现在这样也可以正常使用。", "createdAt": "2022-06-13T13:12:53Z", "author": "Kingtous"}
