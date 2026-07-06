@@ -2607,9 +2607,10 @@
     5387
   ],
   "pr_idx": 664,
-  "issue_idx": 680,
+  "issue_idx": 1938,
   "disc_idx": 0,
   "failed_pr": [],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }

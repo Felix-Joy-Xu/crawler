@@ -1,0 +1,7 @@
+{"body": "nice", "createdAt": "2022-03-06T06:20:52Z", "author": "kingdemxo", "repo": "2dust/v2rayN", "pr_number": 2077}
+{"body": "注意，垃圾文件不应该合并到代码工程中，可以添加到 `.gitignore` 中", "createdAt": "2022-03-05T16:50:10Z", "author": "heartacker", "repo": "2dust/v2rayN", "pr_number": 2082}
+{"body": "已经按照 Microsoft 建议的方案更新了 .gitignore 文件，并且对多余的文件进行了删除。", "createdAt": "2022-03-05T17:29:08Z", "author": "themerror", "repo": "2dust/v2rayN", "pr_number": 2082}
+{"body": "确认所有不应该上传的用户文件如 `*.user *.suo` 等已被删除。", "createdAt": "2022-03-05T17:58:37Z", "author": "themerror", "repo": "2dust/v2rayN", "pr_number": 2082}
+{"body": "感谢您的PR！\r\n有部分计划的功能未实现，且.NET6还未普及并不适合迁移。\r\n", "createdAt": "2022-03-06T11:51:32Z", "author": "2dust", "repo": "2dust/v2rayN", "pr_number": 2082}
+{"body": "hi，感谢PR。\r\n正在重构部分代码，请等侯发布后再次PR", "createdAt": "2022-03-13T02:45:58Z", "author": "2dust", "repo": "2dust/v2rayN", "pr_number": 2097}
+{"body": "感谢PR\r\n已经增加此功能\r\nhttps://github.com/2dust/v2rayN/commit/1493a8b03f56f7aea4deaa9ababa83698d850ba1\r\n", "createdAt": "2022-03-24T11:11:42Z", "author": "2dust", "repo": "2dust/v2rayN", "pr_number": 2101}
