@@ -60428,11 +60428,13 @@
     95305
   ],
   "pr_idx": 27733,
-  "issue_idx": 12490,
-  "disc_idx": 0,
+  "issue_idx": 13354,
+  "disc_idx": 50,
   "failed_pr": [
     95203
   ],
-  "failed_issue": [],
+  "failed_issue": [
+    91718
+  ],
   "failed_disc": []
 }
