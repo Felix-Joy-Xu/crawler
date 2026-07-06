@@ -1,0 +1,236 @@
+{"repo": "fatedier/frp", "pr_number": 2731, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-01-03T14:55:11Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2731, "type": "review_comment", "body": "Can we just use `alpine:3` here and no need to always update it.", "createdAt": "2022-01-03T14:55:11Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2731, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-01-03T16:05:15Z", "author": "nitinSophos"}
+{"repo": "fatedier/frp", "pr_number": 2731, "type": "review_comment", "body": "@fatedier  yes `alpine:3` also works updating it ", "createdAt": "2022-01-03T16:05:14Z", "author": "nitinSophos"}
+{"repo": "fatedier/frp", "pr_number": 2731, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-01-03T16:06:52Z", "author": "nitinSophos"}
+{"repo": "fatedier/frp", "pr_number": 2731, "type": "review_comment", "body": "@fatedier  updated, please merge and build when possible 👍  ", "createdAt": "2022-01-03T16:06:51Z", "author": "nitinSophos"}
+{"repo": "fatedier/frp", "pr_number": 2731, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-01-04T02:40:40Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2743, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-01-09T15:47:12Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2751, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-01-11T08:25:04Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2758, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-01-12T14:13:03Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2758, "type": "review_comment", "body": "\t// HeartBeatTimeout specifies the maximum time to wait for a heartbeat\r\n\t// before terminating the connection. It is not recommended to change this\r\n\t// value. By default, this value is 90. Set negative value to disable it.\r\n\tHeartbeatTimeout int64 `ini:\"heartbeat_timeout\" json:\"heartbeat_timeout\"`\r\n\r\n描述是小于 0，代码里是 <=0 都忽略 timeout ?\r\n\r\n", "createdAt": "2022-01-12T14:12:58Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2758, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-01-13T06:24:52Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2767, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-01-20T01:31:17Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2774, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-01-26T11:47:35Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2802, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-02-18T02:29:44Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2805, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-02-18T08:27:51Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2805, "type": "review_comment", "body": "What's this ?", "createdAt": "2022-02-18T08:27:45Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2805, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-02-18T08:36:33Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2805, "type": "review_comment", "body": "Empty line", "createdAt": "2022-02-18T08:36:33Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2805, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-02-18T15:30:13Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2814, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-03-07T06:23:22Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2816, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2022-02-24T01:11:14Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2823, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-03-07T06:31:02Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2823, "type": "review_comment", "body": "`error` should be returned here.", "createdAt": "2022-03-07T06:25:35Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2823, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-03-07T13:10:57Z", "author": "kmod-midori"}
+{"repo": "fatedier/frp", "pr_number": 2823, "type": "review_comment", "body": "Which error should I return? I assume that we should not break the loop if any of the plugins encounter an error, maybe the last one?", "createdAt": "2022-03-07T13:10:57Z", "author": "kmod-midori"}
+{"repo": "fatedier/frp", "pr_number": 2823, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-03-07T13:19:18Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2823, "type": "review_comment", "body": "You can return the aggregate errors with plugin name and error info, maybe divided by `;`.", "createdAt": "2022-03-07T13:19:18Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2823, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-03-07T14:03:51Z", "author": "kmod-midori"}
+{"repo": "fatedier/frp", "pr_number": 2823, "type": "review_comment", "body": "Errors are now returned, but not handled at call site, since that is at most some duplicated logs.", "createdAt": "2022-03-07T14:03:51Z", "author": "kmod-midori"}
+{"repo": "fatedier/frp", "pr_number": 2823, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-03-08T07:07:46Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2832, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-03-11T04:24:25Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2832, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-03-11T06:50:49Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2836, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-03-24T12:13:08Z", "author": "coonection"}
+{"repo": "fatedier/frp", "pr_number": 2844, "type": "review", "body": "It's not the way to solve the problem.", "state": "CHANGES_REQUESTED", "createdAt": "2022-03-15T02:45:51Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2844, "type": "review", "body": "", "state": "CHANGES_REQUESTED", "createdAt": "2022-03-15T09:38:18Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2844, "type": "review_comment", "body": "No need to sleep, just clear data in sendCh and wait for another retry.", "createdAt": "2022-03-15T09:23:02Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2844, "type": "review_comment", "body": "`// Create a new work connection between frpc and frps when receiving new contents and there is no active work connection`", "createdAt": "2022-03-15T09:25:56Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2844, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-03-17T04:03:09Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2846, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-22T09:07:15Z", "author": "Mxdon123"}
+{"repo": "fatedier/frp", "pr_number": 2846, "type": "review_comment", "body": "```\n`\n63efa6b7766678e3299af1865d4295d5905daac3\n,`\n```", "createdAt": "2024-04-22T09:07:05Z", "author": "Mxdon123"}
+{"repo": "fatedier/frp", "pr_number": 2846, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-22T09:08:01Z", "author": "Mxdon123"}
+{"repo": "fatedier/frp", "pr_number": 2846, "type": "review_comment", "body": "> ```\n> `\n> 63efa6b7766678e3299af1865d4295d5905daac3\n> ,`\n> ```\n\n", "createdAt": "2024-04-22T09:08:01Z", "author": "Mxdon123"}
+{"repo": "fatedier/frp", "pr_number": 2858, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-03-20T06:09:59Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2858, "type": "review_comment", "body": "```suggestion\r\n\t\t\t`, framework.TCPEchoServerPort)\r\n```\r\n\r\n`remote_port = 0` is  expected.", "createdAt": "2022-03-20T06:09:59Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2873, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-03-28T03:29:01Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2873, "type": "review_comment", "body": "defer wg.Done() \r\n\r\nMaybe `runClient` has some panic and this code never be executed ?", "createdAt": "2022-03-28T03:29:01Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2873, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-03-28T04:05:48Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2873, "type": "review_comment", "body": "Program will exit if it panics, so there is no side effect. But using defer is ok.", "createdAt": "2022-03-28T04:05:48Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2873, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-03-28T04:07:26Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2882, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-04-02T09:35:46Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2891, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-04-14T02:25:40Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2891, "type": "review_comment", "body": "```suggestion\r\n\tsvr.ctlMu.RLock()\r\n```", "createdAt": "2022-04-14T02:13:20Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2891, "type": "review_comment", "body": "```suggestion\r\n\tsvr.ctlMu.RLock()\r\n```", "createdAt": "2022-04-14T02:13:39Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2891, "type": "review_comment", "body": "No need to lock here.", "createdAt": "2022-04-14T02:15:22Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2891, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-04-14T03:14:14Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2925, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-05-04T15:27:12Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2925, "type": "review_comment", "body": "Not inclined to add `openbsd:386`.\r\n\r\nYou can remove `freebsd:386` by the way.", "createdAt": "2022-05-04T15:27:11Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2925, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-05-04T18:31:34Z", "author": "m-soweli"}
+{"repo": "fatedier/frp", "pr_number": 2925, "type": "review_comment", "body": "why not build for x86 bsd? i still have some 32-bit machines.", "createdAt": "2022-05-04T18:31:34Z", "author": "m-soweli"}
+{"repo": "fatedier/frp", "pr_number": 2925, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-05-05T03:06:49Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2925, "type": "review_comment", "body": "You can build it by yourself. But we are tend to encourage upgrading to 64-bit architectures in release assets.", "createdAt": "2022-05-05T03:06:49Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2932, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-05-22T05:45:43Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2932, "type": "review_comment", "body": "I think we should add some match logs in findRouter function.  It's a very important logic.\r\n\r\nWhen I test it, it just print log in the first time and not match case. I think we can add trace log in it.", "createdAt": "2022-05-22T05:45:43Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2932, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-05-22T05:46:39Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2932, "type": "review_comment", "body": "Add some TODO comments ?", "createdAt": "2022-05-22T05:46:34Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2932, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2022-05-23T09:09:28Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2978, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-06-14T05:35:38Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-06-25T09:27:22Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review_comment", "body": "Execute `make` to call `go fmt`", "createdAt": "2022-06-25T08:39:13Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review_comment", "body": "We needn't fullfill all variables.\r\n\r\n```go\r\n    server := &http.Server{\r\n        Addr:         address,\r\n        Handler:      router,\r\n        ReadTimeout:  httpServerReadTimeout,\r\n        WriteTimeout: httpServerWriteTimeout,\r\n    }\r\n    ln, err := net.Listen(\"tcp\", address)\r\n    if err != nil {\r\n        return err\r\n    }\r\n\r\n    if svr.cfg.DashboardTLSMode {\r\n        cert, err := tls.LoadX509KeyPair(svr.cfg.DashboardTLSCertFile, svr.cfg.DashboardTLSKeyFile)\r\n        if err != nil {\r\n            return err\r\n        }\r\n        tlsCfg := &tls.Config{\r\n            Certificates: []tls.Certificate{cert},\r\n        }\r\n        ln = tls.NewListener(ln, tlsCfg)\r\n    }\r\n    go server.Serve(ln)\r\n    return\r\n```", "createdAt": "2022-06-25T09:27:18Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-06-25T10:13:12Z", "author": "EMREOYUN"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review_comment", "body": "So what is the relation between `dashboardTLSMode     bool` and `make` and `go fmt` commands? I don't understand.", "createdAt": "2022-06-25T10:13:12Z", "author": "EMREOYUN"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-06-25T10:27:51Z", "author": "EMREOYUN"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review_comment", "body": "Resolved. Also Tried to create `tls.NewListener` with the HTTP listener but since it tries to direct HTTPS connections to HTTP host which gives the following error: `Client sent an HTTP request to an HTTPS server.`", "createdAt": "2022-06-25T10:27:51Z", "author": "EMREOYUN"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-06-26T03:25:09Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review_comment", "body": "I'm not sure why you create a new http server for that. Just reuse the same one.\r\n\r\nSSL termination has been down in tls listener.", "createdAt": "2022-06-26T03:25:09Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-06-26T09:48:35Z", "author": "EMREOYUN"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review_comment", "body": "ReadTimeout and WriteTimeout gives error with HTTPS on CircleCI, refer to my previous reply.", "createdAt": "2022-06-26T09:48:35Z", "author": "EMREOYUN"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-06-26T14:13:32Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review_comment", "body": "I don't know what's your meaning.\r\n\r\nYou'd better solve the problem, not ignore the configurations.", "createdAt": "2022-06-26T14:13:32Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-06-26T14:15:18Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review_comment", "body": "No matter what you do, keep correct code formats in your way.", "createdAt": "2022-06-26T14:15:18Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-06-26T15:10:25Z", "author": "EMREOYUN"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review_comment", "body": "Okay, in CircleCI run #1103, can you guide me what went wrong on it?", "createdAt": "2022-06-26T15:10:25Z", "author": "EMREOYUN"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-06-26T15:12:23Z", "author": "EMREOYUN"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review_comment", "body": "What is wrong with dashboardTLSMode? Do you mean tab spacing or something else by keeping good code format?", "createdAt": "2022-06-26T15:12:23Z", "author": "EMREOYUN"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-06-26T15:24:51Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review_comment", "body": "I think it's a temporary error. Retry the test can fix it.", "createdAt": "2022-06-26T15:24:50Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-06-26T15:25:22Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review_comment", "body": "Yes. https://go.dev/blog/gofmt", "createdAt": "2022-06-26T15:25:22Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-06-26T17:42:42Z", "author": "EMREOYUN"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review_comment", "body": "A new commit has been added, directly copied from the output from `gofmt -w`. Can you check it?", "createdAt": "2022-06-26T17:42:42Z", "author": "EMREOYUN"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-06-26T17:48:28Z", "author": "EMREOYUN"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review_comment", "body": "Simplified both HTTP and HTTPS into single server and CircleCI didn't throw error this time. You can check it.", "createdAt": "2022-06-26T17:48:28Z", "author": "EMREOYUN"}
+{"repo": "fatedier/frp", "pr_number": 2982, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-06-27T02:07:40Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3012, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-07-12T10:43:49Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3016, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-07-14T07:31:07Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3062, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-08-16T12:44:40Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3071, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-08-23T02:09:57Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3081, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-08-29T03:58:58Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3155, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-10-31T07:25:41Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3155, "type": "review_comment", "body": "`goreleaser` will create release and upload assets. Does it need write permission?", "createdAt": "2022-10-31T07:25:41Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3155, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-10-31T07:40:32Z", "author": "ashishkurmi"}
+{"repo": "fatedier/frp", "pr_number": 3155, "type": "review_comment", "body": "`goreleaser` seems to be using a separate GitHub token (being populated by the `GPR_TOKEN` GitHub secret):\r\nhttps://github.com/fatedier/frp/blob/dev/.github/workflows/goreleaser.yml#L34\r\n\r\nHence the GitHub Actions generated token doesn't need any write permissions.", "createdAt": "2022-10-31T07:40:32Z", "author": "ashishkurmi"}
+{"repo": "fatedier/frp", "pr_number": 3192, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-12-09T03:45:37Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3198, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-12-11T14:48:07Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3205, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-12-13T14:36:54Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3209, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-01-15T06:06:38Z", "author": "mhmxs"}
+{"repo": "fatedier/frp", "pr_number": 3209, "type": "review_comment", "body": "```suggestion\r\n5. From another machine, SSH to server B via server A  like this (assuming that username is `test`):\r\n```\r\n\r\nWhat do you hink @fatedier ?", "createdAt": "2023-01-15T06:06:38Z", "author": "mhmxs"}
+{"repo": "fatedier/frp", "pr_number": 3209, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-01-15T08:04:04Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3209, "type": "review_comment", "body": "ok", "createdAt": "2023-01-15T08:04:04Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3209, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-01-15T11:15:40Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3211, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-12-18T08:23:18Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3224, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-12-22T05:43:44Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3244, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-01-09T02:34:03Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3246, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-01-10T02:17:50Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3254, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-01-14T13:43:15Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3266, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-01-29T15:53:05Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-01-26T04:48:01Z", "author": "cbodonnell"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review_comment", "body": "will result in an empty bandwidth limit if `NewBandwidthQuantity(...)` returns an error.  can use the other method `MustBandwidthQuantity(...)`, but it will require that the plugin sets a valid `bandwidth_limit` or else it will cause frps to panic.", "createdAt": "2023-01-26T04:48:01Z", "author": "cbodonnell"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-01-30T06:08:02Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review_comment", "body": "The limiter is in connection-level here. But in frpc is proxy-level.", "createdAt": "2023-01-30T06:08:02Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-01-30T13:18:06Z", "author": "cbodonnell"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review_comment", "body": "I'll see how I can keep it stored at the proxy level here too.", "createdAt": "2023-01-30T13:18:06Z", "author": "cbodonnell"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-02-01T03:33:08Z", "author": "cbodonnell"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review_comment", "body": "~Same for `bandwidth_limit_mode` below.  Defaults to `\"client\"` even if there is an error, so we can ignore and take the default if we want.~\r\n\r\n**Edit:** this no longer relevant for `bandwidth_limit_mode`", "createdAt": "2023-02-01T03:33:08Z", "author": "cbodonnell"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-02-01T03:35:26Z", "author": "cbodonnell"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review_comment", "body": "returning an error here to help with validation when parsing from the config file.  will always default to `\"client\"` in these cases.", "createdAt": "2023-02-01T03:35:25Z", "author": "cbodonnell"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-02-02T16:48:38Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review_comment", "body": "Change to `client` here.", "createdAt": "2023-02-02T16:24:15Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review_comment", "body": "Just declear as `string`?", "createdAt": "2023-02-02T16:34:22Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review_comment", "body": "Validate it in `checkForCli` and `CheckForSvr`.\r\n\r\nString value doesn't need a custom decode logic.", "createdAt": "2023-02-02T16:38:15Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-02-03T03:32:41Z", "author": "cbodonnell"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review_comment", "body": "changed to string", "createdAt": "2023-02-03T03:32:40Z", "author": "cbodonnell"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-02-03T03:32:52Z", "author": "cbodonnell"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review_comment", "body": "changed to `client`", "createdAt": "2023-02-03T03:32:52Z", "author": "cbodonnell"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-02-03T03:33:50Z", "author": "cbodonnell"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review_comment", "body": "moved validation of `bandwidth_limit_mode` to `CheckForCli`\r\n\r\n**Edit:** also added validation in `CheckForSrv`", "createdAt": "2023-02-03T03:33:50Z", "author": "cbodonnell"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-02-03T03:34:15Z", "author": "cbodonnell"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review_comment", "body": "this is now outdated", "createdAt": "2023-02-03T03:34:15Z", "author": "cbodonnell"}
+{"repo": "fatedier/frp", "pr_number": 3271, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-02-08T16:38:08Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3282, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-02-01T05:09:19Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3404, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-04-13T11:29:47Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3404, "type": "review_comment", "body": "This change has the potential to break the e2e case located at https://github.com/fatedier/frp/blob/dev/test/e2e/basic/client_server.go#L100. \r\n\r\nWe would like to avoid making any incompatible changes.\r\n\r\nIn my opinion, `tls over websocket` is not equivalent to `wss`. \r\n\r\nTherefore, if we intend to support wss, it would be better to move it from the protocol to the proxy parameter.", "createdAt": "2023-04-13T11:29:47Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3404, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-04-13T15:03:12Z", "author": "Dirbaio"}
+{"repo": "fatedier/frp", "pr_number": 3404, "type": "review_comment", "body": "oh okay! I didn't realize \"TLS over websocket\" was actually a desired combination. \r\n\r\nCan you clarify which exact `frpc.ini` settings should result in \"websocket over TLS\"? I'll update the code to match that. Thanks!", "createdAt": "2023-04-13T15:03:12Z", "author": "Dirbaio"}
+{"repo": "fatedier/frp", "pr_number": 3404, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-04-15T05:00:26Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3404, "type": "review_comment", "body": "Perhaps an alternative solution could be to add support for `wss` to the `protocol` parameter. \r\nIf the user configuration is set to `websocket`, it will remain unchanged. However, if the configuration is set to `wss`, the websocket and tls order can be adjusted to implement wss.\r\n\r\nWDYT?", "createdAt": "2023-04-15T05:00:26Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3434, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-05-08T13:26:38Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3449, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-05-27T00:44:57Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3460, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-05-30T01:09:29Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3472, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-06-02T03:19:24Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3474, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-06-03T10:57:59Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3503, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-06-28T23:39:41Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3536, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-07-20T14:17:54Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3539, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-07-21T06:30:44Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3614, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-09-14T14:49:06Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3620, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-09-18T06:27:59Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3647, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-09T07:04:32Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3655, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-10T11:45:26Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3671, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-11-09T11:46:57Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3671, "type": "review_comment", "body": "最新应该有 `v0.15.0` 了", "createdAt": "2023-11-09T11:29:03Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3671, "type": "review_comment", "body": "先不要加日志", "createdAt": "2023-11-09T11:29:19Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3671, "type": "review_comment", "body": "结构体力的参数不要加 ssh 前缀了。", "createdAt": "2023-11-09T11:30:25Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3671, "type": "review_comment", "body": "需要加 omitempty，`SSHGatewayConfig -> SSHGateway`\r\n\r\n或者 `SSHTunnelGateway`?", "createdAt": "2023-11-09T11:30:51Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3671, "type": "review_comment", "body": "支持 NoAuth ，publicKey 从目录全部加载。", "createdAt": "2023-11-09T11:39:42Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3671, "type": "review_comment", "body": "ssh 相关的部分最好能封装起来放到 `pkg/ssh` 目录下。", "createdAt": "2023-11-09T11:42:21Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3671, "type": "review_comment", "body": "不要每个参数换一行，单行不要太长就可以了。", "createdAt": "2023-11-09T11:43:12Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3671, "type": "review_comment", "body": "这部分需要看下怎么结合 cobra 来解析，能复用命令行参数解析的代码最好。", "createdAt": "2023-11-09T11:44:23Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3671, "type": "review_comment", "body": "没有保护好。", "createdAt": "2023-11-09T11:44:56Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3671, "type": "review_comment", "body": "这里不必要，`frpc` 是冗余的字段，直接去掉吧。", "createdAt": "2023-11-09T11:45:21Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3671, "type": "review_comment", "body": "这里的整体设计有问题，把部分 frps 的逻辑放到这里去运行了。\r\n\r\n这里应该是一个 VirtualClient，构造一个虚拟的 net.Conn 和 frps 之间交互，然后负责处理和发送 Message。", "createdAt": "2023-11-09T11:46:54Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3671, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-11-09T13:05:54Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3671, "type": "review_comment", "body": "go get -u get 不到。\r\n", "createdAt": "2023-11-09T13:05:49Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3671, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-14T07:16:11Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3671, "type": "review_comment", "body": "```suggestion\r\n\tSSHTunnelGateway SSHTunnelGateway `json:\"SSHTunnelGateway,omitempty\"`\r\n```", "createdAt": "2023-11-14T07:13:35Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3671, "type": "review_comment", "body": "这个不要放到 pkg/config 下面，应该放到 pkg/ssh 里", "createdAt": "2023-11-14T07:14:31Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3723, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-25T14:14:18Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3723, "type": "review_comment", "body": "However, this is an incompatible modification, and if someone hasn't set this value, it will use the default value of 0, which will result in a failure to retrieve the OIDC token.", "createdAt": "2023-10-25T14:14:18Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3723, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-25T14:15:13Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3723, "type": "review_comment", "body": "I think you should not add a break-change code.", "createdAt": "2023-10-25T14:15:08Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3734, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-30T12:24:49Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3737, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T11:48:45Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3737, "type": "review_comment", "body": "Before, it was `FROM alpine:3`?", "createdAt": "2023-10-31T11:42:42Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3737, "type": "review_comment", "body": "Why do we need these labels? What benefits will it bring?", "createdAt": "2023-10-31T11:43:51Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3737, "type": "review_comment", "body": "What's the purpose of this script? What are the differences compared to the previous execution method?", "createdAt": "2023-10-31T11:47:18Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3737, "type": "review_comment", "body": "Given that frp is often used to listen on port 80, will not using the root user have any impact? On the other hand, what problems may arise from using the root user?", "createdAt": "2023-10-31T11:48:24Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3737, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T13:22:24Z", "author": "reneleonhardt"}
+{"repo": "fatedier/frp", "pr_number": 3737, "type": "review_comment", "body": "It' best practice to use specific versions, and it's effectively the same version (at the moment).\r\nSo if a project decides to improve security by rebuilding images even without code change, then version numbers make it easier for humans to accept the suggestions dependabot makes.\r\nhttps://github.com/hadolint/hadolint/wiki/DL3007", "createdAt": "2023-10-31T13:22:24Z", "author": "reneleonhardt"}
+{"repo": "fatedier/frp", "pr_number": 3737, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T13:26:08Z", "author": "reneleonhardt"}
+{"repo": "fatedier/frp", "pr_number": 3737, "type": "review_comment", "body": "Best practice, a docker image tag is a also only a \"label\", those labels make it easier for your users what's inside this image.\r\nThe specific app version would be good too, but a bit harder to integrate in this case.\r\nhttps://snyk.io/blog/how-and-when-to-use-docker-labels-oci-container-annotations/", "createdAt": "2023-10-31T13:26:07Z", "author": "reneleonhardt"}
+{"repo": "fatedier/frp", "pr_number": 3737, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T13:28:56Z", "author": "reneleonhardt"}
+{"repo": "fatedier/frp", "pr_number": 3737, "type": "review_comment", "body": "The reason for introducing this script was the unification of the 2 Dockerfiles into 1.\r\nIt's not allowed to use ARG/ENV variables inside ENTRYPOINT, your binaries have different names, it's best practice to create a minimal `exec` script in this case.\r\nI will improve it a bit to make hadolint happy 😄", "createdAt": "2023-10-31T13:28:56Z", "author": "reneleonhardt"}
+{"repo": "fatedier/frp", "pr_number": 3737, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-31T13:34:48Z", "author": "reneleonhardt"}
+{"repo": "fatedier/frp", "pr_number": 3737, "type": "review_comment", "body": "Using root opens the attack surface to a whole lot more security bug possibilities.\r\nThe privileged port problem was solved 3 years ago:\r\nhttps://stackoverflow.com/questions/66431299/i-can-bind-to-port-80-as-a-non-root-user-in-a-docker-container-why-whats-goin \r\nCan you try both new images to verify the expected functionality?\r\n\r\nIt would be optimal if the Docker build would automatically verify the expected functionality... 😉", "createdAt": "2023-10-31T13:34:48Z", "author": "reneleonhardt"}
+{"repo": "fatedier/frp", "pr_number": 3737, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-11-01T07:44:26Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3737, "type": "review_comment", "body": "I do not prefer to add these redundant information.", "createdAt": "2023-11-01T07:44:26Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3738, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-31T11:38:49Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3745, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-05T23:54:02Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3773, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-16T07:41:21Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3783, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-22T06:30:16Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3805, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-28T04:45:27Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3821, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-12-01T11:59:29Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3833, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-12-07T09:25:14Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3841, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-12-14T12:32:33Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3871, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-12-21T03:14:11Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3871, "type": "review_comment", "body": "`Try0` is not needed if not repeating \"close\" anymore?", "createdAt": "2023-12-21T03:14:11Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3871, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-12-21T03:31:49Z", "author": "wuqinqiang"}
+{"repo": "fatedier/frp", "pr_number": 3871, "type": "review_comment", "body": "> `Try0` is not needed if not repeating \"close\" anymore?\r\nyes, done", "createdAt": "2023-12-21T03:31:49Z", "author": "wuqinqiang"}
+{"repo": "fatedier/frp", "pr_number": 3871, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-12-21T03:43:33Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3875, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-12-21T09:25:41Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3875, "type": "review_comment", "body": "done 和 err 一般不用先定义出来，直接返回就好了。`loginFunc := func() (bool, error) {`", "createdAt": "2023-12-21T09:25:41Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3875, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-12-21T09:49:00Z", "author": "im-zhou"}
+{"repo": "fatedier/frp", "pr_number": 3875, "type": "review_comment", "body": "已修改", "createdAt": "2023-12-21T09:49:00Z", "author": "im-zhou"}
+{"repo": "fatedier/frp", "pr_number": 3875, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-12-21T09:57:11Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3875, "type": "review_comment", "body": "After the mechanism is modified, this channel is no longer needed.", "createdAt": "2023-12-21T09:57:11Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3875, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-12-21T10:48:46Z", "author": "im-zhou"}
+{"repo": "fatedier/frp", "pr_number": 3875, "type": "review_comment", "body": "看起来 `MergeAndCloseOnAnyStopChannel` 也不再需要了", "createdAt": "2023-12-21T10:48:46Z", "author": "im-zhou"}
+{"repo": "fatedier/frp", "pr_number": 3875, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-12-21T12:50:25Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3885, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-12-22T07:47:54Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3895, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-12-26T02:49:41Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3898, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-12-26T12:30:46Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3921, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-01-09T10:49:41Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3938, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-01-16T10:38:48Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3963, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-02-01T02:32:29Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 3971, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-02-04T07:37:04Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3996, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-02-19T05:03:20Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 3999, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-02-19T03:41:43Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 4018, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-02-22T12:00:19Z", "author": "blizard863"}
+{"repo": "fatedier/frp", "pr_number": 4038, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-03-03T14:53:41Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 4085, "type": "review", "body": "", "state": "CHANGES_REQUESTED", "createdAt": "2024-03-19T11:42:41Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 4085, "type": "review_comment", "body": "I have some misunderstandings about the configuration of the host in K8s. We should not add the host parameter here, but instead actively extract the host field from the header and assign it to req.Host.\r\n\r\n```go\r\n req.Host = monitor.header.Get(\"Host\")\r\n```", "createdAt": "2024-03-19T11:38:11Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 4085, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-03-19T11:44:30Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 4085, "type": "review_comment", "body": "```suggestion\r\n\tHTTPHeaders []HTTPHeader `json:\"httpHeaders,omitempty\"`\r\n```", "createdAt": "2024-03-19T11:44:26Z", "author": "fatedier"}
+{"repo": "fatedier/frp", "pr_number": 4085, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-03-20T06:57:40Z", "author": "fatedier"}

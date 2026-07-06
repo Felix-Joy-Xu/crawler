@@ -1,0 +1,664 @@
+{"number": 2729, "title": "add new sponsor", "createdAt": "2022-01-02T06:28:46Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2731, "title": "ISSUE: 2730 Alpine version update for security fixes", "createdAt": "2022-01-03T11:36:14Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2743, "title": "doc: no X-Real-IP in http proxy", "createdAt": "2022-01-09T15:14:42Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2751, "title": "server plugin: add client address in Login operation, fix #2742", "createdAt": "2022-01-11T08:16:09Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2758, "title": "allow to disable application layer heartbeat to reduce traffic cost", "createdAt": "2022-01-12T10:50:28Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2767, "title": "move dial functions into golib", "createdAt": "2022-01-19T08:01:55Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2774, "title": "feat: support set local ip in client when connect server", "createdAt": "2022-01-24T08:57:08Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2782, "title": "bump version", "createdAt": "2022-01-26T12:17:25Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2783, "title": "doc: update donation section", "createdAt": "2022-01-26T12:49:18Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2784, "title": "timeout exit frpc", "createdAt": "2022-01-27T09:21:01Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 2785, "title": "add new sponsor", "createdAt": "2022-01-28T07:25:19Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2791, "title": "use net.JoinHostPort instead of fmt.Sprintf", "createdAt": "2022-02-09T04:11:01Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2792, "title": "bump version", "createdAt": "2022-02-09T07:43:40Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2802, "title": "Add audience to token generator", "createdAt": "2022-02-16T05:57:38Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 2805, "title": "client: add dial_server_timeout", "createdAt": "2022-02-18T08:10:06Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2814, "title": "feat: support add additional params for OIDC", "createdAt": "2022-02-21T12:34:39Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2816, "title": "random sleep duration before reconnecting", "createdAt": "2022-02-23T13:37:11Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2823, "title": "Notify server plugins when a proxy is closed", "createdAt": "2022-03-02T08:08:08Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2832, "title": "bugfix: Issue #2831 - Cant connect to frps behind ingress with tls", "createdAt": "2022-03-10T14:39:08Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2833, "title": "bump version to v0.40.0", "createdAt": "2022-03-11T11:38:57Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2834, "title": "bump version", "createdAt": "2022-03-11T11:46:44Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2836, "title": "Configurable websocket PATH", "createdAt": "2022-03-11T23:52:01Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 2844, "title": "feat: SUDP alway reconnect and print too much log when no data ready", "createdAt": "2022-03-15T01:44:28Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2846, "title": "workflows: update stale action", "createdAt": "2022-03-15T03:48:20Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2849, "title": "support pprof", "createdAt": "2022-03-16T10:31:44Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2853, "title": "Golangci-lint integration", "createdAt": "2022-03-17T20:59:23Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 2856, "title": "Golangci-lint", "createdAt": "2022-03-18T21:42:54Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 2858, "title": "Fixed go vet warnings", "createdAt": "2022-03-19T20:11:57Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 2863, "title": "support tcp keepalive params", "createdAt": "2022-03-21T09:20:30Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2864, "title": "Fix api time show", "createdAt": "2022-03-22T04:22:25Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 2867, "title": "add release note", "createdAt": "2022-03-23T12:08:54Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2868, "title": "support go1.18 and remove go1.16", "createdAt": "2022-03-23T13:13:23Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2869, "title": "bump version to v0.41.0", "createdAt": "2022-03-23T13:15:37Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2873, "title": "frpc: support multiple confs", "createdAt": "2022-03-27T16:41:16Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2878, "title": "Dev", "createdAt": "2022-03-30T14:07:43Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 2882, "title": "fix some typos", "createdAt": "2022-04-02T09:19:38Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2886, "title": "fix error parsing env values", "createdAt": "2022-04-04T15:13:08Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2891, "title": "fix: data races when accessing `github.com/fatedier/frp/client.(*Service).ctl`", "createdAt": "2022-04-13T22:04:06Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2892, "title": "Update docker image build file", "createdAt": "2022-04-14T11:20:18Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2894, "title": "dependency: update github.com/pires/go-proxyproto to v0.6.2", "createdAt": "2022-04-15T03:33:34Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2901, "title": "Nathole", "createdAt": "2022-04-20T07:04:57Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 2903, "title": "support symmetric NAT，make XTCP works", "createdAt": "2022-04-20T13:37:04Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 2906, "title": "bump version", "createdAt": "2022-04-22T03:17:27Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2913, "title": "Fix the systemd warning \"Special user nobody configured, this is not …", "createdAt": "2022-04-26T03:04:21Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 2916, "title": "Log duration of each connection", "createdAt": "2022-04-27T09:02:51Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 2925, "title": "package for openbsd", "createdAt": "2022-05-04T10:52:15Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 2932, "title": "type http proxy support route_by_http_user", "createdAt": "2022-05-10T08:18:08Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2954, "title": "release note for v0.43.0", "createdAt": "2022-05-27T07:56:11Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2955, "title": "bump version to v0.43.0", "createdAt": "2022-05-27T08:25:07Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2958, "title": "Use relative url instead of absolute url", "createdAt": "2022-05-29T12:22:18Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 2966, "title": "feat: support aead encryption", "createdAt": "2022-06-03T12:55:08Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 2968, "title": "Support auto generated certificates for plugin https2https and https2http", "createdAt": "2022-06-05T09:11:48Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2978, "title": "fix ipv6 address parsing", "createdAt": "2022-06-13T09:31:10Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2980, "title": "feat: add vscode config ignore", "createdAt": "2022-06-14T06:05:44Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 2982, "title": "Server Dashboard SSL Support", "createdAt": "2022-06-16T14:21:17Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 2996, "title": "Adjust package structure of frps", "createdAt": "2022-06-27T09:11:59Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3010, "title": "release v0.44.0", "createdAt": "2022-07-10T16:10:26Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3012, "title": "Fixed a bug where service loops reconnection after disconnection. service is shut down and can not exit goroutine", "createdAt": "2022-07-12T09:32:55Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3016, "title": "[client] Remove redundant function parameters in HandleEvent", "createdAt": "2022-07-14T07:15:39Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3030, "title": "fix: can not close frpc", "createdAt": "2022-07-22T11:27:52Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3041, "title": "feat(build): add distroless docker images that build frpc and frps", "createdAt": "2022-07-30T12:41:30Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3062, "title": "Documentation: Update CLI Command Flags in OpenSSL Certificate Issuance Example in README", "createdAt": "2022-08-16T11:50:16Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3068, "title": "Added OpExit", "createdAt": "2022-08-21T15:54:33Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3071, "title": "Add support for riscv64", "createdAt": "2022-08-23T01:25:15Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3080, "title": "lint by golangci-lint", "createdAt": "2022-08-28T16:43:51Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3081, "title": "chore: remove duplicate word in comments", "createdAt": "2022-08-29T02:56:00Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3094, "title": "update deps", "createdAt": "2022-09-08T09:11:47Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3110, "title": "Cr 14344", "createdAt": "2022-09-28T13:54:08Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3117, "title": "Release 2.9", "createdAt": "2022-10-03T08:25:10Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3118, "title": "Revert merge commit", "createdAt": "2022-10-03T09:51:41Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3121, "title": "improve not found response", "createdAt": "2022-10-09T04:02:15Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3131, "title": "improve http group load balancing", "createdAt": "2022-10-15T14:01:14Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3136, "title": "adjust sponsors", "createdAt": "2022-10-19T04:08:13Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3146, "title": "bump version", "createdAt": "2022-10-26T14:23:19Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3147, "title": "bump version", "createdAt": "2022-10-26T15:18:12Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3148, "title": "remove unsupported platform", "createdAt": "2022-10-27T02:22:38Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3150, "title": "upgrade github actions version", "createdAt": "2022-10-27T04:09:38Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3155, "title": "Set least privileged token permission for GitHub Actions", "createdAt": "2022-10-31T07:11:35Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3192, "title": "Support OIDC scope parameter", "createdAt": "2022-11-29T19:05:17Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3198, "title": "support protocol quic between frpc and frps", "createdAt": "2022-12-05T09:09:13Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3202, "title": "feat: Refine OIDC arguments", "createdAt": "2022-12-09T21:43:20Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3205, "title": "feat: release", "createdAt": "2022-12-13T12:24:48Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3209, "title": "Fix basic example server to join in readme", "createdAt": "2022-12-14T12:32:32Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3211, "title": "support quic options", "createdAt": "2022-12-14T13:10:38Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3218, "title": "release v0.46.0", "createdAt": "2022-12-18T10:44:36Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3219, "title": "update goreleaser.yaml", "createdAt": "2022-12-18T11:18:38Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3224, "title": "refactor: ifelse", "createdAt": "2022-12-22T02:45:32Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3244, "title": "fix: incorrect op for newWorkConn", "createdAt": "2023-01-09T01:34:54Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3245, "title": "Merge pull request #1 from fatedier/master", "createdAt": "2023-01-09T01:42:52Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3246, "title": "pkg/util/net: fix quic streams leak", "createdAt": "2023-01-09T10:16:57Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3247, "title": "update version", "createdAt": "2023-01-10T02:22:18Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3248, "title": "bump version", "createdAt": "2023-01-10T02:26:02Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3251, "title": "Client auto-updater", "createdAt": "2023-01-11T23:53:11Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3252, "title": "Client auto-updater", "createdAt": "2023-01-12T00:05:13Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3254, "title": "optimize: GetAuthKey", "createdAt": "2023-01-13T21:06:34Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3266, "title": "Bugfix: add ipv6 parsing for custom DNS server", "createdAt": "2023-01-23T10:53:59Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3271, "title": "support bandwidth_limit set by server plugin", "createdAt": "2023-01-26T04:47:05Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3275, "title": "add max_delay_time parameter to frpc", "createdAt": "2023-01-28T13:34:50Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3282, "title": "frpc: do a graceful close for quic protocol at exit", "createdAt": "2023-02-01T04:16:52Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3286, "title": "upgrade quic-go and change import path", "createdAt": "2023-02-02T12:18:32Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3287, "title": "support go1.20", "createdAt": "2023-02-02T12:22:22Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3292, "title": "revert random change", "createdAt": "2023-02-06T07:52:18Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3295, "title": "e2e: add test case for bandwidth_limit_mode server", "createdAt": "2023-02-08T16:54:11Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3296, "title": "release: prepare for 0.47.0", "createdAt": "2023-02-08T16:55:29Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3299, "title": "sync", "createdAt": "2023-02-09T14:54:37Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3300, "title": "sync", "createdAt": "2023-02-09T17:00:39Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3310, "title": "web/frps: upgrade vue and element-plus", "createdAt": "2023-02-15T18:41:46Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3322, "title": "web/frpc: upgrade vue and element-plus", "createdAt": "2023-02-20T15:50:10Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3326, "title": "web/frps: more info", "createdAt": "2023-02-21T16:34:26Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3327, "title": "web/frpc&frps: support dark mode", "createdAt": "2023-02-22T06:13:15Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3330, "title": "sponsor: update", "createdAt": "2023-02-23T05:18:35Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3334, "title": "web/frpc: support more info", "createdAt": "2023-02-25T18:25:47Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3335, "title": "e2e: upgrade to ginkgo v2", "createdAt": "2023-02-27T06:33:17Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3345, "title": "tcpmux: support authentication", "createdAt": "2023-03-07T11:32:54Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3347, "title": "update release notes", "createdAt": "2023-03-08T03:15:14Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3348, "title": "bump version", "createdAt": "2023-03-08T03:39:32Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3351, "title": "frpc: add parameter nat_hole_server_addr", "createdAt": "2023-03-10T07:48:04Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3352, "title": "trace log adds join errors", "createdAt": "2023-03-11T07:52:50Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3363, "title": "add allow_ips for frps", "createdAt": "2023-03-16T03:09:14Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3365, "title": "Use arg  `--clean` for GoReleaser and enable cache for setup-go", "createdAt": "2023-03-17T13:24:46Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3380, "title": "feat(pull request): add pull request template including summary and walkthrough", "createdAt": "2023-03-30T03:45:39Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3381, "title": "frpc: support nathole discover", "createdAt": "2023-03-30T12:16:33Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3382, "title": "feat(nathole): use serverUDPPort in nathole discovery when available", "createdAt": "2023-03-30T13:46:21Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3383, "title": "feat(nathole): add flag for STUN server in nathole discovery command", "createdAt": "2023-03-30T13:55:20Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3390, "title": "Add support for loongarch64", "createdAt": "2023-04-08T05:15:04Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3395, "title": "nathole: support discover without configuration file", "createdAt": "2023-04-10T13:41:07Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3399, "title": "Update frpc_full.ini", "createdAt": "2023-04-12T00:44:58Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3404, "title": "client: support websocket over TLS (wss://).", "createdAt": "2023-04-12T21:29:51Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3413, "title": "web: fix el-popover bug", "createdAt": "2023-04-16T08:39:54Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3416, "title": "Fix typo: dasboard -> dashboard", "createdAt": "2023-04-18T13:09:17Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3434, "title": "fix: typo tot => to", "createdAt": "2023-05-07T14:10:16Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3447, "title": "fix: typo", "createdAt": "2023-05-23T11:58:49Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3449, "title": "refactor the code related to xtcp", "createdAt": "2023-05-26T08:02:38Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3451, "title": "add e2e case for xtcp", "createdAt": "2023-05-28T14:55:33Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3452, "title": "use constant time comparison", "createdAt": "2023-05-28T16:15:08Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3453, "title": "add release notes", "createdAt": "2023-05-28T17:06:30Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3454, "title": "release v0.49.0", "createdAt": "2023-05-28T17:10:38Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3455, "title": "format import package name", "createdAt": "2023-05-29T06:07:56Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3460, "title": "xtcp: when connection timeout occurs, support fallback to STCP", "createdAt": "2023-05-29T14:01:09Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3463, "title": "frps dashboard: remove bind_udp_port", "createdAt": "2023-05-30T07:06:10Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3464, "title": "adjust code style about config", "createdAt": "2023-05-30T12:22:42Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3465, "title": "client/proxy: simplify the code", "createdAt": "2023-05-30T14:14:55Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3472, "title": "stcp, xtcp, sudp: support allow_users and specified server user", "createdAt": "2023-06-01T13:05:23Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3474, "title": "yamux: change default MaxStreamWindowSize to 6MB", "createdAt": "2023-06-02T12:20:53Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3488, "title": "server/proxy: simplify the code", "createdAt": "2023-06-15T16:07:09Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3489, "title": "fix the issue of duplicate xtcp proxies will cause the previous proxy to become ineffective", "createdAt": "2023-06-15T16:39:12Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3494, "title": "change default value of tls_enable and disable_custom_tls_first_byte", "createdAt": "2023-06-25T16:05:40Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3498, "title": "add release notes for v0.50.0", "createdAt": "2023-06-26T08:43:43Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3499, "title": "release v0.50.0", "createdAt": "2023-06-26T09:01:23Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3503, "title": "support wss between frpc and frps", "createdAt": "2023-06-28T14:13:26Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3504, "title": "service.Run supports passing in context", "createdAt": "2023-06-29T09:58:10Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3511, "title": "frpc: support stop command", "createdAt": "2023-06-30T07:51:23Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3512, "title": "update doc", "createdAt": "2023-07-01T16:27:59Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3516, "title": "update version", "createdAt": "2023-07-05T12:31:09Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3517, "title": "bump version to v0.51.0", "createdAt": "2023-07-05T12:36:55Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3520, "title": "update FUNDING.yml", "createdAt": "2023-07-06T11:53:26Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3528, "title": "use faster base64", "createdAt": "2023-07-14T03:18:22Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3532, "title": "update golib", "createdAt": "2023-07-17T09:25:11Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3536, "title": "fix a race condition issue", "createdAt": "2023-07-20T13:39:20Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3537, "title": "release v0.51.1", "createdAt": "2023-07-20T14:33:30Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3538, "title": "update github actions", "createdAt": "2023-07-20T15:00:58Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3539, "title": "update dependencies", "createdAt": "2023-07-21T06:23:16Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3540, "title": "feat: export client to dynamic lib", "createdAt": "2023-07-22T04:10:54Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3547, "title": "fix a goroutine leak issue caused by Login plugin timeout", "createdAt": "2023-07-25T07:04:46Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3549, "title": "fix incorrect use of snappy pool", "createdAt": "2023-07-25T13:22:44Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3550, "title": "release v0.51.2", "createdAt": "2023-07-25T13:31:56Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3573, "title": "support go1.21", "createdAt": "2023-08-14T03:07:24Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3574, "title": "release v0.51.3", "createdAt": "2023-08-14T03:58:31Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3580, "title": "Webhook", "createdAt": "2023-08-19T13:09:07Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3582, "title": "Remove redundant size hint for request info map", "createdAt": "2023-08-23T04:53:26Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3593, "title": "remove arch 386", "createdAt": "2023-08-31T03:12:59Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3594, "title": "Auto pick current version from `go.mod` in `goreleaser.yml`", "createdAt": "2023-08-31T06:52:19Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3599, "title": "support yaml/json/toml configuration format, make ini deprecated", "createdAt": "2023-09-05T12:52:41Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3608, "title": "add e2e tests for v1 config", "createdAt": "2023-09-13T08:27:23Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3610, "title": "config: add some validations", "createdAt": "2023-09-13T09:54:13Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3614, "title": "optimize the code of the command line", "createdAt": "2023-09-14T12:56:22Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3620, "title": "return ssl alert unrecognized_name when https domain not registered", "createdAt": "2023-09-18T04:46:13Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3624, "title": "Added setup files and removed some unused files ", "createdAt": "2023-09-20T07:03:37Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3625, "title": "code optimization", "createdAt": "2023-09-20T07:12:17Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3641, "title": "Fix README full config links", "createdAt": "2023-10-03T15:18:00Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3644, "title": "Ts 14027", "createdAt": "2023-10-04T13:23:09Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3647, "title": "readme: mentioned antivirus detection in installation instructions", "createdAt": "2023-10-09T06:55:06Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3650, "title": "update confugration examples and README", "createdAt": "2023-10-10T08:44:17Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3651, "title": "bump version to v0.52.0", "createdAt": "2023-10-10T09:23:02Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3654, "title": "fix tlsVerify json tag", "createdAt": "2023-10-10T10:59:39Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3655, "title": "Fix log.level configuration in frps.toml", "createdAt": "2023-10-10T11:41:28Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3660, "title": "fix that transport.tls.disableCustomTLSFirstByte doesn't take effect", "createdAt": "2023-10-11T03:42:05Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3662, "title": "fix broken server api and dashboard info", "createdAt": "2023-10-11T06:53:21Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3664, "title": "natHoleSTUNServer set default value", "createdAt": "2023-10-11T07:29:43Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3667, "title": "fix legacy ini proxy conversion panic", "createdAt": "2023-10-11T08:37:11Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3668, "title": "bump version to v0.52.1", "createdAt": "2023-10-11T09:14:31Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3670, "title": "update README", "createdAt": "2023-10-12T11:49:05Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3671, "title": "feat: ssh client implement", "createdAt": "2023-10-13T09:53:04Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3682, "title": "fix encryption and compresion in dashboard", "createdAt": "2023-10-16T03:15:26Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3683, "title": "README typo", "createdAt": "2023-10-16T03:26:37Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3694, "title": "fix doc link", "createdAt": "2023-10-19T03:18:56Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3701, "title": "fix example config", "createdAt": "2023-10-19T09:21:52Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3713, "title": "remove configuration files in release assets", "createdAt": "2023-10-23T02:43:16Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3714, "title": "bump version", "createdAt": "2023-10-23T02:48:55Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3719, "title": "admin user not convert in INI", "createdAt": "2023-10-23T11:32:37Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3721, "title": "rename example configuration file name", "createdAt": "2023-10-24T02:39:55Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3722, "title": "bump version", "createdAt": "2023-10-24T02:43:29Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3723, "title": "Feature/retry access token", "createdAt": "2023-10-24T15:10:38Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3728, "title": "feature: reload config file on save", "createdAt": "2023-10-27T16:35:57Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3734, "title": "fix: set ping", "createdAt": "2023-10-30T11:53:45Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3735, "title": "Add harness api call validation support", "createdAt": "2023-10-30T12:05:27Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3737, "title": "Improve docker images", "createdAt": "2023-10-31T09:30:20Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3738, "title": "chore: Update dependencies", "createdAt": "2023-10-31T09:53:36Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3740, "title": "frpc: exit with code 1 if first login failed", "createdAt": "2023-11-01T09:00:46Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3745, "title": "Code refactoring related to message handling and retry logic.", "createdAt": "2023-11-03T09:46:52Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3757, "title": "feat: allow dumping of configuration JSON Schema", "createdAt": "2023-11-08T12:48:54Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3767, "title": "validate client certificate of frpc for tcpmux", "createdAt": "2023-11-13T12:54:15Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3773, "title": "Strict configuration parsing", "createdAt": "2023-11-15T11:57:20Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3779, "title": "update for strict config", "createdAt": "2023-11-16T12:59:54Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3783, "title": "Fix various typos", "createdAt": "2023-11-17T10:55:52Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3784, "title": "sshTunnelGateway refactor", "createdAt": "2023-11-20T08:23:15Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3793, "title": "ssh tunnel gateway implementation", "createdAt": "2023-11-22T06:31:53Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3801, "title": "optimize some code", "createdAt": "2023-11-27T07:28:03Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3802, "title": "add upstream sync workflow", "createdAt": "2023-11-27T09:29:06Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3805, "title": "add e2e tests for ssh tunnel", "createdAt": "2023-11-28T03:50:06Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3809, "title": "Improve the strict configuration validation", "createdAt": "2023-11-28T09:51:53Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3813, "title": "call config complete in nathole discover", "createdAt": "2023-11-28T10:55:00Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3816, "title": "fix static assets", "createdAt": "2023-11-29T16:59:23Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3821, "title": "ssh: return informations to client", "createdAt": "2023-12-01T11:21:38Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3822, "title": "bump version to v0.53.0", "createdAt": "2023-12-01T12:37:34Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3823, "title": "update sponsor doc", "createdAt": "2023-12-02T08:00:16Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3833, "title": "add error", "createdAt": "2023-12-07T09:15:06Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3841, "title": "feat: ssh doc", "createdAt": "2023-12-13T08:14:09Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3843, "title": "test draft", "createdAt": "2023-12-14T08:03:11Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3844, "title": "update doc", "createdAt": "2023-12-14T12:41:51Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3845, "title": "bump version to v0.53.0", "createdAt": "2023-12-14T12:55:26Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3848, "title": "fixed: API error when the proxy name contains \"#\".", "createdAt": "2023-12-15T09:52:47Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3857, "title": "remove copilot for pr", "createdAt": "2023-12-18T02:47:41Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3869, "title": "fix: duplicate call loginFunc (#3860)", "createdAt": "2023-12-20T15:07:58Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3871, "title": "fix(backoff): close of closed out channel", "createdAt": "2023-12-21T03:00:28Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3873, "title": "feat(backoff): add  BackoffUntilNil func in backoff", "createdAt": "2023-12-21T06:41:00Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3875, "title": "fix: duplicate call loginFunc (#3860)", "createdAt": "2023-12-21T09:06:41Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3877, "title": "fix lint", "createdAt": "2023-12-21T13:16:06Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3878, "title": "bump version", "createdAt": "2023-12-21T13:20:34Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3879, "title": "fix login retry interval", "createdAt": "2023-12-21T13:34:58Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3880, "title": "fix login retry interval (#3879)", "createdAt": "2023-12-21T13:38:47Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3881, "title": "let e2e concurrency configurable", "createdAt": "2023-12-21T13:52:07Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3882, "title": "imrpove e2e", "createdAt": "2023-12-21T14:21:13Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3885, "title": "fix(client): close workConn when authentication err", "createdAt": "2023-12-22T07:40:50Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3887, "title": "Update go-jose and crypto version ", "createdAt": "2023-12-22T15:53:51Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3895, "title": "upgrade go-jose and crypto version", "createdAt": "2023-12-26T02:07:48Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3896, "title": "fix: ClientConfig marshals incorrectly", "createdAt": "2023-12-26T06:59:52Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3898, "title": "cmd: use hyphen instead of underscore", "createdAt": "2023-12-26T11:12:49Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3900, "title": "fix: fix frpc default config filename", "createdAt": "2023-12-28T01:46:17Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3904, "title": "Update root.go", "createdAt": "2023-12-29T03:26:14Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3921, "title": "Fix missing prefix for `transport.tls.force` in the example", "createdAt": "2024-01-09T10:40:23Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3938, "title": "fix: typo", "createdAt": "2024-01-16T10:14:31Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3942, "title": "Update README.md for TLS configuration", "createdAt": "2024-01-21T13:20:29Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3949, "title": "update stale workflow", "createdAt": "2024-01-25T03:32:03Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3950, "title": "increase operations-per-run in stale workflow", "createdAt": "2024-01-25T03:53:44Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3952, "title": "update stale workflow", "createdAt": "2024-01-25T06:02:31Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3958, "title": "stale.xml", "createdAt": "2024-01-29T19:04:14Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3962, "title": "fix(sec): upgrade github.com/quic-go/quic-go to 0.40.1", "createdAt": "2024-01-31T04:45:13Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3963, "title": "web: support to clear offline proxies data on dashboard", "createdAt": "2024-01-31T12:32:13Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3966, "title": "make the host/domain matching case-insensitive", "createdAt": "2024-02-01T03:51:51Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3967, "title": "bump version to 0.54.0", "createdAt": "2024-02-01T03:56:23Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3968, "title": "bump version", "createdAt": "2024-02-01T06:28:34Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3971, "title": "Update README.md - add note for public purpose", "createdAt": "2024-02-02T13:26:34Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3976, "title": "Update tls.go", "createdAt": "2024-02-06T05:38:02Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3979, "title": "Update Dockerfiles to copy binary from working directory into build container", "createdAt": "2024-02-07T06:00:52Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 3996, "title": "fix nil map error when using plugin headers in legacy format", "createdAt": "2024-02-16T04:24:39Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 3999, "title": "Updated readme for the HTTP Proxy", "createdAt": "2024-02-17T21:25:15Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4000, "title": "proxy supports configuring annotations, which will be displayed in the frps dashboard", "createdAt": "2024-02-19T08:05:05Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4001, "title": "support go1.22 and drop support for go1.20", "createdAt": "2024-02-19T08:40:23Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4002, "title": "bump quic-go to 0.41.0", "createdAt": "2024-02-19T09:12:59Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4003, "title": "display go version in make", "createdAt": "2024-02-19T09:36:22Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4005, "title": "ReverseProxy: use Rewrite to replace Director", "createdAt": "2024-02-19T13:00:29Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4006, "title": "bump pion/stun to v2", "createdAt": "2024-02-19T13:09:58Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4007, "title": "use go built-in min & max functions to replace lo.Min and lo.Max", "createdAt": "2024-02-19T13:21:58Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4008, "title": "use std slices package", "createdAt": "2024-02-20T03:53:40Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4009, "title": "update kcp-go package", "createdAt": "2024-02-20T08:06:22Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4013, "title": "update golangci-lint version to 1.56", "createdAt": "2024-02-21T09:19:00Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4018, "title": "use go1.22", "createdAt": "2024-02-22T11:54:24Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4019, "title": "cleanup code", "createdAt": "2024-02-22T13:00:04Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4020, "title": "use math/rand/v2", "createdAt": "2024-02-22T13:05:35Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4028, "title": "add new badges", "createdAt": "2024-02-27T09:40:41Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4038, "title": "fixing the incorrect API address when using path reverse proxy", "createdAt": "2024-03-02T12:27:23Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4040, "title": "regen web assets", "createdAt": "2024-03-03T14:59:58Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4043, "title": "fix function name in comment", "createdAt": "2024-03-06T07:49:28Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4045, "title": "update sponsor", "createdAt": "2024-03-07T06:42:10Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4054, "title": "use new log package", "createdAt": "2024-03-12T03:56:46Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4055, "title": "update release notes", "createdAt": "2024-03-12T06:55:42Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4056, "title": "bump version", "createdAt": "2024-03-12T08:53:19Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4057, "title": "fix release scripts", "createdAt": "2024-03-12T09:32:53Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4059, "title": "add `set -e` in package.sh", "createdAt": "2024-03-12T10:04:47Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4060, "title": "bump version", "createdAt": "2024-03-12T10:09:38Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4063, "title": "disable quic-go's receive buffer warning", "createdAt": "2024-03-13T13:38:50Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4065, "title": "fix: typos", "createdAt": "2024-03-14T08:36:52Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4066, "title": "fix daily log rotate", "createdAt": "2024-03-14T11:46:30Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4069, "title": "disable quic-go's ECN support by default", "createdAt": "2024-03-15T06:16:38Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4073, "title": "support range ports mapping by go template", "createdAt": "2024-03-15T08:39:39Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4074, "title": "update release notes", "createdAt": "2024-03-15T09:48:01Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4081, "title": "add doc for port range mapping", "createdAt": "2024-03-19T03:34:42Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4084, "title": "add header for http healthcheck", "createdAt": "2024-03-19T08:23:02Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4085, "title": "add header for http healthcheck", "createdAt": "2024-03-19T10:26:35Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4086, "title": "update release notes", "createdAt": "2024-03-20T07:04:36Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4087, "title": "show client address in server dashboard", "createdAt": "2024-03-20T09:18:45Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4091, "title": "set CompatibilityMode for android", "createdAt": "2024-03-21T09:24:06Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4092, "title": "bump v0.56.0", "createdAt": "2024-03-21T09:35:41Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4094, "title": "package.sh add android", "createdAt": "2024-03-21T11:30:10Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4107, "title": "Preferred Toml", "createdAt": "2024-03-27T16:23:08Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4110, "title": "nathole: upnp support", "createdAt": "2024-03-28T06:18:58Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4111, "title": "fix x-forwarded-for header", "createdAt": "2024-03-28T08:14:45Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4119, "title": "Makefile: add .PHONY label. Pseudo target", "createdAt": "2024-04-01T13:36:59Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4133, "title": "fix(sec): upgrade github.com/go-jose/go-jose/v3 to 3.0.3", "createdAt": "2024-04-08T06:38:32Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4136, "title": "bump deps version", "createdAt": "2024-04-09T03:35:29Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4137, "title": "bump version", "createdAt": "2024-04-09T03:44:39Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4139, "title": "update README", "createdAt": "2024-04-09T07:01:01Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4142, "title": "update golib", "createdAt": "2024-04-10T04:01:02Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4144, "title": "add jwt authentication", "createdAt": "2024-04-10T06:47:01Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4149, "title": "fix: revert gorilla/websocket from 1.5.1 to 1.5.0", "createdAt": "2024-04-11T01:32:25Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4151, "title": "return 504 instead of 404 for proxy type http request timeout", "createdAt": "2024-04-11T12:15:30Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4152, "title": "show tcpmux proxies on the frps dashboard", "createdAt": "2024-04-11T14:37:23Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4153, "title": "fix: ssh tunnel with user name will lead to invalid proxy name", "createdAt": "2024-04-11T23:58:43Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4154, "title": "support linux/arm v6", "createdAt": "2024-04-12T13:17:56Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4161, "title": "Add Helm charts for FRP server and client", "createdAt": "2024-04-16T08:34:24Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4167, "title": "README add releated projects", "createdAt": "2024-04-17T12:32:47Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4176, "title": "Makefile.cross-compiles: Fix softfloat flag not being honored for mipsle", "createdAt": "2024-04-22T10:12:56Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4181, "title": "adjust arm compilation configuration", "createdAt": "2024-04-25T05:03:38Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4182, "title": "client: add StatusExporter in service", "createdAt": "2024-04-25T12:14:55Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4186, "title": "change default value of heartbeat interval and timeout when tcpmux enabled", "createdAt": "2024-04-28T12:33:44Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4190, "title": "Update README.md", "createdAt": "2024-04-28T16:20:28Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4191, "title": "initialize tls config with TLS 1.2", "createdAt": "2024-04-28T19:25:10Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4192, "title": "support responseHeaders.set for proxy type http", "createdAt": "2024-04-29T07:46:04Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4197, "title": "Frp demonstration with cloudflare", "createdAt": "2024-05-01T07:22:27Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4204, "title": "update version", "createdAt": "2024-05-07T10:00:59Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4205, "title": "bump version", "createdAt": "2024-05-07T10:06:43Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4206, "title": "update build-and-push-image.yml", "createdAt": "2024-05-07T11:11:31Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4230, "title": "plugin: fix http2 not enabled for https2http and https2https plugin", "createdAt": "2024-05-21T03:21:03Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4231, "title": "update the default value of transport.tcpMuxKeepaliveInterval", "createdAt": "2024-05-21T03:31:23Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4235, "title": "config: return error if plugin type is empty", "createdAt": "2024-05-23T04:53:28Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4236, "title": "android: only use google dns server when the default dns server cannot be obtained", "createdAt": "2024-05-23T08:06:23Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4250, "title": "fix ini configuration default values", "createdAt": "2024-05-30T02:32:48Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4253, "title": "bump version", "createdAt": "2024-05-31T06:33:59Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4256, "title": "feat: add client reload on config change", "createdAt": "2024-06-01T14:17:20Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4265, "title": "add sponsor", "createdAt": "2024-06-05T08:50:01Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4275, "title": "Add http2http client plugin with hostHeaderRewrite and requestHeaders support", "createdAt": "2024-06-12T03:19:16Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4290, "title": "Feat: forward cookie auth", "createdAt": "2024-06-19T10:13:09Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4303, "title": "update sponsors", "createdAt": "2024-06-26T06:49:57Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4305, "title": "feat: Add XTCP page in dashboard for frps", "createdAt": "2024-06-26T15:06:19Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4306, "title": "The client adds displaying the proxy port.", "createdAt": "2024-06-28T03:11:44Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4311, "title": "feat: use sprig (slimmed down) for template function map", "createdAt": "2024-06-30T08:13:20Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4323, "title": "plugin https2http&https2https: return 421 if host not match sni", "createdAt": "2024-07-08T09:54:43Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4324, "title": "bump version", "createdAt": "2024-07-09T02:53:25Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4329, "title": "fix misuse of unlock", "createdAt": "2024-07-10T13:44:29Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4341, "title": "client plugin: added plugin tls2raw", "createdAt": "2024-07-16T08:19:41Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4354, "title": "Fix loginFailExit = false bug", "createdAt": "2024-07-29T01:34:55Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4359, "title": "added a 30s timeout for frpc subcommands to avoid long delays", "createdAt": "2024-07-30T09:11:38Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4365, "title": "update .github/FUNDING.yml", "createdAt": "2024-08-02T09:01:13Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4367, "title": "bump templexxx/cpu version and add support for linux/loong64", "createdAt": "2024-08-03T19:16:41Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4373, "title": "replace github.com/templexxx/xorsimd to the new version", "createdAt": "2024-08-07T03:16:24Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4384, "title": "Bump kcp-go to add linux/loong64 support", "createdAt": "2024-08-16T14:16:45Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4388, "title": "feat: Add auth.tokenFile support for file-based token authentication", "createdAt": "2024-08-17T01:14:07Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4392, "title": "bump version", "createdAt": "2024-08-19T05:41:13Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4416, "title": "chore: fix function name", "createdAt": "2024-09-02T07:35:20Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4417, "title": "Rename repo", "createdAt": "2024-09-02T10:40:55Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4421, "title": "Update README_zh.md", "createdAt": "2024-09-06T03:30:40Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4422, "title": "Feature: Add remove api for offline proxy", "createdAt": "2024-09-06T05:46:04Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4426, "title": "update stale workflow", "createdAt": "2024-09-09T15:25:19Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4430, "title": "合并", "createdAt": "2024-09-11T02:53:29Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4431, "title": "fix: memory leak", "createdAt": "2024-09-12T11:58:44Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4457, "title": "feat(plugin): add rootca and tls verify for client http plugins", "createdAt": "2024-09-25T18:50:14Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4468, "title": "Create go.yml", "createdAt": "2024-10-04T15:04:48Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4475, "title": "support multiple subjects in oidc ping", "createdAt": "2024-10-08T13:45:56Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4477, "title": "frpc visitor: add --server-user option to specify server proxy username", "createdAt": "2024-10-09T06:01:43Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4486, "title": "Delete web directory", "createdAt": "2024-10-12T10:14:03Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4490, "title": "feat: bump", "createdAt": "2024-10-14T06:12:10Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4494, "title": "conf: fix example for tls2raw", "createdAt": "2024-10-17T08:26:32Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4495, "title": "use go1.23", "createdAt": "2024-10-17T09:14:55Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4496, "title": "bump version", "createdAt": "2024-10-17T09:23:19Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4499, "title": "dockerfiles: add tzdata", "createdAt": "2024-10-18T03:59:37Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4500, "title": "update Release.md", "createdAt": "2024-10-18T04:29:46Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4504, "title": "readme: update sponsor", "createdAt": "2024-10-22T02:47:14Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4519, "title": "frps: add support for quic-bind-port parameter in frps", "createdAt": "2024-10-30T06:18:54Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4526, "title": "Add the latest version of the image.", "createdAt": "2024-11-06T08:47:19Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4527, "title": "update .golangci.yml", "createdAt": "2024-11-07T09:11:40Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4545, "title": "update sponsor info", "createdAt": "2024-11-20T07:06:43Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4547, "title": "Add STCP proxy and visitor support", "createdAt": "2024-11-20T17:23:26Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4561, "title": "config: add VhostEnableH2C flag to support HTTP/2 cleartext upgrade", "createdAt": "2024-11-28T02:42:59Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4565, "title": "Multilingual for web", "createdAt": "2024-11-29T08:50:26Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4566, "title": "Multilingual for web", "createdAt": "2024-11-29T09:14:09Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4569, "title": "Refactor FRP for Library Use and Update samber/lo Dependency to Latest Version", "createdAt": "2024-11-30T04:28:30Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4577, "title": "Upgrade packages to resolve CVE-2024-53259", "createdAt": "2024-12-09T16:13:33Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4582, "title": "enable h2c for vhost server", "createdAt": "2024-12-13T04:29:36Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4587, "title": "recover query cleaned by proxy", "createdAt": "2024-12-16T06:28:10Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4589, "title": "update Release.md", "createdAt": "2024-12-16T11:27:38Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4590, "title": "bump version", "createdAt": "2024-12-16T11:37:15Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4600, "title": "Update stale workflow", "createdAt": "2024-12-19T10:10:09Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4604, "title": "Update README.md", "createdAt": "2024-12-22T00:52:40Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4605, "title": "自动同步上游", "createdAt": "2024-12-24T08:01:35Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4606, "title": "Implement HTTP/2 to HTTP/1.1 downgrade support if the request is GRPC…", "createdAt": "2024-12-24T08:12:01Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4607, "title": "Container", "createdAt": "2024-12-25T07:30:26Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4611, "title": "client, pkg, server, test: replaced 'interface{}' with 'any'", "createdAt": "2024-12-28T10:26:38Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4612, "title": "update Release.md", "createdAt": "2024-12-30T05:49:47Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4615, "title": "Fix typos", "createdAt": "2025-01-01T17:50:38Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4623, "title": "frpc: support metadatas and annotations in frpc proxy commands", "createdAt": "2025-01-06T06:16:42Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4628, "title": "Added Helm chart for frps.", "createdAt": "2025-01-08T20:52:07Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4638, "title": "解决goroutine泄漏问题", "createdAt": "2025-01-15T09:25:26Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4652, "title": "Added missing colons for consistency and correctness", "createdAt": "2025-01-28T18:58:51Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4656, "title": "Use text/template instead of html/template for config pre-processing", "createdAt": "2025-02-04T21:31:42Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4660, "title": "OIDC support for raw tokens and claim verification", "createdAt": "2025-02-06T17:11:03Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4666, "title": "Fix ports not being released on Service.Close()", "createdAt": "2025-02-11T23:40:03Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4667, "title": "frps: release resources in service.Close()", "createdAt": "2025-02-12T04:19:23Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4668, "title": "update Release.md", "createdAt": "2025-02-12T04:28:47Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4669, "title": "chore: use frpc.toml as the default config file", "createdAt": "2025-02-13T09:33:09Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4681, "title": "feat: add support for setting custom udp listen port on the xtcp mode", "createdAt": "2025-02-20T03:20:28Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4690, "title": "log duration", "createdAt": "2025-03-03T11:38:24Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4694, "title": "log duration of connections", "createdAt": "2025-03-05T11:42:36Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4695, "title": "log duration of connections", "createdAt": "2025-03-05T11:57:10Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4698, "title": "fix golangci lint config", "createdAt": "2025-03-07T08:52:35Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4699, "title": "update version", "createdAt": "2025-03-07T09:19:47Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4700, "title": "bump version", "createdAt": "2025-03-07T09:24:11Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4719, "title": "Dependency updates and small adjustments to account for deprecations", "createdAt": "2025-03-16T16:50:12Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4720, "title": "Merge master", "createdAt": "2025-03-19T06:41:06Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4722, "title": "Added support for HTTPS client certificate authentication", "createdAt": "2025-03-23T01:55:49Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4733, "title": "add callback option to client service to track login state", "createdAt": "2025-03-29T15:02:32Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4751, "title": "virtual-net: initial", "createdAt": "2025-04-16T07:36:54Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4752, "title": "vnet: update tun_unsupported function", "createdAt": "2025-04-16T08:13:50Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4753, "title": "bump version", "createdAt": "2025-04-16T08:19:03Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4755, "title": "update feature gates doc", "createdAt": "2025-04-16T17:31:08Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4763, "title": "add clientIP to the dashboard", "createdAt": "2025-04-23T05:42:48Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4771, "title": "vnet: fix issues", "createdAt": "2025-04-27T07:02:54Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4772, "title": "update release notes", "createdAt": "2025-04-27T07:37:00Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4773, "title": "bump version", "createdAt": "2025-04-27T07:42:03Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4776, "title": "added documentation for running the service via systemd", "createdAt": "2025-04-29T06:27:08Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4780, "title": "add x64 openbsd", "createdAt": "2025-05-02T15:16:54Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4799, "title": "fix: type error in server_plugin doc", "createdAt": "2025-05-19T00:51:08Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4804, "title": "Added the function of custom prefix path for ws and wss protocols", "createdAt": "2025-05-21T07:36:17Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4809, "title": "feat: support YAML merge in strict configuration mode", "createdAt": "2025-05-23T11:21:51Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4810, "title": "add proxy protocol support for UDP proxies", "createdAt": "2025-05-23T13:23:06Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4814, "title": "update test package", "createdAt": "2025-05-26T06:48:55Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4817, "title": "update golangci-lint version", "createdAt": "2025-05-27T08:42:04Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4827, "title": "vnet: initial Windows support", "createdAt": "2025-06-05T16:35:59Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4828, "title": "Master", "createdAt": "2025-06-06T01:20:39Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4836, "title": "Allow deleting headers", "createdAt": "2025-06-16T11:52:40Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4838, "title": "Allow headers to be deleted", "createdAt": "2025-06-16T15:48:26Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4846, "title": "Pii frp", "createdAt": "2025-06-24T17:25:54Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4847, "title": "Branch frp", "createdAt": "2025-06-24T18:15:26Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4848, "title": "update .golangci.yml", "createdAt": "2025-06-25T03:14:39Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4849, "title": "bump version", "createdAt": "2025-06-25T03:17:24Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4850, "title": "test merge", "createdAt": "2025-06-25T03:41:48Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4855, "title": "feat(config): support loading configuration from URL", "createdAt": "2025-06-27T06:50:43Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4861, "title": "feat: update quic-go dependency from v0.48.2 to v0.53.0", "createdAt": "2025-07-01T09:50:04Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4862, "title": "Update quic-go dependency from v0.48.2 to v0.53.0", "createdAt": "2025-07-01T10:03:55Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4864, "title": "feat: add proxy_status metric", "createdAt": "2025-07-02T09:26:49Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4865, "title": "add tokenSource support for auth configuration", "createdAt": "2025-07-03T02:50:12Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4867, "title": "Maintaibiloity increased frp", "createdAt": "2025-07-03T16:07:22Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4876, "title": "update docker file with default config file", "createdAt": "2025-07-10T02:49:25Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4891, "title": "Add `install:` to Makefile", "createdAt": "2025-07-21T06:22:51Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4896, "title": "fix webserver port not being released on frpc svr.Close()", "createdAt": "2025-07-23T15:13:15Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4897, "title": "update golangci-lint version", "createdAt": "2025-07-25T09:04:02Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4902, "title": "Fix SSH tunnel gateway binding address issue #4900", "createdAt": "2025-07-28T07:05:34Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4904, "title": "合并", "createdAt": "2025-07-31T03:43:24Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4914, "title": "Create docker-build.yml", "createdAt": "2025-08-07T09:11:31Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4917, "title": "update sponsor info", "createdAt": "2025-08-08T14:20:44Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4923, "title": "improve random TLS certificate generation", "createdAt": "2025-08-10T14:51:45Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4924, "title": "bump version to v0.64.0", "createdAt": "2025-08-10T15:06:59Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4925, "title": "bump version", "createdAt": "2025-08-10T15:17:40Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4928, "title": "improve context and polling logic in xtcp visitor", "createdAt": "2025-08-11T17:44:10Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4934, "title": "Label frps pods based on customDomain info", "createdAt": "2025-08-14T06:12:56Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4938, "title": "remove quotes", "createdAt": "2025-08-15T08:06:03Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4939, "title": "feat: add HTTPS load balancing support", "createdAt": "2025-08-15T08:28:16Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4942, "title": "refactor to use maps.Clone", "createdAt": "2025-08-17T13:00:35Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4943, "title": "Interface Binding Support for frpc", "createdAt": "2025-08-18T03:30:40Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4951, "title": "xtcp: add configuration to disable assisted addresses in NAT traversal", "createdAt": "2025-08-25T07:40:56Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4952, "title": "improve yamux logging", "createdAt": "2025-08-25T09:48:31Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4957, "title": "update README", "createdAt": "2025-08-27T03:03:25Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4958, "title": "merge org", "createdAt": "2025-08-27T03:31:00Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4960, "title": "update go version to 1.24", "createdAt": "2025-08-27T06:34:18Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4973, "title": "feat(vhost): add customResponse config for unregistered HTTP hostnames", "createdAt": "2025-09-08T10:46:49Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4979, "title": "resolve shellcheck warnings", "createdAt": "2025-09-15T09:45:08Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4983, "title": "chore: Ip address whitelist on frpc", "createdAt": "2025-09-17T22:42:31Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 4985, "title": "add proxy name label to the proxy_count prometheus metric", "createdAt": "2025-09-19T16:03:11Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4990, "title": "auth: enhance OIDC client with TLS and proxy configuration options", "createdAt": "2025-09-22T16:03:40Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4993, "title": "chore: fix struct field name in comment", "createdAt": "2025-09-23T10:28:22Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4997, "title": "update sponsors info", "createdAt": "2025-09-25T08:45:43Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4998, "title": "bump version to v0.65.0 and update release notes", "createdAt": "2025-09-25T12:07:47Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 4999, "title": "bump version", "createdAt": "2025-09-25T12:20:12Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5001, "title": "update README", "createdAt": "2025-09-26T03:44:30Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5003, "title": "add default config path (-c) for Dockerfiles", "createdAt": "2025-09-29T07:33:22Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5004, "title": "添加Windows服务管理和事件日志集成", "createdAt": "2025-09-29T07:45:44Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5012, "title": "Update stale.yml", "createdAt": "2025-10-05T10:14:33Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5020, "title": "Improve error messages for misplaced client-level configuration fields", "createdAt": "2025-10-15T03:33:15Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5022, "title": "Fix CloseNotifyConn.Close function", "createdAt": "2025-10-16T14:54:37Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5030, "title": "update sponsor", "createdAt": "2025-10-28T07:42:42Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5031, "title": "update sponsor pic", "createdAt": "2025-10-28T08:07:11Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5032, "title": "https: add load balancing group support", "createdAt": "2025-10-28T09:20:29Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5033, "title": "update quic-go dependency from v0.53.0 to v0.55.0", "createdAt": "2025-10-28T09:49:10Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5035, "title": "vnet: add exponential backoff for failed reconnections", "createdAt": "2025-10-28T16:58:22Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5039, "title": "auth: add support for EntraID method", "createdAt": "2025-10-31T13:09:43Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5043, "title": "net: implement Proxy Protocol support in connection handling", "createdAt": "2025-11-02T23:20:53Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5048, "title": "config: add enabled field for individual proxy and visitor", "createdAt": "2025-11-06T06:03:07Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5050, "title": "Add `exec` value source type", "createdAt": "2025-11-10T15:46:37Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5067, "title": "rotate gold sponsor order periodically", "createdAt": "2025-11-17T16:05:45Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5068, "title": "fix lint", "createdAt": "2025-11-17T17:07:16Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5076, "title": "Pr1", "createdAt": "2025-11-26T15:02:59Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5077, "title": "docs: remove zsxq section", "createdAt": "2025-11-26T15:52:19Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5083, "title": "refactor: use MessageSender interface for message transporter", "createdAt": "2025-12-02T03:19:14Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5084, "title": "Rename stale.yml to stale.txt", "createdAt": "2025-12-02T05:36:11Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5085, "title": "Print detailed information about connection termination to enable external programmes to track connection status from the log", "createdAt": "2025-12-02T19:25:41Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5088, "title": "refactor: reorganize security policy into dedicated packag", "createdAt": "2025-12-05T08:12:43Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5094, "title": "rotate gold sponsor order periodically", "createdAt": "2025-12-11T04:44:32Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5095, "title": "修改frps和frpc的默认配置文件格式,添加主机名字段到登录消息中", "createdAt": "2025-12-13T22:17:11Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5098, "title": "Add a plugin ops CloseUserConn for traffic metrics", "createdAt": "2025-12-17T22:53:58Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5101, "title": "chapulin2760@gmail.com", "createdAt": "2025-12-22T03:37:49Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5105, "title": "refactor: separate auth config from runtime and defer token resolution", "createdAt": "2025-12-24T16:49:30Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5106, "title": "update version and release notes", "createdAt": "2025-12-24T16:59:31Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5108, "title": "updated dependencies to fix CVE vulnerabilities", "createdAt": "2026-01-01T14:40:05Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5109, "title": "updated dependencies to fix CVE vulnerabilities ", "createdAt": "2026-01-01T14:48:14Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5111, "title": "add e2e tests for exec-based token source", "createdAt": "2026-01-04T06:33:58Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5112, "title": "bump version", "createdAt": "2026-01-04T06:50:28Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5114, "title": "rotate gold sponsor order periodically", "createdAt": "2026-01-08T11:50:35Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5115, "title": "server: add client registry with dashboard support", "createdAt": "2026-01-08T12:03:58Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5116, "title": "update release notes", "createdAt": "2026-01-08T12:10:44Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5117, "title": "web/frpc: refactor dashboard with improved structure and API layer", "createdAt": "2026-01-08T16:37:37Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5118, "title": "server: replace client metadata with IP address in registry", "createdAt": "2026-01-09T03:01:55Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5119, "title": "udp: fix proxy protocol header sent on every packet instead of first packet only", "createdAt": "2026-01-09T03:27:23Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5120, "title": "feat: Add ProxyStarted webhook event for dynamic port notification", "createdAt": "2026-01-09T23:35:28Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5122, "title": "feat: xtcp support proxy protocol", "createdAt": "2026-01-11T13:18:16Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5126, "title": "server: implement optional pagination for proxy info API response", "createdAt": "2026-01-14T09:37:57Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5127, "title": "refactor: separate API handlers into dedicated packages with improved HTTP utilities", "createdAt": "2026-01-14T11:44:10Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5129, "title": "feat/frps: Add pagination to the Proxies API", "createdAt": "2026-01-15T03:06:40Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5133, "title": "fix: respect explicit transport.tls.force = false when trustedCaFile is set", "createdAt": "2026-01-16T18:20:07Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5135, "title": "chore: Update outdated GitHub Actions versions", "createdAt": "2026-01-19T16:08:14Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5139, "title": "refactor: move web embeds to web/ directory", "createdAt": "2026-01-26T18:50:45Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5144, "title": "web/frps: add detailed client and proxy views with enhanced tracking", "createdAt": "2026-01-30T18:13:13Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5145, "title": "web/frpc: redesign dashboard", "createdAt": "2026-01-31T04:34:43Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5146, "title": "bump version to 0.67.0", "createdAt": "2026-01-31T05:44:20Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5147, "title": "bump version", "createdAt": "2026-01-31T05:58:13Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5152, "title": "Clarify tcpMux heartbeat suppression in config references", "createdAt": "2026-02-03T02:53:13Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5154, "title": "web: ensure npm install runs before build", "createdAt": "2026-02-04T04:50:43Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5161, "title": "feat: add configurable websocket path support", "createdAt": "2026-02-06T00:54:33Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5162, "title": "Fix Clear Offline button: return 204 No Content for nil API responses", "createdAt": "2026-02-06T02:24:38Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5163, "title": "server/api: fix DeleteProxies endpoint returning empty response instead of JSON", "createdAt": "2026-02-06T03:16:09Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5169, "title": "feat: add etcd-based multi-tenant token management with traffic reporting", "createdAt": "2026-02-08T16:44:16Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5173, "title": "auth/oidc: cache OIDC access token and refresh before expiry", "createdAt": "2026-02-11T13:57:09Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5174, "title": "auth/oidc: cache access token to avoid redundant requests on each hea…", "createdAt": "2026-02-12T03:37:18Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5175, "title": "auth/oidc: cache OIDC access token and refresh before expiry", "createdAt": "2026-02-12T03:40:59Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5178, "title": "pkg/config: fix custom domain validation to prevent false matches with subdomain host", "createdAt": "2026-02-13T06:06:02Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5188, "title": "add persistent proxy/visitor store with CRUD API and web UI", "createdAt": "2026-03-01T16:51:23Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5189, "title": "build: add noweb tag to allow building without frontend assets", "createdAt": "2026-03-01T17:24:13Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5193, "title": "refactor: restructure API packages into client/http and server/http with typed proxy/visitor models", "createdAt": "2026-03-04T09:35:06Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5194, "title": "Improve config loading error messages with line numbers", "createdAt": "2026-03-04T10:18:33Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5195, "title": "pkg/config: fix line numbers shown incorrectly for TOML type mismatch errors", "createdAt": "2026-03-04T12:47:18Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5196, "title": "docs: update release notes for config parsing error improvements", "createdAt": "2026-03-04T14:45:32Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5198, "title": "pkg/msg: change UDPPacket.Content from string to []byte to avoid redundant base64 encode/decode", "createdAt": "2026-03-05T17:28:15Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5199, "title": "pkg/msg: switch UDPPacket.Content to []byte in UDP path", "createdAt": "2026-03-05T17:33:25Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5200, "title": "server/group: fix port leak and incorrect Listen port in TCPGroup", "createdAt": "2026-03-05T18:21:32Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5202, "title": "fix: close connections on error paths to prevent resource leaks", "createdAt": "2026-03-06T05:52:13Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5203, "title": "fix: return buffers to pool on error paths to reduce GC pressure", "createdAt": "2026-03-06T07:50:47Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5204, "title": "fix: WebsocketListener nil panic and OIDC auth data race", "createdAt": "2026-03-06T08:34:02Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5205, "title": "fix: validate CA cert parsing and add missing ReadHeaderTimeout", "createdAt": "2026-03-06T09:51:21Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5206, "title": "pkg/util/xlog: fix AddPrefix not updating existing prefix", "createdAt": "2026-03-06T12:38:49Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5207, "title": "server/proxy: simplify HTTP proxy domain registration by removing duplicate loop", "createdAt": "2026-03-06T13:12:47Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5208, "title": "server/proxy: simplify HTTPS and TCPMux proxy domain registration", "createdAt": "2026-03-06T13:26:44Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5209, "title": "pkg: use modern Go stdlib functions to simplify code", "createdAt": "2026-03-06T14:04:21Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5210, "title": "pkg/config: use modern Go stdlib for sorting and string operations", "createdAt": "2026-03-06T14:37:28Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5212, "title": "client/proxy: unify work conn wrapping across all proxy types", "createdAt": "2026-03-06T15:39:49Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5213, "title": "deduplicate common logic across proxy, visitor, and metrics modules", "createdAt": "2026-03-07T02:38:34Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5214, "title": "fix: concurrent map crash, error shadowing, and unchecked ListenUDP error", "createdAt": "2026-03-07T04:49:08Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5215, "title": "refactor: fix modernize lint issues", "createdAt": "2026-03-07T10:05:54Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5216, "title": "fix: typos in comments, tests, functions", "createdAt": "2026-03-07T10:16:15Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5217, "title": "server: introduce SessionContext to encapsulate NewControl parameters", "createdAt": "2026-03-07T10:30:06Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5218, "title": "server/control: deduplicate close-proxy logic and UserInfo construction", "createdAt": "2026-03-07T15:54:23Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5219, "title": "client/visitor: deduplicate visitor connection handshake and wrapping", "createdAt": "2026-03-07T16:59:20Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5220, "title": "refactor: use maps.Clone and slices.Concat", "createdAt": "2026-03-07T20:11:22Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5221, "title": "pkg/metrics/mem: remove redundant map write-backs and optimize proxy lookup", "createdAt": "2026-03-08T02:20:45Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5222, "title": "server/group: refactor with shared abstractions and fix concurrency issues", "createdAt": "2026-03-08T06:19:11Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5223, "title": "test/e2e: optimize e2e test time with TCP readiness checks", "createdAt": "2026-03-08T13:37:37Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5225, "title": "test/e2e: optimize RunFrps/RunFrpc with process exit detection", "createdAt": "2026-03-08T16:42:45Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5226, "title": "test/e2e: replace RunProcesses client sleep with log-based proxy readiness detection", "createdAt": "2026-03-09T06:00:25Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5227, "title": "添加Windows服务管理和事件日志集成", "createdAt": "2026-03-09T10:02:19Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5228, "title": "server/plugin: add `CloseUserConn` operation to server plugin system", "createdAt": "2026-03-10T04:05:47Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5231, "title": "test/e2e: replace sleeps with event-driven waits in chaos/group/store tests", "createdAt": "2026-03-11T15:56:48Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5232, "title": "add AGENTS.md and CLAUDE.md for AI coding assistants", "createdAt": "2026-03-11T16:17:58Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5234, "title": "auth/oidc: fix eager token fetch at startup, add validation and e2e tests", "createdAt": "2026-03-13T08:59:46Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5237, "title": "web/frpc: redesign frpc dashboard with sidebar nav, proxy/visitor list and detail views", "createdAt": "2026-03-15T19:50:05Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5239, "title": "web: bump dev dependencies in frpc and frps package-lock.json", "createdAt": "2026-03-16T15:09:04Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5240, "title": "fix: use ConstantTimeEqString for visitor auth key comparison", "createdAt": "2026-03-16T15:16:08Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5243, "title": "fix: dashboard 'Clear Offline' fails with JSON parse error", "createdAt": "2026-03-17T03:36:42Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5245, "title": "bump pion/stun to v3 to fix vulnerability", "createdAt": "2026-03-19T17:48:40Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5246, "title": "web/frps: redesign frps dashboard with sidebar nav, responsive layout and shared component workspace", "createdAt": "2026-03-19T19:26:54Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5247, "title": "web/frps: redesign dashboard with sidebar nav and shared component workspace", "createdAt": "2026-03-20T05:02:51Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5248, "title": "doc: add agent runbooks directory with release process", "createdAt": "2026-03-20T05:48:32Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5249, "title": "bump version", "createdAt": "2026-03-20T05:52:26Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5250, "title": "docker: copy shared web directory for npm workspace builds", "createdAt": "2026-03-20T06:12:33Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5251, "title": "ci: bump github actions to latest major versions", "createdAt": "2026-03-20T06:27:39Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5252, "title": "bump version", "createdAt": "2026-03-20T06:35:46Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5253, "title": "web/frps: restore XTCP support across dashboard views", "createdAt": "2026-03-20T06:37:27Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5254, "title": "merge dev to master", "createdAt": "2026-03-20T07:47:58Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5258, "title": "server: add proxy protocol support for bind and vhost HTTP/HTTPS listeners", "createdAt": "2026-03-21T01:05:16Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5260, "title": "auth/oidc: Add support for static JWKS and PEM key verification in OIDC", "createdAt": "2026-03-23T13:16:25Z", "state": "OPEN", "repo": "fatedier/frp"}
+{"number": 5261, "title": "nathole: return error when SetTTL fails in sendSidMessage", "createdAt": "2026-03-25T09:32:01Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5262, "title": "client: close TCP connection when fmux session creation fails", "createdAt": "2026-03-25T09:34:49Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5263, "title": "Upgrade stun to v3 to resolve CVE-2026-26014", "createdAt": "2026-03-25T16:17:29Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5264, "title": "fix: pin 8 unpinned action(s),extract 1 unsafe expression(s) to env vars", "createdAt": "2026-03-26T07:59:40Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5265, "title": "搞错了分支, 抱歉", "createdAt": "2026-03-28T15:41:59Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5266, "title": "ci: remove security vulnerability scan workflow", "createdAt": "2026-03-29T14:51:13Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5267, "title": "update README.md", "createdAt": "2026-03-29T15:37:46Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5268, "title": "test/e2e: allocate dynamic ports outside whitelist ranges in server w…", "createdAt": "2026-03-29T16:18:17Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5269, "title": "deps: bump golib to v0.6.0", "createdAt": "2026-03-29T16:25:37Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5270, "title": "update architecture pic", "createdAt": "2026-03-29T19:19:23Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5271, "title": "fix: pin 8 unpinned action(s), extract 1 inline secret to env var", "createdAt": "2026-03-30T04:26:17Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5274, "title": "fix: using variable interpolation `${{ in build-and-push-image.yml (y...", "createdAt": "2026-04-01T07:32:35Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5276, "title": "Implement a simple 'strip prefix' feature for http locations ", "createdAt": "2026-04-03T00:39:23Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5277, "title": "Add NewVisitorConn operation to server plugin system", "createdAt": "2026-04-03T21:38:27Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5283, "title": "server: add proxy protocol support for bind and vhost HTTP/HTTPS listeners", "createdAt": "2026-04-09T07:26:35Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5285, "title": "vhost/http: fix auth bypass when routeByHTTPUser is used with proxy-style requests", "createdAt": "2026-04-13T16:55:15Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5286, "title": "web/frpc: use static imports for proxy and visitor route components", "createdAt": "2026-04-13T17:10:09Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5287, "title": "bump version to v0.68.1", "createdAt": "2026-04-13T17:24:15Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5294, "title": "protocol: add v2 wire protocol with binary framing and capability negotiation", "createdAt": "2026-04-26T16:13:31Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5295, "title": "update Release.md", "createdAt": "2026-04-26T17:10:57Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5296, "title": "plugin/http_proxy: fix fragmented CONNECT method detection and add read deadline", "createdAt": "2026-04-26T18:22:44Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5297, "title": "test/e2e: add compatibility test suite for wire protocol version negotiation", "createdAt": "2026-04-27T10:23:20Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5299, "title": "Add Auto Transport Mode with IPv4/IPv6 probing and WSS support", "createdAt": "2026-04-28T06:37:57Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5300, "title": "fix: the frp oidc authentication in pkg/auth/oidc in oidc.go", "createdAt": "2026-04-29T06:21:17Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5301, "title": "plugin/client: add mcp_stdio plugin", "createdAt": "2026-04-29T14:51:40Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5304, "title": "protocol: add AEAD encryption negotiation to v2 wire control channel", "createdAt": "2026-05-05T06:44:20Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5305, "title": "fix: reset UDP read deadline on write activity to prevent idle timeout", "createdAt": "2026-05-09T09:50:50Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5306, "title": "add toml editor support for frpc dashboard", "createdAt": "2026-05-11T09:28:28Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5308, "title": "refactor: clean up code", "createdAt": "2026-05-12T02:54:02Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5310, "title": "fix typos in comments", "createdAt": "2026-05-12T17:41:17Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5312, "title": "docs: trim trailing whitespace in README.md", "createdAt": "2026-05-13T04:20:35Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5313, "title": "fix make clean web dist", "createdAt": "2026-05-13T09:43:27Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5314, "title": "added a websocket path to config", "createdAt": "2026-05-14T13:12:48Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5318, "title": "feat: Implement a simple 'strip prefix' feature for http locations", "createdAt": "2026-05-18T10:20:35Z", "state": "OPEN", "repo": "fatedier/frp"}
+{"number": 5319, "title": "Fix the docker image not working as expected.", "createdAt": "2026-05-19T03:58:01Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5321, "title": "feat(ui): add all proxies tab to frps dashboard", "createdAt": "2026-05-20T08:13:26Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5322, "title": "feat(ui): add xtcp tab to frps dashboard", "createdAt": "2026-05-21T14:13:51Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5323, "title": "Release v0.69.0", "createdAt": "2026-05-21T16:06:39Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5337, "title": "feat: add xudp proxy mode with multi-STUN prediction and decoupled tunnel", "createdAt": "2026-05-27T19:45:20Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5340, "title": "feat: use wire v2 framing for UDP workConn payload", "createdAt": "2026-05-28T07:37:51Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5343, "title": "feat: use wire v2 framing for XTCP NatHoleSid", "createdAt": "2026-05-28T15:00:13Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5347, "title": "feat: bridge mixed wire protocol SUDP payloads", "createdAt": "2026-06-01T04:09:18Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5348, "title": "Release v0.69.1", "createdAt": "2026-06-01T08:07:36Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5349, "title": "test: handle wire v2 compatibility baselines", "createdAt": "2026-06-01T09:48:47Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5350, "title": "Release v0.69.1", "createdAt": "2026-06-01T09:56:46Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5351, "title": "feat: add dashboard API v2 pagination endpoints", "createdAt": "2026-06-01T11:40:12Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5352, "title": "fix typos in comments", "createdAt": "2026-06-01T13:57:22Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5353, "title": "fix: normalize web package lockfile", "createdAt": "2026-06-02T05:36:52Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5354, "title": "feat: paginate dashboard clients and proxies via API v2", "createdAt": "2026-06-02T14:06:36Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5359, "title": "fix(client): write proxy protocol header in tls2raw plugin", "createdAt": "2026-06-08T09:23:43Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5360, "title": "fix(client): write proxy protocol header in tls2raw plugin", "createdAt": "2026-06-08T10:03:45Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5362, "title": "fix(client): write proxy protocol header in tls2raw plugin", "createdAt": "2026-06-09T01:32:10Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5363, "title": "fix(websocket): send tunnel payload as binary frames", "createdAt": "2026-06-09T09:48:53Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5369, "title": "test(e2e): support INI-format baseline in compatibility suite", "createdAt": "2026-06-18T04:45:15Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5371, "title": "fix(client): honor no_proxy when connecting to the server", "createdAt": "2026-06-19T02:44:09Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5372, "title": "fix: combine length header and payload into a single Write call (#5281)", "createdAt": "2026-06-20T17:55:21Z", "state": "OPEN", "repo": "fatedier/frp"}
+{"number": 5373, "title": "pull", "createdAt": "2026-06-21T01:54:30Z", "state": "CLOSED", "repo": "fatedier/frp"}
+{"number": 5375, "title": "feat: remove proxies client filter", "createdAt": "2026-06-22T14:50:11Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5376, "title": "test: cover tls2raw proxy protocol header", "createdAt": "2026-06-22T16:01:03Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5377, "title": "docs: update release notes", "createdAt": "2026-06-23T08:51:20Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5378, "title": "fix(client): reject duplicate proxy and visitor names", "createdAt": "2026-06-23T13:46:25Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5379, "title": "docs: add release note for PR #5378", "createdAt": "2026-06-24T06:52:35Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5380, "title": "feat(build): add size-optimized (slim) build targets to Makefile ", "createdAt": "2026-06-25T13:44:09Z", "state": "OPEN", "repo": "fatedier/frp"}
+{"number": 5381, "title": "feat(dashboard): add v2 client detail status", "createdAt": "2026-06-26T11:28:49Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5384, "title": "feat(ui): default proxies view to all tab", "createdAt": "2026-06-29T14:45:37Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5385, "title": " web: bump esbuild to 0.28.1 and remove unused ElPopover type", "createdAt": "2026-06-29T15:17:11Z", "state": "MERGED", "repo": "fatedier/frp"}
+{"number": 5386, "title": "web/frps: use API v2 for client and proxy details", "createdAt": "2026-06-29T16:53:04Z", "state": "MERGED", "repo": "fatedier/frp"}

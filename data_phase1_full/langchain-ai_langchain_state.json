@@ -33008,9 +33008,10 @@
     35700
   ],
   "pr_idx": 23243,
-  "issue_idx": 9050,
-  "disc_idx": 0,
+  "issue_idx": 9754,
+  "disc_idx": 4,
   "failed_pr": [],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
