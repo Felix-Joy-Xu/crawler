@@ -3877,3 +3877,705 @@
 {"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15781}
 {"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15781}
 {"__typename": "ClosedEvent", "createdAt": "2024-11-08T15:46:27Z", "actor": "alexander-akait", "repo": "webpack/webpack", "pr_number": 15781}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15793}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15793}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15793}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15793}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15793}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15793}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15793}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15793}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15793}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15793}
+{"__typename": "ClosedEvent", "createdAt": "2023-04-04T21:51:21Z", "actor": "alexander-akait", "repo": "webpack/webpack", "pr_number": 15793}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15794}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15794}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15794}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15794}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15794}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15794}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-08T02:03:23Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15794}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15794}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15795}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15795}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15795}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15795}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15795}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15795}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-08T02:08:46Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15795}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15795}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15796}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15796}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15796}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15796}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15796}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15796}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-08T02:05:27Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15796}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15796}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15797}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15797}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15797}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15797}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15797}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15797}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-08T02:06:26Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15797}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15797}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15798}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15798}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15798}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15798}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15798}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15798}
+{"__typename": "ClosedEvent", "createdAt": "2022-05-10T02:05:13Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15798}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15798}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15799}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15799}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15799}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15799}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15799}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15799}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-08T02:08:06Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15799}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15799}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15801}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15801}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15801}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15801}
+{"__typename": "HeadRefForcePushedEvent", "repo": "webpack/webpack", "pr_number": 15801}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15801}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15801}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15801}
+{"__typename": "UnlabeledEvent", "repo": "webpack/webpack", "pr_number": 15801}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15801}
+{"__typename": "MergedEvent", "createdAt": "2022-06-02T11:15:35Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15801}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-02T11:15:35Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15801}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15801}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15801}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15802}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15802}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15802}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15802}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15802}
+{"__typename": "UnlabeledEvent", "repo": "webpack/webpack", "pr_number": 15802}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15802}
+{"__typename": "MergedEvent", "createdAt": "2022-05-10T10:29:26Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15802}
+{"__typename": "ClosedEvent", "createdAt": "2022-05-10T10:29:26Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15802}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15802}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15803}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15803}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15803}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15803}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15803}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15803}
+{"__typename": "ClosedEvent", "createdAt": "2022-11-09T03:03:47Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15803}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15803}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15806}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15806}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15806}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15806}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15806}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15806}
+{"__typename": "ClosedEvent", "createdAt": "2022-05-23T02:07:27Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15806}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15806}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15807}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15807}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15807}
+{"__typename": "ReadyForReviewEvent", "repo": "webpack/webpack", "pr_number": 15807}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15807}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15807}
+{"__typename": "ClosedEvent", "createdAt": "2022-07-25T07:23:29Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15807}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "UnlabeledEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "MergedEvent", "createdAt": "2023-04-05T16:47:43Z", "actor": "alexander-akait", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "ClosedEvent", "createdAt": "2023-04-05T16:47:44Z", "actor": "alexander-akait", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "ReferencedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "ReferencedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "ReferencedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "ReferencedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "ReferencedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15812}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "ClosedEvent", "createdAt": "2022-05-13T08:26:22Z", "actor": "vankop", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "ReopenedEvent", "createdAt": "2022-05-13T09:24:00Z", "actor": "vankop", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "HeadRefForcePushedEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "UnlabeledEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "MergedEvent", "createdAt": "2022-11-09T10:16:00Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "ClosedEvent", "createdAt": "2022-11-09T10:16:00Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15818}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15819}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15819}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15819}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15819}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15819}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15819}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15819}
+{"__typename": "HeadRefForcePushedEvent", "repo": "webpack/webpack", "pr_number": 15819}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15819}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15819}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15819}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15819}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15819}
+{"__typename": "ClosedEvent", "createdAt": "2023-07-03T07:45:32Z", "actor": "noreiller", "repo": "webpack/webpack", "pr_number": 15819}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15819}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15832}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15832}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15832}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15832}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15832}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15832}
+{"__typename": "ClosedEvent", "createdAt": "2022-05-30T02:03:12Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15832}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15832}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15834}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15834}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15834}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15834}
+{"__typename": "UnlabeledEvent", "repo": "webpack/webpack", "pr_number": 15834}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15834}
+{"__typename": "MergedEvent", "createdAt": "2022-07-01T10:21:48Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15834}
+{"__typename": "ClosedEvent", "createdAt": "2022-07-01T10:21:48Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15834}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15834}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15834}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15835}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15835}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15835}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15835}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15835}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15835}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-28T02:02:33Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15835}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15835}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15836}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15836}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15836}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15836}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15836}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15836}
+{"__typename": "ClosedEvent", "createdAt": "2022-05-20T02:02:41Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15836}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15836}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15838}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15838}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15838}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15838}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15838}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15838}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15838}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15838}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15838}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15838}
+{"__typename": "ClosedEvent", "createdAt": "2023-04-20T18:02:58Z", "actor": "alexander-akait", "repo": "webpack/webpack", "pr_number": 15838}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15840}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15840}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15840}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15840}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15840}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15840}
+{"__typename": "ClosedEvent", "createdAt": "2022-05-30T02:07:16Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15840}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15840}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15841}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15841}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15841}
+{"__typename": "HeadRefForcePushedEvent", "repo": "webpack/webpack", "pr_number": 15841}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15841}
+{"__typename": "HeadRefForcePushedEvent", "repo": "webpack/webpack", "pr_number": 15841}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-02T11:41:58Z", "actor": "vankop", "repo": "webpack/webpack", "pr_number": 15841}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15841}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15841}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15841}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15841}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15841}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15841}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15845}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15845}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15845}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15845}
+{"__typename": "ClosedEvent", "createdAt": "2023-03-11T05:50:02Z", "actor": "snitin315", "repo": "webpack/webpack", "pr_number": 15845}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15845}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15848}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15848}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15848}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15848}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15848}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15848}
+{"__typename": "ClosedEvent", "createdAt": "2022-05-26T03:11:09Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15848}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15848}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15857}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15857}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15857}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15857}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15857}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15857}
+{"__typename": "ClosedEvent", "createdAt": "2022-05-25T02:07:30Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15857}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15857}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "UnlabeledEvent", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "MergedEvent", "createdAt": "2022-11-09T10:09:29Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "ClosedEvent", "createdAt": "2022-11-09T10:09:29Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15859}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15862}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15862}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15862}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15862}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15862}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15862}
+{"__typename": "ClosedEvent", "createdAt": "2022-05-31T02:03:16Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15862}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15862}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15863}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15863}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15863}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15863}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15863}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15863}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-02T02:04:36Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15863}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15863}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15865}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15865}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15865}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15865}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15865}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15865}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-14T02:03:40Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15865}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15865}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "RenamedTitleEvent", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "UnlabeledEvent", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "MergedEvent", "createdAt": "2022-06-28T09:27:33Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-28T09:27:33Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15868}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15870}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15870}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15870}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15870}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15870}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15870}
+{"__typename": "ClosedEvent", "createdAt": "2022-05-31T02:06:26Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15870}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15870}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15871}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15871}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15871}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15871}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15871}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15871}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-20T02:04:13Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15871}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15871}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15873}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15873}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15873}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15873}
+{"__typename": "UnlabeledEvent", "repo": "webpack/webpack", "pr_number": 15873}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15873}
+{"__typename": "MergedEvent", "createdAt": "2022-06-02T10:44:02Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15873}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-02T10:44:02Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15873}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15873}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15873}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15877}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15877}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15877}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15877}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15877}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15877}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-01T02:07:11Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15877}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15877}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15878}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15878}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15878}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15878}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15878}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15878}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-06T02:05:12Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15878}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15878}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15886}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15886}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15886}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15886}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15886}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15886}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-02T02:08:07Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15886}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15886}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15888}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15888}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15888}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15888}
+{"__typename": "UnlabeledEvent", "repo": "webpack/webpack", "pr_number": 15888}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15888}
+{"__typename": "MergedEvent", "createdAt": "2022-06-02T10:43:10Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15888}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-02T10:43:10Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15888}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15888}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15888}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15888}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "HeadRefForcePushedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "UnlabeledEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "UnlabeledEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "UnlabeledEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "HeadRefForcePushedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "HeadRefForcePushedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "HeadRefForcePushedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "UnlabeledEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "HeadRefForcePushedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "UnlabeledEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "UnlabeledEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "HeadRefForcePushedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "ClosedEvent", "createdAt": "2023-04-26T11:14:48Z", "actor": "TheLarkInn", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15892}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15894}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15894}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15894}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15894}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15894}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15894}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-14T02:02:36Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15894}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15894}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15895}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15895}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15895}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15895}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15895}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15895}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-09T02:06:14Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15895}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15895}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "UnlabeledEvent", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "ReviewRequestedEvent", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "MergedEvent", "createdAt": "2022-06-09T21:19:52Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-09T21:19:52Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15898}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "HeadRefForcePushedEvent", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "MergedEvent", "createdAt": "2022-06-02T11:18:29Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-02T11:18:30Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15899}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15909}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15909}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15909}
+{"__typename": "HeadRefForcePushedEvent", "repo": "webpack/webpack", "pr_number": 15909}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15909}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15909}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15909}
+{"__typename": "HeadRefForcePushedEvent", "repo": "webpack/webpack", "pr_number": 15909}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15909}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15909}
+{"__typename": "UnlabeledEvent", "repo": "webpack/webpack", "pr_number": 15909}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15909}
+{"__typename": "MergedEvent", "createdAt": "2022-07-01T10:21:02Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15909}
+{"__typename": "ClosedEvent", "createdAt": "2022-07-01T10:21:02Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15909}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15909}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15910}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15910}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15910}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15910}
+{"__typename": "UnlabeledEvent", "repo": "webpack/webpack", "pr_number": 15910}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15910}
+{"__typename": "MergedEvent", "createdAt": "2022-07-25T07:38:58Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15910}
+{"__typename": "ClosedEvent", "createdAt": "2022-07-25T07:38:59Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15910}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15910}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15910}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15911}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15911}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15911}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15911}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15911}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15911}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15911}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15911}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15911}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15911}
+{"__typename": "ClosedEvent", "createdAt": "2025-10-01T17:12:28Z", "actor": "alexander-akait", "repo": "webpack/webpack", "pr_number": 15911}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15913}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15913}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15913}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15913}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15913}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15913}
+{"__typename": "ClosedEvent", "createdAt": "2022-07-15T02:06:02Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15913}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15913}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15922}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15922}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15922}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15922}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15922}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15922}
+{"__typename": "ClosedEvent", "createdAt": "2022-07-14T02:08:21Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15922}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15922}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15923}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15923}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15923}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15923}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15923}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15923}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-30T02:07:29Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15923}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15923}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15924}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15924}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15924}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15924}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15924}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15924}
+{"__typename": "ClosedEvent", "createdAt": "2022-07-14T02:03:14Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15924}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15924}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15925}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15925}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15925}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15925}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15925}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15925}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15925}
+{"__typename": "ClosedEvent", "createdAt": "2023-04-06T20:50:01Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15925}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15925}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15926}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15926}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15926}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15926}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15926}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15926}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-30T02:09:28Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15926}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15926}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15926}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15926}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15932}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15932}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15932}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15932}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15932}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15932}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-17T02:04:57Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15932}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15932}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15940}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15940}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15940}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15940}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15940}
+{"__typename": "UnlabeledEvent", "repo": "webpack/webpack", "pr_number": 15940}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15940}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15940}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15940}
+{"__typename": "MergedEvent", "createdAt": "2022-07-01T10:22:06Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15940}
+{"__typename": "ClosedEvent", "createdAt": "2022-07-01T10:22:06Z", "actor": "sokra", "repo": "webpack/webpack", "pr_number": 15940}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15940}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15946}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15946}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15946}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15946}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15946}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15946}
+{"__typename": "ClosedEvent", "createdAt": "2022-11-18T03:03:16Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15946}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15946}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15949}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15949}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15949}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15949}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15949}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15949}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-15T02:05:59Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15949}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15949}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15950}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15950}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15950}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15950}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15950}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15950}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-28T02:06:50Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15950}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15950}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15954}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15954}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15954}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15954}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15954}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15954}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-21T02:05:05Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15954}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15954}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15954}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15956}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15956}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15956}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15956}
+{"__typename": "MentionedEvent", "repo": "webpack/webpack", "pr_number": 15956}
+{"__typename": "SubscribedEvent", "repo": "webpack/webpack", "pr_number": 15956}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15956}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15956}
+{"__typename": "ClosedEvent", "createdAt": "2024-01-04T14:48:39Z", "actor": "alexander-akait", "repo": "webpack/webpack", "pr_number": 15956}
+{"__typename": "PullRequestCommit", "repo": "webpack/webpack", "pr_number": 15959}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15959}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15959}
+{"__typename": "LabeledEvent", "repo": "webpack/webpack", "pr_number": 15959}
+{"__typename": "CrossReferencedEvent", "repo": "webpack/webpack", "pr_number": 15959}
+{"__typename": "PullRequestReview", "repo": "webpack/webpack", "pr_number": 15959}
+{"__typename": "IssueComment", "repo": "webpack/webpack", "pr_number": 15959}
+{"__typename": "ClosedEvent", "createdAt": "2022-06-27T02:31:04Z", "actor": "dependabot", "repo": "webpack/webpack", "pr_number": 15959}
+{"__typename": "HeadRefDeletedEvent", "repo": "webpack/webpack", "pr_number": 15959}
