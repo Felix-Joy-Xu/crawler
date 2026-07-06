@@ -1,0 +1,759 @@
+{"number": 2015, "title": "Merge", "createdAt": "2022-01-26T02:01:10Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2077, "title": "add xchacha20-poly1305 to shadowsocks ciphers for xray", "createdAt": "2022-03-03T09:18:22Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2082, "title": "Hello .Net 6!", "createdAt": "2022-03-05T16:09:18Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2097, "title": "主界面添加拖动排序功能", "createdAt": "2022-03-12T12:52:05Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2101, "title": "主界面添加拖动排序功能", "createdAt": "2022-03-14T15:48:56Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2148, "title": "保存自定义路由信息时先排序后输出", "createdAt": "2022-04-01T05:32:17Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2151, "title": "过滤器添加快捷按钮", "createdAt": "2022-04-01T12:05:17Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2154, "title": "Deleted", "createdAt": "2022-04-02T19:18:37Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2164, "title": "Update issue templates", "createdAt": "2022-04-05T15:11:29Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2192, "title": "Add support for Clash's modern CPU executable", "createdAt": "2022-04-14T04:13:52Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2295, "title": "fix multiple program autorun issue #2294", "createdAt": "2022-05-11T17:59:42Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2328, "title": "添加指定节点路由功能", "createdAt": "2022-05-22T08:30:56Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2415, "title": "C# language usage improvements", "createdAt": "2022-06-22T01:49:36Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2417, "title": "Fix English translations", "createdAt": "2022-06-22T02:26:45Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2447, "title": "一个利用dokodemo-door实现的端口转发功能，希望能被合并到主干，或者获得一些代码改动意见：）", "createdAt": "2022-07-03T14:33:54Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2449, "title": "Update Clash.Meta coreExes", "createdAt": "2022-07-04T06:05:36Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2463, "title": "误点了，请删除", "createdAt": "2022-07-09T08:58:49Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2464, "title": "Dev", "createdAt": "2022-07-09T09:04:27Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2500, "title": "Update issue templates", "createdAt": "2022-07-26T10:52:32Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2501, "title": "fix #2500", "createdAt": "2022-07-26T12:35:17Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2510, "title": "Add SagerNet/v2ray-core support", "createdAt": "2022-07-29T09:37:32Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2513, "title": "Better README", "createdAt": "2022-07-30T03:37:18Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2530, "title": "Add Check for Pre-Release Updates", "createdAt": "2022-08-05T07:10:37Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2556, "title": "适配 hysteria v1.2.0", "createdAt": "2022-08-14T03:02:30Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2557, "title": "Upgrade to SDK-style project format", "createdAt": "2022-08-15T13:48:43Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2560, "title": "Rewrite v2rayUpgrade in WPF", "createdAt": "2022-08-16T05:45:47Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2601, "title": "Added Language: Indonesia", "createdAt": "2022-09-03T01:37:38Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2606, "title": "Update LazyConfig.cs", "createdAt": "2022-09-04T14:15:46Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2615, "title": "Update to support v2fly core v5", "createdAt": "2022-09-07T12:15:18Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2640, "title": "add sing-box support", "createdAt": "2022-09-19T14:59:37Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2654, "title": "Make Clash cores use newer microarch level", "createdAt": "2022-09-27T10:42:23Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2657, "title": "Update SysProxyHandle.cs", "createdAt": "2022-09-29T03:16:48Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2663, "title": "v2rayN Windows Installer", "createdAt": "2022-09-30T22:36:22Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2723, "title": "增加一个设置，允许开启一个直出proxy的socks端口", "createdAt": "2022-10-20T16:06:56Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2724, "title": "增加一个设置，允许开启一个out为proxy的socks端口", "createdAt": "2022-10-20T16:50:06Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2740, "title": "Add support for config file with .yml extension", "createdAt": "2022-10-27T16:09:33Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2809, "title": "add persian(farsi) language ,Iran", "createdAt": "2022-11-18T15:26:05Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2841, "title": "C# language usage improvements", "createdAt": "2022-12-04T05:40:58Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2849, "title": "添加可选项为本地回环和局域网使用同一个端口", "createdAt": "2022-12-07T03:46:31Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2874, "title": "Auto-update subscription without proxy", "createdAt": "2022-12-18T16:33:12Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2875, "title": "Fix logic in tsbSubGroupUpdate_Click()", "createdAt": "2022-12-18T16:41:43Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2911, "title": "Dark border for every window", "createdAt": "2023-01-01T13:24:00Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2917, "title": "Auto-update subscription without proxy", "createdAt": "2023-01-01T15:15:09Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 2918, "title": "add persian(farsi) language", "createdAt": "2023-01-01T15:57:52Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2928, "title": "Update ResUI.fa-Ir.resx", "createdAt": "2023-01-02T05:59:41Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2962, "title": "Fix window size on first launch", "createdAt": "2023-01-03T13:48:17Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 2969, "title": "订阅别名正则过滤", "createdAt": "2023-01-04T01:14:16Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3127, "title": "make Tun button shown when v2rayN starts without admin permission, an…", "createdAt": "2023-01-28T06:59:01Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3154, "title": "增加自定义UA", "createdAt": "2023-02-01T04:37:38Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3165, "title": "add more Farsi Translation", "createdAt": "2023-02-01T18:11:46Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3187, "title": "Add russian language", "createdAt": "2023-02-05T09:57:20Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3189, "title": "feat: allow user to choose any outbound for routing rules.", "createdAt": "2023-02-05T12:18:56Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3234, "title": "add arm64 build support", "createdAt": "2023-02-10T07:01:50Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3301, "title": "full-russian-support", "createdAt": "2023-02-17T00:41:16Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3305, "title": "优化, 改成使用语法糖", "createdAt": "2023-02-17T06:37:36Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3306, "title": "语句更通顺", "createdAt": "2023-02-17T06:40:17Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3309, "title": "改为可空类型, 简化代码", "createdAt": "2023-02-19T05:35:51Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3311, "title": "Update v2rayUpgrade", "createdAt": "2023-02-19T08:17:50Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3315, "title": "修复了一些问题", "createdAt": "2023-02-19T11:16:15Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3323, "title": "commit", "createdAt": "2023-02-20T10:23:40Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3336, "title": "Update MainWindow.xaml", "createdAt": "2023-02-24T04:32:59Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3340, "title": "Update OptionSettingWindow.xaml", "createdAt": "2023-02-24T07:10:05Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3362, "title": "fix: 修复选中服务器->测速 后，当前服务器会丢失选中的情况", "createdAt": "2023-02-26T03:59:58Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3364, "title": "add: 启动时不显示窗口直接隐藏到任务栏，但仍会在托盘有短暂显示", "createdAt": "2023-02-26T06:42:49Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3370, "title": "Add tray tool tip for the current running server.", "createdAt": "2023-02-27T03:41:41Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3374, "title": "Devfix: 修复选中服务器->测速 后，当前服务器会丢失选中的情况", "createdAt": "2023-02-27T11:56:49Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3377, "title": "解决全局热键不能录制Alt组合键的问题", "createdAt": "2023-02-27T17:05:13Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3380, "title": "为tun做dns分流", "createdAt": "2023-02-28T14:09:51Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3382, "title": "解决全局热键不能录制Alt组合键的问题", "createdAt": "2023-02-28T15:34:25Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3405, "title": "优化全局热键相关代码和机制", "createdAt": "2023-03-04T04:34:50Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3419, "title": "Add a control to simulate system tool tip.", "createdAt": "2023-03-05T06:04:30Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3492, "title": "Add: 设置中添加\"启用硬件加速\"的选项", "createdAt": "2023-03-15T14:31:08Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3493, "title": "Add: 设置中添加\"启用硬件加速\"的选项", "createdAt": "2023-03-15T15:11:20Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3507, "title": "Update: 默认关闭硬件加速", "createdAt": "2023-03-18T12:51:02Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3521, "title": "feat[#3520]: View and edit config content in AddServer2Window", "createdAt": "2023-03-19T14:52:58Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3527, "title": "添加对xtls传输层安全支持，支持xtls-rprx-direct和xtls-rprx-origin协议", "createdAt": "2023-03-20T04:10:36Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3530, "title": "#3513 改变 Notify Icon 的响应方式", "createdAt": "2023-03-20T14:34:36Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3568, "title": "Add Tutorial", "createdAt": "2023-03-28T12:13:00Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3590, "title": "null", "createdAt": "2023-04-01T11:59:21Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3598, "title": "当前选中节点标识改为背景颜色更改", "createdAt": "2023-04-03T02:49:45Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3611, "title": "fix bug #3218  and optimize the background color display effect of the active row", "createdAt": "2023-04-04T15:47:56Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3613, "title": "优化菜单样式 #3132", "createdAt": "2023-04-05T04:09:40Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3621, "title": "Update ResUI.zh-Hans.resx", "createdAt": "2023-04-06T12:30:20Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3624, "title": "Add option for restart after change language", "createdAt": "2023-04-06T15:24:52Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3631, "title": "fix bug #3630", "createdAt": "2023-04-07T07:26:18Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3633, "title": "内存优化 #3632 图形化时内存占用100+，后台运行时内存占用10+", "createdAt": "2023-04-07T12:30:57Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3635, "title": "Core arm", "createdAt": "2023-04-07T13:37:03Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3677, "title": "Change language in runtime without restart application", "createdAt": "2023-04-12T14:25:10Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3728, "title": "easy add/delete group", "createdAt": "2023-04-20T13:20:00Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3756, "title": "use WaitAsync for Timeout", "createdAt": "2023-04-24T14:15:21Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3773, "title": "Create SECURITY.md", "createdAt": "2023-04-26T21:52:58Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3786, "title": "添加geoip cn的dns分流", "createdAt": "2023-04-29T10:59:50Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3828, "title": "添加了用户Pac设置", "createdAt": "2023-05-07T12:06:43Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3834, "title": "Avoid to update core if current version is newer than remote version", "createdAt": "2023-05-09T13:56:07Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3842, "title": "修复部分键位无法录入热键", "createdAt": "2023-05-11T15:36:24Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3844, "title": "add follow system theme func", "createdAt": "2023-05-12T08:23:45Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3852, "title": "Fix download url", "createdAt": "2023-05-14T09:18:26Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3895, "title": "Update Utils.cs Security", "createdAt": "2023-05-23T05:58:14Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3931, "title": "一键筛选出比较稳定的节点,最小化图标设置中的服务器最多显示20个,不会隐藏", "createdAt": "2023-06-02T13:58:49Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 3943, "title": "feat: pac rule add chat.openai.com", "createdAt": "2023-06-05T09:49:36Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 3989, "title": "Update HotkeyHandler.cs", "createdAt": "2023-06-15T09:15:00Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4045, "title": "解决窗口尺寸大于屏幕尺寸的问题", "createdAt": "2023-07-01T02:11:34Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4048, "title": "解决窗口尺寸大于屏幕尺寸的问题 #", "createdAt": "2023-07-02T04:26:15Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4049, "title": "Create Mehrdad026", "createdAt": "2023-07-02T07:48:49Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4051, "title": "解决使用多个屏幕时, v2rayN窗口大于当前窗口的问题", "createdAt": "2023-07-02T18:46:53Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4055, "title": "Russian lang improvements", "createdAt": "2023-07-04T18:16:58Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4060, "title": "Update README (muhammad).md", "createdAt": "2023-07-06T16:15:58Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4122, "title": "Fix timestamps in log TextBox", "createdAt": "2023-07-23T13:22:30Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4123, "title": "繁体字典添加", "createdAt": "2023-07-24T02:58:51Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4141, "title": "添加 juicity 作为自定义 core", "createdAt": "2023-07-30T08:39:35Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4144, "title": "修正 juicity 启动参数少了 run", "createdAt": "2023-07-30T13:33:58Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4149, "title": "fix typo in MainForm.cs", "createdAt": "2023-08-01T15:33:17Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4155, "title": "Create nnnn", "createdAt": "2023-08-04T10:37:01Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4222, "title": "Update Project and Libraries to .Net 7", "createdAt": "2023-08-28T09:48:04Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4235, "title": "修正繁中用詞", "createdAt": "2023-09-01T15:21:28Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4255, "title": "解决当订阅数量较多时,占用窗口空间太大的问题", "createdAt": "2023-09-09T08:01:46Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4283, "title": "加载节点列表时, 去除重复节点", "createdAt": "2023-09-23T23:25:42Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4287, "title": "Use a switch", "createdAt": "2023-09-25T15:11:12Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4291, "title": "Removed unnecessary \"Close\" button", "createdAt": "2023-09-26T21:26:18Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4294, "title": "Removed Main Toolbar `<Separator>`s", "createdAt": "2023-09-27T06:06:22Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4299, "title": "Update the H.NotifyIcon to show default system tooltip for sys tray icon.", "createdAt": "2023-09-29T06:44:43Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4319, "title": "清理速度测试结果, 清理延迟测试结果", "createdAt": "2023-10-10T22:01:07Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4321, "title": "Fix that editing the basic routing settings will trigger unexpected error messages.", "createdAt": "2023-10-11T21:14:26Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4382, "title": "support .net8", "createdAt": "2023-11-07T22:37:31Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4383, "title": "Xray设置下一跳为Socks5", "createdAt": "2023-11-08T23:56:01Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4385, "title": "Add: 添加TTC格式字体支持", "createdAt": "2023-11-09T05:13:38Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4405, "title": "fix https://github.com/2dust/v2rayN/pull/4287#discussion_r1394166976", "createdAt": "2023-11-15T13:01:53Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4409, "title": "Fix the issue of readonly custom config  and add github workflow", "createdAt": "2023-11-18T02:17:51Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4432, "title": "Add Update CoreTypeName", "createdAt": "2023-11-22T06:07:27Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4444, "title": "Fixed Issue #3875 that ProxySetting doesn't support PPPoE connection. Remove unnecessary sysproxy.exe.", "createdAt": "2023-11-25T14:12:29Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4457, "title": "优化自动化编译", "createdAt": "2023-11-28T16:00:15Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4464, "title": "feat: 支持导入系统hosts追加至dns设置", "createdAt": "2023-12-01T06:29:42Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4567, "title": "添加ico格式的自定义图标支持", "createdAt": "2024-01-02T02:45:10Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4568, "title": "fix: 当关闭\"是否跟随系统主题\"时，无法应用\"暗黑模式\"的设置", "createdAt": "2024-01-02T07:39:44Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4571, "title": "禁用删除工作流运行", "createdAt": "2024-01-02T15:52:21Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4594, "title": "build(ci): bump actions/upload-artifact from v3 to v4", "createdAt": "2024-01-08T13:42:22Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4603, "title": "fix https://github.com/2dust/v2rayN/issues/4590", "createdAt": "2024-01-09T15:25:29Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4612, "title": "添加简单的分流功能；修改修改非管理员模式下tun模式启动逻辑", "createdAt": "2024-01-11T16:18:06Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4621, "title": "修改修改非管理员模式下tun模式启动逻辑;缩短自动隐藏时间", "createdAt": "2024-01-13T14:01:27Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4645, "title": "Add support for server auto switch", "createdAt": "2024-01-19T14:02:23Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4655, "title": "feat: fix error when testing shadowsocks with other sing_box core types", "createdAt": "2024-01-21T21:16:23Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4711, "title": "Fix misleading \"Cannot mix synchronous and asynchronous operation on process stream.\" logs.", "createdAt": "2024-02-12T13:25:03Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4712, "title": "Fix the state ports conflicts when multiple `v2rayN` instances start in a short period.", "createdAt": "2024-02-12T14:01:03Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4729, "title": "spell check and update", "createdAt": "2024-02-18T08:01:10Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4738, "title": "spell check and update", "createdAt": "2024-02-19T09:45:11Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4743, "title": "Localization (CHT and ENG)", "createdAt": "2024-02-20T08:04:25Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4756, "title": "Update translation", "createdAt": "2024-02-23T15:35:35Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4757, "title": "Update translation", "createdAt": "2024-02-23T15:47:18Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4802, "title": "Update README.md", "createdAt": "2024-03-07T15:58:21Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4811, "title": "fix some typos", "createdAt": "2024-03-09T08:38:22Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4848, "title": "Update schdtask related code", "createdAt": "2024-03-16T04:01:27Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 4849, "title": "Enhanced custom profile #4745 #4723", "createdAt": "2024-03-16T17:25:40Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4878, "title": "Update README.md", "createdAt": "2024-03-24T16:43:17Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4915, "title": "优化LoadCore()以适应多线程环境", "createdAt": "2024-04-02T16:19:13Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4917, "title": "Change Remove hidden Adapter Device way", "createdAt": "2024-04-03T03:56:48Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4935, "title": "恢复使用pnputil的方式清除sing-tun可能残留下的wintun设备驱动", "createdAt": "2024-04-05T07:09:33Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 4991, "title": "Add Singbox Geo RuleSet setting", "createdAt": "2024-04-18T19:44:01Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5002, "title": "9999", "createdAt": "2024-04-20T00:02:25Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5026, "title": "Add `Enable cache file for sing-box`", "createdAt": "2024-04-25T14:30:23Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5045, "title": "修复分享为已经带[]的IPv6地址添加[]的问题", "createdAt": "2024-05-01T16:31:38Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5053, "title": "Avoid misusing constructors.", "createdAt": "2024-05-03T03:19:40Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5065, "title": "Optimize code for better performance", "createdAt": "2024-05-05T14:09:47Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5066, "title": "Optimize code for better performance", "createdAt": "2024-05-05T14:18:23Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5087, "title": "The font loading logic can be changed to execute asynchronously", "createdAt": "2024-05-10T14:30:18Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5094, "title": "asynchronous font reading and rectified the previous issue.", "createdAt": "2024-05-13T03:38:06Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5105, "title": "asynchronous font loading", "createdAt": "2024-05-15T09:27:27Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5122, "title": "Fix incorrect filenames", "createdAt": "2024-05-18T07:37:58Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5177, "title": "Custom config support improvements", "createdAt": "2024-06-01T17:04:20Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5210, "title": "v2rayN/v2rayN/NesamCreate Nesam", "createdAt": "2024-06-09T11:20:03Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5213, "title": "Fix bug", "createdAt": "2024-06-10T05:15:48Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5225, "title": "Extend stats reporting to support custom load-balanced configs with several outbounds", "createdAt": "2024-06-13T19:57:35Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5229, "title": "Adjust singbox DNS server and rule position", "createdAt": "2024-06-14T07:37:59Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5246, "title": "Colorful Emojis", "createdAt": "2024-06-18T12:43:53Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5264, "title": "Setting subs-group name from the optional `remarks` query parameter in the pasted subs url", "createdAt": "2024-06-22T11:27:32Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5377, "title": "fix: add real delay test for custom config", "createdAt": "2024-07-18T08:41:38Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5379, "title": "Modern namespaces and typos fixed", "createdAt": "2024-07-18T13:55:06Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5381, "title": "Update English translations", "createdAt": "2024-07-19T12:14:14Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5382, "title": "first commit", "createdAt": "2024-07-20T09:17:33Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5394, "title": "将 “请勿将代理服务器用于本地（Intranet）地址”  做成参数按钮", "createdAt": "2024-07-22T09:53:11Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5550, "title": "Update cidr for direct outboundTag", "createdAt": "2024-08-17T15:05:29Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5566, "title": "Fix JSON Syntax and Enhance China-Specific DNS Configuration", "createdAt": "2024-08-20T20:28:27Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5580, "title": "Correct the capitalization of protocol names", "createdAt": "2024-08-25T10:10:39Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5636, "title": "Update pac.txt", "createdAt": "2024-09-03T14:09:09Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5639, "title": "Update ResUI.zh-Hans.resx", "createdAt": "2024-09-04T02:27:37Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5655, "title": "Update", "createdAt": "2024-09-07T12:40:48Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5656, "title": "G", "createdAt": "2024-09-07T12:42:21Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5701, "title": "del", "createdAt": "2024-09-17T13:47:49Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5720, "title": "禁用字体hinting渲染，使得没有hinting的中文字体在低分屏上渲染得更圆滑", "createdAt": "2024-09-21T16:17:32Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5767, "title": "Update ResUI.resx and ResUI.zh-Hant.resx", "createdAt": "2024-09-30T15:47:48Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5829, "title": "Ability to specify sources of geo files in settings.", "createdAt": "2024-10-14T05:43:28Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5834, "title": "Fix broken TUN if custom geo file is selected", "createdAt": "2024-10-15T00:27:55Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5835, "title": "Add sing-box srs custom url support for fix TUN", "createdAt": "2024-10-15T02:51:30Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5840, "title": "External routing rules templates + regional presets support", "createdAt": "2024-10-15T21:06:46Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5853, "title": "Update RU translation", "createdAt": "2024-10-17T14:17:28Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5854, "title": "External dns configs support + ru translation ", "createdAt": "2024-10-17T21:01:37Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5855, "title": "Sing-box srs updating support", "createdAt": "2024-10-18T11:29:41Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5865, "title": "enable delay before deleting tun", "createdAt": "2024-10-19T22:06:07Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5869, "title": "Сhange ru templates path", "createdAt": "2024-10-20T13:42:56Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5876, "title": "Add icon for PAC mode", "createdAt": "2024-10-21T13:38:40Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5886, "title": "use Dependabot keep actions updated to latest", "createdAt": "2024-10-22T17:36:47Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5891, "title": "Update README.md", "createdAt": "2024-10-23T18:34:39Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5940, "title": "Update build.yml", "createdAt": "2024-10-30T04:46:43Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5945, "title": "Create SECURITY.md", "createdAt": "2024-10-30T14:01:52Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5962, "title": "Update build.yml", "createdAt": "2024-11-01T14:22:46Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5967, "title": "修复：日志文本框垂直显示上下空白问题", "createdAt": "2024-11-02T02:12:46Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 5983, "title": "Update README.md", "createdAt": "2024-11-03T19:32:03Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 5984, "title": "修复：双击表头弹出编辑窗口的问题", "createdAt": "2024-11-04T00:45:08Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6005, "title": "Apply fixes ", "createdAt": "2024-11-05T21:38:05Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6014, "title": "Create winget-publish.yml", "createdAt": "2024-11-07T08:34:18Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6016, "title": "添加：MacOS x86下socks自动系统代理", "createdAt": "2024-11-07T11:43:29Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6018, "title": "添加：MacOS 代理配置与清除", "createdAt": "2024-11-07T13:14:44Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6019, "title": "Refactoring codes", "createdAt": "2024-11-07T14:42:39Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6027, "title": "Update Configuration to Optimize", "createdAt": "2024-11-08T17:37:40Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6038, "title": "添加：MacOS 打开存储所在位置功能", "createdAt": "2024-11-11T01:45:17Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6045, "title": "Update DNS Routing", "createdAt": "2024-11-11T20:55:03Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6049, "title": "Update ResUI.zh-Hant.resx", "createdAt": "2024-11-12T14:16:18Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6067, "title": "Convert PowerShell to c#", "createdAt": "2024-11-14T07:57:07Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6069, "title": "Update build.yml", "createdAt": "2024-11-14T09:36:41Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6070, "title": "Update build.yml", "createdAt": "2024-11-14T10:02:27Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6079, "title": "Restored the RemoveTunDevice method from version 6.55 to properly handle Tun device removal", "createdAt": "2024-11-15T16:43:23Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6080, "title": "Update ResUI.zh-Hant.resx", "createdAt": "2024-11-16T02:04:20Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6083, "title": "更新程序通过判断系统语言来显示对应语言", "createdAt": "2024-11-16T12:06:12Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6091, "title": "#6083 读取json文件", "createdAt": "2024-11-17T07:07:29Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6093, "title": "# 6091 更改为System.Text.Json:", "createdAt": "2024-11-17T07:22:18Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6094, "title": "更改为System.Text.Json:", "createdAt": "2024-11-17T07:25:58Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6099, "title": "fix", "createdAt": "2024-11-17T09:17:13Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6101, "title": "更新程序内嵌资源文件", "createdAt": "2024-11-17T12:49:00Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6125, "title": "修复：TrayIcon不跟随代理模式变化的问题", "createdAt": "2024-11-20T14:04:37Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6126, "title": "修复：TrayIcon不跟随代理模式变化的问题", "createdAt": "2024-11-20T15:41:04Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6130, "title": "添加：主题模式自动跟随系统颜色", "createdAt": "2024-11-21T13:13:56Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6132, "title": "调整订阅分组设置窗口的布局", "createdAt": "2024-11-22T08:51:33Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6136, "title": "修改语言不再需要重启", "createdAt": "2024-11-22T12:29:16Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6161, "title": "Create AesUtils.cs", "createdAt": "2024-11-26T03:40:26Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6162, "title": "Update OptionSettingViewModel.cs", "createdAt": "2024-11-26T03:40:50Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6163, "title": "Update CoreHandler.cs", "createdAt": "2024-11-26T03:40:56Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6165, "title": "AesUtils重新修改", "createdAt": "2024-11-26T07:18:46Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6168, "title": "Create dotntlss", "createdAt": "2024-11-26T17:15:02Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6190, "title": "修复：窗口隐藏启动时会闪一下的问题", "createdAt": "2024-11-30T16:01:37Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6191, "title": "修复：后台启动时，窗口会闪一下的问题", "createdAt": "2024-11-30T18:52:46Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6192, "title": "修复：后台启动时，窗口闪一下的问题", "createdAt": "2024-11-30T19:24:55Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6193, "title": "修复：后台启动时，闪一下的问题", "createdAt": "2024-11-30T19:39:55Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6194, "title": "修复：后台启动时，闪一下的问题", "createdAt": "2024-11-30T20:18:15Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6211, "title": "v2rayN 32同步更新看看", "createdAt": "2024-12-03T06:58:53Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6227, "title": "Update persian translation", "createdAt": "2024-12-05T13:12:02Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6237, "title": "Update persian translate", "createdAt": "2024-12-06T01:52:35Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6245, "title": "Update persian translation", "createdAt": "2024-12-06T12:12:16Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6289, "title": "Remove the wildcard match to `proxy` outbound in `custom_routing_white`", "createdAt": "2024-12-15T15:11:01Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6297, "title": "StartupPath optional LocalApplicationData", "createdAt": "2024-12-17T21:14:05Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6316, "title": "Create rr", "createdAt": "2024-12-20T06:15:36Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6325, "title": "Update persian translate", "createdAt": "2024-12-22T12:43:37Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6333, "title": "Create codeql.yml", "createdAt": "2024-12-23T18:09:25Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6356, "title": "Update pac", "createdAt": "2024-12-26T16:41:38Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6374, "title": "Modify the build macos script", "createdAt": "2024-12-29T16:29:30Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6384, "title": "Add full support for  (one-click) Iran regional preset by using Chocolate4U's github repos for iran routing rules", "createdAt": "2024-12-31T04:57:02Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6443, "title": "Fix zh-Hans and zh-Hant translation style", "createdAt": "2025-01-06T09:12:49Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6461, "title": "Modify the macos build script", "createdAt": "2025-01-08T15:46:41Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6465, "title": "Update Persian translate ", "createdAt": "2025-01-09T09:14:26Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6478, "title": "CloneServerStatItem 时检查indexId和toIndexId是否相同", "createdAt": "2025-01-11T04:17:32Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6487, "title": "Update Persian translate", "createdAt": "2025-01-12T03:19:26Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6510, "title": "Update tun_singbox_dns", "createdAt": "2025-01-15T09:01:15Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6511, "title": "Update dns_singbox_normal", "createdAt": "2025-01-15T09:02:40Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6513, "title": "Update Persian Translate", "createdAt": "2025-01-15T12:34:38Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6541, "title": "增加macos dmg软件签名", "createdAt": "2025-01-19T10:03:57Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6545, "title": "Remove extra .gitignore file and move .gitattributes to the root folder", "createdAt": "2025-01-19T13:28:07Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6554, "title": "Use Directory.Packages.props for Centralized Dependency Management", "createdAt": "2025-01-20T15:02:03Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6555, "title": "Update English translation", "createdAt": "2025-01-20T20:51:38Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6556, "title": "Add Package AppImage script", "createdAt": "2025-01-20T21:45:58Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6559, "title": "Update Persian Translate", "createdAt": "2025-01-21T12:47:29Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6561, "title": "fix tun bug! (open tun interface take too much time to finish!)", "createdAt": "2025-01-21T17:10:10Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6575, "title": "Use Directory.Packages.props for Centralized Dependency Management", "createdAt": "2025-01-23T21:48:05Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6581, "title": "Use Directory.Packages.props for Centralized Dependency Management", "createdAt": "2025-01-24T09:48:21Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6585, "title": "Enhance workflows", "createdAt": "2025-01-24T15:10:37Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6591, "title": "Use Directory.Build.props for centralized configuration management", "createdAt": "2025-01-25T13:55:16Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6592, "title": "Add .editorconfig file for consistent code style", "createdAt": "2025-01-26T18:48:25Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6594, "title": "Fix code formatting", "createdAt": "2025-01-28T18:38:34Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6595, "title": "Fix copying icons in output archive", "createdAt": "2025-01-29T07:57:26Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6596, "title": "macOS 一些优化", "createdAt": "2025-01-29T10:18:11Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6597, "title": "[macOS] feat: auto run", "createdAt": "2025-01-29T15:14:41Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6598, "title": "[macOS] amend: Child window visibility handling", "createdAt": "2025-01-29T15:34:50Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6599, "title": "Automatic setting update interval for core and gui ! ", "createdAt": "2025-01-29T20:07:40Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6604, "title": "Bump actions/setup-dotnet from 4.2.0 to 4.3.0", "createdAt": "2025-01-30T18:52:50Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6605, "title": "Try to remove the tun device when restarting the service in Windows", "createdAt": "2025-01-30T23:39:39Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6626, "title": "fix emoji for Avalonia UI", "createdAt": "2025-02-04T11:07:31Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6651, "title": "Update Persian translate", "createdAt": "2025-02-08T09:03:36Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6681, "title": "Fix Package AppImage script", "createdAt": "2025-02-12T00:09:52Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6714, "title": "Revert 6681 master", "createdAt": "2025-02-17T05:19:38Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6794, "title": "Fix Package AppImage script", "createdAt": "2025-02-24T15:34:04Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6797, "title": "Bump actions/upload-artifact from 4.6.0 to 4.6.1", "createdAt": "2025-02-24T19:01:05Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6848, "title": "Add Hy2 Port hopping URI support", "createdAt": "2025-03-02T07:20:39Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6852, "title": "Add kcp DNS masquerade support", "createdAt": "2025-03-03T15:04:08Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6876, "title": "Update GlobalUsings.cs", "createdAt": "2025-03-06T23:34:11Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6889, "title": "Modify default fallback load balancing rule", "createdAt": "2025-03-10T15:31:27Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6900, "title": "Fix server deduplicaiton failure", "createdAt": "2025-03-12T03:32:09Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6920, "title": "Auto regenerate Pac file and Update pac", "createdAt": "2025-03-15T13:49:52Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6924, "title": "Update pac", "createdAt": "2025-03-16T14:30:41Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6929, "title": "Bump actions/setup-dotnet from 4.3.0 to 4.3.1", "createdAt": "2025-03-17T20:05:52Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6950, "title": "Bump actions/upload-artifact from 4.6.1 to 4.6.2", "createdAt": "2025-03-19T18:28:49Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6966, "title": "按需更新Geo文件", "createdAt": "2025-03-21T14:11:58Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 6973, "title": "Update Persian translate", "createdAt": "2025-03-22T08:10:54Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6983, "title": "Update  russian translate for ResUI.ru.resx", "createdAt": "2025-03-23T14:02:36Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 6986, "title": "Update Persian translate", "createdAt": "2025-03-23T19:46:12Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7004, "title": "set xray.location.cert to asset(bin) path", "createdAt": "2025-03-26T11:35:20Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7023, "title": "add xray core leastPing support", "createdAt": "2025-03-28T13:20:11Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7042, "title": "Add support for cinnamon desktop environment", "createdAt": "2025-04-01T12:38:18Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7053, "title": "Update Persian Translation", "createdAt": "2025-04-02T10:37:48Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7076, "title": "Updates profile remark based on core type", "createdAt": "2025-04-06T13:45:27Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7077, "title": "sniff migration to singbox 1.11 support", "createdAt": "2025-04-06T14:58:36Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7089, "title": "add xray wireguard support", "createdAt": "2025-04-09T05:14:38Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7100, "title": "Adjust menu items", "createdAt": "2025-04-10T14:04:53Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7105, "title": "Add accessibility labels to improve screen reader support", "createdAt": "2025-04-11T00:27:42Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7109, "title": "fix #7105", "createdAt": "2025-04-11T13:06:34Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7110, "title": "fix dns leak", "createdAt": "2025-04-11T14:26:40Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7113, "title": "Fix xray wireguard chained proxies not working", "createdAt": "2025-04-12T04:59:18Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7115, "title": "migration to singbox 1.12 support", "createdAt": "2025-04-12T05:56:25Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7119, "title": "Enhance Accessibility in MainWindow and MsgView", "createdAt": "2025-04-13T18:57:27Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7127, "title": "Resolved merge conflict in MsgView.xaml by accepting changes from the programmer", "createdAt": "2025-04-15T05:25:40Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7154, "title": "Improve default DNS", "createdAt": "2025-04-19T11:04:00Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7185, "title": "Fix Tab Navigation in ToolBar for v2rayN", "createdAt": "2025-04-25T08:01:03Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7191, "title": "Update Persian translation", "createdAt": "2025-04-25T18:20:29Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7194, "title": "Revert \"Fix xray wireguard chained proxies not working (2dust#7113)\"", "createdAt": "2025-04-26T12:01:06Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7199, "title": "Improve Accessibility in StatusBarView and ProfilesView, Update Package Versions", "createdAt": "2025-04-27T16:34:26Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7206, "title": "Refactor ListBox in ProfilesView for Improved Accessibility", "createdAt": "2025-04-29T04:13:19Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7227, "title": "Update Google CN", "createdAt": "2025-04-30T20:11:56Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7233, "title": "Fix DNS", "createdAt": "2025-05-03T08:28:54Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7236, "title": "Move exe direct rule before clash_mode", "createdAt": "2025-05-05T05:35:53Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7273, "title": "Update Persian translate", "createdAt": "2025-05-11T11:37:38Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7315, "title": "Upgrade Dotnet and Nuget Packages", "createdAt": "2025-05-19T12:17:45Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7322, "title": "Determine .exe suffix based on OS in GenRoutingDirectExe", "createdAt": "2025-05-20T11:24:30Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7327, "title": "Update LICENSE", "createdAt": "2025-05-22T07:20:54Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7342, "title": "Revision of the Russian translation", "createdAt": "2025-05-24T15:16:11Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7348, "title": "add support for UKUI", "createdAt": "2025-05-26T02:59:38Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7353, "title": "Add support for DDE and MATE", "createdAt": "2025-05-27T02:44:32Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7376, "title": "docs: fix an incorrect link and improve README formatting", "createdAt": "2025-06-01T05:21:28Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7401, "title": "Improve DataGrid accessibility: readable row names for screen readers", "createdAt": "2025-06-07T13:25:33Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7405, "title": "Fix", "createdAt": "2025-06-07T16:46:48Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7437, "title": "Fix Observatory", "createdAt": "2025-06-15T06:40:25Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7468, "title": "Optimize proxy chain handling for multiple nodes", "createdAt": "2025-06-20T08:52:36Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7475, "title": "Improve accessibility: Add AutomationProperties.Name to ListBoxItem and DataGridRow", "createdAt": "2025-06-23T08:55:08Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7507, "title": "options for fragment interval, length and packets added", "createdAt": "2025-06-28T16:01:32Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7515, "title": "Optimize proxy chain handling", "createdAt": "2025-06-30T06:15:08Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7521, "title": "Migrate to sing-box 1.12 support", "createdAt": "2025-07-01T15:39:50Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7528, "title": "Update zh hant localization", "createdAt": "2025-07-03T06:51:29Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7554, "title": "add shadowquic", "createdAt": "2025-07-08T11:51:26Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7558, "title": "Linux proxy control script improvement", "createdAt": "2025-07-09T00:40:53Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7572, "title": "Simplify DNS Settings", "createdAt": "2025-07-13T15:17:06Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7576, "title": "Full Config Template", "createdAt": "2025-07-14T02:13:58Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7579, "title": "改进 zh-Hans 描述", "createdAt": "2025-07-14T12:57:01Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7639, "title": "Elevation enhancements for Unix platform", "createdAt": "2025-07-24T15:17:42Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7649, "title": "Fixes Hysteria2 ports", "createdAt": "2025-07-26T02:01:16Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7656, "title": "Supports IPv6 addresses in profile summary", "createdAt": "2025-07-27T13:35:07Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7657, "title": "Improves private IP address detection", "createdAt": "2025-07-27T13:38:05Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7658, "title": "Unix platform elevation enhancements v2", "createdAt": "2025-07-27T16:44:43Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7673, "title": "Fix missing hysteria2 arguments", "createdAt": "2025-07-31T03:05:19Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7679, "title": "Update ResUI.hu.resx", "createdAt": "2025-08-01T16:01:57Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7715, "title": "Other core config generator", "createdAt": "2025-08-07T10:42:36Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7727, "title": "Fixes select proxy outbound server", "createdAt": "2025-08-10T03:37:32Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7729, "title": "Adds sing-box fragment support", "createdAt": "2025-08-10T04:22:23Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7732, "title": "Use raw.githubusercontent.com instead of cdn.jsdelivr.net", "createdAt": "2025-08-10T12:21:47Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7733, "title": "Fixes sing-box system hosts and ui", "createdAt": "2025-08-10T15:20:11Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7737, "title": "Add Auto Route option to Tun mode settings", "createdAt": "2025-08-11T19:22:09Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7740, "title": "Refine Russian localization (ru): placeholders, DNS terminology, typos", "createdAt": "2025-08-11T20:04:59Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7749, "title": "Bump actions/checkout from 4.2.2 to 5.0.0", "createdAt": "2025-08-12T21:29:04Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7754, "title": "Improves domain blocking and proxy handling", "createdAt": "2025-08-13T15:43:39Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7757, "title": "Fixes DNS", "createdAt": "2025-08-14T02:02:54Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7770, "title": "Create package-rhel.sh", "createdAt": "2025-08-15T09:06:16Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7781, "title": "Remove DomainMatcher", "createdAt": "2025-08-16T12:47:42Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7782, "title": "Add VLESS encryption support", "createdAt": "2025-08-16T13:19:00Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7785, "title": "Fixed Failed Gen Default Configuration", "createdAt": "2025-08-17T03:20:46Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7787, "title": "i18n(ru/zh-Hans/zh-Hant/hu/fa): translate TUN settings, unify MTU, use resx", "createdAt": "2025-08-17T12:05:10Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7789, "title": "Adds Xray and Singbox support config type", "createdAt": "2025-08-18T01:43:11Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7796, "title": "Update package-rhel.sh, Support Ubuntu / Debian", "createdAt": "2025-08-18T12:04:53Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7797, "title": "Fix dns", "createdAt": "2025-08-18T13:36:45Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7799, "title": "Update package-rhel.sh. Support Debian/Ubuntu.", "createdAt": "2025-08-18T20:39:40Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7802, "title": "Fix tun", "createdAt": "2025-08-19T00:24:43Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7805, "title": "Passes srsName as third format argument", "createdAt": "2025-08-19T06:33:50Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7806, "title": "Update package-rhel.sh, Add cross-compilation support.", "createdAt": "2025-08-19T08:44:16Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7808, "title": "Update build-linux.yml", "createdAt": "2025-08-19T12:02:43Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7809, "title": "Update build-linux.yml", "createdAt": "2025-08-19T12:10:44Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7810, "title": "Update build-linux.yml", "createdAt": "2025-08-19T13:06:30Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7811, "title": "Update build-linux.yml, Add RPM package for RHEL.", "createdAt": "2025-08-19T13:30:19Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7813, "title": "Update build-linux.yml, Add RPM package for RHEL.", "createdAt": "2025-08-19T23:59:00Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7828, "title": "Add mieru support", "createdAt": "2025-08-25T06:00:10Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7834, "title": "Fix dns", "createdAt": "2025-08-26T08:01:01Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7852, "title": "Update mihomo download url", "createdAt": "2025-08-30T11:09:04Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7883, "title": "Bump actions/setup-dotnet from 4.3.1 to 5.0.0", "createdAt": "2025-09-04T05:40:01Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7885, "title": "Fix DNS Regional Presets", "createdAt": "2025-09-05T02:08:53Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7888, "title": "Update package-debian.sh. Fix bugs of package.", "createdAt": "2025-09-05T13:10:56Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7891, "title": "Profiles Select Window", "createdAt": "2025-09-06T12:19:33Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7899, "title": "Update package-debian.sh", "createdAt": "2025-09-07T04:06:34Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7902, "title": "PreCheck", "createdAt": "2025-09-07T10:47:47Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7903, "title": "fix: 修正获取系统hosts", "createdAt": "2025-09-07T15:44:16Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7904, "title": "Fix package-appimage.sh bugs.", "createdAt": "2025-09-08T02:50:31Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7910, "title": "Update package-rhel.sh package-debian.sh MainWindowViewModel.cs", "createdAt": "2025-09-08T13:14:23Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7919, "title": "Add global fakeip and fakeip filter", "createdAt": "2025-09-10T04:41:56Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7929, "title": "Multi profile", "createdAt": "2025-09-11T06:56:12Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7931, "title": "Update CheckUpdateViewModel.cs", "createdAt": "2025-09-11T15:33:52Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7932, "title": "Update CheckUpdateViewModel.cs", "createdAt": "2025-09-11T16:41:36Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7936, "title": "Update Utils.cs", "createdAt": "2025-09-12T04:15:04Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7937, "title": "Pre-resolve to apply hosts", "createdAt": "2025-09-12T07:07:21Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7941, "title": "Fix some minor UI bugs", "createdAt": "2025-09-12T09:14:52Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7945, "title": "Update build-linux.yml", "createdAt": "2025-09-12T20:44:08Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7946, "title": "Fix", "createdAt": "2025-09-13T02:19:37Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 7969, "title": "Migrate to `.slnx`", "createdAt": "2025-09-16T14:06:56Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7977, "title": "Add PinCertSha256 support", "createdAt": "2025-09-17T13:14:20Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7989, "title": "Fix node domain resolving in TUN mode", "createdAt": "2025-09-20T16:29:14Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 7991, "title": "Update PAC", "createdAt": "2025-09-21T03:13:19Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8007, "title": "Add rule type selection to routing rules", "createdAt": "2025-09-23T09:59:44Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8017, "title": "Add Linux build script and documentation", "createdAt": "2025-09-24T06:06:33Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8020, "title": "Update MsgView.axaml.cs", "createdAt": "2025-09-24T09:43:44Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8024, "title": "Update CoreManager.cs Plan A", "createdAt": "2025-09-24T23:33:53Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8031, "title": "Update MsgView.axaml Plan B", "createdAt": "2025-09-25T19:08:30Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8034, "title": "Feature/智能节点选择", "createdAt": "2025-09-26T04:50:42Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8035, "title": "Update MsgView.axaml.cs Plan C", "createdAt": "2025-09-26T05:34:39Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8042, "title": "Disable built-in URL highlighting in the AvaloniaEdit", "createdAt": "2025-09-27T07:33:22Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8044, "title": "Remove the blank line left at the bottom of the message bar", "createdAt": "2025-09-27T12:05:20Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8053, "title": "Fix some minor UI bugs", "createdAt": "2025-09-30T12:42:16Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8057, "title": "Fix", "createdAt": "2025-10-02T08:10:08Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8067, "title": "Use editable ComboBox instead of AutoCompleteBox", "createdAt": "2025-10-04T04:58:15Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8080, "title": "feat. Add the SilentStartup function", "createdAt": "2025-10-05T14:35:44Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8083, "title": "Fix: AutoHideStartup's bug of displaying window before hiding it.", "createdAt": "2025-10-06T13:17:11Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8093, "title": "fix Arg_TimeoutException", "createdAt": "2025-10-08T11:39:22Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8100, "title": "Fix Freedom Resolver", "createdAt": "2025-10-10T04:38:44Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8107, "title": "Remove unnecessary settings", "createdAt": "2025-10-10T12:50:28Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8117, "title": "Update singbox_fakeip_filter", "createdAt": "2025-10-11T16:39:04Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8118, "title": "UDP Test", "createdAt": "2025-10-11T16:41:29Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8141, "title": "Add subscription usage/expiry progress + auto refresh", "createdAt": "2025-10-17T07:08:37Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8148, "title": "fix(desktop): proportional DataGrid column fill without overflow (Profiles/Select/Connections)", "createdAt": "2025-10-18T14:26:59Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8157, "title": "Update Bug report", "createdAt": "2025-10-20T16:28:12Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8159, "title": "1", "createdAt": "2025-10-21T05:13:46Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8160, "title": "Bootstrap DNS", "createdAt": "2025-10-21T05:17:46Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8161, "title": "Fix", "createdAt": "2025-10-21T17:06:55Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8162, "title": "Add French support | Ajouter le support du français | 添加法语支持", "createdAt": "2025-10-21T20:23:18Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8164, "title": "更新繁體中文翻譯", "createdAt": "2025-10-22T04:29:27Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8166, "title": "更新繁體中文翻譯", "createdAt": "2025-10-22T05:27:12Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8167, "title": "恢复 Avalonia UI 版本通知弹窗位置为右下角", "createdAt": "2025-10-22T05:38:46Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8172, "title": "Update Package", "createdAt": "2025-10-22T11:24:06Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8174, "title": "Fix dns", "createdAt": "2025-10-22T14:35:26Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8175, "title": "Fix", "createdAt": "2025-10-22T14:57:38Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8179, "title": "Fix tcp dns", "createdAt": "2025-10-23T03:15:08Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8180, "title": "Fix", "createdAt": "2025-10-23T03:51:16Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8186, "title": "Add French support | Ajouter le support du français | 添加法语支持", "createdAt": "2025-10-24T08:01:22Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8191, "title": "Update Directory.Packages.props", "createdAt": "2025-10-24T16:38:02Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8194, "title": "更新依赖", "createdAt": "2025-10-25T02:26:02Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8195, "title": "更新依赖", "createdAt": "2025-10-25T02:55:01Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8197, "title": "Migrate to SourceGenerators", "createdAt": "2025-10-25T05:20:37Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8200, "title": "Fix TUN mode cleanup on Linux/macOS", "createdAt": "2025-10-25T13:14:32Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8201, "title": "Remove AppImage. Update package.sh", "createdAt": "2025-10-25T23:59:54Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8202, "title": "Fix TUN mode cleanup on Linux/macOS", "createdAt": "2025-10-26T03:01:32Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8204, "title": "Update Translate", "createdAt": "2025-10-26T13:51:49Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8211, "title": "Bump actions/upload-artifact from 4.6.2 to 5.0.0", "createdAt": "2025-10-27T18:53:06Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8212, "title": "RPM file remove x86-64-v1 Support. Update French translation.", "createdAt": "2025-10-27T20:29:31Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8216, "title": " RPM file remove x86-64-v1 Support. Update French translation.", "createdAt": "2025-10-28T06:38:47Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8225, "title": "Bump actions/download-artifact from 4 to 6", "createdAt": "2025-10-29T18:14:11Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8234, "title": "Cert Pinning", "createdAt": "2025-11-01T03:41:14Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8237, "title": "Update ResUI.fr.resx", "createdAt": "2025-11-02T09:04:40Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8238, "title": "Update ResUI.fr.resx", "createdAt": "2025-11-02T09:48:32Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8239, "title": "Disallow insecure when pinned cert", "createdAt": "2025-11-02T09:55:23Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8244, "title": "Fix", "createdAt": "2025-11-03T11:08:37Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8250, "title": "(Pre Pull Request)Update proxy_set_linux_sh", "createdAt": "2025-11-04T07:46:02Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8270, "title": "Update ResUI.fr.resx", "createdAt": "2025-11-07T13:44:16Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8282, "title": "Optimize Cert Pinning", "createdAt": "2025-11-09T03:11:46Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8285, "title": "Update ResUI.fr.resx", "createdAt": "2025-11-09T07:26:16Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8287, "title": "Proxy all Google domains", "createdAt": "2025-11-09T16:00:09Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8297, "title": "Update ResUI.fr.resx", "createdAt": "2025-11-10T11:01:17Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8302, "title": "更新繁體中文翻譯", "createdAt": "2025-11-11T05:49:16Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8303, "title": "Update package-osx.sh", "createdAt": "2025-11-11T05:56:36Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8306, "title": "Simplify sing-box rules for domain_suffix", "createdAt": "2025-11-11T12:37:37Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8308, "title": "Dev", "createdAt": "2025-11-11T23:37:44Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8314, "title": "Feature/multi port", "createdAt": "2025-11-13T01:02:52Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8324, "title": "Remove redundant string ops", "createdAt": "2025-11-15T11:26:07Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8325, "title": "Optimize speedtest", "createdAt": "2025-11-15T12:42:07Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8340, "title": "[PR]改进Emoji字体兼容性", "createdAt": "2025-11-17T16:29:15Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8341, "title": "Bump actions/checkout from 5.0.0 to 5.0.1", "createdAt": "2025-11-17T18:30:55Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8346, "title": "[PR]改进Emoji字体兼容性", "createdAt": "2025-11-18T11:16:23Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8352, "title": "perf: Shadowsocks", "createdAt": "2025-11-19T12:59:10Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8356, "title": "Lock .NET SDK to 8.0.416 to prevent .NET 10 SDK bugs", "createdAt": "2025-11-20T01:44:21Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8359, "title": "Bump actions/checkout from 5.0.1 to 6.0.0", "createdAt": "2025-11-20T18:12:16Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8363, "title": "Fix", "createdAt": "2025-11-21T05:03:10Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8367, "title": "Fix sing-box ws", "createdAt": "2025-11-22T07:49:22Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8369, "title": "Avoid xray warning", "createdAt": "2025-11-22T09:07:46Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8371, "title": "fix: mux not applied to trojan inbound", "createdAt": "2025-11-22T15:31:43Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8374, "title": "Fix: tcping high latency and speedtest displayed 0", "createdAt": "2025-11-23T12:09:11Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8385, "title": "Remove formatted spaces from extra JSON before URL encoding", "createdAt": "2025-11-25T03:39:25Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8387, "title": "Bump actions/setup-dotnet from 5.0.0 to 5.0.1", "createdAt": "2025-11-25T18:14:16Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8390, "title": "Format imported xhttp extra", "createdAt": "2025-11-26T04:54:15Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8392, "title": "Update build-linux.yml to use Red Hat UBI image", "createdAt": "2025-11-26T17:29:15Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8407, "title": "Fix", "createdAt": "2025-11-29T06:36:00Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8428, "title": "feat: Add custom Tun IPv4 and IPv6 address settings", "createdAt": "2025-12-01T12:53:35Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8437, "title": "Bump actions/checkout from 6.0.0 to 6.0.1", "createdAt": "2025-12-02T18:13:36Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8447, "title": "Update pac", "createdAt": "2025-12-05T07:08:30Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8456, "title": "「desktop版本－啟用連線資訊測試位址自訂輸入」", "createdAt": "2025-12-07T04:40:20Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8462, "title": "Fix Shadowsocks Fmt", "createdAt": "2025-12-08T08:29:52Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8464, "title": "Refactor Node Precheck", "createdAt": "2025-12-08T12:50:48Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8469, "title": "Add TLS ALPN check for WS", "createdAt": "2025-12-09T12:12:38Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8472, "title": "Update ResUI.fr.resx", "createdAt": "2025-12-09T20:23:20Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8480, "title": "Full template merges standard config DNS settings", "createdAt": "2025-12-12T12:15:25Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8492, "title": "Bump actions/download-artifact from 6 to 7", "createdAt": "2025-12-15T18:13:46Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8493, "title": "Bump actions/upload-artifact from 5.0.0 to 6.0.0", "createdAt": "2025-12-15T18:13:52Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8517, "title": "Revert \"Add TLS ALPN check for WS (#8469)\"", "createdAt": "2025-12-24T04:13:52Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8564, "title": "Fix edge cases", "createdAt": "2026-01-02T15:13:31Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8584, "title": "fix: Fix failure to follow system theme changes", "createdAt": "2026-01-04T10:52:02Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8586, "title": "Code Clean", "createdAt": "2026-01-04T13:26:19Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8594, "title": "Refactor button styles and set UI defaults", "createdAt": "2026-01-05T09:02:37Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8603, "title": "Add sing-box ech support", "createdAt": "2026-01-07T08:09:59Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8613, "title": "Add Cert SHA-256 pinning support", "createdAt": "2026-01-08T09:49:30Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8630, "title": "Add xray hysteria2 outbound support", "createdAt": "2026-01-13T11:59:34Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8636, "title": "Bump actions/setup-dotnet from 5.0.1 to 5.1.0", "createdAt": "2026-01-14T18:44:42Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8643, "title": "Add process matching rules support", "createdAt": "2026-01-15T11:07:21Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8648, "title": "Replace GitHub download links with jsDelivr", "createdAt": "2026-01-16T21:36:02Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8656, "title": "feat(Desktop): Enable color emoji flag rendering on Windows", "createdAt": "2026-01-17T06:30:59Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8657, "title": "Add hysteria2 uri cert sha pinning support", "createdAt": "2026-01-17T08:14:38Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8658, "title": "Fix", "createdAt": "2026-01-17T09:11:49Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8659, "title": "Refactor profile item config", "createdAt": "2026-01-17T11:23:18Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8663, "title": "feat: Add custom FakeIP configuration to DNS settings with dedicated …", "createdAt": "2026-01-18T11:18:06Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8665, "title": "Dotnet 10 Upgrade and Code Modernization", "createdAt": "2026-01-18T15:09:34Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8669, "title": "Update build-windows.yml", "createdAt": "2026-01-19T08:17:23Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8694, "title": "Bump actions/checkout from 6.0.1 to 6.0.2", "createdAt": "2026-01-23T18:44:05Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8714, "title": "Accept hosts.ics as a host file on windows.", "createdAt": "2026-01-28T10:41:54Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8718, "title": "code review bug check c2l9 d", "createdAt": "2026-01-28T21:23:49Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8723, "title": "shi2ray", "createdAt": "2026-01-30T08:36:31Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8724, "title": "Update build-linux.yml", "createdAt": "2026-01-30T10:07:12Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8728, "title": "Bug fix", "createdAt": "2026-01-31T01:27:48Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8729, "title": "Add DNS features", "createdAt": "2026-01-31T03:19:17Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8732, "title": "Add xray v26.1.31 finalmask support", "createdAt": "2026-01-31T14:50:04Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8733, "title": "Disable insecure when cert pinned", "createdAt": "2026-01-31T15:02:08Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8755, "title": "Update CA List", "createdAt": "2026-02-04T06:17:55Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8756, "title": "Add DNS Hosts features", "createdAt": "2026-02-04T12:10:08Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8760, "title": "Group preview", "createdAt": "2026-02-05T08:33:29Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8768, "title": "Refactor core config gen", "createdAt": "2026-02-06T05:30:53Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8775, "title": "Update SingboxDnsService.cs", "createdAt": "2026-02-07T08:14:46Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8778, "title": "Test sub chain", "createdAt": "2026-02-08T13:09:45Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8779, "title": "Tun protect", "createdAt": "2026-02-08T13:12:51Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8817, "title": "Update package-debian.sh", "createdAt": "2026-02-17T09:02:26Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8819, "title": "Add NaiveProxy support", "createdAt": "2026-02-18T16:34:04Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8820, "title": "Add Finalmask support", "createdAt": "2026-02-18T17:15:28Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8827, "title": "feat: add subscription decryption support", "createdAt": "2026-02-22T13:09:14Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8828, "title": "feat: 用代理参数启动独立浏览器", "createdAt": "2026-02-22T13:36:32Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8833, "title": "Add IP cert support", "createdAt": "2026-02-23T17:32:50Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8837, "title": "Fix cert separator", "createdAt": "2026-02-24T15:42:56Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8838, "title": "Update package-debian.sh", "createdAt": "2026-02-24T17:54:14Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8840, "title": "Fix fragment", "createdAt": "2026-02-25T00:56:55Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8841, "title": "Add DNS routing", "createdAt": "2026-02-25T03:05:03Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8843, "title": "Fix udphop", "createdAt": "2026-02-25T15:16:35Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8848, "title": "Refactor node pre check", "createdAt": "2026-02-26T12:33:07Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8849, "title": "Fix balancer routing", "createdAt": "2026-02-26T13:34:18Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8850, "title": "Bump actions/upload-artifact from 6.0.0 to 7.0.0", "createdAt": "2026-02-26T18:44:01Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8851, "title": "Bump actions/download-artifact from 7 to 8", "createdAt": "2026-02-26T18:44:05Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8854, "title": "Fix bugs", "createdAt": "2026-02-27T06:31:48Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8855, "title": "Perf Policy Group generate", "createdAt": "2026-02-27T09:50:39Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8856, "title": "Speedtest respect user-set core type", "createdAt": "2026-02-27T14:13:13Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8862, "title": "Optimize", "createdAt": "2026-02-28T08:55:10Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8864, "title": "Fix", "createdAt": "2026-03-01T00:13:26Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8866, "title": "Fix DNS rule", "createdAt": "2026-03-01T10:23:12Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8868, "title": "Fix", "createdAt": "2026-03-01T11:26:57Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8869, "title": "Add sing-box ech query server name", "createdAt": "2026-03-01T12:12:50Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8872, "title": "Fix xray custom dns", "createdAt": "2026-03-02T01:52:21Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8873, "title": "更新繁體中文翻譯", "createdAt": "2026-03-02T03:16:40Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8880, "title": "http的复制", "createdAt": "2026-03-03T02:27:01Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8890, "title": "Fix hosts matching", "createdAt": "2026-03-04T09:51:15Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8891, "title": "Bump actions/setup-dotnet from 5.0.1 to 5.2.0", "createdAt": "2026-03-05T18:44:41Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8894, "title": "Add ICMP routing", "createdAt": "2026-03-06T08:14:37Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8896, "title": "Prepend subscription group name in status bar if possible", "createdAt": "2026-03-06T19:49:45Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8900, "title": "Fix speedtest core type", "createdAt": "2026-03-07T07:13:22Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8908, "title": "Support new hysteria2 stream settings", "createdAt": "2026-03-08T08:41:33Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8909, "title": "Fix", "createdAt": "2026-03-08T10:09:11Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8913, "title": "Fix custom config sub chain", "createdAt": "2026-03-09T14:53:55Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8914, "title": "Fix", "createdAt": "2026-03-09T15:12:43Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8915, "title": "Tun ech protect", "createdAt": "2026-03-09T15:49:44Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8917, "title": "Typo", "createdAt": "2026-03-10T05:01:19Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8926, "title": "Update dep", "createdAt": "2026-03-12T10:23:19Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8931, "title": "i18n(ru): Complete Russian localization for all untranslated UI strings", "createdAt": "2026-03-13T22:29:43Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8932, "title": "Json editor with syntax highlighting", "createdAt": "2026-03-14T10:25:46Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8936, "title": "Limit MsgView log queue growth to reduce memory usage", "createdAt": "2026-03-15T00:25:03Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8938, "title": "Update package-debian.sh", "createdAt": "2026-03-15T03:01:48Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8941, "title": "Update package-debian.sh", "createdAt": "2026-03-15T11:06:34Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8946, "title": "feat(send-through): 支持配置本地出站地址", "createdAt": "2026-03-16T07:13:23Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8970, "title": "Protect xhttp split address", "createdAt": "2026-03-21T07:24:37Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8972, "title": "Fix", "createdAt": "2026-03-21T10:12:03Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8973, "title": "Update Traditional Chinese translation", "createdAt": "2026-03-21T13:09:46Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8978, "title": "修改", "createdAt": "2026-03-22T13:36:28Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8979, "title": "Fix edge case", "createdAt": "2026-03-22T15:06:18Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8980, "title": "Tag add remark", "createdAt": "2026-03-22T15:11:26Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8981, "title": "Xray browser header masquerading", "createdAt": "2026-03-22T16:40:49Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8985, "title": "Fix", "createdAt": "2026-03-23T14:42:05Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8986, "title": "Add routing menu to Desktop tray icon", "createdAt": "2026-03-23T15:29:51Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8987, "title": "Add xhttp download protect", "createdAt": "2026-03-24T05:30:54Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8988, "title": "Update README.md", "createdAt": "2026-03-24T08:01:27Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8991, "title": "Fix Linux Wayland title bar theming for main and dialog windows", "createdAt": "2026-03-25T08:43:22Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8993, "title": "Fix xhttp dialer proxy", "createdAt": "2026-03-25T14:49:34Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8995, "title": "fix: pin 7 unpinned action(s),extract 10 unsafe expression(s) to env vars", "createdAt": "2026-03-26T08:28:52Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 8998, "title": "Fetch cert allow insecure", "createdAt": "2026-03-27T15:11:37Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 8999, "title": "UDP Test", "createdAt": "2026-03-27T15:58:40Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9004, "title": "Refactor Transport", "createdAt": "2026-03-28T15:40:14Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9005, "title": "Allow switching legacy process name tun protect", "createdAt": "2026-03-28T16:47:51Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9010, "title": "Show clash ui when tun enabled", "createdAt": "2026-03-29T09:40:33Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9012, "title": "fix: pin 7 unpinned action(s), extract 10 unsafe expression(s) to env vars", "createdAt": "2026-03-30T03:13:16Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9015, "title": "Fix sing-box selector generation for dynamic group tags", "createdAt": "2026-03-30T06:07:11Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9017, "title": "fix", "createdAt": "2026-03-30T15:22:47Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9018, "title": "修复 sing-box TUN 模式下 relay 出站的 mux 问题", "createdAt": "2026-03-30T15:31:43Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9020, "title": "i18n(ru): Complete and improve Russian localization", "createdAt": "2026-03-30T17:03:00Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9021, "title": "i18n(ru): complete and improve Russian localization", "createdAt": "2026-03-30T17:10:27Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9024, "title": "Finalmask check", "createdAt": "2026-03-31T09:37:53Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9025, "title": "Report node validator result", "createdAt": "2026-03-31T09:53:47Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9039, "title": "Lite UI", "createdAt": "2026-04-05T00:06:05Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9052, "title": "Replace protect-ss with protect-socks", "createdAt": "2026-04-07T10:17:27Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9056, "title": "Opened by mistake, now closed", "createdAt": "2026-04-08T08:20:00Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9059, "title": "优化体积", "createdAt": "2026-04-09T07:51:21Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9061, "title": "体积优化", "createdAt": "2026-04-09T09:23:12Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9063, "title": "Add xray tun support", "createdAt": "2026-04-09T17:41:40Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9070, "title": "[feat] Add rootless TUN support in Linux", "createdAt": "2026-04-10T15:47:32Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9073, "title": "Bump actions/upload-artifact from 7.0.0 to 7.0.1", "createdAt": "2026-04-10T18:43:41Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9076, "title": "Replace 100MB Cloudflare speedtest URL with 99MB", "createdAt": "2026-04-11T01:40:33Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9081, "title": "Add sing-box send-through", "createdAt": "2026-04-11T17:20:04Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9083, "title": "Refactor and Optimize CI Workflow", "createdAt": "2026-04-12T07:25:52Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9087, "title": "Add sing-box ua", "createdAt": "2026-04-12T14:32:30Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9091, "title": "Adjust DNS priority order", "createdAt": "2026-04-12T15:40:06Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9106, "title": "CI Workflow fix: rpm/deb runs-on mistake", "createdAt": "2026-04-14T04:20:39Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9109, "title": "Fix sing-box tun", "createdAt": "2026-04-14T08:45:13Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9110, "title": "Fix", "createdAt": "2026-04-14T10:16:32Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9111, "title": "Add RiscV64 RPM build", "createdAt": "2026-04-14T10:52:32Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9113, "title": "Support kcp cwndMultiplier", "createdAt": "2026-04-14T14:45:18Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9114, "title": "Add RiscV64 RPM build && Update", "createdAt": "2026-04-14T18:01:05Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9117, "title": "Fix mux", "createdAt": "2026-04-15T08:25:21Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9122, "title": "Support new fragment", "createdAt": "2026-04-16T04:33:30Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9126, "title": "Fix & Update", "createdAt": "2026-04-16T23:22:39Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9128, "title": "Fix", "createdAt": "2026-04-17T05:06:35Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9131, "title": "fix: persist selected subscription group across restarts", "createdAt": "2026-04-17T12:58:14Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9133, "title": "Fix/routing cancel confirm behavior", "createdAt": "2026-04-17T13:12:19Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9141, "title": "Fix", "createdAt": "2026-04-18T04:56:34Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9143, "title": "Fix", "createdAt": "2026-04-18T06:08:53Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9147, "title": "Custom MessageBoxDialog", "createdAt": "2026-04-19T07:23:52Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9148, "title": "Update Avalonia 12", "createdAt": "2026-04-19T07:32:10Z", "state": "OPEN", "repo": "2dust/v2rayN"}
+{"number": 9155, "title": "CI: Explicitly define GitHub token permissions in config", "createdAt": "2026-04-19T14:02:35Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9156, "title": "Change icon", "createdAt": "2026-04-19T14:08:13Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9157, "title": "URL test apply fragment", "createdAt": "2026-04-19T14:50:03Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9161, "title": "CI: Sleep 0-2s before upload release for race condition between matrix jobs", "createdAt": "2026-04-20T06:26:24Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9162, "title": "Add more test", "createdAt": "2026-04-20T06:50:57Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9163, "title": "Remove legacy sing-box dns compatibility", "createdAt": "2026-04-20T07:07:15Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9166, "title": "Fix", "createdAt": "2026-04-20T13:54:17Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9171, "title": "Fix", "createdAt": "2026-04-21T08:50:19Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9172, "title": "Wait for SOCKS5 proxy readiness before starting sing-box TUN pre-service", "createdAt": "2026-04-22T08:05:27Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9176, "title": "Update package-rhel.sh", "createdAt": "2026-04-23T22:40:30Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9178, "title": "Add kcp mtu", "createdAt": "2026-04-24T07:11:39Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9179, "title": "Update dotnet to 10", "createdAt": "2026-04-24T08:10:59Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9186, "title": "Update README.md", "createdAt": "2026-04-25T03:25:18Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9188, "title": "Update package-rhel.sh", "createdAt": "2026-04-25T07:16:41Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9192, "title": "download:https://github.com/2dust/v2rayN/releases/download/7.20.4/v2r…", "createdAt": "2026-04-25T10:01:35Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9207, "title": "i18n(ru): translate new strings and fix terminology casing", "createdAt": "2026-04-27T18:53:33Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9211, "title": "Remove NoWarn and fix .NET 10 build warnings", "createdAt": "2026-04-28T17:13:28Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9214, "title": "Remove EchForceQuery", "createdAt": "2026-04-29T05:57:54Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9222, "title": "Add bind interface", "createdAt": "2026-05-01T06:10:07Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9224, "title": "Fix", "createdAt": "2026-05-01T06:50:53Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9228, "title": "Modernize dependency stack after .NET 10 migration", "createdAt": "2026-05-02T00:02:13Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9230, "title": "Fix", "createdAt": "2026-05-02T08:47:50Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9235, "title": "Fix", "createdAt": "2026-05-03T07:16:26Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9239, "title": "Update .NET 10", "createdAt": "2026-05-03T22:27:49Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9241, "title": "Wireguard", "createdAt": "2026-05-04T07:05:40Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9243, "title": "fix: hide CMD window when launching upgrade process (AmazTool)", "createdAt": "2026-05-05T02:47:09Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9244, "title": "Add PR test", "createdAt": "2026-05-05T05:42:25Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9245, "title": "Inner uri", "createdAt": "2026-05-05T09:32:44Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9246, "title": "Fix json compact", "createdAt": "2026-05-05T09:49:32Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9250, "title": "fix: Allow TUN mode to auto-enable for NOPASSWD sudo users on Linux", "createdAt": "2026-05-06T13:10:11Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9251, "title": "Fix", "createdAt": "2026-05-06T13:14:32Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9253, "title": " Update Traditional Chinese translation", "createdAt": "2026-05-07T03:44:06Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9257, "title": "Fix desktop bind interface setting", "createdAt": "2026-05-08T04:23:27Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9258, "title": "Fix bind interface handling in desktop and sing-box", "createdAt": "2026-05-08T04:55:54Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9259, "title": "Fix sing-box TUN custom config inbound", "createdAt": "2026-05-08T05:20:12Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9271, "title": "Fix", "createdAt": "2026-05-09T13:27:43Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9274, "title": "Fix", "createdAt": "2026-05-10T13:33:56Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9279, "title": "feat: add v2rayN.Bridge CLI for external tool integration", "createdAt": "2026-05-10T22:38:19Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9288, "title": "Bump actions/checkout from 5 to 6", "createdAt": "2026-05-12T01:41:36Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9301, "title": "chore: remove NoWarn and fix .NET 10 build warnings across platforms", "createdAt": "2026-05-13T13:40:22Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9303, "title": "Update", "createdAt": "2026-05-14T06:06:54Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9309, "title": "i18n(ru): translate two missing Russian strings (PreSharedKey, Export menu)", "createdAt": "2026-05-14T13:03:55Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9310, "title": "Remove patch for riscv", "createdAt": "2026-05-14T14:25:14Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9325, "title": "Fix", "createdAt": "2026-05-17T09:47:32Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9327, "title": "Add tun inbound rule", "createdAt": "2026-05-17T10:21:53Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9329, "title": "-", "createdAt": "2026-05-18T00:40:38Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9341, "title": "bump  dependencies", "createdAt": "2026-05-19T12:50:06Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9342, "title": "Fix JSON parser handling of malformed config plus signs", "createdAt": "2026-05-20T00:55:58Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9364, "title": "feat: add SSH outbound protocol (sing-box, chainable)", "createdAt": "2026-05-22T09:43:18Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9365, "title": "Correct multiple DNS Hosts ips", "createdAt": "2026-05-22T12:01:43Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9366, "title": "Make Admin AutoRun faster", "createdAt": "2026-05-23T00:03:29Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9371, "title": "Show routing import errors in modal dialog", "createdAt": "2026-05-24T06:10:33Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9372, "title": "Allow numeric routing ports", "createdAt": "2026-05-24T06:12:05Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9374, "title": "Add in Global.cs speed and ping test URLs", "createdAt": "2026-05-24T10:24:56Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9389, "title": "Change the SelectedValue bound to Text #9388", "createdAt": "2026-05-26T09:18:47Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9392, "title": "Add configurable batch concurrency and delay for TCPing, Real Delay, and UDP Delay tests", "createdAt": "2026-05-26T15:40:42Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9404, "title": "Fix macOS / Linux font select", "createdAt": "2026-05-27T21:02:03Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9405, "title": "Fix the problem of font select", "createdAt": "2026-05-27T21:30:45Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9407, "title": "Bump actions/setup-dotnet from 5.2.0 to 5.3.0", "createdAt": "2026-05-28T20:35:33Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9410, "title": "Remove promotion menu", "createdAt": "2026-05-29T10:37:33Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9412, "title": "Replace app icons", "createdAt": "2026-05-30T05:20:04Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9414, "title": "Replace app icons", "createdAt": "2026-05-30T06:29:33Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9418, "title": "Fix", "createdAt": "2026-05-30T12:23:59Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9421, "title": "Update App.axaml.cs", "createdAt": "2026-05-30T17:39:06Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9426, "title": "Improve Windows TUN startup resilience", "createdAt": "2026-05-31T09:46:35Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9431, "title": "i18n(ru): refine Russian localization against the zh-Hans source", "createdAt": "2026-05-31T16:15:20Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9433, "title": "Bump skiasharp version && Add loong64 Update && Translate FR", "createdAt": "2026-05-31T16:20:08Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9447, "title": "Fix/status bar country flag", "createdAt": "2026-06-01T20:36:41Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9454, "title": "fix: omit country flag emoji on Windows", "createdAt": "2026-06-02T12:43:30Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9455, "title": "chore(deps): bump YamlDotNet, Tmds.DBus.Protocol, Avalonia and test packages", "createdAt": "2026-06-02T12:56:55Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9462, "title": "Fix", "createdAt": "2026-06-03T04:53:35Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9464, "title": "fix: decompress gzip-encoded subscription responses", "createdAt": "2026-06-03T08:14:17Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9469, "title": "Xray Route Exclude Address", "createdAt": "2026-06-04T11:22:43Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9470, "title": "Fix NUGET_CERT_REVOCATION_MODE=offline", "createdAt": "2026-06-04T11:44:16Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9473, "title": "Remove global AllowInsecure and MuxEnabled", "createdAt": "2026-06-04T12:24:21Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9474, "title": "Set xray default tun dns", "createdAt": "2026-06-04T14:38:27Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9476, "title": "Tail Fragmentation", "createdAt": "2026-06-04T15:54:18Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9477, "title": "Support new kcp config", "createdAt": "2026-06-04T16:18:00Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9478, "title": "Revert \"Fix NUGET_CERT_REVOCATION_MODE=offline && Update Directory.Packages.props", "createdAt": "2026-06-04T19:30:59Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9482, "title": "Code clean", "createdAt": "2026-06-05T10:07:15Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9483, "title": "Update AppBuilderExtension.cs && Fix Bug", "createdAt": "2026-06-05T10:36:16Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9484, "title": "Update Traditional Chinese translation", "createdAt": "2026-06-05T13:40:43Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9494, "title": "Improve proxy chain routing UX", "createdAt": "2026-06-06T15:49:36Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9495, "title": "Fix", "createdAt": "2026-06-06T16:39:08Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9498, "title": "fix: 在窗口初始化前设置保存的尺寸，消除启动时偏右下偏移", "createdAt": "2026-06-07T04:19:13Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9507, "title": "Disable .NET 9+ CET feature", "createdAt": "2026-06-08T09:12:01Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9511, "title": "macOS TUN DNS 绕过修复", "createdAt": "2026-06-08T14:55:52Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9512, "title": "让系统代理跟随 TUN 运行状态调整", "createdAt": "2026-06-08T18:56:17Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9513, "title": "Update AppBuilderExtension.cs", "createdAt": "2026-06-08T21:22:12Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9514, "title": "Update AppBuilderExtension.cs", "createdAt": "2026-06-08T23:30:20Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9516, "title": "Hysteria Realm & Gecko", "createdAt": "2026-06-09T08:42:42Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9521, "title": "fix: 移除子对话框的最小化/最大化按钮", "createdAt": "2026-06-09T13:18:24Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9526, "title": "fix: Desktop(Avalonia) 移除子对话框最小化按钮，仅禁 CanMinimize", "createdAt": "2026-06-10T12:25:12Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9528, "title": "Fix", "createdAt": "2026-06-10T16:43:19Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9533, "title": "Metrics listen directly", "createdAt": "2026-06-11T11:02:18Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9545, "title": "Update package-rhel.sh", "createdAt": "2026-06-14T01:49:36Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9548, "title": "docs: add routing troubleshooting for cloud metadata address", "createdAt": "2026-06-14T08:42:58Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9552, "title": "add QuicProxy", "createdAt": "2026-06-14T10:54:51Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9564, "title": "Bump actions/setup-dotnet from 5.2.0 to 5.3.0", "createdAt": "2026-06-15T18:44:18Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9573, "title": "Add Indonesian (id) UI localization", "createdAt": "2026-06-16T18:33:19Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9576, "title": "bump dependencies && Purge SDKs before build", "createdAt": "2026-06-16T21:42:05Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9582, "title": "Fix tun", "createdAt": "2026-06-17T06:40:55Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9585, "title": "Revert \"Fetch cert allow insecure (#8998)\"", "createdAt": "2026-06-17T10:58:43Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9588, "title": "Add NetBridge process hijacking feature for windows", "createdAt": "2026-06-18T02:38:26Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9590, "title": "Add IP geolocation display and direct subscription recovery", "createdAt": "2026-06-18T07:48:31Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9594, "title": "Bump actions/checkout from 6 to 7", "createdAt": "2026-06-18T18:43:00Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9597, "title": "customizable packet fragmentation settings", "createdAt": "2026-06-19T11:29:16Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9602, "title": "服务器列表右键菜单增加「复制所选 IP」", "createdAt": "2026-06-19T15:53:35Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9603, "title": "Node check", "createdAt": "2026-06-19T17:05:15Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9608, "title": "Add GPG key file", "createdAt": "2026-06-21T05:33:39Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9614, "title": "Fix process rule", "createdAt": "2026-06-22T13:50:22Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9616, "title": "Update README.md", "createdAt": "2026-06-23T01:46:44Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9621, "title": "ViewModel-First", "createdAt": "2026-06-23T08:00:08Z", "state": "OPEN", "repo": "2dust/v2rayN"}
+{"number": 9622, "title": "Fix DNS deadlock for standalone external cores under TUN", "createdAt": "2026-06-23T09:16:44Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9623, "title": "Fix TCPing tests not stopping when ESC is pressed", "createdAt": "2026-06-23T11:06:41Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9626, "title": "Fix ui", "createdAt": "2026-06-23T15:03:06Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9627, "title": "[codex] Fix shell script execute permission", "createdAt": "2026-06-23T18:42:00Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9631, "title": "启动 TUN pre-service 前确保 SOCKS 依赖就绪避免连接实际不可用", "createdAt": "2026-06-25T14:50:34Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9632, "title": "xray tun for linux and macos", "createdAt": "2026-06-25T15:11:04Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9636, "title": "Bump actions/setup-dotnet from 5.3.0 to 5.4.0", "createdAt": "2026-06-26T18:42:43Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9640, "title": "Wait For Proxy Port", "createdAt": "2026-06-27T08:19:20Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9642, "title": "fix(hysteria2): emit https server_url for sing-box realm outbound", "createdAt": "2026-06-27T13:48:46Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9648, "title": "Fix", "createdAt": "2026-06-29T03:23:38Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9649, "title": "Revert \"xray tun for linux and macos\"", "createdAt": "2026-06-29T07:07:28Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9651, "title": "补齐旧版 TUN 保护下主 Xray 出口处理", "createdAt": "2026-06-29T08:01:10Z", "state": "CLOSED", "repo": "2dust/v2rayN"}
+{"number": 9654, "title": "Update README.md", "createdAt": "2026-06-29T09:40:35Z", "state": "MERGED", "repo": "2dust/v2rayN"}
+{"number": 9660, "title": "Clarifies the Bind Interface help text", "createdAt": "2026-06-30T11:54:48Z", "state": "MERGED", "repo": "2dust/v2rayN"}

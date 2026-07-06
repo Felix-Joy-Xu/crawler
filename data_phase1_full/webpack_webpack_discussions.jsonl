@@ -1,0 +1,1137 @@
+{"number": 15091, "title": "Env Variables Not Loaded When Deployed To Cloudflare Pages", "createdAt": "2022-01-02T06:56:52Z", "repo": "webpack/webpack"}
+{"number": 15098, "title": "How to invalidate cache in webpack 5?", "createdAt": "2022-01-03T15:20:32Z", "repo": "webpack/webpack"}
+{"number": 15101, "title": "How to change asset type for inline nested loaders?", "createdAt": "2022-01-04T20:30:46Z", "repo": "webpack/webpack"}
+{"number": 15117, "title": "Dynamic import returns undefined when using variable query string", "createdAt": "2022-01-05T05:21:58Z", "repo": "webpack/webpack"}
+{"number": 15110, "title": "React createContext call in framer-motion bundled as call to undefined", "createdAt": "2022-01-05T10:51:52Z", "repo": "webpack/webpack"}
+{"number": 15116, "title": "configure type: \"asset/resource\"seem unable to export the jpg|png|ico URL from an html file.", "createdAt": "2022-01-05T16:02:22Z", "repo": "webpack/webpack"}
+{"number": 15124, "title": "I want to get env parameter by using webpack config as function", "createdAt": "2022-01-07T09:18:22Z", "repo": "webpack/webpack"}
+{"number": 15125, "title": "Cannot read properties of undefined (reading 'createContext')", "createdAt": "2022-01-07T10:12:11Z", "repo": "webpack/webpack"}
+{"number": 15126, "title": "Is it possible to do custom naming in mangle action", "createdAt": "2022-01-07T15:00:48Z", "repo": "webpack/webpack"}
+{"number": 15128, "title": "understanding & implementing tree shaking properly", "createdAt": "2022-01-07T21:38:48Z", "repo": "webpack/webpack"}
+{"number": 15132, "title": "terser extractComments are wrapped in a comment (comment in wrapped comment)", "createdAt": "2022-01-09T20:17:39Z", "repo": "webpack/webpack"}
+{"number": 15136, "title": "Webpack+Asciidoctor-kroki: Cannot statically analyse 'require(…, …)'", "createdAt": "2022-01-10T10:07:19Z", "repo": "webpack/webpack"}
+{"number": 15138, "title": "Making webpack 5 name chunks as per webpack 4", "createdAt": "2022-01-10T12:21:50Z", "repo": "webpack/webpack"}
+{"number": 15142, "title": "Failed to resolve import \"React\"  when creating react npm package with webpack 5", "createdAt": "2022-01-10T15:18:39Z", "repo": "webpack/webpack"}
+{"number": 15146, "title": "custom console log for multiple compiler", "createdAt": "2022-01-11T15:01:53Z", "repo": "webpack/webpack"}
+{"number": 15147, "title": "CacheInputFileSystem default cache time", "createdAt": "2022-01-11T19:03:07Z", "repo": "webpack/webpack"}
+{"number": 15149, "title": "how to delete asset in afterCompile hook with webpack5", "createdAt": "2022-01-12T04:31:50Z", "repo": "webpack/webpack"}
+{"number": 15151, "title": "v5.66.0", "createdAt": "2022-01-12T08:25:48Z", "repo": "webpack/webpack"}
+{"number": 15156, "title": "Have to disable liveReload to make hot works?", "createdAt": "2022-01-12T21:30:39Z", "repo": "webpack/webpack"}
+{"number": 15160, "title": "Native CSS support opportunities", "createdAt": "2022-01-13T13:48:36Z", "repo": "webpack/webpack"}
+{"number": 15161, "title": "After changing Webpack5, the build time is very slow.", "createdAt": "2022-01-13T13:54:41Z", "repo": "webpack/webpack"}
+{"number": 15163, "title": "How to make webpack generate separate CSS and JS with the same name \"index\": \"index.js\" and \"index.css\" when there are multiple CSS outputs?", "createdAt": "2022-01-13T15:47:03Z", "repo": "webpack/webpack"}
+{"number": 15166, "title": "The map file of dependency do not created with webpack5？", "createdAt": "2022-01-14T08:41:13Z", "repo": "webpack/webpack"}
+{"number": 15174, "title": "Why arrayqueue is implemented using two list?", "createdAt": "2022-01-16T12:39:44Z", "repo": "webpack/webpack"}
+{"number": 15180, "title": "Related to execution/es6", "createdAt": "2022-01-16T14:45:58Z", "repo": "webpack/webpack"}
+{"number": 15181, "title": "How to make webpack to ignore a link tag in the html template?", "createdAt": "2022-01-17T14:46:48Z", "repo": "webpack/webpack"}
+{"number": 15185, "title": "How to achieve creation of a new 'style' tag on each call to 'use' method in 'style-loader' with option 'injectType: 'lazyStyleTag''", "createdAt": "2022-01-17T18:57:18Z", "repo": "webpack/webpack"}
+{"number": 15186, "title": "Why does the configuration schema change so often?", "createdAt": "2022-01-17T19:47:37Z", "repo": "webpack/webpack"}
+{"number": 15210, "title": "Migrate project webpack 4 to 5 : ProvidePlugin issue ?", "createdAt": "2022-01-20T08:27:00Z", "repo": "webpack/webpack"}
+{"number": 15211, "title": "[webpack 5] the third library of type=module will build failed", "createdAt": "2022-01-20T09:18:53Z", "repo": "webpack/webpack"}
+{"number": 15213, "title": "EVAL ERROR: Cannot read properties of undefined (reading 'call')", "createdAt": "2022-01-20T23:58:46Z", "repo": "webpack/webpack"}
+{"number": 15220, "title": "unable to require commonjs exports dynamically", "createdAt": "2022-01-21T12:01:03Z", "repo": "webpack/webpack"}
+{"number": 15223, "title": "CssMinimizerPlugin removes asterisk from css selector", "createdAt": "2022-01-21T16:13:44Z", "repo": "webpack/webpack"}
+{"number": 15224, "title": "v5.67.0", "createdAt": "2022-01-21T17:45:18Z", "repo": "webpack/webpack"}
+{"number": 15227, "title": "why the webpack did not generate the css file", "createdAt": "2022-01-22T07:38:50Z", "repo": "webpack/webpack"}
+{"number": 15232, "title": "Vulnerable nanoid dependency in css-loader", "createdAt": "2022-01-23T01:11:14Z", "repo": "webpack/webpack"}
+{"number": 15237, "title": "Question - Webpack Module Federation - Shared Services", "createdAt": "2022-01-24T09:15:28Z", "repo": "webpack/webpack"}
+{"number": 15241, "title": "How to replace some strings like `__(foo + 'bar')`  with some strings via webpack plugin", "createdAt": "2022-01-25T10:49:30Z", "repo": "webpack/webpack"}
+{"number": 15243, "title": "Extract data from files at compile time", "createdAt": "2022-01-25T11:06:19Z", "repo": "webpack/webpack"}
+{"number": 15245, "title": "Is it possible to maintain tree-shaking an object when accessing a non-existing property?", "createdAt": "2022-01-25T11:35:13Z", "repo": "webpack/webpack"}
+{"number": 15247, "title": "[HMR] webpack-dev-server. HMR doesn't work after migration from v3 to v4.", "createdAt": "2022-01-25T14:18:45Z", "repo": "webpack/webpack"}
+{"number": 15250, "title": "[HMR] webpack-dev-server. devServer.watchFiles property breaks hot module replacement", "createdAt": "2022-01-25T20:58:55Z", "repo": "webpack/webpack"}
+{"number": 15252, "title": "Running crashes on MacOS：Fatal JavaScript invalid size error 169220804", "createdAt": "2022-01-26T06:12:34Z", "repo": "webpack/webpack"}
+{"number": 15254, "title": "why the entry scss file did not generate to distinate css file", "createdAt": "2022-01-26T09:05:52Z", "repo": "webpack/webpack"}
+{"number": 15256, "title": "CompatibilityPlugin and Shared dependencies, MF sync", "createdAt": "2022-01-26T09:15:38Z", "repo": "webpack/webpack"}
+{"number": 15264, "title": "invalid key when chunks are formatted with non-zero only", "createdAt": "2022-01-27T08:33:23Z", "repo": "webpack/webpack"}
+{"number": 15273, "title": "moduleFederationPlugin load remote project  which with single runtime occur error", "createdAt": "2022-01-29T10:12:37Z", "repo": "webpack/webpack"}
+{"number": 15276, "title": "\"compiling...\" info is not displayed anymore after webpack-dev-server v4 release", "createdAt": "2022-01-30T00:18:45Z", "repo": "webpack/webpack"}
+{"number": 15280, "title": "Question - Webpack Module Federation - Angular & Flutter Web", "createdAt": "2022-01-31T08:45:16Z", "repo": "webpack/webpack"}
+{"number": 15283, "title": "Module Federation JavaScript libraries isolation", "createdAt": "2022-01-31T11:22:17Z", "repo": "webpack/webpack"}
+{"number": 15286, "title": "v5.68.0", "createdAt": "2022-01-31T16:26:28Z", "repo": "webpack/webpack"}
+{"number": 15291, "title": "ESM output does not support ESM externals, because “the target environment doesn't support EcmaScriptModule syntax ”", "createdAt": "2022-02-01T12:43:02Z", "repo": "webpack/webpack"}
+{"number": 15304, "title": "What happen to \"existsAt\" in Webpack 5", "createdAt": "2022-02-02T00:30:37Z", "repo": "webpack/webpack"}
+{"number": 15299, "title": "What is the difference between \"liveReload\" and \"watch\" in webpack devServer configuration?", "createdAt": "2022-02-02T01:05:19Z", "repo": "webpack/webpack"}
+{"number": 15307, "title": "ChunkLoadError: Loading chunk components_buttons_Module_tsx failed.", "createdAt": "2022-02-02T11:53:54Z", "repo": "webpack/webpack"}
+{"number": 15308, "title": "Replace Acorn with SWC parser for performance gains", "createdAt": "2022-02-02T16:04:35Z", "repo": "webpack/webpack"}
+{"number": 15311, "title": "[MultiCompiler] Share asset details between compilers", "createdAt": "2022-02-03T12:45:07Z", "repo": "webpack/webpack"}
+{"number": 15313, "title": "working/supported image minification in webpack5 ?", "createdAt": "2022-02-04T10:45:54Z", "repo": "webpack/webpack"}
+{"number": 15326, "title": "Module file reduction with webpack(Around half of the kb size is expecting rather than present sizes)", "createdAt": "2022-02-07T06:32:05Z", "repo": "webpack/webpack"}
+{"number": 15328, "title": "What's the difference between line & column source mapping", "createdAt": "2022-02-07T13:44:14Z", "repo": "webpack/webpack"}
+{"number": 15334, "title": "Angular Material and Kendo doesn't work with Module Federation Plugin: Bootstrap call not found", "createdAt": "2022-02-08T07:32:23Z", "repo": "webpack/webpack"}
+{"number": 15337, "title": "Variable is undeclared but can be used", "createdAt": "2022-02-08T08:34:53Z", "repo": "webpack/webpack"}
+{"number": 15341, "title": "How to get webpack honour swiperjs module imports, avoiding bundling the ones not used?", "createdAt": "2022-02-08T11:33:25Z", "repo": "webpack/webpack"}
+{"number": 15345, "title": "Pass different env variables to different entries", "createdAt": "2022-02-08T14:09:21Z", "repo": "webpack/webpack"}
+{"number": 15362, "title": "Inline loader seems not supporting loader option value in which type is function.", "createdAt": "2022-02-09T17:11:53Z", "repo": "webpack/webpack"}
+{"number": 15365, "title": "Using `DefinePlugin` to define `import` throws an error", "createdAt": "2022-02-09T23:10:59Z", "repo": "webpack/webpack"}
+{"number": 15369, "title": "Cannot read properties of undefined (reading 'call')", "createdAt": "2022-02-10T14:12:42Z", "repo": "webpack/webpack"}
+{"number": 15374, "title": "Including only one specific .node binary", "createdAt": "2022-02-11T13:24:16Z", "repo": "webpack/webpack"}
+{"number": 15375, "title": "Module Federation: How can I make static files (assets/i18n) available to the remote(MFE) when it is used inside a shell", "createdAt": "2022-02-11T23:38:37Z", "repo": "webpack/webpack"}
+{"number": 15381, "title": "What are `cssFilename` and `cssChunkFilename` in Output?", "createdAt": "2022-02-13T12:36:53Z", "repo": "webpack/webpack"}
+{"number": 15382, "title": "How to integrate own library with WebPack which needs to span WebWorkers and AudioWorklets", "createdAt": "2022-02-13T18:09:42Z", "repo": "webpack/webpack"}
+{"number": 15388, "title": "dynamic import is not working when the imported library has been listed in externals.", "createdAt": "2022-02-14T02:39:40Z", "repo": "webpack/webpack"}
+{"number": 15386, "title": "optimization chunkId/moduleId about named and deterministic", "createdAt": "2022-02-14T09:19:09Z", "repo": "webpack/webpack"}
+{"number": 15391, "title": "Bring back \"compiling...\" message", "createdAt": "2022-02-15T09:12:59Z", "repo": "webpack/webpack"}
+{"number": 15392, "title": "Are cache groups overly restrictive when trying to reuse an existing named chunk?", "createdAt": "2022-02-15T10:37:01Z", "repo": "webpack/webpack"}
+{"number": 15395, "title": "Hook to get webpack-dev-server url:port", "createdAt": "2022-02-15T11:37:51Z", "repo": "webpack/webpack"}
+{"number": 15396, "title": "v5.69.0", "createdAt": "2022-02-15T12:34:34Z", "repo": "webpack/webpack"}
+{"number": 15399, "title": "Disable code splitting in a child compiler", "createdAt": "2022-02-15T15:22:31Z", "repo": "webpack/webpack"}
+{"number": 15407, "title": "\"... is not defined\" error after the webpack compilation with the library defined as external (generating a UserScript)", "createdAt": "2022-02-16T16:09:50Z", "repo": "webpack/webpack"}
+{"number": 15419, "title": "jQuery and multiple HTML pages in Electron Forge webpack-template", "createdAt": "2022-02-19T15:55:29Z", "repo": "webpack/webpack"}
+{"number": 15420, "title": "webpack and webpack --watch will get different output", "createdAt": "2022-02-19T18:17:02Z", "repo": "webpack/webpack"}
+{"number": 15422, "title": "Intermittent chunk load errors in Firefox", "createdAt": "2022-02-20T14:51:38Z", "repo": "webpack/webpack"}
+{"number": 15427, "title": "Tree-shaking doesn't work on re-exported modules with classes", "createdAt": "2022-02-21T14:12:33Z", "repo": "webpack/webpack"}
+{"number": 15429, "title": "devServer Not effective", "createdAt": "2022-02-22T05:46:51Z", "repo": "webpack/webpack"}
+{"number": 15440, "title": "Why the stats data is not same as the file?", "createdAt": "2022-02-24T03:03:11Z", "repo": "webpack/webpack"}
+{"number": 15442, "title": "mini-css-extract-plugin output overwritten", "createdAt": "2022-02-25T10:28:05Z", "repo": "webpack/webpack"}
+{"number": 15505, "title": "failed to inference ONNX model: TypeError: Cannot read properties of undefined (reading 'InferenceSession')", "createdAt": "2022-02-25T11:46:33Z", "repo": "webpack/webpack"}
+{"number": 15445, "title": "Module Federation in Production", "createdAt": "2022-02-26T14:09:18Z", "repo": "webpack/webpack"}
+{"number": 15451, "title": "Packaged index How does HTML change its path? I want to put it in the project folder", "createdAt": "2022-02-27T14:07:40Z", "repo": "webpack/webpack"}
+{"number": 15457, "title": "Where to find devtool sourcemap configurations", "createdAt": "2022-03-02T08:12:36Z", "repo": "webpack/webpack"}
+{"number": 15462, "title": "RawModule is not resolve", "createdAt": "2022-03-03T04:51:09Z", "repo": "webpack/webpack"}
+{"number": 15464, "title": "Webpack does not recognize image inserted with jQuery attr", "createdAt": "2022-03-03T10:29:47Z", "repo": "webpack/webpack"}
+{"number": 15465, "title": "Cannot load images with html-loader in Angular 13.1.x -- works on Angular 13.0.x", "createdAt": "2022-03-03T11:38:07Z", "repo": "webpack/webpack"}
+{"number": 15467, "title": "v5.70.0", "createdAt": "2022-03-03T14:24:13Z", "repo": "webpack/webpack"}
+{"number": 15469, "title": "Set entry with dependOn or externals", "createdAt": "2022-03-04T00:23:01Z", "repo": "webpack/webpack"}
+{"number": 15471, "title": "How to use exports-loader with Jest?", "createdAt": "2022-03-04T12:28:50Z", "repo": "webpack/webpack"}
+{"number": 15472, "title": "Best way to (re)implement file-loader?name query in Asset Modules", "createdAt": "2022-03-04T13:45:29Z", "repo": "webpack/webpack"}
+{"number": 15474, "title": "Is it safe to share webpack cache?", "createdAt": "2022-03-04T15:16:23Z", "repo": "webpack/webpack"}
+{"number": 15475, "title": "How to get specific source code before buildModule hook", "createdAt": "2022-03-05T08:54:00Z", "repo": "webpack/webpack"}
+{"number": 15483, "title": "Wrong version Webpack", "createdAt": "2022-03-07T10:56:56Z", "repo": "webpack/webpack"}
+{"number": 15488, "title": "Node module imported css error", "createdAt": "2022-03-08T07:49:51Z", "repo": "webpack/webpack"}
+{"number": 15493, "title": "How to choose plugin hooks about analyze source code dependencies", "createdAt": "2022-03-09T02:14:27Z", "repo": "webpack/webpack"}
+{"number": 15496, "title": "How to verify that webpack is using cache?", "createdAt": "2022-03-09T16:29:15Z", "repo": "webpack/webpack"}
+{"number": 15504, "title": "ensure identical chunk-hashes and chunk-ids on different platforms", "createdAt": "2022-03-10T17:23:37Z", "repo": "webpack/webpack"}
+{"number": 15510, "title": "__webpack_require__(...).map is not a function", "createdAt": "2022-03-11T02:22:43Z", "repo": "webpack/webpack"}
+{"number": 15509, "title": "How to get dynamic module info in importCall hook on Webpack 4", "createdAt": "2022-03-11T08:52:13Z", "repo": "webpack/webpack"}
+{"number": 15520, "title": "WebSockets issue with webpack-dev-server v3 to v4", "createdAt": "2022-03-11T21:16:43Z", "repo": "webpack/webpack"}
+{"number": 15526, "title": "How could I get webpack version in plugin", "createdAt": "2022-03-14T06:18:30Z", "repo": "webpack/webpack"}
+{"number": 15528, "title": "devServer public option in Webpack 5", "createdAt": "2022-03-14T19:44:56Z", "repo": "webpack/webpack"}
+{"number": 15537, "title": "What is the result of having multiple rules with the same test in Webpack config?", "createdAt": "2022-03-16T12:47:50Z", "repo": "webpack/webpack"}
+{"number": 15539, "title": "Sharing a module that uses Tailwind with a module that uses CSS.", "createdAt": "2022-03-16T19:03:55Z", "repo": "webpack/webpack"}
+{"number": 15544, "title": "IE11 (blank page - syntax error)", "createdAt": "2022-03-17T14:22:50Z", "repo": "webpack/webpack"}
+{"number": 15553, "title": "How to skip minification of one file?", "createdAt": "2022-03-18T17:48:32Z", "repo": "webpack/webpack"}
+{"number": 15555, "title": "How to evaluate a string containing JavaScript code?", "createdAt": "2022-03-19T11:04:20Z", "repo": "webpack/webpack"}
+{"number": 15564, "title": "Multiple entry points - how to keep one as small as possible?", "createdAt": "2022-03-20T15:19:01Z", "repo": "webpack/webpack"}
+{"number": 15565, "title": "Does dynamic `import` have tree shaking?", "createdAt": "2022-03-20T17:22:51Z", "repo": "webpack/webpack"}
+{"number": 15587, "title": "ES6 Hmr with webpack on Node", "createdAt": "2022-03-25T16:20:55Z", "repo": "webpack/webpack"}
+{"number": 15593, "title": "How to serve svgz files with webpack dev server?", "createdAt": "2022-03-27T13:56:54Z", "repo": "webpack/webpack"}
+{"number": 15599, "title": "webpack node api don't run the same as command line webpack", "createdAt": "2022-03-28T15:47:16Z", "repo": "webpack/webpack"}
+{"number": 15598, "title": "ESLint and Stylelint lintDirtyModulesOnly option", "createdAt": "2022-03-28T18:08:04Z", "repo": "webpack/webpack"}
+{"number": 15606, "title": "Does it make sense to bring back CommonsChunkPlugin?", "createdAt": "2022-03-31T09:29:08Z", "repo": "webpack/webpack"}
+{"number": 15613, "title": "v5.71.0", "createdAt": "2022-04-01T13:42:09Z", "repo": "webpack/webpack"}
+{"number": 15622, "title": "yarn benchmark failed with \"Your test suite must contain at least one test.\"", "createdAt": "2022-04-03T10:49:59Z", "repo": "webpack/webpack"}
+{"number": 15628, "title": "Was the last release of webpack supposed to fix the issue that is causing Alphabetical sort in production Storybook?", "createdAt": "2022-04-04T15:45:39Z", "repo": "webpack/webpack"}
+{"number": 15629, "title": "Forcing crossOrigin for same-origin request in LoadScriptRuntimeModule", "createdAt": "2022-04-05T13:32:28Z", "repo": "webpack/webpack"}
+{"number": 15631, "title": "webpack providePlugin", "createdAt": "2022-04-06T02:34:59Z", "repo": "webpack/webpack"}
+{"number": 15639, "title": "v5.72.0", "createdAt": "2022-04-07T12:36:36Z", "repo": "webpack/webpack"}
+{"number": 15645, "title": "What's the real usage of `idHint`?", "createdAt": "2022-04-10T06:00:04Z", "repo": "webpack/webpack"}
+{"number": 15659, "title": "没有意外的import", "createdAt": "2022-04-12T12:26:39Z", "repo": "webpack/webpack"}
+{"number": 15661, "title": "Incremental output not working with \"webpack --mode=development --watch\"", "createdAt": "2022-04-13T05:35:51Z", "repo": "webpack/webpack"}
+{"number": 15662, "title": "How to work with toConstantDependency function when the second argument of that function includes a certain member imported with import statement", "createdAt": "2022-04-13T06:17:48Z", "repo": "webpack/webpack"}
+{"number": 15670, "title": "Handling of inline require in webpack 5", "createdAt": "2022-04-15T18:23:15Z", "repo": "webpack/webpack"}
+{"number": 15692, "title": "How to ensure loader runs after parser hooks?", "createdAt": "2022-04-21T07:40:17Z", "repo": "webpack/webpack"}
+{"number": 15698, "title": "SSR and lazyCompilation", "createdAt": "2022-04-22T10:41:54Z", "repo": "webpack/webpack"}
+{"number": 15699, "title": "webpack-dev-server: Error [ERR_STREAM_WRITE_AFTER_END]: write after end", "createdAt": "2022-04-22T18:29:46Z", "repo": "webpack/webpack"}
+{"number": 15700, "title": "Recent change to createSocketURL.js causing error in IE11", "createdAt": "2022-04-22T20:16:04Z", "repo": "webpack/webpack"}
+{"number": 15719, "title": "How to modify a module content in the processAssets hook!", "createdAt": "2022-04-26T15:05:19Z", "repo": "webpack/webpack"}
+{"number": 15731, "title": "61%  building 604/704 modules 100 active ...", "createdAt": "2022-04-27T02:49:09Z", "repo": "webpack/webpack"}
+{"number": 15730, "title": "Is it possible leave modules structure?", "createdAt": "2022-04-27T10:48:43Z", "repo": "webpack/webpack"}
+{"number": 15732, "title": "How to import the `var foo` from a `.js` file, which doesn't have `export`?", "createdAt": "2022-04-27T20:14:18Z", "repo": "webpack/webpack"}
+{"number": 15740, "title": "Pls delete this. I find it's not about webpack runtime Q&A. Sorry.", "createdAt": "2022-04-29T03:02:28Z", "repo": "webpack/webpack"}
+{"number": 15745, "title": "eslint-webpack-plugin: ERR_INVALID_ARG_TYPE", "createdAt": "2022-05-01T20:40:36Z", "repo": "webpack/webpack"}
+{"number": 15753, "title": "Loader configuration in monorepo [Module parse failed: Unexpected token]", "createdAt": "2022-05-02T14:37:49Z", "repo": "webpack/webpack"}
+{"number": 15754, "title": "Got different hash when run `webpack --watch --mode production` on different clones of the project?", "createdAt": "2022-05-02T16:52:01Z", "repo": "webpack/webpack"}
+{"number": 15756, "title": "The plugin for excluding the duplicates of code while building the module. For using with the Module Federation.", "createdAt": "2022-05-02T19:04:44Z", "repo": "webpack/webpack"}
+{"number": 15761, "title": "Reduce bundle size for React application", "createdAt": "2022-05-03T11:53:10Z", "repo": "webpack/webpack"}
+{"number": 15762, "title": "How can I configure Webpack for better optimization? Error: Conflict: Multiple chunks emit assets to the same filename main.js", "createdAt": "2022-05-03T14:59:31Z", "repo": "webpack/webpack"}
+{"number": 15763, "title": "How do I know what plugins and presets do I need? -- css errors", "createdAt": "2022-05-03T19:38:37Z", "repo": "webpack/webpack"}
+{"number": 15766, "title": "Where can I learn Webpack?", "createdAt": "2022-05-03T23:07:10Z", "repo": "webpack/webpack"}
+{"number": 15768, "title": "Basic setup of Webpack with React App. ---  font not showing.", "createdAt": "2022-05-04T14:02:08Z", "repo": "webpack/webpack"}
+{"number": 15771, "title": "How do I read package.json version with ES Modules enabled?", "createdAt": "2022-05-04T22:00:32Z", "repo": "webpack/webpack"}
+{"number": 15773, "title": "Does virtual module can auto hmr?", "createdAt": "2022-05-05T13:20:58Z", "repo": "webpack/webpack"}
+{"number": 15777, "title": "Doesn't generate js (SharedWorker -  CRA - webPack4 -  signalR)", "createdAt": "2022-05-05T22:59:16Z", "repo": "webpack/webpack"}
+{"number": 15780, "title": "Webpack Module Federation share the same module in remote", "createdAt": "2022-05-06T14:18:42Z", "repo": "webpack/webpack"}
+{"number": 15791, "title": "Import library in SharedWorker", "createdAt": "2022-05-08T21:56:43Z", "repo": "webpack/webpack"}
+{"number": 15792, "title": "`error.module.reasons` is missing", "createdAt": "2022-05-09T01:46:37Z", "repo": "webpack/webpack"}
+{"number": 15805, "title": "Error: Shared module is not available for eager consumption", "createdAt": "2022-05-10T10:01:20Z", "repo": "webpack/webpack"}
+{"number": 15811, "title": "How to recompile when node_modules file changed with webpack cache", "createdAt": "2022-05-11T12:15:18Z", "repo": "webpack/webpack"}
+{"number": 15816, "title": "HELP! how can i change chunkid where in webpackjsonp", "createdAt": "2022-05-12T06:47:18Z", "repo": "webpack/webpack"}
+{"number": 15820, "title": "how can i change the image assets public path alone?", "createdAt": "2022-05-13T09:00:21Z", "repo": "webpack/webpack"}
+{"number": 15825, "title": "How to update content of virtual module", "createdAt": "2022-05-13T15:31:28Z", "repo": "webpack/webpack"}
+{"number": 15826, "title": "how to use plugin-syntax-import-meta", "createdAt": "2022-05-14T06:40:57Z", "repo": "webpack/webpack"}
+{"number": 15827, "title": "how to make webpack handle https/http external resource", "createdAt": "2022-05-14T18:29:41Z", "repo": "webpack/webpack"}
+{"number": 15828, "title": "Cannot find module '@babel/preset-plugin-syntax-import-meta'", "createdAt": "2022-05-15T05:37:50Z", "repo": "webpack/webpack"}
+{"number": 15830, "title": "why compile erro", "createdAt": "2022-05-15T10:40:47Z", "repo": "webpack/webpack"}
+{"number": 15831, "title": "how to use webpack Do not compile when referencing JS", "createdAt": "2022-05-15T14:59:08Z", "repo": "webpack/webpack"}
+{"number": 15843, "title": "Hide a specific bundle and show it to specific user type", "createdAt": "2022-05-18T12:48:19Z", "repo": "webpack/webpack"}
+{"number": 15844, "title": "`optimization.concatenateModules` leading to nondeterministic build output", "createdAt": "2022-05-18T13:58:17Z", "repo": "webpack/webpack"}
+{"number": 15846, "title": "Webpack5 prevent fallback packages from being resolved when config is required in application", "createdAt": "2022-05-19T06:10:09Z", "repo": "webpack/webpack"}
+{"number": 15847, "title": "Webpack Dev Server memory grows in size and crashs sooner or later.", "createdAt": "2022-05-19T11:29:14Z", "repo": "webpack/webpack"}
+{"number": 15849, "title": "Hot reload is not working. I don't know how to troubleshoot it?", "createdAt": "2022-05-20T03:42:27Z", "repo": "webpack/webpack"}
+{"number": 15851, "title": "How to solve the problem that fsevents.node in chokidar is compiled during the compilation phase of webpack production packaging?", "createdAt": "2022-05-20T09:24:36Z", "repo": "webpack/webpack"}
+{"number": 15854, "title": "Chunking seems not to be working when importing from packages in monorepo", "createdAt": "2022-05-20T11:25:04Z", "repo": "webpack/webpack"}
+{"number": 15856, "title": "Getting errors while building", "createdAt": "2022-05-20T12:11:36Z", "repo": "webpack/webpack"}
+{"number": 15858, "title": "How to configure webpack for create-react-app", "createdAt": "2022-05-24T08:30:34Z", "repo": "webpack/webpack"}
+{"number": 15861, "title": "Why don't use and Imports statements inside Webpack?", "createdAt": "2022-05-24T23:04:08Z", "repo": "webpack/webpack"}
+{"number": 15875, "title": "Webpack outputting weird/uncorrect css", "createdAt": "2022-05-30T16:37:04Z", "repo": "webpack/webpack"}
+{"number": 15889, "title": "seek help! How to find the list of files imported by webpack?", "createdAt": "2022-06-01T10:34:52Z", "repo": "webpack/webpack"}
+{"number": 15901, "title": "Compiler.watch bug", "createdAt": "2022-06-01T11:20:03Z", "repo": "webpack/webpack"}
+{"number": 15902, "title": "v5.73.0", "createdAt": "2022-06-02T11:25:33Z", "repo": "webpack/webpack"}
+{"number": 15907, "title": "Export transpile JSON to entry", "createdAt": "2022-06-03T11:36:56Z", "repo": "webpack/webpack"}
+{"number": 15912, "title": "How to get the same target value as in loaderContext.target inside a custom plugin?", "createdAt": "2022-06-05T11:58:28Z", "repo": "webpack/webpack"}
+{"number": 15916, "title": "you should not provide watch options in `webpack.config` then, use them in `compiler.watch` as an argument", "createdAt": "2022-06-06T09:02:35Z", "repo": "webpack/webpack"}
+{"number": 15918, "title": "Webworker and style loader - causing load issues with babylon js inspector", "createdAt": "2022-06-07T01:31:02Z", "repo": "webpack/webpack"}
+{"number": 15920, "title": "scss and image issues when the conversion is being performed by using Webpack configs for react18", "createdAt": "2022-06-07T12:15:42Z", "repo": "webpack/webpack"}
+{"number": 15921, "title": "Cannot read properties of undefined (reading 'push') | TypeError: Cannot set properties of undefined (setting '1368')", "createdAt": "2022-06-07T20:11:38Z", "repo": "webpack/webpack"}
+{"number": 15929, "title": "Multiple scripts per entry point: best way to use their exported functions in HTML?", "createdAt": "2022-06-08T12:14:50Z", "repo": "webpack/webpack"}
+{"number": 15931, "title": "Is it time to switch to Vite.js?", "createdAt": "2022-06-08T15:15:28Z", "repo": "webpack/webpack"}
+{"number": 15937, "title": "terser-webpack-plugin throw error", "createdAt": "2022-06-09T05:48:05Z", "repo": "webpack/webpack"}
+{"number": 15938, "title": "How do you resolve an ESM import from TypeScript (*.tsx) file", "createdAt": "2022-06-09T23:37:09Z", "repo": "webpack/webpack"}
+{"number": 15945, "title": "Some API are deprecated but no replacement was found", "createdAt": "2022-06-12T08:18:55Z", "repo": "webpack/webpack"}
+{"number": 15948, "title": "How to create globally available bundles?", "createdAt": "2022-06-13T08:18:53Z", "repo": "webpack/webpack"}
+{"number": 15958, "title": "Why is v8-compile-cache removed?", "createdAt": "2022-06-16T01:37:14Z", "repo": "webpack/webpack"}
+{"number": 15962, "title": "ModuleFederation helpers in separate library", "createdAt": "2022-06-18T15:34:34Z", "repo": "webpack/webpack"}
+{"number": 15963, "title": "Workers split chunks", "createdAt": "2022-06-18T19:12:01Z", "repo": "webpack/webpack"}
+{"number": 15968, "title": "Identify cached builds vs fresh build with webpack 5", "createdAt": "2022-06-21T10:29:35Z", "repo": "webpack/webpack"}
+{"number": 15973, "title": "How can I bypass a package's `exports` configuration and import arbitrary files?", "createdAt": "2022-06-22T19:30:08Z", "repo": "webpack/webpack"}
+{"number": 15979, "title": "webpack config  not work when running an async task in a loader", "createdAt": "2022-06-24T12:03:10Z", "repo": "webpack/webpack"}
+{"number": 15982, "title": "[`webpack-dev-server`] On build hook", "createdAt": "2022-06-24T18:54:52Z", "repo": "webpack/webpack"}
+{"number": 15983, "title": "Help: Upgrading some APIs of webpack did not find a replacement", "createdAt": "2022-06-27T01:59:41Z", "repo": "webpack/webpack"}
+{"number": 15990, "title": "How can I get the all entry file name in the loaders? #2090", "createdAt": "2022-06-27T12:45:52Z", "repo": "webpack/webpack"}
+{"number": 15995, "title": "Will `experiments.css` supports `@import './foo.css' print` in the future?", "createdAt": "2022-06-28T07:27:29Z", "repo": "webpack/webpack"}
+{"number": 15997, "title": "[webpack-dev-server] local-ip as webSocketURL hostname", "createdAt": "2022-06-28T19:06:21Z", "repo": "webpack/webpack"}
+{"number": 15998, "title": "Plugin that adds a dependency to a module", "createdAt": "2022-06-29T01:10:27Z", "repo": "webpack/webpack"}
+{"number": 16008, "title": "`webpack-dev-server`: HMR doesn't work unless `liveReload` is explicitly disabled", "createdAt": "2022-07-01T00:33:36Z", "repo": "webpack/webpack"}
+{"number": 16009, "title": "default-production.pack ENOENT: no such file or directory,", "createdAt": "2022-07-01T02:26:07Z", "repo": "webpack/webpack"}
+{"number": 16012, "title": "Enable webpack5 persistent cache to pack more slowly for the first time", "createdAt": "2022-07-01T07:00:46Z", "repo": "webpack/webpack"}
+{"number": 16013, "title": "Web interface crashing after forced reload", "createdAt": "2022-07-01T17:43:03Z", "repo": "webpack/webpack"}
+{"number": 16014, "title": "How to copy specific folder's content from all the folders", "createdAt": "2022-07-01T18:49:35Z", "repo": "webpack/webpack"}
+{"number": 16016, "title": "Load simple static website project directory inside an IFRAME?", "createdAt": "2022-07-03T08:17:59Z", "repo": "webpack/webpack"}
+{"number": 16017, "title": "How can I use raw-loader for .md files with webpack 5?", "createdAt": "2022-07-03T12:43:43Z", "repo": "webpack/webpack"}
+{"number": 16020, "title": "Which combinations of \"output.target\" and \"output.library.type\" are being frequently used in Webpack configuration?", "createdAt": "2022-07-04T01:36:09Z", "repo": "webpack/webpack"}
+{"number": 16023, "title": "Custom runtime chunk loader (because urls are unknown during build time)", "createdAt": "2022-07-05T07:36:57Z", "repo": "webpack/webpack"}
+{"number": 16022, "title": "how to require css without dot default ?", "createdAt": "2022-07-05T07:47:21Z", "repo": "webpack/webpack"}
+{"number": 16026, "title": "Do we have NextJs @12.X.X version support for this Module Federation Plugin?", "createdAt": "2022-07-05T09:45:11Z", "repo": "webpack/webpack"}
+{"number": 16025, "title": "mini-css-extras-plugin missing \"sourceMap\" option", "createdAt": "2022-07-05T11:13:44Z", "repo": "webpack/webpack"}
+{"number": 16027, "title": "Trying to ignore some css line with a custom Hubspot selector", "createdAt": "2022-07-08T10:49:28Z", "repo": "webpack/webpack"}
+{"number": 16028, "title": "ERROR in main Module not found: Error: Can't resolve './src' in", "createdAt": "2022-07-08T13:04:50Z", "repo": "webpack/webpack"}
+{"number": 16030, "title": "How to debug through VS Code debugger?", "createdAt": "2022-07-08T15:45:01Z", "repo": "webpack/webpack"}
+{"number": 16034, "title": "Webpack Hot Module Reload: Aborted", "createdAt": "2022-07-10T19:17:08Z", "repo": "webpack/webpack"}
+{"number": 16038, "title": "How can I achieve tree shaking in development mode?", "createdAt": "2022-07-11T14:28:07Z", "repo": "webpack/webpack"}
+{"number": 16043, "title": "Does Webpack 4.41.6 polyfill for the async_hooks Node core module?", "createdAt": "2022-07-12T14:06:52Z", "repo": "webpack/webpack"}
+{"number": 16053, "title": "Handling url() rules inside CSS files while inlining them?", "createdAt": "2022-07-15T09:40:05Z", "repo": "webpack/webpack"}
+{"number": 16061, "title": "Micro frontend overrides styling of Shell application.", "createdAt": "2022-07-15T21:51:34Z", "repo": "webpack/webpack"}
+{"number": 16059, "title": "How to close the webpack-dev-server logger info ?", "createdAt": "2022-07-16T08:00:30Z", "repo": "webpack/webpack"}
+{"number": 16067, "title": "output esm module syntax in server code with webpack 5", "createdAt": "2022-07-19T15:29:48Z", "repo": "webpack/webpack"}
+{"number": 16069, "title": "How can I use WebPack to create several HTML files with the same footer and header?", "createdAt": "2022-07-20T06:36:45Z", "repo": "webpack/webpack"}
+{"number": 16070, "title": "How to add X-Forwarded-Host header like nginx proxy?", "createdAt": "2022-07-20T06:57:22Z", "repo": "webpack/webpack"}
+{"number": 16073, "title": "Webpack with less-loader seems to not be finding any Less files", "createdAt": "2022-07-20T21:15:34Z", "repo": "webpack/webpack"}
+{"number": 16074, "title": "less-loader fails to locate bootstrap 5 utility class", "createdAt": "2022-07-20T22:38:52Z", "repo": "webpack/webpack"}
+{"number": 16075, "title": "Configuration array: how to hook in before each Sass compilation", "createdAt": "2022-07-21T12:18:04Z", "repo": "webpack/webpack"}
+{"number": 16079, "title": "Webpack prefetch magic string does not work for federated component (module federation)", "createdAt": "2022-07-23T00:36:12Z", "repo": "webpack/webpack"}
+{"number": 16080, "title": "How to bundle TypeScript code with ESM running on AWS Lambda?", "createdAt": "2022-07-23T02:34:24Z", "repo": "webpack/webpack"}
+{"number": 16083, "title": "v5.74.0", "createdAt": "2022-07-25T08:00:50Z", "repo": "webpack/webpack"}
+{"number": 16085, "title": "custom font and exports after upgrade to webpack 5", "createdAt": "2022-07-25T14:37:13Z", "repo": "webpack/webpack"}
+{"number": 16086, "title": "Error when upgrading webpack", "createdAt": "2022-07-26T01:55:52Z", "repo": "webpack/webpack"}
+{"number": 16093, "title": "How to clean the console after compilation is complete", "createdAt": "2022-07-29T02:14:22Z", "repo": "webpack/webpack"}
+{"number": 16100, "title": "Two Created Files", "createdAt": "2022-07-31T04:28:05Z", "repo": "webpack/webpack"}
+{"number": 16101, "title": "Is there a way to trees shake exports from a file from the context of a chunk", "createdAt": "2022-07-31T11:43:15Z", "repo": "webpack/webpack"}
+{"number": 16103, "title": "Is there a way to modify webpack chunk name in user's browser", "createdAt": "2022-07-31T17:57:37Z", "repo": "webpack/webpack"}
+{"number": 16132, "title": "in CommonJS，UMD， compile ，Splitting the code will result in an error。", "createdAt": "2022-08-01T02:26:31Z", "repo": "webpack/webpack"}
+{"number": 16109, "title": "How to compile a mediaSource(eg: mp3,mp4) into a js file?", "createdAt": "2022-08-01T09:50:11Z", "repo": "webpack/webpack"}
+{"number": 16113, "title": "Decision for dependencies and devdependencies", "createdAt": "2022-08-03T13:16:06Z", "repo": "webpack/webpack"}
+{"number": 16116, "title": "[Discussion] How to estimate the time complexity of the webpack build/compilation?", "createdAt": "2022-08-04T08:04:59Z", "repo": "webpack/webpack"}
+{"number": 16117, "title": "A linked dep's re-build while dev server is running causes TypeScript/Webpack to not be able to find the dep anymore", "createdAt": "2022-08-04T15:10:20Z", "repo": "webpack/webpack"}
+{"number": 16120, "title": "[Module Federation] Use library as Remote and NPM package", "createdAt": "2022-08-05T15:50:42Z", "repo": "webpack/webpack"}
+{"number": 16133, "title": "Uncaught TypeError: can't access property \"call\", Transform is undefined", "createdAt": "2022-08-05T16:47:21Z", "repo": "webpack/webpack"}
+{"number": 16136, "title": "Using Webpack with Template Engine", "createdAt": "2022-08-11T12:48:12Z", "repo": "webpack/webpack"}
+{"number": 16138, "title": "import.meta.url webpack 4", "createdAt": "2022-08-11T18:40:01Z", "repo": "webpack/webpack"}
+{"number": 16141, "title": "Next. Js still relies on node_modules after it is packaged", "createdAt": "2022-08-12T06:45:26Z", "repo": "webpack/webpack"}
+{"number": 16157, "title": "How can I enable --json parameter via webpack configuration file?", "createdAt": "2022-08-16T14:58:08Z", "repo": "webpack/webpack"}
+{"number": 16166, "title": "Unable to build webpack sucessfully for test automation", "createdAt": "2022-08-19T04:08:53Z", "repo": "webpack/webpack"}
+{"number": 16202, "title": "Assets module adding default keyword to imports", "createdAt": "2022-08-20T00:00:59Z", "repo": "webpack/webpack"}
+{"number": 16203, "title": "HMR Not Working", "createdAt": "2022-08-25T09:04:50Z", "repo": "webpack/webpack"}
+{"number": 16201, "title": "Why is the mode option value injected as process.env.NODE_ENV value?", "createdAt": "2022-08-25T12:21:25Z", "repo": "webpack/webpack"}
+{"number": 16183, "title": "Build fails on branch change or git pull", "createdAt": "2022-08-25T19:54:33Z", "repo": "webpack/webpack"}
+{"number": 16190, "title": "standalone CLI executable", "createdAt": "2022-08-26T17:00:29Z", "repo": "webpack/webpack"}
+{"number": 16192, "title": "does it have webpack v6 plan?", "createdAt": "2022-08-27T01:38:26Z", "repo": "webpack/webpack"}
+{"number": 16205, "title": "Need help to upgrade Webpack 4.44.2 to 5.0", "createdAt": "2022-08-29T15:34:27Z", "repo": "webpack/webpack"}
+{"number": 16206, "title": "sockjs-node/info net::ERR_CONNECTION_REFUSED", "createdAt": "2022-08-30T11:26:11Z", "repo": "webpack/webpack"}
+{"number": 16212, "title": "How to load bundles into the application in runtime after build?", "createdAt": "2022-08-30T18:18:49Z", "repo": "webpack/webpack"}
+{"number": 16211, "title": "webpack5 asset module - [DEP_WEBPACK_MODULE_ISSUER] DeprecationWarning: Module.issuer: Use new ModuleGraph API", "createdAt": "2022-09-01T09:13:21Z", "repo": "webpack/webpack"}
+{"number": 16225, "title": "Module parse failed: Unexpected token (x:y)", "createdAt": "2022-09-03T05:21:19Z", "repo": "webpack/webpack"}
+{"number": 16216, "title": "Help with server stuck after \"compiled successfully\" with \"10% building 0/1 entries 0/0 dependencies 0/0 modules\"", "createdAt": "2022-09-04T17:04:49Z", "repo": "webpack/webpack"}
+{"number": 16218, "title": "Cannot read properties of undefined (reading 'length')", "createdAt": "2022-09-05T04:39:34Z", "repo": "webpack/webpack"}
+{"number": 16222, "title": "Ideas for preventing memory leaks when hash used in `output.filename`", "createdAt": "2022-09-05T13:15:36Z", "repo": "webpack/webpack"}
+{"number": 16227, "title": "TypeError: Cannot read properties of undefined (reading 'filter')", "createdAt": "2022-09-05T17:24:04Z", "repo": "webpack/webpack"}
+{"number": 16228, "title": "Why does WDS recompile immediately after a successful startup", "createdAt": "2022-09-05T18:47:48Z", "repo": "webpack/webpack"}
+{"number": 16230, "title": "Module federation security concerns", "createdAt": "2022-09-06T14:55:48Z", "repo": "webpack/webpack"}
+{"number": 16231, "title": "`compilation.getAssets()` results in `DeprecationWarning`", "createdAt": "2022-09-07T23:41:42Z", "repo": "webpack/webpack"}
+{"number": 16240, "title": "So close to packing a piscina server app", "createdAt": "2022-09-10T18:33:39Z", "repo": "webpack/webpack"}
+{"number": 16250, "title": "require('ts-pattern') not work on webpack5 but work on webpack4.", "createdAt": "2022-09-13T13:33:56Z", "repo": "webpack/webpack"}
+{"number": 16251, "title": "Lack of javascript error messages with webpack when missing a dependency", "createdAt": "2022-09-13T13:54:18Z", "repo": "webpack/webpack"}
+{"number": 16255, "title": "'X' is not defined inside Electron", "createdAt": "2022-09-15T04:56:19Z", "repo": "webpack/webpack"}
+{"number": 16260, "title": "How do I configure exports to use module from package.json before exports when compiling files", "createdAt": "2022-09-16T08:50:57Z", "repo": "webpack/webpack"}
+{"number": 16263, "title": "Leaflet map does not show up in webpack setup", "createdAt": "2022-09-17T08:33:01Z", "repo": "webpack/webpack"}
+{"number": 16272, "title": "Allow Dynamic Import in `commonjs2`", "createdAt": "2022-09-17T16:29:56Z", "repo": "webpack/webpack"}
+{"number": 16266, "title": "Externals for specific entry", "createdAt": "2022-09-17T23:42:22Z", "repo": "webpack/webpack"}
+{"number": 16273, "title": "Shared directory", "createdAt": "2022-09-18T18:55:56Z", "repo": "webpack/webpack"}
+{"number": 16274, "title": "Vendor based on entry", "createdAt": "2022-09-19T08:35:40Z", "repo": "webpack/webpack"}
+{"number": 16275, "title": "I can't resolve with webpack custom module that was forked", "createdAt": "2022-09-19T23:24:53Z", "repo": "webpack/webpack"}
+{"number": 16278, "title": "Unable to invoke federated dynamic import a second time when first attempt fails", "createdAt": "2022-09-21T13:52:22Z", "repo": "webpack/webpack"}
+{"number": 16281, "title": "Global Dynamic Import hints are not working as expected", "createdAt": "2022-09-21T17:17:01Z", "repo": "webpack/webpack"}
+{"number": 16286, "title": "Webpack 4 not outputting bundle to dist folder after upgrade.", "createdAt": "2022-09-22T07:52:54Z", "repo": "webpack/webpack"}
+{"number": 16284, "title": "copy-webpack-plugin's error", "createdAt": "2022-09-22T10:18:24Z", "repo": "webpack/webpack"}
+{"number": 16288, "title": "HMR not working sometimes  on webpack 5.74.0", "createdAt": "2022-09-22T10:33:58Z", "repo": "webpack/webpack"}
+{"number": 16296, "title": "\"@angular-devkit/build-angular:dev-server 14.1.2 not reloading node_modules", "createdAt": "2022-09-26T14:51:30Z", "repo": "webpack/webpack"}
+{"number": 16298, "title": "How to support this?", "createdAt": "2022-09-27T03:03:45Z", "repo": "webpack/webpack"}
+{"number": 16302, "title": "css-loader localIdentName: [hash:base64:7] - make render only by name class", "createdAt": "2022-09-27T18:42:47Z", "repo": "webpack/webpack"}
+{"number": 16313, "title": "Unable to update css-minimizer-webpack-plugin from 4.1.0 to 4.2.0 due to major jest-worker updates", "createdAt": "2022-09-29T18:45:26Z", "repo": "webpack/webpack"}
+{"number": 16315, "title": "What is the difference between 'flag' and true of optimization.sideEffects", "createdAt": "2022-09-29T23:00:47Z", "repo": "webpack/webpack"}
+{"number": 16322, "title": "webpack build warning: export default was not found", "createdAt": "2022-10-01T15:30:37Z", "repo": "webpack/webpack"}
+{"number": 16343, "title": "Random chunk loading errors in production", "createdAt": "2022-10-05T15:25:38Z", "repo": "webpack/webpack"}
+{"number": 16340, "title": "Can't resolve *, but it is there.", "createdAt": "2022-10-05T21:51:15Z", "repo": "webpack/webpack"}
+{"number": 16342, "title": "Can it be create a manual Bundle with the webpack?", "createdAt": "2022-10-06T14:13:42Z", "repo": "webpack/webpack"}
+{"number": 16344, "title": "How to print a hot loader indicator in the browser?", "createdAt": "2022-10-06T15:51:22Z", "repo": "webpack/webpack"}
+{"number": 16353, "title": "Build Issue After Webpack migration from V4 to V5", "createdAt": "2022-10-09T19:07:21Z", "repo": "webpack/webpack"}
+{"number": 16355, "title": "opensslErrorStack: [ 'error:03000086:digital envelope routines::initialization error' ]", "createdAt": "2022-10-11T12:52:44Z", "repo": "webpack/webpack"}
+{"number": 16357, "title": "how to register a event handler with nodejs api?", "createdAt": "2022-10-11T16:32:30Z", "repo": "webpack/webpack"}
+{"number": 16360, "title": "Bundle \".wasm\" in HTML file", "createdAt": "2022-10-12T13:50:24Z", "repo": "webpack/webpack"}
+{"number": 16365, "title": "Webpack = Variable \"interpolation\" does not exist", "createdAt": "2022-10-13T06:52:28Z", "repo": "webpack/webpack"}
+{"number": 16364, "title": "SyntaxError: Unexpected token '.' when bundling a css file", "createdAt": "2022-10-13T12:46:34Z", "repo": "webpack/webpack"}
+{"number": 16368, "title": "Webpack problem with loading a page", "createdAt": "2022-10-14T12:05:27Z", "repo": "webpack/webpack"}
+{"number": 16378, "title": "Module Federation is Cool, hel-micro love it", "createdAt": "2022-10-18T05:38:49Z", "repo": "webpack/webpack"}
+{"number": 16385, "title": "Relative paths in meta tags", "createdAt": "2022-10-19T10:52:42Z", "repo": "webpack/webpack"}
+{"number": 16387, "title": "MiniCssExtractPlugin and HtmlWebpackPlugin: How to add CSP nonce", "createdAt": "2022-10-19T18:53:17Z", "repo": "webpack/webpack"}
+{"number": 16395, "title": "Package sharing without `main/module` field by `ModuleFederationPlugin`", "createdAt": "2022-10-21T10:29:08Z", "repo": "webpack/webpack"}
+{"number": 16397, "title": "\"webpack\": \"^5.74.0\"   document.body is null", "createdAt": "2022-10-21T12:54:11Z", "repo": "webpack/webpack"}
+{"number": 16401, "title": "Messy Code in the Log.js File", "createdAt": "2022-10-21T15:46:38Z", "repo": "webpack/webpack"}
+{"number": 16402, "title": "Confusing module import/export behavior", "createdAt": "2022-10-21T18:30:45Z", "repo": "webpack/webpack"}
+{"number": 16404, "title": "Invalid or unexpected token (at bundle.js:2:8077) after applying the setup guide on guides/asset-management", "createdAt": "2022-10-21T21:16:57Z", "repo": "webpack/webpack"}
+{"number": 16406, "title": "Remove common module from child compilation", "createdAt": "2022-10-22T07:01:10Z", "repo": "webpack/webpack"}
+{"number": 16409, "title": "multiple entry point and child compilation", "createdAt": "2022-10-23T20:06:26Z", "repo": "webpack/webpack"}
+{"number": 16411, "title": "Upgrading to webpack 5 causing dynamic import not working", "createdAt": "2022-10-24T11:50:20Z", "repo": "webpack/webpack"}
+{"number": 16412, "title": "Best practices when sharing BE and FE code to avoid un tree shakable imports", "createdAt": "2022-10-25T01:58:47Z", "repo": "webpack/webpack"}
+{"number": 16417, "title": "Error: Unable to snapshot resolve dependencies", "createdAt": "2022-10-26T09:24:46Z", "repo": "webpack/webpack"}
+{"number": 16418, "title": "Is Webpack going anywhere? Turbopack and the future of Webpack", "createdAt": "2022-10-26T10:57:58Z", "repo": "webpack/webpack"}
+{"number": 16423, "title": "Duplicate global variable names", "createdAt": "2022-10-27T09:19:39Z", "repo": "webpack/webpack"}
+{"number": 16425, "title": "client cannot find hot reload files (possibly a proxy problem)", "createdAt": "2022-10-27T15:16:31Z", "repo": "webpack/webpack"}
+{"number": 16428, "title": "Webpack externals for static file", "createdAt": "2022-10-28T09:55:21Z", "repo": "webpack/webpack"}
+{"number": 16439, "title": "Webpack externals for static file", "createdAt": "2022-10-30T18:42:28Z", "repo": "webpack/webpack"}
+{"number": 16434, "title": "Make global module in webpack", "createdAt": "2022-10-31T06:10:32Z", "repo": "webpack/webpack"}
+{"number": 16438, "title": "__WEBPACK_EXTERNAL_MODULE__ is undefined", "createdAt": "2022-10-31T17:57:09Z", "repo": "webpack/webpack"}
+{"number": 16445, "title": "Module Federation: Only build container entry and exposed modules and not main.js", "createdAt": "2022-11-07T08:42:13Z", "repo": "webpack/webpack"}
+{"number": 16460, "title": "v5.75.0", "createdAt": "2022-11-09T15:28:06Z", "repo": "webpack/webpack"}
+{"number": 16478, "title": "Create UI for webpack configuration", "createdAt": "2022-11-15T05:38:27Z", "repo": "webpack/webpack"}
+{"number": 16482, "title": "style-loader as part of an npm package?", "createdAt": "2022-11-17T05:44:17Z", "repo": "webpack/webpack"}
+{"number": 16483, "title": "How to bundle local pacakge", "createdAt": "2022-11-17T10:05:56Z", "repo": "webpack/webpack"}
+{"number": 16484, "title": "HMR adds an extra slash to the file path", "createdAt": "2022-11-17T17:59:48Z", "repo": "webpack/webpack"}
+{"number": 16487, "title": "Getting \"Uncaught SyntaxError: Unexpected identifier 'reject'\" error. Seems to be originating from the MiniCssExtractPlugin.", "createdAt": "2022-11-18T12:17:01Z", "repo": "webpack/webpack"}
+{"number": 16489, "title": "[Webpack 4] Confused about output.chunkFilename", "createdAt": "2022-11-19T02:49:49Z", "repo": "webpack/webpack"}
+{"number": 16492, "title": "Will experimental.css support '~'.", "createdAt": "2022-11-20T07:05:11Z", "repo": "webpack/webpack"}
+{"number": 16494, "title": "How to emit multiple files from one source", "createdAt": "2022-11-20T20:28:05Z", "repo": "webpack/webpack"}
+{"number": 16499, "title": "why doesn't this webpack config carry Buffer 's atob / btoa?", "createdAt": "2022-11-21T18:23:57Z", "repo": "webpack/webpack"}
+{"number": 16514, "title": "Container initialization failed as it has already been initialized with a different share scope", "createdAt": "2022-11-22T09:09:10Z", "repo": "webpack/webpack"}
+{"number": 16506, "title": "how to handle 'public' folder and add favicon in React App?", "createdAt": "2022-11-23T09:26:53Z", "repo": "webpack/webpack"}
+{"number": 16508, "title": "Dynamically imported 3rd-party modules are included in the vendors chunk", "createdAt": "2022-11-23T16:29:57Z", "repo": "webpack/webpack"}
+{"number": 16513, "title": "Invalid name of some module in production mode", "createdAt": "2022-11-24T14:06:15Z", "repo": "webpack/webpack"}
+{"number": 16510, "title": "Module not found: Error: Can't resolve '@swc/core' and 'esbuild'", "createdAt": "2022-11-24T15:35:51Z", "repo": "webpack/webpack"}
+{"number": 16517, "title": "using memfs with webpack", "createdAt": "2022-11-27T10:53:27Z", "repo": "webpack/webpack"}
+{"number": 16519, "title": "using webpack in a react app", "createdAt": "2022-11-27T13:49:48Z", "repo": "webpack/webpack"}
+{"number": 16527, "title": "No error is reported using the unimported variables console, but the operation is still successful. What is the reason and what needs to be configured", "createdAt": "2022-12-01T11:42:42Z", "repo": "webpack/webpack"}
+{"number": 16530, "title": "How to inject a file into a bundle within a custom plugin?", "createdAt": "2022-12-02T22:25:02Z", "repo": "webpack/webpack"}
+{"number": 16531, "title": "\"Failed to construct 'Worker'\" after Chrome update", "createdAt": "2022-12-03T20:59:40Z", "repo": "webpack/webpack"}
+{"number": 16533, "title": "Disabling Filter", "createdAt": "2022-12-04T20:43:22Z", "repo": "webpack/webpack"}
+{"number": 16539, "title": "webpack with esm libraries - watch mode warnings or errors?", "createdAt": "2022-12-05T10:37:10Z", "repo": "webpack/webpack"}
+{"number": 16541, "title": "`outputs.scriptType: 'module'` breaks web-workers", "createdAt": "2022-12-05T13:41:42Z", "repo": "webpack/webpack"}
+{"number": 16543, "title": "Cannot read property 'getSource' of undefined", "createdAt": "2022-12-05T19:57:27Z", "repo": "webpack/webpack"}
+{"number": 16547, "title": "webpack convert font-weight:bold to 700", "createdAt": "2022-12-06T15:49:11Z", "repo": "webpack/webpack"}
+{"number": 16551, "title": "Is there a difference between sideEffects being undefined vs. being set to true?", "createdAt": "2022-12-08T16:31:41Z", "repo": "webpack/webpack"}
+{"number": 16556, "title": "Temporary disable hot reloading in the browser", "createdAt": "2022-12-12T19:13:29Z", "repo": "webpack/webpack"}
+{"number": 16557, "title": "How to ignore folders?", "createdAt": "2022-12-12T20:36:06Z", "repo": "webpack/webpack"}
+{"number": 16560, "title": "OverwriteModelError: Cannot overwrite `File` model once compiled. While using webpack alias", "createdAt": "2022-12-13T12:21:12Z", "repo": "webpack/webpack"}
+{"number": 16564, "title": "Why webpack5 cache configuration  is not work", "createdAt": "2022-12-14T09:52:38Z", "repo": "webpack/webpack"}
+{"number": 16566, "title": "Cannot resolve dynamic imports at runtime", "createdAt": "2022-12-14T12:20:01Z", "repo": "webpack/webpack"}
+{"number": 16569, "title": "PNPM workspace packages are not resolved by webpack", "createdAt": "2022-12-14T17:48:19Z", "repo": "webpack/webpack"}
+{"number": 16573, "title": "Uncaught TypeError: Cannot read properties of undefined (reading 'SOME_VARIABLE')", "createdAt": "2022-12-15T06:34:42Z", "repo": "webpack/webpack"}
+{"number": 16571, "title": "webpack5 module federation with splitchunks meet some problems", "createdAt": "2022-12-15T10:45:09Z", "repo": "webpack/webpack"}
+{"number": 16580, "title": "Sourcemap URL incorrect when bundling webpack", "createdAt": "2022-12-17T19:40:45Z", "repo": "webpack/webpack"}
+{"number": 16579, "title": "How to export multiple entries as an object?", "createdAt": "2022-12-18T00:46:46Z", "repo": "webpack/webpack"}
+{"number": 16581, "title": "Error: EBUSY: resource busy or locked, lstat 'C:\\DumpStack.log.tmp'", "createdAt": "2022-12-19T19:14:45Z", "repo": "webpack/webpack"}
+{"number": 16583, "title": "How can i pack and include Vue3 single file component?", "createdAt": "2022-12-21T10:33:45Z", "repo": "webpack/webpack"}
+{"number": 16585, "title": "Can't save generated images in folders relevant to they width with Imagemin Webpack plugin", "createdAt": "2022-12-21T20:21:02Z", "repo": "webpack/webpack"}
+{"number": 16586, "title": "TypeError: Cannot read properties of undefined (reading 'comments_before')", "createdAt": "2022-12-22T08:08:19Z", "repo": "webpack/webpack"}
+{"number": 16592, "title": "Remote live reload or hot reload over Websocket", "createdAt": "2022-12-23T01:29:11Z", "repo": "webpack/webpack"}
+{"number": 16594, "title": "How do I reference the hashed image (in the html page in the dist folder) after it has been created with copy-webpack-plugin?", "createdAt": "2022-12-27T12:10:38Z", "repo": "webpack/webpack"}
+{"number": 16638, "title": "ERROR in Cannot read properties of undefined (reading 'attribs')", "createdAt": "2022-12-29T18:00:21Z", "repo": "webpack/webpack"}
+{"number": 16640, "title": "Module parse failed: Unexpected. Loading error webpack (loader).", "createdAt": "2023-01-01T17:18:10Z", "repo": "webpack/webpack"}
+{"number": 16639, "title": "typings in v5.75.0 cause errors in plugin TSC runs", "createdAt": "2023-01-01T22:01:37Z", "repo": "webpack/webpack"}
+{"number": 16607, "title": "Webpack 5 svg xml not working with variable in path", "createdAt": "2023-01-03T17:39:48Z", "repo": "webpack/webpack"}
+{"number": 16610, "title": "Webpack 5 Chunk Load Race Condition?", "createdAt": "2023-01-04T17:42:33Z", "repo": "webpack/webpack"}
+{"number": 16615, "title": "Client-side imports possible?", "createdAt": "2023-01-06T08:05:25Z", "repo": "webpack/webpack"}
+{"number": 16616, "title": "How to delete css-loader/dist/cjs.js comments", "createdAt": "2023-01-06T09:48:35Z", "repo": "webpack/webpack"}
+{"number": 16619, "title": "How to use Webpack caching when config file changes frequently", "createdAt": "2023-01-07T08:44:52Z", "repo": "webpack/webpack"}
+{"number": 16621, "title": "Is there a way in webpack to prevent a function from being dead eliminated forcefully?", "createdAt": "2023-01-07T18:00:28Z", "repo": "webpack/webpack"}
+{"number": 16628, "title": "Are there any examples/docs of using the Cache plugin of Webpack 5?", "createdAt": "2023-01-11T19:49:26Z", "repo": "webpack/webpack"}
+{"number": 16636, "title": "emitWarning will trigger webpack cache warning", "createdAt": "2023-01-12T06:29:51Z", "repo": "webpack/webpack"}
+{"number": 16631, "title": "why do i need to import * with CssMinimizerPlugin", "createdAt": "2023-01-12T10:33:49Z", "repo": "webpack/webpack"}
+{"number": 16637, "title": "asset/source not working with dynamic string", "createdAt": "2023-01-12T10:57:42Z", "repo": "webpack/webpack"}
+{"number": 16641, "title": "Reveal repetitive deprecation warnings from sass-loader", "createdAt": "2023-01-13T14:09:34Z", "repo": "webpack/webpack"}
+{"number": 16657, "title": "Webpack 5 BREAKING CHANGE", "createdAt": "2023-01-14T22:54:30Z", "repo": "webpack/webpack"}
+{"number": 16643, "title": "Why does webpack use md4?", "createdAt": "2023-01-15T00:14:09Z", "repo": "webpack/webpack"}
+{"number": 16644, "title": "autoprefixer is not giving the correct output", "createdAt": "2023-01-16T11:11:05Z", "repo": "webpack/webpack"}
+{"number": 16649, "title": "How to suppress for bundled file name comment by terser-webpack-plugin's extractComments", "createdAt": "2023-01-18T00:57:10Z", "repo": "webpack/webpack"}
+{"number": 16736, "title": "usedExports optimization doesn't work when devtool is set to eval-source-map", "createdAt": "2023-01-18T03:32:50Z", "repo": "webpack/webpack"}
+{"number": 16651, "title": "Webpack Plugin re-processing all assets on watch mode", "createdAt": "2023-01-18T22:32:26Z", "repo": "webpack/webpack"}
+{"number": 16653, "title": "css-loader fails to build because of comments (//)", "createdAt": "2023-01-19T18:41:36Z", "repo": "webpack/webpack"}
+{"number": 16654, "title": "Is this a webpack bug ? What should be changed?", "createdAt": "2023-01-19T20:45:33Z", "repo": "webpack/webpack"}
+{"number": 16656, "title": "Can not find `fs`", "createdAt": "2023-01-20T02:13:58Z", "repo": "webpack/webpack"}
+{"number": 16659, "title": "Module federation optimization - all remote entries contains vendor code", "createdAt": "2023-01-20T18:37:23Z", "repo": "webpack/webpack"}
+{"number": 16709, "title": "webpack version 5.64.4-5.75.0 bug, resolve only because it was resolved as fully specified", "createdAt": "2023-01-22T11:00:35Z", "repo": "webpack/webpack"}
+{"number": 16663, "title": "Error with sass-loader possibly: \"Cannot find module 'sass'\" when building to DEV environment", "createdAt": "2023-01-24T19:34:01Z", "repo": "webpack/webpack"}
+{"number": 16710, "title": "How to import a shared bundled module (from dist folder)?", "createdAt": "2023-01-24T23:40:58Z", "repo": "webpack/webpack"}
+{"number": 16669, "title": "Unable to catch the error thrown by dev Server on port conflict.", "createdAt": "2023-01-25T07:07:48Z", "repo": "webpack/webpack"}
+{"number": 16670, "title": "Completely reset webpack config when creating a child compiler", "createdAt": "2023-01-25T10:20:01Z", "repo": "webpack/webpack"}
+{"number": 16716, "title": "Webpack 5 not pulling in my node_modules .scss file", "createdAt": "2023-01-26T20:32:32Z", "repo": "webpack/webpack"}
+{"number": 16735, "title": "NormalModule original source is undefined when cache is enabled", "createdAt": "2023-01-27T16:23:43Z", "repo": "webpack/webpack"}
+{"number": 16717, "title": "After upgrading from webpack v4 to v5, getting \"Uncaught TypeError: Cannot read properties of undefined (...)\"", "createdAt": "2023-01-27T22:09:16Z", "repo": "webpack/webpack"}
+{"number": 16682, "title": "Support Typescript@5 moduleResolution bundle", "createdAt": "2023-01-29T09:49:46Z", "repo": "webpack/webpack"}
+{"number": 16684, "title": "Developing a Plugin for BabylonJS and need ideas to make it work", "createdAt": "2023-01-31T02:13:27Z", "repo": "webpack/webpack"}
+{"number": 16715, "title": "TypeError: compiler.plugin is not a function at ReactLoadablePlugin.apply", "createdAt": "2023-01-31T11:47:35Z", "repo": "webpack/webpack"}
+{"number": 16714, "title": "__webpack_hash__ is different than `[hash]` placeholder", "createdAt": "2023-02-01T12:45:07Z", "repo": "webpack/webpack"}
+{"number": 16711, "title": "npm run pro-> class extends Sv.Component{constructor(){super()}componentMount(){}", "createdAt": "2023-02-07T02:59:05Z", "repo": "webpack/webpack"}
+{"number": 16712, "title": "'MODULE_NOT_FOUND' occur when using multiple config files", "createdAt": "2023-02-07T11:56:50Z", "repo": "webpack/webpack"}
+{"number": 16713, "title": "Writing a custom loader script in typescript", "createdAt": "2023-02-10T19:23:06Z", "repo": "webpack/webpack"}
+{"number": 16719, "title": "SaasError: $string is not a string", "createdAt": "2023-02-13T08:30:33Z", "repo": "webpack/webpack"}
+{"number": 16723, "title": "Is webpack caching safe to use for production builds ?", "createdAt": "2023-02-14T07:06:37Z", "repo": "webpack/webpack"}
+{"number": 16734, "title": "get rid of `new Function('return this')()` in the final bundle", "createdAt": "2023-02-15T22:54:39Z", "repo": "webpack/webpack"}
+{"number": 16733, "title": "webpack 4 hardcode md4 as hash function which not able to use on node 17 or above", "createdAt": "2023-02-16T07:46:27Z", "repo": "webpack/webpack"}
+{"number": 16732, "title": "What is \"webpackEmptyAsyncContext\" and why does it return Error?", "createdAt": "2023-02-16T12:20:45Z", "repo": "webpack/webpack"}
+{"number": 16739, "title": "How to include node_modules for babel-loader?", "createdAt": "2023-02-17T18:23:22Z", "repo": "webpack/webpack"}
+{"number": 16742, "title": "Encountering an error while trying to run tests locally with JEST_STATE_SYMBOL", "createdAt": "2023-02-18T20:29:28Z", "repo": "webpack/webpack"}
+{"number": 16790, "title": "Error: Cannot find module 'webpack/lib/node/NodeOutputFileSystem'", "createdAt": "2023-02-20T23:08:00Z", "repo": "webpack/webpack"}
+{"number": 16748, "title": "How to add Content-Encoding header to pre-compressed files with webpack-dev-server?", "createdAt": "2023-02-21T06:20:20Z", "repo": "webpack/webpack"}
+{"number": 16749, "title": "Can we bundle without window and without fs ?", "createdAt": "2023-02-21T09:02:10Z", "repo": "webpack/webpack"}
+{"number": 16752, "title": "How long until top-level await support doesn't require experiments.topLevelAwait?", "createdAt": "2023-02-21T23:54:52Z", "repo": "webpack/webpack"}
+{"number": 16754, "title": "externalsType: script  can't async load module when use require()", "createdAt": "2023-02-23T13:32:53Z", "repo": "webpack/webpack"}
+{"number": 16760, "title": "`asset/source` has no default, but trying to use the default. Is this expected behavior?", "createdAt": "2023-02-26T16:38:45Z", "repo": "webpack/webpack"}
+{"number": 16768, "title": "How does tree shaking work for shared dependencies when using module federation?", "createdAt": "2023-03-02T04:06:03Z", "repo": "webpack/webpack"}
+{"number": 16770, "title": "how to just copy assets from entry directory to output directory?", "createdAt": "2023-03-02T14:29:57Z", "repo": "webpack/webpack"}
+{"number": 16771, "title": "using react with webpack: You may need an appropriate loader to handle this file type", "createdAt": "2023-03-02T17:23:28Z", "repo": "webpack/webpack"}
+{"number": 16778, "title": "How do I ignore a static file at compile time", "createdAt": "2023-03-03T06:04:04Z", "repo": "webpack/webpack"}
+{"number": 16775, "title": "Importing text file contents as string to your code in Webpack 5", "createdAt": "2023-03-03T21:29:06Z", "repo": "webpack/webpack"}
+{"number": 16787, "title": "ESLint plugin absolute path resolution issue.", "createdAt": "2023-03-06T22:36:46Z", "repo": "webpack/webpack"}
+{"number": 16786, "title": "How to serve fonts from fontsource on webpack-dev-server?", "createdAt": "2023-03-07T08:03:59Z", "repo": "webpack/webpack"}
+{"number": 16796, "title": "compilation.getStats().toJson() is slow", "createdAt": "2023-03-09T10:18:42Z", "repo": "webpack/webpack"}
+{"number": 16797, "title": "Broken bundle depending on symlinks", "createdAt": "2023-03-09T15:40:57Z", "repo": "webpack/webpack"}
+{"number": 16799, "title": "[Module Federation] Development server hot reload updates are failing", "createdAt": "2023-03-09T17:51:23Z", "repo": "webpack/webpack"}
+{"number": 16817, "title": "How to write the following code in webpack4", "createdAt": "2023-03-13T07:47:18Z", "repo": "webpack/webpack"}
+{"number": 16818, "title": "webpack is not noticing changes to lib delibered via commit id", "createdAt": "2023-03-13T13:13:55Z", "repo": "webpack/webpack"}
+{"number": 16816, "title": "Trying to write a loader that compiles a file and returns its result as string", "createdAt": "2023-03-13T16:23:28Z", "repo": "webpack/webpack"}
+{"number": 16820, "title": "I have a bunch of federated remote modules, response of first one to load is cached for all of the others.", "createdAt": "2023-03-14T02:27:10Z", "repo": "webpack/webpack"}
+{"number": 16822, "title": "[style-loader] when debugging, why the code DID NOT jump into file injectStylesIntoStyleTag.js ?", "createdAt": "2023-03-14T09:08:35Z", "repo": "webpack/webpack"}
+{"number": 16824, "title": "TypeError: Cannot set property closed of #<Readable> which has only a getter", "createdAt": "2023-03-14T10:52:56Z", "repo": "webpack/webpack"}
+{"number": 16826, "title": "Does the webpack5 module federation support ie11？", "createdAt": "2023-03-14T13:02:13Z", "repo": "webpack/webpack"}
+{"number": 16828, "title": "Running Webpack-dev-server through binary still viable?", "createdAt": "2023-03-14T21:36:49Z", "repo": "webpack/webpack"}
+{"number": 16844, "title": "The issue of IE compatibility requires everyone's help", "createdAt": "2023-03-18T03:44:29Z", "repo": "webpack/webpack"}
+{"number": 16843, "title": "Load a web worker with different public path", "createdAt": "2023-03-18T10:10:47Z", "repo": "webpack/webpack"}
+{"number": 16847, "title": "Normalize newlines to `\\n` in source maps", "createdAt": "2023-03-19T16:21:25Z", "repo": "webpack/webpack"}
+{"number": 16848, "title": "Error when rebuilding webpack.", "createdAt": "2023-03-21T08:59:04Z", "repo": "webpack/webpack"}
+{"number": 16875, "title": "Caching issue when generating files in the build folder", "createdAt": "2023-03-21T14:09:46Z", "repo": "webpack/webpack"}
+{"number": 16854, "title": "v5.76.3", "createdAt": "2023-03-22T15:18:42Z", "repo": "webpack/webpack"}
+{"number": 16855, "title": "Confused about bundling .browser.js files", "createdAt": "2023-03-22T21:22:29Z", "repo": "webpack/webpack"}
+{"number": 16857, "title": "Can the eslint-webpack-plugin plugin simply reference the .eslintrc.js file?", "createdAt": "2023-03-23T15:55:51Z", "repo": "webpack/webpack"}
+{"number": 16862, "title": "Css parsed falesly in native css mode", "createdAt": "2023-03-24T14:04:17Z", "repo": "webpack/webpack"}
+{"number": 16863, "title": "What is the best way to use barrel files and get appropriate tree-shaking/code-splitting?  Nx, Next, Monorepo", "createdAt": "2023-03-24T21:25:32Z", "repo": "webpack/webpack"}
+{"number": 16874, "title": "Dynamic import of resources/assets with variable path is broken because such imports are always processed as not having a file extension and are being treated as modules", "createdAt": "2023-03-26T15:52:28Z", "repo": "webpack/webpack"}
+{"number": 16866, "title": "How to correctly import an external stylesheet with import syntax?", "createdAt": "2023-03-27T01:45:29Z", "repo": "webpack/webpack"}
+{"number": 16868, "title": "Filenames are not split correctly. isModern is undefined.", "createdAt": "2023-03-27T07:47:45Z", "repo": "webpack/webpack"}
+{"number": 16873, "title": "Issue in Webpack configs", "createdAt": "2023-03-27T08:16:56Z", "repo": "webpack/webpack"}
+{"number": 16870, "title": "mangle configuration does not work when zipping on different vms.", "createdAt": "2023-03-27T10:09:40Z", "repo": "webpack/webpack"}
+{"number": 16877, "title": "'Document is not defined' when importing bundle on nextJS SSR app", "createdAt": "2023-03-28T12:19:45Z", "repo": "webpack/webpack"}
+{"number": 16885, "title": "Not able to lazy load remote in a Nx monorepo with module federation", "createdAt": "2023-03-28T17:54:16Z", "repo": "webpack/webpack"}
+{"number": 16884, "title": "Webpack build fails during SSR build- Angular 12+", "createdAt": "2023-03-29T06:22:22Z", "repo": "webpack/webpack"}
+{"number": 16887, "title": "Proxy does not work with my PHP backend.", "createdAt": "2023-03-29T11:35:08Z", "repo": "webpack/webpack"}
+{"number": 16889, "title": "v5.77.0", "createdAt": "2023-03-29T14:23:49Z", "repo": "webpack/webpack"}
+{"number": 16900, "title": "`new Worker()` should automatically gain `worker` target environment (vis-a-vis package.json exports)", "createdAt": "2023-03-29T22:09:55Z", "repo": "webpack/webpack"}
+{"number": 16899, "title": "Is it possible to have deterministic build output?", "createdAt": "2023-04-01T13:15:16Z", "repo": "webpack/webpack"}
+{"number": 16901, "title": "How to implement the release v5.77.0 with CRA", "createdAt": "2023-04-02T15:49:52Z", "repo": "webpack/webpack"}
+{"number": 16906, "title": "How to use TypeScript types as type arguments?", "createdAt": "2023-04-04T07:21:44Z", "repo": "webpack/webpack"}
+{"number": 17049, "title": "ResolverCachePlugin: Allow dynamic multiple time resolve of the same path", "createdAt": "2023-04-05T09:33:52Z", "repo": "webpack/webpack"}
+{"number": 16910, "title": "Rails - Load assets from gem", "createdAt": "2023-04-05T10:44:36Z", "repo": "webpack/webpack"}
+{"number": 16912, "title": "after displaying \"92% chunk asset optimization TerserPlugin\", the webpack bundle failed, no error shows.  I got exit status 1", "createdAt": "2023-04-05T17:26:42Z", "repo": "webpack/webpack"}
+{"number": 16913, "title": "v5.78.0", "createdAt": "2023-04-05T18:28:14Z", "repo": "webpack/webpack"}
+{"number": 16914, "title": "css-loader seems not to load icss?", "createdAt": "2023-04-05T20:55:34Z", "repo": "webpack/webpack"}
+{"number": 16921, "title": "Concern for running Multiple Angular Micro-frontends in Angular App Shell", "createdAt": "2023-04-06T16:47:16Z", "repo": "webpack/webpack"}
+{"number": 16922, "title": "Webpack6 module federation and backwards compatibility", "createdAt": "2023-04-06T18:32:20Z", "repo": "webpack/webpack"}
+{"number": 16938, "title": "[mini-css-extract-plugin] is it possible to merge non-entry css chunk to entry chunk ?", "createdAt": "2023-04-07T17:01:12Z", "repo": "webpack/webpack"}
+{"number": 16940, "title": "CSS Background-image better support with public folder assets.", "createdAt": "2023-04-07T17:55:21Z", "repo": "webpack/webpack"}
+{"number": 16942, "title": "require turns into async dependency, why?", "createdAt": "2023-04-07T22:21:47Z", "repo": "webpack/webpack"}
+{"number": 16946, "title": "JavaScript closure and React Context", "createdAt": "2023-04-09T06:47:18Z", "repo": "webpack/webpack"}
+{"number": 16949, "title": "Syntax Error while running Webpack CLI", "createdAt": "2023-04-10T05:40:38Z", "repo": "webpack/webpack"}
+{"number": 16952, "title": "Is This Possible: Lazy-Loading Remote Modules Dynamically", "createdAt": "2023-04-10T15:54:21Z", "repo": "webpack/webpack"}
+{"number": 16954, "title": "'ErrorBoundary' cannot be used as a JSX component", "createdAt": "2023-04-10T20:12:05Z", "repo": "webpack/webpack"}
+{"number": 16966, "title": "Build is getting failed after upgrading webpack to v5.", "createdAt": "2023-04-12T06:58:24Z", "repo": "webpack/webpack"}
+{"number": 16967, "title": "Webpack5 splitChunks  'initial' -> bundle.js not working", "createdAt": "2023-04-12T11:53:28Z", "repo": "webpack/webpack"}
+{"number": 16974, "title": "v5.79.0", "createdAt": "2023-04-12T15:46:20Z", "repo": "webpack/webpack"}
+{"number": 16980, "title": "Import, unreachable after applying the values in `DefinePlugin`, appears in built product anyway", "createdAt": "2023-04-12T19:40:03Z", "repo": "webpack/webpack"}
+{"number": 16979, "title": "How to set the devServer `compress` option more reasonably?", "createdAt": "2023-04-13T16:22:34Z", "repo": "webpack/webpack"}
+{"number": 16984, "title": "Compile configuration for help", "createdAt": "2023-04-14T03:31:15Z", "repo": "webpack/webpack"}
+{"number": 16985, "title": "Using Frogbot to scan this repository", "createdAt": "2023-04-14T12:15:46Z", "repo": "webpack/webpack"}
+{"number": 16987, "title": "TypeError: r.inherits is not a function", "createdAt": "2023-04-14T12:35:25Z", "repo": "webpack/webpack"}
+{"number": 16994, "title": "Which hook in Webpack scans the DOM?", "createdAt": "2023-04-15T11:56:22Z", "repo": "webpack/webpack"}
+{"number": 17001, "title": "Hot Reloading Issue", "createdAt": "2023-04-16T07:30:25Z", "repo": "webpack/webpack"}
+{"number": 17007, "title": "what's the proper way to use non-trivial web workers across domains?", "createdAt": "2023-04-17T06:18:40Z", "repo": "webpack/webpack"}
+{"number": 17010, "title": "How can I custom definition my loader", "createdAt": "2023-04-17T07:49:34Z", "repo": "webpack/webpack"}
+{"number": 17013, "title": "less-loader: can warnings become errors?", "createdAt": "2023-04-18T08:14:13Z", "repo": "webpack/webpack"}
+{"number": 17017, "title": "latest terser-webpack-plugin with webpack 5", "createdAt": "2023-04-18T15:09:28Z", "repo": "webpack/webpack"}
+{"number": 17018, "title": "how to go about debugging topLevelAwait hangs?", "createdAt": "2023-04-18T15:24:20Z", "repo": "webpack/webpack"}
+{"number": 17025, "title": "v5.80.0", "createdAt": "2023-04-19T17:17:25Z", "repo": "webpack/webpack"}
+{"number": 17029, "title": "Module parse failed: Unexpected token - npm-pdfreader", "createdAt": "2023-04-20T07:58:03Z", "repo": "webpack/webpack"}
+{"number": 17035, "title": "Webpack Dynamic Module Error Management Problem", "createdAt": "2023-04-20T14:42:41Z", "repo": "webpack/webpack"}
+{"number": 17041, "title": "File id conflict", "createdAt": "2023-04-21T09:39:58Z", "repo": "webpack/webpack"}
+{"number": 17056, "title": "Confusion about `cacheGroup` and `priority`", "createdAt": "2023-04-25T07:28:46Z", "repo": "webpack/webpack"}
+{"number": 17069, "title": "v5.81.0", "createdAt": "2023-04-26T15:06:43Z", "repo": "webpack/webpack"}
+{"number": 17071, "title": "Worker type=module", "createdAt": "2023-04-26T20:19:57Z", "repo": "webpack/webpack"}
+{"number": 17073, "title": "Tree shaking eliminates only part of package's code", "createdAt": "2023-04-26T21:40:16Z", "repo": "webpack/webpack"}
+{"number": 17082, "title": "Facing issue in webpack - when an npm module which internally uses dynamic imports", "createdAt": "2023-04-27T19:16:42Z", "repo": "webpack/webpack"}
+{"number": 17081, "title": "pathToFileURL is not a function with Web Worker in Webpack 5", "createdAt": "2023-04-27T19:46:05Z", "repo": "webpack/webpack"}
+{"number": 17083, "title": "Is the externals type of module implemented and, if so, why is the import value an object?", "createdAt": "2023-04-27T23:32:49Z", "repo": "webpack/webpack"}
+{"number": 17085, "title": "How to load worker(js/ts) with webpack 5", "createdAt": "2023-04-28T05:24:27Z", "repo": "webpack/webpack"}
+{"number": 17087, "title": "How to set define plugin option of entry output filename", "createdAt": "2023-04-28T09:57:54Z", "repo": "webpack/webpack"}
+{"number": 17091, "title": "Getting issue in Webpack 5.80.0 - ERROR in main Module not found: Error: Can't resolve './src' in 'project'", "createdAt": "2023-04-28T14:53:49Z", "repo": "webpack/webpack"}
+{"number": 17093, "title": "How do I import an ES module into my application using a native import map", "createdAt": "2023-04-28T16:09:18Z", "repo": "webpack/webpack"}
+{"number": 17102, "title": "Webpack issue with json over 5.77.0", "createdAt": "2023-04-29T03:59:54Z", "repo": "webpack/webpack"}
+{"number": 17101, "title": "TypeError: Cannot read properties of undefined (reading 'toString')", "createdAt": "2023-04-29T08:47:20Z", "repo": "webpack/webpack"}
+{"number": 17108, "title": "Can I ignore specific webpack-dev-server errors appearing in browser console? Want to ignore websocket not connecting error.", "createdAt": "2023-05-01T00:51:33Z", "repo": "webpack/webpack"}
+{"number": 17114, "title": "Include external/legacy package to manifest", "createdAt": "2023-05-01T20:17:30Z", "repo": "webpack/webpack"}
+{"number": 17117, "title": "Importing component causes missing chunks", "createdAt": "2023-05-02T01:08:25Z", "repo": "webpack/webpack"}
+{"number": 17120, "title": "Not genrerating dist file for in case html file contains lessthan,graterthan or graterthan equal or lessthan equal symbols( <,=,<=,<=)", "createdAt": "2023-05-02T11:37:06Z", "repo": "webpack/webpack"}
+{"number": 17128, "title": "Cannot build project with webpack and aws-sdk/client-ses", "createdAt": "2023-05-03T15:16:54Z", "repo": "webpack/webpack"}
+{"number": 17130, "title": "v5.82.0", "createdAt": "2023-05-03T17:26:34Z", "repo": "webpack/webpack"}
+{"number": 17131, "title": "v5.82.0", "createdAt": "2023-05-03T17:27:02Z", "repo": "webpack/webpack"}
+{"number": 17138, "title": "Questions about webpack cache", "createdAt": "2023-05-05T08:11:43Z", "repo": "webpack/webpack"}
+{"number": 17141, "title": "Restrict dynamic require via config", "createdAt": "2023-05-05T14:47:35Z", "repo": "webpack/webpack"}
+{"number": 17177, "title": "[Bug] using Module Federation with an additional Entrypoint prevents availability of init and get", "createdAt": "2023-05-09T10:43:35Z", "repo": "webpack/webpack"}
+{"number": 17156, "title": "DevServer: how to specify a different content root?", "createdAt": "2023-05-09T14:39:34Z", "repo": "webpack/webpack"}
+{"number": 17178, "title": "Failed to parse source map: webpack URL is not supported", "createdAt": "2023-05-09T20:21:55Z", "repo": "webpack/webpack"}
+{"number": 17176, "title": "Webpack `cache.buildDependencies` dependencies resolver works incorectly.", "createdAt": "2023-05-10T05:25:37Z", "repo": "webpack/webpack"}
+{"number": 17173, "title": "v5.82.1", "createdAt": "2023-05-10T15:58:38Z", "repo": "webpack/webpack"}
+{"number": 17180, "title": "Env variables shouldn't get revealed in the bundled js file", "createdAt": "2023-05-11T09:26:07Z", "repo": "webpack/webpack"}
+{"number": 17185, "title": "Understanding Webpack cache contents", "createdAt": "2023-05-12T14:06:21Z", "repo": "webpack/webpack"}
+{"number": 17197, "title": "use style-loader from webpack 4", "createdAt": "2023-05-16T11:20:55Z", "repo": "webpack/webpack"}
+{"number": 17198, "title": "MiniCssExtractPlugin for gulp?", "createdAt": "2023-05-16T12:20:18Z", "repo": "webpack/webpack"}
+{"number": 17200, "title": "ERROR in ./node_modules/@aws-amplify/api-graphql/node_modules/graphql/language/printer.mjs 7:0-34", "createdAt": "2023-05-16T19:08:00Z", "repo": "webpack/webpack"}
+{"number": 17209, "title": "cannot find module webpack/lib/RuleSet", "createdAt": "2023-05-17T11:37:41Z", "repo": "webpack/webpack"}
+{"number": 17210, "title": "v5.83.0", "createdAt": "2023-05-17T15:42:35Z", "repo": "webpack/webpack"}
+{"number": 17211, "title": "Process is not defined", "createdAt": "2023-05-17T16:54:49Z", "repo": "webpack/webpack"}
+{"number": 17217, "title": "v5.83.1", "createdAt": "2023-05-17T20:24:51Z", "repo": "webpack/webpack"}
+{"number": 17235, "title": "new webpack.AutomaticPrefetchPlugin() cause error after 5.77.0", "createdAt": "2023-05-18T03:50:26Z", "repo": "webpack/webpack"}
+{"number": 17224, "title": "mini-css-extract-plugin not comtiable webpack4", "createdAt": "2023-05-18T09:43:35Z", "repo": "webpack/webpack"}
+{"number": 17240, "title": "Webpack HMR not working", "createdAt": "2023-05-22T11:52:21Z", "repo": "webpack/webpack"}
+{"number": 17242, "title": "HookWebpackError: Cannot read properties of undefined (reading 'e')", "createdAt": "2023-05-22T16:37:30Z", "repo": "webpack/webpack"}
+{"number": 17244, "title": "How to use the Worker filename generated by multi-compiler mode in the second stage?", "createdAt": "2023-05-23T00:05:04Z", "repo": "webpack/webpack"}
+{"number": 17256, "title": "Question about `require.context` and circular dependencies", "createdAt": "2023-05-24T13:08:25Z", "repo": "webpack/webpack"}
+{"number": 17260, "title": "Random chunks get generated with delimiter.", "createdAt": "2023-05-24T15:10:51Z", "repo": "webpack/webpack"}
+{"number": 17259, "title": "v5.84.0", "createdAt": "2023-05-24T17:16:02Z", "repo": "webpack/webpack"}
+{"number": 17268, "title": "v5.84.1", "createdAt": "2023-05-25T18:41:17Z", "repo": "webpack/webpack"}
+{"number": 17271, "title": "Webpack is hiding logging from a plugin", "createdAt": "2023-05-26T16:34:21Z", "repo": "webpack/webpack"}
+{"number": 17327, "title": "Function support for __webpack_public_path__", "createdAt": "2023-05-28T05:11:46Z", "repo": "webpack/webpack"}
+{"number": 17284, "title": "How to tell if a module is loaded in the host app or in the remote app (module federation)", "createdAt": "2023-05-30T04:31:50Z", "repo": "webpack/webpack"}
+{"number": 17286, "title": "babel-core running in react js", "createdAt": "2023-05-30T12:54:49Z", "repo": "webpack/webpack"}
+{"number": 17287, "title": "Web Workers work perfectly fine on all major browsers except Safari", "createdAt": "2023-05-30T14:29:13Z", "repo": "webpack/webpack"}
+{"number": 17289, "title": "library chunks not sharing the same react context instance", "createdAt": "2023-05-30T19:57:45Z", "repo": "webpack/webpack"}
+{"number": 17290, "title": "Relative paths", "createdAt": "2023-05-30T20:02:23Z", "repo": "webpack/webpack"}
+{"number": 17292, "title": "`experiments.outputModule` build broken code with `externals` options", "createdAt": "2023-05-30T21:58:09Z", "repo": "webpack/webpack"}
+{"number": 17294, "title": "Is the comparison behavior of minSize in SplitChunksPlugin based on approximate values?  What are the specific rules?", "createdAt": "2023-05-31T10:15:18Z", "repo": "webpack/webpack"}
+{"number": 17295, "title": "v5.85.0", "createdAt": "2023-05-31T19:36:55Z", "repo": "webpack/webpack"}
+{"number": 17298, "title": "Classic worker with ESM app", "createdAt": "2023-06-01T05:06:54Z", "repo": "webpack/webpack"}
+{"number": 17300, "title": "Webpack doesn't minify export name on external module end when using `aurelia-bootstrapper` in production mode", "createdAt": "2023-06-01T14:34:21Z", "repo": "webpack/webpack"}
+{"number": 17304, "title": "webserver hit with this error \"Error: Unknown option '--open'\"", "createdAt": "2023-06-02T08:37:54Z", "repo": "webpack/webpack"}
+{"number": 17320, "title": "support css post-processing loaders when use experiments.css", "createdAt": "2023-06-05T09:53:47Z", "repo": "webpack/webpack"}
+{"number": 17321, "title": "Assets not working properly when webpack is being used in a Module as well as consumer end", "createdAt": "2023-06-05T10:06:35Z", "repo": "webpack/webpack"}
+{"number": 17319, "title": "v5.85.1", "createdAt": "2023-06-05T14:38:32Z", "repo": "webpack/webpack"}
+{"number": 17325, "title": "Webpack5: How to generate same moduleId between double webpack config file.", "createdAt": "2023-06-05T15:18:20Z", "repo": "webpack/webpack"}
+{"number": 17326, "title": "JSON modules included in main bundle instead of being bundled with the code that dynamically imports them", "createdAt": "2023-06-05T15:43:39Z", "repo": "webpack/webpack"}
+{"number": 17328, "title": "Standalone API to build ModuleGraph of all entry points?", "createdAt": "2023-06-05T19:54:43Z", "repo": "webpack/webpack"}
+{"number": 17336, "title": "size of modulesSpace and ReasonsSpace", "createdAt": "2023-06-06T08:52:53Z", "repo": "webpack/webpack"}
+{"number": 17335, "title": "How to compile graphemer", "createdAt": "2023-06-06T10:44:36Z", "repo": "webpack/webpack"}
+{"number": 17338, "title": "How to create plugin with work with hot reload?", "createdAt": "2023-06-06T20:57:33Z", "repo": "webpack/webpack"}
+{"number": 17340, "title": "can webpack update dist folder partily when build in production model ?", "createdAt": "2023-06-07T02:39:29Z", "repo": "webpack/webpack"}
+{"number": 17342, "title": "Cache Options not work with node api", "createdAt": "2023-06-07T06:35:27Z", "repo": "webpack/webpack"}
+{"number": 17344, "title": "Webpack module federation issue", "createdAt": "2023-06-07T13:05:32Z", "repo": "webpack/webpack"}
+{"number": 17345, "title": "v5.86.0", "createdAt": "2023-06-07T15:28:10Z", "repo": "webpack/webpack"}
+{"number": 17350, "title": "How is [hash:base64] generated when using CSS modules and css-loader?", "createdAt": "2023-06-08T09:11:41Z", "repo": "webpack/webpack"}
+{"number": 17354, "title": "Error on upgrade from Webpack 5.85.1 to 5.86.0", "createdAt": "2023-06-08T14:37:38Z", "repo": "webpack/webpack"}
+{"number": 17352, "title": "Is Vite Module Federation plugin ready for real production software?", "createdAt": "2023-06-08T14:41:52Z", "repo": "webpack/webpack"}
+{"number": 17359, "title": "mini-css-extract-plugin question", "createdAt": "2023-06-10T22:55:11Z", "repo": "webpack/webpack"}
+{"number": 17364, "title": "webpack dev server throws error \"[webpack-cli] Error: Unknown option '--open'\"", "createdAt": "2023-06-12T04:55:15Z", "repo": "webpack/webpack"}
+{"number": 17371, "title": "Webpack 5 update breaks wrapper-webpack-plugin", "createdAt": "2023-06-13T13:11:28Z", "repo": "webpack/webpack"}
+{"number": 17373, "title": "data.length TypeError: Cannot read properties of undefined (reading 'length')", "createdAt": "2023-06-13T13:37:41Z", "repo": "webpack/webpack"}
+{"number": 17375, "title": "Cannot import() a bundled JS", "createdAt": "2023-06-14T01:03:14Z", "repo": "webpack/webpack"}
+{"number": 17382, "title": "Native.js not packed", "createdAt": "2023-06-14T08:46:02Z", "repo": "webpack/webpack"}
+{"number": 17381, "title": "Rebuild time is 8 times longer than initial build", "createdAt": "2023-06-14T12:01:04Z", "repo": "webpack/webpack"}
+{"number": 17383, "title": "v5.87.0", "createdAt": "2023-06-14T18:59:45Z", "repo": "webpack/webpack"}
+{"number": 17387, "title": "Setting workerChunkLoading and outputModule options for a specific web worker while maintaining Webpack defaults for others", "createdAt": "2023-06-15T10:26:44Z", "repo": "webpack/webpack"}
+{"number": 17391, "title": "Dynamically load highest minor version in shared scope", "createdAt": "2023-06-16T10:00:32Z", "repo": "webpack/webpack"}
+{"number": 17412, "title": "v5.88.0", "createdAt": "2023-06-21T18:23:08Z", "repo": "webpack/webpack"}
+{"number": 17413, "title": "I made a server / preset batch installer for three.js or else if someone needs (windows users only)", "createdAt": "2023-06-21T19:05:57Z", "repo": "webpack/webpack"}
+{"number": 17419, "title": "SSR and lazyCompilation", "createdAt": "2023-06-23T12:30:46Z", "repo": "webpack/webpack"}
+{"number": 17430, "title": "Refer to asset name with content hash generated by previous plugin", "createdAt": "2023-06-27T10:21:46Z", "repo": "webpack/webpack"}
+{"number": 17431, "title": "Webpack 4 to 5 Migration Question - Updating Outdated Options", "createdAt": "2023-06-27T18:01:37Z", "repo": "webpack/webpack"}
+{"number": 17435, "title": "v5.88.1", "createdAt": "2023-06-28T17:33:44Z", "repo": "webpack/webpack"}
+{"number": 17438, "title": "Is peer-deps-externals-webpack-plugin compatible with Webpack 5", "createdAt": "2023-06-29T15:14:14Z", "repo": "webpack/webpack"}
+{"number": 17441, "title": "Google Summer of Code 2024", "createdAt": "2023-06-30T19:43:21Z", "repo": "webpack/webpack"}
+{"number": 17443, "title": "webpack4 can support wasm? and how to do?", "createdAt": "2023-07-01T15:12:34Z", "repo": "webpack/webpack"}
+{"number": 17503, "title": "Webpack 5 not able to process node polyfills mentioned inside resolve.fallback.", "createdAt": "2023-07-02T15:14:25Z", "repo": "webpack/webpack"}
+{"number": 17451, "title": "Generating multiple parameterized outputs of a given entrypoint", "createdAt": "2023-07-04T13:48:20Z", "repo": "webpack/webpack"}
+{"number": 17465, "title": "Bundle third package source code and tree shaking.", "createdAt": "2023-07-06T11:41:37Z", "repo": "webpack/webpack"}
+{"number": 17482, "title": "Module federation build issue", "createdAt": "2023-07-11T09:42:37Z", "repo": "webpack/webpack"}
+{"number": 17484, "title": "In react js app, subpath url (\"/register\") not working giving error \"page not found\"  after deploy build on vercel or netlify but working fine in local devserver.", "createdAt": "2023-07-11T11:03:15Z", "repo": "webpack/webpack"}
+{"number": 17486, "title": "v5.88.2", "createdAt": "2023-07-12T18:19:04Z", "repo": "webpack/webpack"}
+{"number": 17490, "title": "Invalid Hook Call error", "createdAt": "2023-07-13T19:16:42Z", "repo": "webpack/webpack"}
+{"number": 17502, "title": "weback issue", "createdAt": "2023-07-15T05:35:44Z", "repo": "webpack/webpack"}
+{"number": 17501, "title": "Module federation remote loads it's own remoteEntry file", "createdAt": "2023-07-17T20:55:50Z", "repo": "webpack/webpack"}
+{"number": 17571, "title": "Build is Crashing on auto CI/CD github", "createdAt": "2023-07-18T08:10:25Z", "repo": "webpack/webpack"}
+{"number": 17510, "title": "How to use a bundle.js to integrate packaged products", "createdAt": "2023-07-19T08:55:09Z", "repo": "webpack/webpack"}
+{"number": 17517, "title": "Default imports are not resolving and referencing DLL files in DelegatedModuleFactoryPlugin", "createdAt": "2023-07-21T00:03:32Z", "repo": "webpack/webpack"}
+{"number": 17524, "title": "[webpack-cli] HookWebpackError: RangeError: Maximum call stack size exceeded", "createdAt": "2023-07-24T09:38:08Z", "repo": "webpack/webpack"}
+{"number": 17527, "title": "CSS Experiment: how to prevent absolute `url()` from being resolved?", "createdAt": "2023-07-25T14:08:46Z", "repo": "webpack/webpack"}
+{"number": 17530, "title": "How to shake uncalled function from library?", "createdAt": "2023-07-26T12:01:25Z", "repo": "webpack/webpack"}
+{"number": 17532, "title": "Webpack still analyze dependencies of excluded side-effects-free moduels?", "createdAt": "2023-07-27T07:20:17Z", "repo": "webpack/webpack"}
+{"number": 17533, "title": "Why code-splitting asynchronously loading the scripts?", "createdAt": "2023-07-27T19:49:32Z", "repo": "webpack/webpack"}
+{"number": 17543, "title": "webpackJsonpCallback is not called when I navigate to a new page", "createdAt": "2023-07-28T11:16:33Z", "repo": "webpack/webpack"}
+{"number": 17546, "title": "asset/resource type outputs typescript and import statements", "createdAt": "2023-07-30T18:02:23Z", "repo": "webpack/webpack"}
+{"number": 17550, "title": "[WDS] InternalError: invalid UTF-8 string", "createdAt": "2023-07-31T13:55:40Z", "repo": "webpack/webpack"}
+{"number": 17552, "title": "Why does Webpack tree-shake this module that's marked with side-effects?", "createdAt": "2023-08-01T07:23:15Z", "repo": "webpack/webpack"}
+{"number": 17585, "title": "webpack5 module federation: idToExternalAndNameMapping missing and not work with ts-loader and CommonJS module ?", "createdAt": "2023-08-09T08:15:35Z", "repo": "webpack/webpack"}
+{"number": 17589, "title": "Webpack5 packaging third-party library css problem", "createdAt": "2023-08-10T08:59:08Z", "repo": "webpack/webpack"}
+{"number": 17591, "title": "webpack less packaging result cache occasionally fails", "createdAt": "2023-08-10T12:58:46Z", "repo": "webpack/webpack"}
+{"number": 17593, "title": "Custom CSV and Markdown Loader Breaks on Reload", "createdAt": "2023-08-11T19:34:30Z", "repo": "webpack/webpack"}
+{"number": 17594, "title": "ignore package.json from build dependency", "createdAt": "2023-08-13T00:46:51Z", "repo": "webpack/webpack"}
+{"number": 17602, "title": "When externals react and react dom, HMR stops working when modifying tsx files", "createdAt": "2023-08-15T03:12:56Z", "repo": "webpack/webpack"}
+{"number": 17604, "title": "How to enable native-like warnings from `dart-sass` in `sass-loader`?", "createdAt": "2023-08-15T22:39:12Z", "repo": "webpack/webpack"}
+{"number": 17606, "title": "rename global CSS classes", "createdAt": "2023-08-16T11:55:05Z", "repo": "webpack/webpack"}
+{"number": 17610, "title": "Dynamic imports in Webpack", "createdAt": "2023-08-20T13:27:09Z", "repo": "webpack/webpack"}
+{"number": 17612, "title": "sass-loader additionalData not working for sass variable [SassError: Undefined variable.]", "createdAt": "2023-08-20T19:18:39Z", "repo": "webpack/webpack"}
+{"number": 17878, "title": "How to tell webpack to read images from particular folder in development mode.", "createdAt": "2023-08-21T18:30:36Z", "repo": "webpack/webpack"}
+{"number": 17640, "title": "Do we still need records now?", "createdAt": "2023-08-28T03:21:00Z", "repo": "webpack/webpack"}
+{"number": 17642, "title": "Does entry.dependOn work with target node?", "createdAt": "2023-08-28T09:35:04Z", "repo": "webpack/webpack"}
+{"number": 17644, "title": "Module Federation: Can't get shared dependencies to work", "createdAt": "2023-08-29T20:52:21Z", "repo": "webpack/webpack"}
+{"number": 17647, "title": "Obtaining Path Metadata for Asset Modules", "createdAt": "2023-08-31T20:55:50Z", "repo": "webpack/webpack"}
+{"number": 17651, "title": "Dynamic import doesn't work for content scripts in a Chrome extension", "createdAt": "2023-09-04T11:04:52Z", "repo": "webpack/webpack"}
+{"number": 17656, "title": "v4.47.0", "createdAt": "2023-09-06T17:21:19Z", "repo": "webpack/webpack"}
+{"number": 17657, "title": "SplitChunks config but for Worker script only?", "createdAt": "2023-09-06T18:18:55Z", "repo": "webpack/webpack"}
+{"number": 17660, "title": "Cannot add additionalData to .scss files in my Vue project.", "createdAt": "2023-09-07T07:56:14Z", "repo": "webpack/webpack"}
+{"number": 17895, "title": "Content hash not matching file hash", "createdAt": "2023-09-08T19:31:21Z", "repo": "webpack/webpack"}
+{"number": 17893, "title": "ReferenceError: Cannot access '<something>' before initialization", "createdAt": "2023-09-12T08:00:10Z", "repo": "webpack/webpack"}
+{"number": 17676, "title": "Modify entrypoints by AST result?", "createdAt": "2023-09-12T23:14:16Z", "repo": "webpack/webpack"}
+{"number": 17885, "title": "Webpack alteres web worker file", "createdAt": "2023-09-13T15:57:13Z", "repo": "webpack/webpack"}
+{"number": 17684, "title": "Dynamic Module Federation with Angular", "createdAt": "2023-09-14T09:05:45Z", "repo": "webpack/webpack"}
+{"number": 17685, "title": "Module not found: Error: Cannot resolve module 'xmlhttprequest' in \\node_modules\\xmlhttprequest\\lib", "createdAt": "2023-09-14T12:26:23Z", "repo": "webpack/webpack"}
+{"number": 17689, "title": "Annoying \"/true\" from [webpack-dev-middleware] wait until bundle finished", "createdAt": "2023-09-18T06:58:10Z", "repo": "webpack/webpack"}
+{"number": 17693, "title": "When will the Webpack 6 version be released", "createdAt": "2023-09-20T09:48:20Z", "repo": "webpack/webpack"}
+{"number": 17695, "title": "Getting issue in integration of tailwind with react in single-spa", "createdAt": "2023-09-20T15:41:51Z", "repo": "webpack/webpack"}
+{"number": 17696, "title": "Is there a plan for Webpack 6?", "createdAt": "2023-09-21T03:29:32Z", "repo": "webpack/webpack"}
+{"number": 17697, "title": "How to improve home page performance (merge chunks) after using module federation on library sharing? (Maybe HTTP2 is not so fine)", "createdAt": "2023-09-21T08:52:37Z", "repo": "webpack/webpack"}
+{"number": 17704, "title": "splitChunks behavior is affected by cacheGroups.name field", "createdAt": "2023-09-26T08:18:05Z", "repo": "webpack/webpack"}
+{"number": 17707, "title": "compilation.mainTemplate.hooks.requireExtensions not work in webpack5.x", "createdAt": "2023-09-27T09:42:04Z", "repo": "webpack/webpack"}
+{"number": 17710, "title": "Webpack detecting changes even when no change in the files content", "createdAt": "2023-09-28T10:13:42Z", "repo": "webpack/webpack"}
+{"number": 17715, "title": "Asset Modules, publicPath and filename: double slash in request url", "createdAt": "2023-09-29T15:01:15Z", "repo": "webpack/webpack"}
+{"number": 17721, "title": "Intermittent \"Module parse failed\" errors", "createdAt": "2023-10-02T23:24:37Z", "repo": "webpack/webpack"}
+{"number": 17887, "title": "Storybook with webpack 5 can't resolve :export from .scss file", "createdAt": "2023-10-04T11:43:17Z", "repo": "webpack/webpack"}
+{"number": 17977, "title": "Doesn't work for workspace / common dependencies.", "createdAt": "2023-10-05T20:41:41Z", "repo": "webpack/webpack"}
+{"number": 17736, "title": "incorporate webpack with vanilla JS project built with node js and express", "createdAt": "2023-10-09T15:37:21Z", "repo": "webpack/webpack"}
+{"number": 17737, "title": "Dynamic import with variable and alias path error not found", "createdAt": "2023-10-10T08:18:26Z", "repo": "webpack/webpack"}
+{"number": 17743, "title": "How to use package that depends on redux-saga when its added to webpack-node-externals allowList", "createdAt": "2023-10-13T10:36:57Z", "repo": "webpack/webpack"}
+{"number": 17744, "title": "Uncaught ReferenceError: process is not defined while upgrading to webpack 5", "createdAt": "2023-10-13T11:55:57Z", "repo": "webpack/webpack"}
+{"number": 17746, "title": "v5.89.0", "createdAt": "2023-10-13T22:32:15Z", "repo": "webpack/webpack"}
+{"number": 17749, "title": "Unhandled Promise rejection: __webpack_require__.nmd is not a function", "createdAt": "2023-10-16T05:05:59Z", "repo": "webpack/webpack"}
+{"number": 17751, "title": "Finish Modules steps tooks long time", "createdAt": "2023-10-16T11:01:39Z", "repo": "webpack/webpack"}
+{"number": 17886, "title": "The production build is not working.", "createdAt": "2023-10-19T06:30:33Z", "repo": "webpack/webpack"}
+{"number": 17759, "title": "What's mean of the `version` field in a Module Federation Shared Module?", "createdAt": "2023-10-20T06:35:30Z", "repo": "webpack/webpack"}
+{"number": 17764, "title": "From where did webpack 4 get \"polyfills\" for https ?", "createdAt": "2023-10-25T13:08:07Z", "repo": "webpack/webpack"}
+{"number": 17770, "title": "How to tell webpack to transform dependent project's tsconfig path alias in monorepo?", "createdAt": "2023-10-30T02:13:19Z", "repo": "webpack/webpack"}
+{"number": 17774, "title": "Making a sprite loader for Webpack", "createdAt": "2023-10-31T09:55:43Z", "repo": "webpack/webpack"}
+{"number": 17776, "title": "How to create two dependency folders after webpack bundling in Vue CLI?", "createdAt": "2023-11-02T13:34:04Z", "repo": "webpack/webpack"}
+{"number": 17777, "title": "DllPlugin cannot generate manifest.json file", "createdAt": "2023-11-02T14:12:08Z", "repo": "webpack/webpack"}
+{"number": 18231, "title": "require statement left in bundle", "createdAt": "2023-11-02T19:54:26Z", "repo": "webpack/webpack"}
+{"number": 17781, "title": "dynamic imports with name-hinted css chunks", "createdAt": "2023-11-04T19:46:11Z", "repo": "webpack/webpack"}
+{"number": 17783, "title": "SplitChunksPlugin: How to control name of chunks when using `maxSize`?", "createdAt": "2023-11-06T13:45:07Z", "repo": "webpack/webpack"}
+{"number": 17786, "title": "Uncaught ReferenceError: require is not defined", "createdAt": "2023-11-07T00:17:33Z", "repo": "webpack/webpack"}
+{"number": 17788, "title": "Is there an alternative to maxSize that only divides chunks that are bigger than the maximum size?", "createdAt": "2023-11-07T17:05:31Z", "repo": "webpack/webpack"}
+{"number": 17879, "title": "two bug about SourceMapDevToolPlugin", "createdAt": "2023-11-08T03:34:01Z", "repo": "webpack/webpack"}
+{"number": 17894, "title": "splitChunks is not working for speciifc module.", "createdAt": "2023-11-08T05:48:19Z", "repo": "webpack/webpack"}
+{"number": 17793, "title": "module.buildInfo.fileDependencies is undefined in webpack 5", "createdAt": "2023-11-08T15:03:26Z", "repo": "webpack/webpack"}
+{"number": 17796, "title": "Expose loader breaks with dynamic imports", "createdAt": "2023-11-09T19:08:39Z", "repo": "webpack/webpack"}
+{"number": 17892, "title": "presets externals should have \"allowlist\"", "createdAt": "2023-11-15T14:15:48Z", "repo": "webpack/webpack"}
+{"number": 17891, "title": "Infinite loop build in `development` when read, write have same parent dir", "createdAt": "2023-11-17T10:41:39Z", "repo": "webpack/webpack"}
+{"number": 17811, "title": "buiild size", "createdAt": "2023-11-17T10:43:06Z", "repo": "webpack/webpack"}
+{"number": 17816, "title": "Ignore/exclude an entrypoint or configuration from WDS HMR handling?", "createdAt": "2023-11-20T15:49:27Z", "repo": "webpack/webpack"}
+{"number": 17819, "title": "Critical dependency: require function is used in a way in which dependencies cannot be statically extracted", "createdAt": "2023-11-21T13:22:36Z", "repo": "webpack/webpack"}
+{"number": 17821, "title": "webpackPrefetch hint on js dynamic import does not create a <link rel=prefetch> for related lazy CSS chunks extracted with MiniCssExtractPlugin", "createdAt": "2023-11-23T10:04:33Z", "repo": "webpack/webpack"}
+{"number": 17826, "title": "Help needed, excluding aws-sdk from Minimized build", "createdAt": "2023-11-24T09:57:16Z", "repo": "webpack/webpack"}
+{"number": 17827, "title": "how to enable two SPA to share the same origin in the local development environment using the webpack dev server", "createdAt": "2023-11-24T11:13:46Z", "repo": "webpack/webpack"}
+{"number": 17877, "title": "Terser plugin Minimizer doesn't return result", "createdAt": "2023-11-24T15:21:38Z", "repo": "webpack/webpack"}
+{"number": 17876, "title": "webpack deleted all project files, including itself", "createdAt": "2023-11-25T08:07:19Z", "repo": "webpack/webpack"}
+{"number": 17835, "title": "Reload plugins on watch mode", "createdAt": "2023-12-01T19:22:55Z", "repo": "webpack/webpack"}
+{"number": 17849, "title": "Functioning of require.ensure()", "createdAt": "2023-12-06T08:21:43Z", "repo": "webpack/webpack"}
+{"number": 17854, "title": "How to use import.meta.url in webpack.ts", "createdAt": "2023-12-07T12:19:53Z", "repo": "webpack/webpack"}
+{"number": 17862, "title": "Annotate (Comment) bundle with Webpack?", "createdAt": "2023-12-12T13:57:30Z", "repo": "webpack/webpack"}
+{"number": 17863, "title": "postcss-loader error after update with @apply for tailwind custom class in storybook", "createdAt": "2023-12-12T17:55:29Z", "repo": "webpack/webpack"}
+{"number": 17913, "title": "PackFileCacheStrategy/FileSystemInfo warnings in console when using buildDependencies", "createdAt": "2023-12-13T17:52:49Z", "repo": "webpack/webpack"}
+{"number": 17867, "title": "[css-loader] `getLocalIdent` generate different class for stylesheet and for selector", "createdAt": "2023-12-15T07:38:39Z", "repo": "webpack/webpack"}
+{"number": 17890, "title": "Shared Module Not Available for Eager Consumption", "createdAt": "2023-12-15T14:56:59Z", "repo": "webpack/webpack"}
+{"number": 18012, "title": "Webpack 5 is tree shaking all modules required using require.resolve", "createdAt": "2023-12-15T19:53:40Z", "repo": "webpack/webpack"}
+{"number": 17873, "title": "How can we know all of entries when we open a entry page?", "createdAt": "2023-12-19T02:49:29Z", "repo": "webpack/webpack"}
+{"number": 17906, "title": "ModuleFederationPlugin can not directly get shared module default export in .mjs file", "createdAt": "2023-12-19T03:11:42Z", "repo": "webpack/webpack"}
+{"number": 17912, "title": "Default SBOM Generate", "createdAt": "2023-12-19T08:32:31Z", "repo": "webpack/webpack"}
+{"number": 17900, "title": "TypeError: Cannot use 'in' operator to search for '../node_modules/webpack/hot/dev-server.js' in undefined", "createdAt": "2023-12-20T07:03:50Z", "repo": "webpack/webpack"}
+{"number": 17889, "title": "Hi, want to ask is it right to apply mergeDuplicateChunks after removeAvailableModules", "createdAt": "2023-12-21T07:47:05Z", "repo": "webpack/webpack"}
+{"number": 17896, "title": "Module Federation Graceful Handling of ChunkLoadError", "createdAt": "2023-12-23T00:03:53Z", "repo": "webpack/webpack"}
+{"number": 17897, "title": "My webpack.config.js file must be compiled twice to work.", "createdAt": "2023-12-23T15:03:43Z", "repo": "webpack/webpack"}
+{"number": 17898, "title": "Infinite loop in --watch more with one-liner", "createdAt": "2023-12-24T00:06:05Z", "repo": "webpack/webpack"}
+{"number": 17902, "title": "when setting `optimization.providedExports` to false, outputModule wouldn't generate export statement", "createdAt": "2023-12-28T06:08:13Z", "repo": "webpack/webpack"}
+{"number": 17909, "title": "What is the decision-making process for choosing between the remote module and the host module when module is shared?", "createdAt": "2023-12-29T09:45:17Z", "repo": "webpack/webpack"}
+{"number": 17911, "title": "Using Terser Webpack plugin with webpack version 5.83.1 giving error", "createdAt": "2023-12-29T14:24:44Z", "repo": "webpack/webpack"}
+{"number": 17922, "title": "Is webpack entering maintenance mode without new feature development", "createdAt": "2024-01-04T06:06:36Z", "repo": "webpack/webpack"}
+{"number": 17923, "title": "ERROR in index.js from Terser plugin \"Export\" statement may only appear at the top level", "createdAt": "2024-01-04T08:47:42Z", "repo": "webpack/webpack"}
+{"number": 17930, "title": "Referencing node.process.versions from sentry yields unexpected token error (GLOBAL OBJECT)", "createdAt": "2024-01-06T12:08:35Z", "repo": "webpack/webpack"}
+{"number": 17947, "title": "Remotes causes Host to crash when not loaded in Module Federation", "createdAt": "2024-01-07T21:13:38Z", "repo": "webpack/webpack"}
+{"number": 17933, "title": "Mutiple entries which have its own hmr runtime cause hmr fail", "createdAt": "2024-01-09T02:59:49Z", "repo": "webpack/webpack"}
+{"number": 17935, "title": "What does the `output.asyncChunks` option actually do?", "createdAt": "2024-01-10T17:10:53Z", "repo": "webpack/webpack"}
+{"number": 17951, "title": "web worker with cdn occurs cors error", "createdAt": "2024-01-13T09:02:58Z", "repo": "webpack/webpack"}
+{"number": 17956, "title": "Is it possible to extract exports inside a loader?", "createdAt": "2024-01-14T00:17:27Z", "repo": "webpack/webpack"}
+{"number": 17966, "title": "Content Hash in webpack config", "createdAt": "2024-01-15T15:16:21Z", "repo": "webpack/webpack"}
+{"number": 17970, "title": "splitChunks maxSize/minSize/maxRequest priority", "createdAt": "2024-01-16T07:11:33Z", "repo": "webpack/webpack"}
+{"number": 17972, "title": "What are those `webpack.config.js` settings to make the generated bundle code more complex when `--mode developement` is set?", "createdAt": "2024-01-16T22:12:11Z", "repo": "webpack/webpack"}
+{"number": 17973, "title": "How to make webpack retrieve remote files again when a remote file request fails in the webpack Module Federation?", "createdAt": "2024-01-17T01:40:55Z", "repo": "webpack/webpack"}
+{"number": 17981, "title": "Entry dependOn does the opposite of what I expect", "createdAt": "2024-01-18T16:48:15Z", "repo": "webpack/webpack"}
+{"number": 17982, "title": "Is it possible to do manual rebuilds with changed files (Node API)?", "createdAt": "2024-01-18T17:41:19Z", "repo": "webpack/webpack"}
+{"number": 17988, "title": "Exported object names not minified since 5.79", "createdAt": "2024-01-21T03:26:24Z", "repo": "webpack/webpack"}
+{"number": 17990, "title": "Can sass-loader understand package.json \"exports\" field?", "createdAt": "2024-01-22T09:50:42Z", "repo": "webpack/webpack"}
+{"number": 17996, "title": "Webpack 5 dealing with globals differently - Not found in changelog", "createdAt": "2024-01-23T15:53:12Z", "repo": "webpack/webpack"}
+{"number": 17999, "title": "Problem getting core node api to work in an electron apps webworker", "createdAt": "2024-01-24T10:04:28Z", "repo": "webpack/webpack"}
+{"number": 18001, "title": "Eager consumption of a shared module if there are several versions of the module", "createdAt": "2024-01-24T10:46:58Z", "repo": "webpack/webpack"}
+{"number": 18003, "title": "Module graph outgoingConnections missing dependencies that are present in incomingConnections", "createdAt": "2024-01-24T19:18:20Z", "repo": "webpack/webpack"}
+{"number": 18005, "title": "I want to trigger \"angular-templatecache-webpack5-plugin\" plugin in webpack after \"copy-webpack-plugin\" files are copied, how can I do this", "createdAt": "2024-01-25T12:08:30Z", "repo": "webpack/webpack"}
+{"number": 18006, "title": "Code splitting single JS files based on which functions are used by which parent components or files.", "createdAt": "2024-01-25T15:45:06Z", "repo": "webpack/webpack"}
+{"number": 18028, "title": "Empty file emitted for `await import('crypto')` in a dependency despite resolve.fallback.crypto = false", "createdAt": "2024-01-26T23:42:55Z", "repo": "webpack/webpack"}
+{"number": 18017, "title": "Process source code files through another babel plugin after passed by webpack babel loader", "createdAt": "2024-01-27T12:12:58Z", "repo": "webpack/webpack"}
+{"number": 18079, "title": "Different window.open in an async call behaviour between Webpack 4 & Webpack 5", "createdAt": "2024-01-27T19:21:24Z", "repo": "webpack/webpack"}
+{"number": 18019, "title": "Use of chunkReason in webpack SplitChunksPlugin", "createdAt": "2024-01-28T04:20:00Z", "repo": "webpack/webpack"}
+{"number": 18022, "title": "Warning appeared after updating node version", "createdAt": "2024-01-29T09:04:12Z", "repo": "webpack/webpack"}
+{"number": 18027, "title": "How does one dynamically import optional dependencies?", "createdAt": "2024-01-29T15:32:48Z", "repo": "webpack/webpack"}
+{"number": 18032, "title": "I can't use mini-css-extract-plugin and exportLocalsConvention: \"asIs\"", "createdAt": "2024-01-31T09:25:14Z", "repo": "webpack/webpack"}
+{"number": 18040, "title": "How to choose the value of the option `splitChunks.chunks`?", "createdAt": "2024-02-01T14:52:23Z", "repo": "webpack/webpack"}
+{"number": 18042, "title": "Webpack returns errors in two different ways - don't understand this API design", "createdAt": "2024-02-01T19:51:42Z", "repo": "webpack/webpack"}
+{"number": 18045, "title": "Does SplitChunksPlugin also split nested `node_modules/` dependencies by `defaultVendors` cacheGroup?", "createdAt": "2024-02-02T16:11:43Z", "repo": "webpack/webpack"}
+{"number": 18046, "title": "Deterministic module IDs are unstable after I update any devDependencies", "createdAt": "2024-02-02T16:38:51Z", "repo": "webpack/webpack"}
+{"number": 18047, "title": "When a module is dynamically `import()`ed, would all modules it statically `import` be considered `async` for `splitChunks.chunks`?", "createdAt": "2024-02-02T17:08:01Z", "repo": "webpack/webpack"}
+{"number": 18048, "title": "Why `optimization.removeAvailableModules` is default to `false`?", "createdAt": "2024-02-02T19:23:37Z", "repo": "webpack/webpack"}
+{"number": 18049, "title": "CSS files are not loading and throw an error: css was not loaded because its MIME type, “text/html”, is not “text/css”", "createdAt": "2024-02-03T08:43:51Z", "repo": "webpack/webpack"}
+{"number": 18051, "title": "Passing a function for `{cacheGroup}.test` causes chunks not catched by the `{cacheGroup}`", "createdAt": "2024-02-03T18:42:05Z", "repo": "webpack/webpack"}
+{"number": 18054, "title": "Cannot read properties of undefined (reading 'Z')", "createdAt": "2024-02-04T14:50:14Z", "repo": "webpack/webpack"}
+{"number": 18055, "title": "Cannot read property 'name' of undefined", "createdAt": "2024-02-05T09:56:59Z", "repo": "webpack/webpack"}
+{"number": 18057, "title": "Webpack 5 won't allow a non-string entry configuration value", "createdAt": "2024-02-05T21:14:14Z", "repo": "webpack/webpack"}
+{"number": 18064, "title": "Bundled code is attempting to export before importing (ERROR: _common__WEBPACK_IMPORTED_MODULE_1__ is undefined)", "createdAt": "2024-02-07T01:29:07Z", "repo": "webpack/webpack"}
+{"number": 18068, "title": "Error with relative path to server root not being resolved in .scss url()", "createdAt": "2024-02-09T04:16:52Z", "repo": "webpack/webpack"}
+{"number": 18071, "title": "[webpack.FileSystemInfo] dynamic import() expects string?", "createdAt": "2024-02-10T21:32:52Z", "repo": "webpack/webpack"}
+{"number": 18073, "title": "webpack-dev-server v5 seems to require `'unsafe-eval'` in CSP", "createdAt": "2024-02-12T20:23:52Z", "repo": "webpack/webpack"}
+{"number": 18074, "title": "How to bundle all css modules to one file when Module federation \"exposes\" is defined in config?", "createdAt": "2024-02-13T06:57:47Z", "repo": "webpack/webpack"}
+{"number": 18075, "title": "CSS modules: How to replace `css-loader` with the other minimizers `CssMinimizerPlugin` for CSS modules?", "createdAt": "2024-02-14T07:59:02Z", "repo": "webpack/webpack"}
+{"number": 18078, "title": "Compile and bundle a requested file in a Webpack Plugin", "createdAt": "2024-02-14T15:42:54Z", "repo": "webpack/webpack"}
+{"number": 18082, "title": "Deduping ESM and CJS versions of the same package", "createdAt": "2024-02-15T02:33:53Z", "repo": "webpack/webpack"}
+{"number": 18081, "title": "css-loader: className not directly accessible from the default import when `css-loader` is the only loader and `namedExport: false`", "createdAt": "2024-02-15T05:03:24Z", "repo": "webpack/webpack"}
+{"number": 18084, "title": "Custom plugin: how to properly generate new asset", "createdAt": "2024-02-15T12:15:46Z", "repo": "webpack/webpack"}
+{"number": 18089, "title": "Webpack 5 Custom Unsafe Resolver Cache Issue with File Extension Changes", "createdAt": "2024-02-16T19:17:59Z", "repo": "webpack/webpack"}
+{"number": 18092, "title": "Loading custom file leads to TS2307 (Cannot find module)", "createdAt": "2024-02-17T09:52:23Z", "repo": "webpack/webpack"}
+{"number": 18093, "title": "style-loader: what's the point of enabling `esModule`?", "createdAt": "2024-02-18T00:31:35Z", "repo": "webpack/webpack"}
+{"number": 18097, "title": "SyntaxError: Invalid regular expression flags", "createdAt": "2024-02-18T17:20:56Z", "repo": "webpack/webpack"}
+{"number": 18099, "title": "Is it possible to bundle css into one file with same name as entry when Module federation \"exposes\" is defined?", "createdAt": "2024-02-19T09:14:29Z", "repo": "webpack/webpack"}
+{"number": 18100, "title": "Is there any option for tree shaking from an object with a dynamic string?", "createdAt": "2024-02-19T13:07:03Z", "repo": "webpack/webpack"}
+{"number": 18103, "title": "Why doesn't webpack find my deeply nested `tsc`-built library's `default` export?", "createdAt": "2024-02-20T16:09:57Z", "repo": "webpack/webpack"}
+{"number": 18106, "title": "Why does terser-webpack-plugin exist in dependencies but not in devDependencies?", "createdAt": "2024-02-21T08:51:53Z", "repo": "webpack/webpack"}
+{"number": 18108, "title": "Understanding about webpack loaders", "createdAt": "2024-02-21T20:24:31Z", "repo": "webpack/webpack"}
+{"number": 18112, "title": "Could you explain the usage of webpack-dev-middleware?", "createdAt": "2024-02-23T03:26:59Z", "repo": "webpack/webpack"}
+{"number": 18114, "title": "Webpack upgrade from v4 to v5 loader errors", "createdAt": "2024-02-23T20:20:10Z", "repo": "webpack/webpack"}
+{"number": 18115, "title": "Just curious about the relation between the deprecated webpack-hot-client and webpack-hot-middleware", "createdAt": "2024-02-24T00:39:30Z", "repo": "webpack/webpack"}
+{"number": 18122, "title": "Access to font from origin has been blocked by CORS policy", "createdAt": "2024-02-25T13:52:17Z", "repo": "webpack/webpack"}
+{"number": 18127, "title": "Deserialization errors when using filesystem cache", "createdAt": "2024-02-27T18:43:25Z", "repo": "webpack/webpack"}
+{"number": 18135, "title": "Error: Uncaught ReferenceError: __webpack_require__ is not defined at", "createdAt": "2024-02-28T09:30:17Z", "repo": "webpack/webpack"}
+{"number": 18137, "title": "Option to keep /*webpackIgnore:true*/ in the bundle", "createdAt": "2024-02-28T12:01:21Z", "repo": "webpack/webpack"}
+{"number": 18142, "title": "Can't import child_process", "createdAt": "2024-02-29T04:16:00Z", "repo": "webpack/webpack"}
+{"number": 18144, "title": "Module Federation loadRemoteModule catch error E[n].get is not a function", "createdAt": "2024-02-29T07:22:49Z", "repo": "webpack/webpack"}
+{"number": 18145, "title": "How do I set `resolve.alias` to specify only strings starting with `@/` but not `@babel`?", "createdAt": "2024-03-01T02:50:55Z", "repo": "webpack/webpack"}
+{"number": 18148, "title": "In Webpack5, why my function just be excuted?  my quetion link is under this title, thanks🤕", "createdAt": "2024-03-02T10:47:50Z", "repo": "webpack/webpack"}
+{"number": 18151, "title": "Module Federation error: Module not found: Error: Can't resolve 'search/SearchAppModule' in 'relative path'", "createdAt": "2024-03-04T14:27:59Z", "repo": "webpack/webpack"}
+{"number": 18153, "title": "CSS files not getting applied in build", "createdAt": "2024-03-04T16:45:31Z", "repo": "webpack/webpack"}
+{"number": 18156, "title": "Can we use Bootstrap production version (bootstrap.min.css) loaded from node_modules as a seperate public asset in Webpack?", "createdAt": "2024-03-05T07:19:40Z", "repo": "webpack/webpack"}
+{"number": 18159, "title": "Issue with plugin sequencing(CopyWebpackPlugin runs before postcss-assets-webpack-plugin)", "createdAt": "2024-03-05T17:41:56Z", "repo": "webpack/webpack"}
+{"number": 18162, "title": "v5.90.3 pollution global variables jquery $", "createdAt": "2024-03-06T02:33:37Z", "repo": "webpack/webpack"}
+{"number": 18161, "title": "Where I can find changelog for old webpack-dev-server releases?", "createdAt": "2024-03-06T10:22:45Z", "repo": "webpack/webpack"}
+{"number": 18166, "title": "What's the point of using a loader to generate typings for CSS Modules?", "createdAt": "2024-03-07T09:15:42Z", "repo": "webpack/webpack"}
+{"number": 18178, "title": "Module Federation - Some chunks are not loaded when navigating from the Remote module to the Host module", "createdAt": "2024-03-07T16:30:08Z", "repo": "webpack/webpack"}
+{"number": 18175, "title": "Webpack 5 doesnt generate the chunks of imports", "createdAt": "2024-03-08T09:52:02Z", "repo": "webpack/webpack"}
+{"number": 18177, "title": "Unable to bust cache of module federation remotes....", "createdAt": "2024-03-09T17:58:12Z", "repo": "webpack/webpack"}
+{"number": 18184, "title": "How to mark imports \"external\" in loader?", "createdAt": "2024-03-12T17:47:04Z", "repo": "webpack/webpack"}
+{"number": 18192, "title": "Webpack does not respect pnpm workspace peerDependencies", "createdAt": "2024-03-13T19:09:48Z", "repo": "webpack/webpack"}
+{"number": 18195, "title": "Federated module is undefined ! ScriptExternalLoadError: Loading script failed", "createdAt": "2024-03-14T22:29:08Z", "repo": "webpack/webpack"}
+{"number": 18196, "title": "When thread-loader is working, do the those threads read the options of the other loaders?", "createdAt": "2024-03-14T23:25:18Z", "repo": "webpack/webpack"}
+{"number": 18200, "title": "DllPlugin: When processing multiple chunks, does the `path` option must have a string template?", "createdAt": "2024-03-15T10:44:44Z", "repo": "webpack/webpack"}
+{"number": 18211, "title": "After webpack 5 migration not able to use local packages in a mono repo", "createdAt": "2024-03-18T07:40:28Z", "repo": "webpack/webpack"}
+{"number": 18213, "title": "95% emitting emit phase takes much longer in Node >=16", "createdAt": "2024-03-18T11:57:41Z", "repo": "webpack/webpack"}
+{"number": 18216, "title": "Suggest a way of extracting critical JS that works with WDS", "createdAt": "2024-03-19T14:42:14Z", "repo": "webpack/webpack"}
+{"number": 18217, "title": "Azure ServiceBus Webpack Issue", "createdAt": "2024-03-20T00:51:16Z", "repo": "webpack/webpack"}
+{"number": 18230, "title": "Importing InitFragment class and other types for Dependency within a plugin", "createdAt": "2024-03-21T16:54:56Z", "repo": "webpack/webpack"}
+{"number": 18233, "title": "How to add polyfill to currentScript to be compatible with IE", "createdAt": "2024-03-22T08:31:32Z", "repo": "webpack/webpack"}
+{"number": 18234, "title": "Import a file that is emited by webpack plugin", "createdAt": "2024-03-23T11:09:33Z", "repo": "webpack/webpack"}
+{"number": 18240, "title": "Current error handling mainly involves calling the `onInvalidCandidate` callback function to handle invalid candidates, and printing corresponding error messages to the console.", "createdAt": "2024-03-25T07:28:46Z", "repo": "webpack/webpack"}
+{"number": 18248, "title": "Not found node_modules/@angular/common/bundles/common-http.umd.js", "createdAt": "2024-03-26T04:01:22Z", "repo": "webpack/webpack"}
+{"number": 18250, "title": "I want to learn about cache to speed up my builds", "createdAt": "2024-03-27T09:28:42Z", "repo": "webpack/webpack"}
+{"number": 18258, "title": "I can't find the exe after packing.", "createdAt": "2024-03-28T22:45:54Z", "repo": "webpack/webpack"}
+{"number": 18261, "title": "Hi", "createdAt": "2024-03-30T01:12:54Z", "repo": "webpack/webpack"}
+{"number": 18264, "title": "How to block `named` export?", "createdAt": "2024-04-01T06:51:05Z", "repo": "webpack/webpack"}
+{"number": 18265, "title": "How to force webpack to use \"node:\" prefixes?", "createdAt": "2024-04-01T10:59:37Z", "repo": "webpack/webpack"}
+{"number": 18270, "title": "How to create a minified file (or single js)like file from CDN, from the library in node_modules", "createdAt": "2024-04-02T12:26:57Z", "repo": "webpack/webpack"}
+{"number": 18276, "title": "Issues with code splitting in webpack config in an nx monorepo", "createdAt": "2024-04-03T05:47:24Z", "repo": "webpack/webpack"}
+{"number": 18287, "title": "there are confusing JDocs code", "createdAt": "2024-04-04T09:33:07Z", "repo": "webpack/webpack"}
+{"number": 18286, "title": "Potential bug issues", "createdAt": "2024-04-04T09:52:52Z", "repo": "webpack/webpack"}
+{"number": 18289, "title": "Webpack is not resolving node_modules specified in `resolve.modules` property.", "createdAt": "2024-04-04T11:56:19Z", "repo": "webpack/webpack"}
+{"number": 18301, "title": "Dynamically loading chunks", "createdAt": "2024-04-05T12:07:54Z", "repo": "webpack/webpack"}
+{"number": 18293, "title": "Help wanted on getting an angular project to work on mobile webview", "createdAt": "2024-04-05T13:02:15Z", "repo": "webpack/webpack"}
+{"number": 18300, "title": "Not able to build node script", "createdAt": "2024-04-07T10:10:10Z", "repo": "webpack/webpack"}
+{"number": 18306, "title": "bootstrap:27 Uncaught TypeError: __webpack_require__.nmd is not a function", "createdAt": "2024-04-09T08:48:06Z", "repo": "webpack/webpack"}
+{"number": 18308, "title": "[maybe bug] ModuleFederation seems not compatible with ArrayPushCallbackChunkFormatPlugin, causing ScriptExternalLoadError", "createdAt": "2024-04-09T11:25:23Z", "repo": "webpack/webpack"}
+{"number": 18318, "title": "dynamically imported asset's published chunks path in imported compiled script", "createdAt": "2024-04-12T09:57:18Z", "repo": "webpack/webpack"}
+{"number": 18326, "title": "Remote into Web Component from React giving an error saying \" Module does not exist in container\"", "createdAt": "2024-04-15T18:11:06Z", "repo": "webpack/webpack"}
+{"number": 18325, "title": "externalize library with externals and externalsType as common js,, umd, , amd and module and var", "createdAt": "2024-04-16T11:03:15Z", "repo": "webpack/webpack"}
+{"number": 18335, "title": "Webpack fails when importing module", "createdAt": "2024-04-17T04:11:39Z", "repo": "webpack/webpack"}
+{"number": 18334, "title": "import .scss build to js, the exported mapping is inconsistent with the usage【Urgent!!】", "createdAt": "2024-04-17T07:12:00Z", "repo": "webpack/webpack"}
+{"number": 18337, "title": "Webpack dev server includes runtime modules into entry bundle", "createdAt": "2024-04-17T21:16:27Z", "repo": "webpack/webpack"}
+{"number": 18339, "title": "How to add an new asset wich will be take by HtmlWebpackPlugin", "createdAt": "2024-04-18T12:37:34Z", "repo": "webpack/webpack"}
+{"number": 18344, "title": "Create webpack plugin to analyze modules and find import statement", "createdAt": "2024-04-23T00:41:38Z", "repo": "webpack/webpack"}
+{"number": 18347, "title": "Module federation: build remote entry without default shared chunks (depend on host application for shared dependencies)", "createdAt": "2024-04-23T20:37:28Z", "repo": "webpack/webpack"}
+{"number": 18387, "title": "In cli, why no option named \"--output-file-name\" ?", "createdAt": "2024-04-25T09:18:09Z", "repo": "webpack/webpack"}
+{"number": 18353, "title": "Webpack module federation throwing `fn is not a function ` when trying to load a remote from a vite exposed component", "createdAt": "2024-04-25T10:48:53Z", "repo": "webpack/webpack"}
+{"number": 18354, "title": "Axios not working with webpack `target: 'node'`", "createdAt": "2024-04-25T15:29:56Z", "repo": "webpack/webpack"}
+{"number": 18358, "title": "Need help with migrating a custom middleware from v3 to v5 of webpack-dev-server", "createdAt": "2024-04-26T16:47:16Z", "repo": "webpack/webpack"}
+{"number": 18362, "title": "Dynamic import callback missing error after moving from webpack v4 to v5", "createdAt": "2024-04-28T10:32:01Z", "repo": "webpack/webpack"}
+{"number": 18367, "title": "can we support override strict mode of esm module without using plugin", "createdAt": "2024-04-29T11:11:10Z", "repo": "webpack/webpack"}
+{"number": 18478, "title": "Failed build succeeds on rerun using cache", "createdAt": "2024-04-29T19:17:07Z", "repo": "webpack/webpack"}
+{"number": 18369, "title": "native css experiments, import assertions and/or ES modules", "createdAt": "2024-04-29T20:59:14Z", "repo": "webpack/webpack"}
+{"number": 18388, "title": "MinChunkSizePlugin build slowly", "createdAt": "2024-04-30T01:28:55Z", "repo": "webpack/webpack"}
+{"number": 18386, "title": "Webpack puts lazy-loaded module into main chunk", "createdAt": "2024-05-07T09:38:29Z", "repo": "webpack/webpack"}
+{"number": 18389, "title": "DefinePlugin is not not working on WebPack@5.89.0", "createdAt": "2024-05-07T14:25:06Z", "repo": "webpack/webpack"}
+{"number": 18418, "title": "the presence of the node_modules directory in the parent directory disables HMR for the my-app project.", "createdAt": "2024-05-10T07:55:46Z", "repo": "webpack/webpack"}
+{"number": 18419, "title": "export default is not a function", "createdAt": "2024-05-13T11:23:48Z", "repo": "webpack/webpack"}
+{"number": 18401, "title": "css module file is undefined", "createdAt": "2024-05-16T05:45:58Z", "repo": "webpack/webpack"}
+{"number": 18402, "title": "TerserPlugin, 'mangle' work incorrectly", "createdAt": "2024-05-16T09:05:25Z", "repo": "webpack/webpack"}
+{"number": 18403, "title": "Assign a url to css assets", "createdAt": "2024-05-16T12:57:07Z", "repo": "webpack/webpack"}
+{"number": 18404, "title": "faulty webpack configuration is creating strange files on wrong places", "createdAt": "2024-05-16T22:13:10Z", "repo": "webpack/webpack"}
+{"number": 18405, "title": "please delete this discussion", "createdAt": "2024-05-17T05:51:04Z", "repo": "webpack/webpack"}
+{"number": 18406, "title": "Does webpack 5 support Node version 22 ?", "createdAt": "2024-05-17T06:14:38Z", "repo": "webpack/webpack"}
+{"number": 18422, "title": "module federation load it's chunks from a wrong url", "createdAt": "2024-05-17T08:11:29Z", "repo": "webpack/webpack"}
+{"number": 18424, "title": "Webpack node module getting added in multiple chunks in my react application", "createdAt": "2024-05-17T14:22:13Z", "repo": "webpack/webpack"}
+{"number": 18423, "title": "Suggestion for improve the code splitting mechanism", "createdAt": "2024-05-20T12:04:27Z", "repo": "webpack/webpack"}
+{"number": 18413, "title": "Need simple solution", "createdAt": "2024-05-21T05:04:09Z", "repo": "webpack/webpack"}
+{"number": 18415, "title": "Webpack renaming class even with `minimize:false`", "createdAt": "2024-05-21T14:19:31Z", "repo": "webpack/webpack"}
+{"number": 18437, "title": "Issue with asset/modules, while loading the image through css, with frontend and backend server being different.", "createdAt": "2024-05-21T22:42:52Z", "repo": "webpack/webpack"}
+{"number": 18420, "title": "In the case of react, use dynamic import not working", "createdAt": "2024-05-22T12:17:02Z", "repo": "webpack/webpack"}
+{"number": 18425, "title": "Configuration: loader-only \"context\"", "createdAt": "2024-05-22T17:10:06Z", "repo": "webpack/webpack"}
+{"number": 18436, "title": "Allow strictExportPresence to work with babel-loader or ts-loader", "createdAt": "2024-05-23T15:00:05Z", "repo": "webpack/webpack"}
+{"number": 18428, "title": "Code splitting within single file", "createdAt": "2024-05-24T10:32:57Z", "repo": "webpack/webpack"}
+{"number": 18435, "title": "require('fs') return undefined with webpack 5 in electron-react-boilerplate", "createdAt": "2024-05-24T13:46:22Z", "repo": "webpack/webpack"}
+{"number": 18434, "title": "ESLINT 9: Cannot read config file: eslint.config.mjs. Error: end of the stream or a document separator is expected", "createdAt": "2024-05-27T19:02:25Z", "repo": "webpack/webpack"}
+{"number": 18443, "title": "Heroku: Webpack compile process checks other files outside entry list and shows error for those files", "createdAt": "2024-05-31T02:20:07Z", "repo": "webpack/webpack"}
+{"number": 18444, "title": "Speeding up hot-reloads of webpack-dev-server", "createdAt": "2024-05-31T21:30:11Z", "repo": "webpack/webpack"}
+{"number": 18447, "title": "Manually include or bundle a js file as require/import on some other function than require / import .", "createdAt": "2024-06-02T05:42:38Z", "repo": "webpack/webpack"}
+{"number": 18456, "title": "ModuleFederation conflict with entry output", "createdAt": "2024-06-03T14:30:06Z", "repo": "webpack/webpack"}
+{"number": 18455, "title": "Error in webpack-stream: PluginError:", "createdAt": "2024-06-03T14:59:59Z", "repo": "webpack/webpack"}
+{"number": 18462, "title": "Webpack roadmap regarding module federation 2.0", "createdAt": "2024-06-05T09:06:12Z", "repo": "webpack/webpack"}
+{"number": 18465, "title": "Exposing Handlebars", "createdAt": "2024-06-05T21:44:16Z", "repo": "webpack/webpack"}
+{"number": 18477, "title": "v5 is not faster than v4 when performing secondary packaging", "createdAt": "2024-06-07T10:03:25Z", "repo": "webpack/webpack"}
+{"number": 18487, "title": "How to use mini-css-extract-plugin with webpack built libraries in a monorepo?", "createdAt": "2024-06-11T13:59:47Z", "repo": "webpack/webpack"}
+{"number": 18488, "title": "Why My Scss Files Generated Also .js extension? ( scss > css and js)", "createdAt": "2024-06-11T21:46:04Z", "repo": "webpack/webpack"}
+{"number": 18490, "title": "how does implicit resolution of nested node_modules folders work?", "createdAt": "2024-06-12T12:28:49Z", "repo": "webpack/webpack"}
+{"number": 18516, "title": "Receiving typeerror messages", "createdAt": "2024-06-12T22:57:43Z", "repo": "webpack/webpack"}
+{"number": 18496, "title": "Using vite components in a react + webpack app slows the build process", "createdAt": "2024-06-14T10:35:58Z", "repo": "webpack/webpack"}
+{"number": 18504, "title": "webpack5打包报错", "createdAt": "2024-06-17T03:22:38Z", "repo": "webpack/webpack"}
+{"number": 18506, "title": "Tree-shaking fails for different imports from the same file across multiple routes", "createdAt": "2024-06-17T13:47:39Z", "repo": "webpack/webpack"}
+{"number": 18517, "title": "If the cache path is the same but the project path is different, the cache does not take effect", "createdAt": "2024-06-18T12:01:13Z", "repo": "webpack/webpack"}
+{"number": 18513, "title": "Coffee-loader failed to process CoffeeScript files with CoffeeScriptError: error: reserved word 'var'", "createdAt": "2024-06-18T15:48:38Z", "repo": "webpack/webpack"}
+{"number": 18515, "title": "Why webpack-dev-server should be used for development only？", "createdAt": "2024-06-19T09:26:17Z", "repo": "webpack/webpack"}
+{"number": 18521, "title": "image in style inline", "createdAt": "2024-06-19T23:30:14Z", "repo": "webpack/webpack"}
+{"number": 18523, "title": "upgrading to pnpm v9 breaks webpack", "createdAt": "2024-06-20T10:11:07Z", "repo": "webpack/webpack"}
+{"number": 18529, "title": "Error: Unclosed comment", "createdAt": "2024-06-21T07:33:04Z", "repo": "webpack/webpack"}
+{"number": 18534, "title": "Where should I report bugs after enabling experiments.css=true?", "createdAt": "2024-06-24T13:50:31Z", "repo": "webpack/webpack"}
+{"number": 18537, "title": "webpack-error2json Plugin", "createdAt": "2024-06-25T08:02:11Z", "repo": "webpack/webpack"}
+{"number": 18539, "title": "In terser-webpack-plugin, how to keep the string specified in the function？", "createdAt": "2024-06-26T13:39:40Z", "repo": "webpack/webpack"}
+{"number": 18540, "title": "Error [ReferenceError]: Cannot access 'authConfig' before initialization", "createdAt": "2024-06-27T18:13:43Z", "repo": "webpack/webpack"}
+{"number": 18571, "title": "Dynamic import in node.js app doesn't work: MODULE_NOT_FOUND", "createdAt": "2024-07-12T15:18:04Z", "repo": "webpack/webpack"}
+{"number": 18584, "title": "Require is not defined in ES module scope, you can use import instead", "createdAt": "2024-07-15T07:01:15Z", "repo": "webpack/webpack"}
+{"number": 18583, "title": "Having production error : TypeError: (void 0) is not a function at (.next/server/webpack-api-runtime.js:1:199)", "createdAt": "2024-07-16T04:15:10Z", "repo": "webpack/webpack"}
+{"number": 18585, "title": "Module Federation Issue: remoteEntry execute duplicated", "createdAt": "2024-07-16T17:21:49Z", "repo": "webpack/webpack"}
+{"number": 18601, "title": "Webpack v5 keeps on compiling", "createdAt": "2024-07-23T07:48:24Z", "repo": "webpack/webpack"}
+{"number": 18606, "title": "webpack-dev-server and webpack-dev-middleware crash my app after upgrade to Angular18", "createdAt": "2024-07-24T11:43:46Z", "repo": "webpack/webpack"}
+{"number": 18617, "title": "How to compile multiple, unrelated CSS files, in a single webpack run?", "createdAt": "2024-07-29T07:30:06Z", "repo": "webpack/webpack"}
+{"number": 18618, "title": "May I know why webpack-dev-server@5 needs a version of node 18 at least?", "createdAt": "2024-07-29T08:45:44Z", "repo": "webpack/webpack"}
+{"number": 18619, "title": "Integration of PHP frontend app (with Angular v1.4) into React.js main SPA project as a microfrontend.", "createdAt": "2024-07-29T09:51:50Z", "repo": "webpack/webpack"}
+{"number": 18623, "title": "Infinite loop with custom generating plugin", "createdAt": "2024-07-30T16:08:39Z", "repo": "webpack/webpack"}
+{"number": 18631, "title": "Same seests from different modules fetched only once", "createdAt": "2024-08-01T03:45:07Z", "repo": "webpack/webpack"}
+{"number": 18640, "title": "my webpack 5 boilerplate ( for separately js and css files )", "createdAt": "2024-08-02T20:49:43Z", "repo": "webpack/webpack"}
+{"number": 18643, "title": "Error  Cannot find module 'webpack'", "createdAt": "2024-08-03T10:48:02Z", "repo": "webpack/webpack"}
+{"number": 18644, "title": "After add webpack devServer(5.0.4), webpack started with 3 errors", "createdAt": "2024-08-04T17:15:25Z", "repo": "webpack/webpack"}
+{"number": 18649, "title": "Webpack 5 cache \"filesystem\" breaks app with default cacheFolder.", "createdAt": "2024-08-06T07:26:51Z", "repo": "webpack/webpack"}
+{"number": 18651, "title": "ModuleParseError: Module parse failed: Unexpected token", "createdAt": "2024-08-06T14:24:04Z", "repo": "webpack/webpack"}
+{"number": 18652, "title": "Issue with dynamic imports", "createdAt": "2024-08-07T16:32:33Z", "repo": "webpack/webpack"}
+{"number": 18656, "title": "Micro Frontend Using Module Federation in Webpack 5", "createdAt": "2024-08-08T13:18:46Z", "repo": "webpack/webpack"}
+{"number": 18671, "title": "Uncaught  ReferenceError: Cannot access '__WEBPACK_DEFAULT_EXPORT__' before initialization", "createdAt": "2024-08-13T04:10:35Z", "repo": "webpack/webpack"}
+{"number": 18670, "title": "In new version of webpack5,the configuration of proxy must be in the form of an array.", "createdAt": "2024-08-13T04:19:43Z", "repo": "webpack/webpack"}
+{"number": 18680, "title": "Is it possible to include CSS file internally within a <style> tag in the output HTML file ?", "createdAt": "2024-08-14T18:56:52Z", "repo": "webpack/webpack"}
+{"number": 18681, "title": "Path to resource is getting its backslashes removed on WIndows", "createdAt": "2024-08-14T23:52:49Z", "repo": "webpack/webpack"}
+{"number": 18685, "title": "Images getting 404 error on the Webpack React Micro Frontend Project", "createdAt": "2024-08-15T15:04:58Z", "repo": "webpack/webpack"}
+{"number": 18690, "title": "The project got stuck at startup", "createdAt": "2024-08-16T07:04:20Z", "repo": "webpack/webpack"}
+{"number": 18691, "title": "webpack-dev-server needs new release to include ws vulnerability patch", "createdAt": "2024-08-16T13:18:57Z", "repo": "webpack/webpack"}
+{"number": 18707, "title": "Field 'browser' doesn't contain a valid alias configuration /opt/atlassian/pipelines/agent/build/src/css/index.css doesn't exist .tsx", "createdAt": "2024-08-23T11:47:33Z", "repo": "webpack/webpack"}
+{"number": 18706, "title": "css not loaded properly?", "createdAt": "2024-08-24T19:18:20Z", "repo": "webpack/webpack"}
+{"number": 18710, "title": "Supporting Webpack with a Vite TS Library", "createdAt": "2024-08-26T20:09:18Z", "repo": "webpack/webpack"}
+{"number": 18712, "title": "Webpack5 Angular SyntaxError: HookWebpackError: Module build failed", "createdAt": "2024-08-27T11:09:28Z", "repo": "webpack/webpack"}
+{"number": 18717, "title": "i update to webpack5，and got an error as follows，anyone could helps me,thanks a lot", "createdAt": "2024-08-28T04:15:50Z", "repo": "webpack/webpack"}
+{"number": 18722, "title": "Unable to Define Plugin in React TypeScript Project - Undefined Assets", "createdAt": "2024-08-29T17:47:02Z", "repo": "webpack/webpack"}
+{"number": 18723, "title": "webpack.SourceMapDevToolPlugin.append error -- \"append can't be false when no filename is provided\" ?", "createdAt": "2024-08-29T18:09:56Z", "repo": "webpack/webpack"}
+{"number": 18724, "title": "wp5+mini-css-extract-plugin build bundles imported vendor scss (bootstrap5), but into `main.css`, not specific `vendor.css`?", "createdAt": "2024-08-29T20:39:41Z", "repo": "webpack/webpack"}
+{"number": 18731, "title": "How to define chunk names in 3rd party code?", "createdAt": "2024-09-02T11:53:00Z", "repo": "webpack/webpack"}
+{"number": 18732, "title": "Error building webpack \"cache_springs is already renamed to e, but it's renamed as a\"", "createdAt": "2024-09-02T17:01:38Z", "repo": "webpack/webpack"}
+{"number": 18736, "title": "SyntaxError: Unexpected token import on webpack build", "createdAt": "2024-09-03T09:56:11Z", "repo": "webpack/webpack"}
+{"number": 18740, "title": "UnhandledSchemeError: Reading from \"node:stream\"", "createdAt": "2024-09-04T15:48:22Z", "repo": "webpack/webpack"}
+{"number": 18743, "title": "when I bundle esbuild ,but don't allow to do that.", "createdAt": "2024-09-06T09:38:04Z", "repo": "webpack/webpack"}
+{"number": 18757, "title": "Not able to resolve webpack loader issue", "createdAt": "2024-09-11T12:24:43Z", "repo": "webpack/webpack"}
+{"number": 18759, "title": "fatalDeprecations and verbose true not working on sass-loader", "createdAt": "2024-09-12T05:44:39Z", "repo": "webpack/webpack"}
+{"number": 18764, "title": "Unable to consume the shared library by HOST in Module Federation", "createdAt": "2024-09-13T08:26:09Z", "repo": "webpack/webpack"}
+{"number": 18765, "title": "Can't use TS on node modules", "createdAt": "2024-09-13T16:35:43Z", "repo": "webpack/webpack"}
+{"number": 18766, "title": "TypeError: undefined is not an object (evaluating 'depBlock.dependencies') from plugin FlagDependencyExportsPlugin.", "createdAt": "2024-09-14T11:43:35Z", "repo": "webpack/webpack"}
+{"number": 18771, "title": "i am not able to start webpack live server on chrome for frontend changes can you help me how to start the server ?", "createdAt": "2024-09-16T10:57:56Z", "repo": "webpack/webpack"}
+{"number": 18769, "title": "Dynamic Module Federation: singleton library instantiated 2x", "createdAt": "2024-09-16T17:31:06Z", "repo": "webpack/webpack"}
+{"number": 18775, "title": "Build Error while using sassOptions fatalDeprecations 'mixed-decls' in modern-compiler", "createdAt": "2024-09-19T08:57:23Z", "repo": "webpack/webpack"}
+{"number": 18776, "title": "Webpack Module Federation: `sharedMappings` causing \"Call Stack Size Exceeded\" error in Safari", "createdAt": "2024-09-19T21:03:47Z", "repo": "webpack/webpack"}
+{"number": 18780, "title": "Front page instruction won't work", "createdAt": "2024-09-22T15:28:19Z", "repo": "webpack/webpack"}
+{"number": 18782, "title": "Execution of split chunks default function occurs before module evaluation", "createdAt": "2024-09-23T21:46:35Z", "repo": "webpack/webpack"}
+{"number": 18785, "title": "Error during webpack plugin compilation with typescript 5.6.2", "createdAt": "2024-09-24T08:52:13Z", "repo": "webpack/webpack"}
+{"number": 18786, "title": "Parser.tagVariable workaround in webpack 4", "createdAt": "2024-09-24T09:00:08Z", "repo": "webpack/webpack"}
+{"number": 18789, "title": "I plan to export a function in the package, but after packaging, no export content", "createdAt": "2024-09-24T14:57:49Z", "repo": "webpack/webpack"}
+{"number": 18794, "title": "Synchronous import of components exported by module federation？", "createdAt": "2024-09-25T03:26:21Z", "repo": "webpack/webpack"}
+{"number": 18795, "title": "In module federation, is there a way to know whether the current module is being used by the host application or by a remote application?", "createdAt": "2024-09-25T09:12:19Z", "repo": "webpack/webpack"}
+{"number": 18796, "title": "Problem on sealing procedure in webpack", "createdAt": "2024-09-25T15:17:31Z", "repo": "webpack/webpack"}
+{"number": 18808, "title": "Production build broken due to missing css", "createdAt": "2024-09-27T13:25:33Z", "repo": "webpack/webpack"}
+{"number": 18821, "title": "Clarify tree shaking explanation from the docs", "createdAt": "2024-10-01T15:43:13Z", "repo": "webpack/webpack"}
+{"number": 18825, "title": "Can ES module share __webpack_require__ runtime with normal js file?", "createdAt": "2024-10-02T08:34:48Z", "repo": "webpack/webpack"}
+{"number": 18829, "title": "Module federation requesting remote component from wrong origin", "createdAt": "2024-10-03T13:22:06Z", "repo": "webpack/webpack"}
+{"number": 18848, "title": "TypeError: __webpack_require__.O is not a function", "createdAt": "2024-10-11T12:45:52Z", "repo": "webpack/webpack"}
+{"number": 18865, "title": "workerChunkLoading", "createdAt": "2024-10-16T14:23:21Z", "repo": "webpack/webpack"}
+{"number": 18866, "title": "Error resolving stylesheet with sass-loader with import/require keys in package.json exports", "createdAt": "2024-10-16T15:45:06Z", "repo": "webpack/webpack"}
+{"number": 18868, "title": "WDS 5 migration help", "createdAt": "2024-10-16T17:35:58Z", "repo": "webpack/webpack"}
+{"number": 18870, "title": "module.generator 和 module.parse", "createdAt": "2024-10-17T04:52:20Z", "repo": "webpack/webpack"}
+{"number": 18871, "title": "removeAvailableModules", "createdAt": "2024-10-17T09:58:51Z", "repo": "webpack/webpack"}
+{"number": 18872, "title": "using HTML-Webpack-plugin to use multiple HTML files, but one of them cannot execute JS script?", "createdAt": "2024-10-17T14:04:13Z", "repo": "webpack/webpack"}
+{"number": 18873, "title": "Question about asRegExp", "createdAt": "2024-10-17T16:27:19Z", "repo": "webpack/webpack"}
+{"number": 18878, "title": "Unsupported URL scheme", "createdAt": "2024-10-21T15:10:17Z", "repo": "webpack/webpack"}
+{"number": 18892, "title": "webpack contenthash  chunkhash  chunk", "createdAt": "2024-10-26T11:00:40Z", "repo": "webpack/webpack"}
+{"number": 18896, "title": "What is the memory optimization limit for webpack in the future?", "createdAt": "2024-10-29T09:10:26Z", "repo": "webpack/webpack"}
+{"number": 18902, "title": "run build  error：Fatal JavaScript invalid size error 169220804", "createdAt": "2024-10-29T11:37:51Z", "repo": "webpack/webpack"}
+{"number": 18907, "title": "[webpack-cli] TypeError [ERR_VM_DYNAMIC_IMPORT_CALLBACK_MISSING]: A dynamic import callback was not specified.", "createdAt": "2024-10-31T02:20:16Z", "repo": "webpack/webpack"}
+{"number": 18917, "title": "New very slow build time with webpack 5.96.0", "createdAt": "2024-11-01T01:19:54Z", "repo": "webpack/webpack"}
+{"number": 18931, "title": "How to bundle a php file with the rest of my project?", "createdAt": "2024-11-04T09:37:02Z", "repo": "webpack/webpack"}
+{"number": 18934, "title": "ProfilingPlugin  profile option", "createdAt": "2024-11-05T11:10:12Z", "repo": "webpack/webpack"}
+{"number": 18935, "title": "ProfilingPlugin profile option   Please help me", "createdAt": "2024-11-05T11:25:53Z", "repo": "webpack/webpack"}
+{"number": 18936, "title": "How to import modules within plugins and avoid MODULE_NOT_FOUND from the webpack-dev-middleware", "createdAt": "2024-11-05T14:08:32Z", "repo": "webpack/webpack"}
+{"number": 18943, "title": "What is the right compilation hook to transform asset module names prior to emit?", "createdAt": "2024-11-07T12:47:01Z", "repo": "webpack/webpack"}
+{"number": 18946, "title": "Is webpack offers project in GSOC 25", "createdAt": "2024-11-07T23:35:58Z", "repo": "webpack/webpack"}
+{"number": 18949, "title": "Bug with the refactored `AssetSourceGenerator` in 5.96.0", "createdAt": "2024-11-08T15:25:11Z", "repo": "webpack/webpack"}
+{"number": 18950, "title": "Is it possible to only use filesystem caching for builds that aren't re-builds?", "createdAt": "2024-11-08T23:25:59Z", "repo": "webpack/webpack"}
+{"number": 18952, "title": "Webpack keeps converting async/await to _async_to_generator, how can I disable this feature?", "createdAt": "2024-11-10T17:01:45Z", "repo": "webpack/webpack"}
+{"number": 18953, "title": "module.unsafeCache and cache option", "createdAt": "2024-11-11T10:46:10Z", "repo": "webpack/webpack"}
+{"number": 18955, "title": "5.95.0 -> 5.96.1 regression TypeError: this._moduleGraph.getIncomingConnections is not a function", "createdAt": "2024-11-11T15:25:28Z", "repo": "webpack/webpack"}
+{"number": 18958, "title": "resolve.cacheWithContext", "createdAt": "2024-11-12T05:27:02Z", "repo": "webpack/webpack"}
+{"number": 18960, "title": "resolve.aliasFields option", "createdAt": "2024-11-12T07:48:36Z", "repo": "webpack/webpack"}
+{"number": 18962, "title": "ProfilingPlugin", "createdAt": "2024-11-12T11:40:00Z", "repo": "webpack/webpack"}
+{"number": 18970, "title": "ReferenceError: Cannot access '__WEBPACK_DEFAULT_EXPORT__' before initialization", "createdAt": "2024-11-12T20:43:47Z", "repo": "webpack/webpack"}
+{"number": 18969, "title": "How to replace process.env variables if it is undefined", "createdAt": "2024-11-13T11:12:02Z", "repo": "webpack/webpack"}
+{"number": 18984, "title": "this.util.TextEncoder is not a constructor while importing a file bundled with Webpack 5", "createdAt": "2024-11-15T08:42:27Z", "repo": "webpack/webpack"}
+{"number": 18995, "title": "webpack + zeromq === fail", "createdAt": "2024-11-17T00:16:23Z", "repo": "webpack/webpack"}
+{"number": 19007, "title": "[Bug or Feature?] Top-Level Await Dynamic Import Incompatibility with Provide Plugin Causing Undefined Variables", "createdAt": "2024-11-22T10:40:17Z", "repo": "webpack/webpack"}
+{"number": 19002, "title": "Bundle TS code without compiling it to JS", "createdAt": "2024-11-22T21:08:21Z", "repo": "webpack/webpack"}
+{"number": 19005, "title": "How to bundle Emscripten output (ES6 module) with webpack?", "createdAt": "2024-11-25T12:15:07Z", "repo": "webpack/webpack"}
+{"number": 19006, "title": "How to load modules conditionally depending of typeof window", "createdAt": "2024-11-25T13:35:34Z", "repo": "webpack/webpack"}
+{"number": 19013, "title": "How to add an external library (zeromq.js) to the renderer? (electron+webpack+electron forge)", "createdAt": "2024-11-26T12:00:59Z", "repo": "webpack/webpack"}
+{"number": 19019, "title": "Performance regression in 5.95.0", "createdAt": "2024-11-26T14:29:22Z", "repo": "webpack/webpack"}
+{"number": 19017, "title": "pass direct references to webpack.config module.rules.loader rather than magic strings", "createdAt": "2024-11-27T20:09:29Z", "repo": "webpack/webpack"}
+{"number": 19020, "title": "Help understanding meaning of webpack chunk loading global state and empty chunks", "createdAt": "2024-11-28T17:18:37Z", "repo": "webpack/webpack"}
+{"number": 19024, "title": "Strategies for reducing/eliminating module duplication across chunks", "createdAt": "2024-11-29T14:46:01Z", "repo": "webpack/webpack"}
+{"number": 19034, "title": "Webpack is emitting incorrect sourcemaps for Sass", "createdAt": "2024-12-03T19:33:44Z", "repo": "webpack/webpack"}
+{"number": 19045, "title": "Auto-include webpack vendors bundles", "createdAt": "2024-12-07T11:19:01Z", "repo": "webpack/webpack"}
+{"number": 19053, "title": "Uncaught ReferenceError: global is not defined", "createdAt": "2024-12-10T05:06:24Z", "repo": "webpack/webpack"}
+{"number": 19054, "title": "Webpack Plugin's Module Size", "createdAt": "2024-12-12T03:26:13Z", "repo": "webpack/webpack"}
+{"number": 19059, "title": "How to find exactly which lines are being tree-shaken?", "createdAt": "2024-12-12T08:20:31Z", "repo": "webpack/webpack"}
+{"number": 19082, "title": "output \"Last few GCs,JavaScript heap out of heap\" when build 20 thousands pages", "createdAt": "2024-12-17T09:28:12Z", "repo": "webpack/webpack"}
+{"number": 19078, "title": "Incompatible React versions: The \"react\" and \"react-dom\" packages must have the exact same version.", "createdAt": "2024-12-18T06:42:45Z", "repo": "webpack/webpack"}
+{"number": 19080, "title": "Error: Cannot find module './mime-node'", "createdAt": "2024-12-18T15:04:51Z", "repo": "webpack/webpack"}
+{"number": 19085, "title": "Microfrontend setup error: ScriptExternalLoadError: Loading script failed.", "createdAt": "2024-12-19T09:22:16Z", "repo": "webpack/webpack"}
+{"number": 19089, "title": "How can a loader add files to be processed?", "createdAt": "2024-12-21T11:44:57Z", "repo": "webpack/webpack"}
+{"number": 19095, "title": "what's meaning of the chunk's  children", "createdAt": "2024-12-25T10:28:29Z", "repo": "webpack/webpack"}
+{"number": 19094, "title": "how to modify the module content in webpack plugin?", "createdAt": "2024-12-25T12:33:30Z", "repo": "webpack/webpack"}
+{"number": 19096, "title": "Webpack error with CSS loader", "createdAt": "2024-12-25T21:00:51Z", "repo": "webpack/webpack"}
+{"number": 19100, "title": "Should JSON loader preserve the __proto__ property?", "createdAt": "2024-12-27T06:11:24Z", "repo": "webpack/webpack"}
+{"number": 19102, "title": "How to setup the pure ES modules loading with \"webpack-node-externals\"", "createdAt": "2024-12-28T02:59:25Z", "repo": "webpack/webpack"}
+{"number": 19114, "title": "Google Summer of Code 2025", "createdAt": "2025-01-05T16:33:13Z", "repo": "webpack/webpack"}
+{"number": 19124, "title": "in this method: getCombsByUsedExports , why not consider filtering some  Impossible combination", "createdAt": "2025-01-11T21:28:21Z", "repo": "webpack/webpack"}
+{"number": 19190, "title": "[harmony import] Failed to add property to namespace when the module value is a function", "createdAt": "2025-01-15T08:58:14Z", "repo": "webpack/webpack"}
+{"number": 19139, "title": "Webpack filesystem cache questions", "createdAt": "2025-01-17T09:30:45Z", "repo": "webpack/webpack"}
+{"number": 19140, "title": "How to output the components path in the html to easily locate the originating component", "createdAt": "2025-01-17T15:34:24Z", "repo": "webpack/webpack"}
+{"number": 19142, "title": "Emit unchunked entrypoint", "createdAt": "2025-01-18T00:29:45Z", "repo": "webpack/webpack"}
+{"number": 19146, "title": "Using webpack with a legacy library", "createdAt": "2025-01-20T14:27:41Z", "repo": "webpack/webpack"}
+{"number": 19189, "title": "webpack 4 to 5 issues", "createdAt": "2025-01-21T09:52:35Z", "repo": "webpack/webpack"}
+{"number": 19150, "title": "Re-run entrypoint", "createdAt": "2025-01-21T14:42:49Z", "repo": "webpack/webpack"}
+{"number": 19152, "title": "CLI: how to use TypeScript in config file with custom loader?", "createdAt": "2025-01-22T09:25:47Z", "repo": "webpack/webpack"}
+{"number": 19180, "title": "Project loads blank screen (webpackHotUpdatepublisher)", "createdAt": "2025-01-22T17:35:36Z", "repo": "webpack/webpack"}
+{"number": 19191, "title": "Help! Why when using resource types to process images, use require to import, and no longer need to reference the default attribute", "createdAt": "2025-01-24T03:21:21Z", "repo": "webpack/webpack"}
+{"number": 19162, "title": "buildChunkGraph is slow, but is it really needed for most incremental builds?", "createdAt": "2025-01-26T09:15:27Z", "repo": "webpack/webpack"}
+{"number": 19181, "title": "It's great to have file structures in webpack", "createdAt": "2025-01-28T07:08:28Z", "repo": "webpack/webpack"}
+{"number": 19167, "title": "How to \"attach\" source maps of JS files copied via `CopyWebpackPlugin` ?", "createdAt": "2025-01-28T12:14:33Z", "repo": "webpack/webpack"}
+{"number": 19170, "title": "How to write plugin that adds resolve.extensions when it is not defined in config?", "createdAt": "2025-01-29T14:06:34Z", "repo": "webpack/webpack"}
+{"number": 19172, "title": "Is web pack will work in sequelize or not?", "createdAt": "2025-01-30T06:46:12Z", "repo": "webpack/webpack"}
+{"number": 19179, "title": "Webpack not working in Sequelize", "createdAt": "2025-01-31T05:46:48Z", "repo": "webpack/webpack"}
+{"number": 19174, "title": "CSS Files in Devtool-Inspector are not clean", "createdAt": "2025-01-31T11:50:17Z", "repo": "webpack/webpack"}
+{"number": 19175, "title": "Clarify handling of URL assets /  Using child process with Typescript", "createdAt": "2025-01-31T18:30:07Z", "repo": "webpack/webpack"}
+{"number": 19178, "title": "How to configure Webpack in Next.js to avoid chunk duplication for shared files?", "createdAt": "2025-02-04T08:03:33Z", "repo": "webpack/webpack"}
+{"number": 19183, "title": "How to force a dependency to be bundled", "createdAt": "2025-02-04T20:16:07Z", "repo": "webpack/webpack"}
+{"number": 19186, "title": "Question about BuildMeta and BuildInfo", "createdAt": "2025-02-05T06:35:03Z", "repo": "webpack/webpack"}
+{"number": 19194, "title": "Implementing CSS Modules", "createdAt": "2025-02-05T19:53:39Z", "repo": "webpack/webpack"}
+{"number": 19215, "title": "Inconsistent Module Resolution (context require vs. ES6 import)", "createdAt": "2025-02-09T10:39:32Z", "repo": "webpack/webpack"}
+{"number": 19208, "title": "Why does `LoaderDefinition` return type include `Promise<string | Buffer>` but not `Promise<void>`?", "createdAt": "2025-02-10T09:43:13Z", "repo": "webpack/webpack"}
+{"number": 19213, "title": "How to replace file?", "createdAt": "2025-02-10T19:23:52Z", "repo": "webpack/webpack"}
+{"number": 19217, "title": "Custom loader browser \"module is not defined\"", "createdAt": "2025-02-10T21:54:37Z", "repo": "webpack/webpack"}
+{"number": 19223, "title": "Asset Modules and Webpack Dev Server", "createdAt": "2025-02-13T13:37:25Z", "repo": "webpack/webpack"}
+{"number": 19225, "title": "v5.98.0", "createdAt": "2025-02-13T16:29:55Z", "repo": "webpack/webpack"}
+{"number": 19234, "title": "How to Import SVGs as ReactComponent in React", "createdAt": "2025-02-15T20:27:11Z", "repo": "webpack/webpack"}
+{"number": 19245, "title": "Loading module federation code fail in worker", "createdAt": "2025-02-20T03:38:51Z", "repo": "webpack/webpack"}
+{"number": 19259, "title": "Bundle the worker file in target `electron-renderer`", "createdAt": "2025-02-20T12:47:00Z", "repo": "webpack/webpack"}
+{"number": 19250, "title": "Is it a good idea to add current file path and line/col number to class in dev mode to enhance customized developer tools experience?", "createdAt": "2025-02-21T15:34:49Z", "repo": "webpack/webpack"}
+{"number": 19255, "title": "Effect of shifting webpack to upgraded nodejs version and using ES20 and above", "createdAt": "2025-02-26T12:45:06Z", "repo": "webpack/webpack"}
+{"number": 19262, "title": "🚀 GSoC 2025: Interest in Unified Webpack Dev Tools Contribution", "createdAt": "2025-02-28T09:39:13Z", "repo": "webpack/webpack"}
+{"number": 19263, "title": "🚀 GSoC 2025: Interest in Unified Webpack Dev Tools Contribution", "createdAt": "2025-02-28T09:40:03Z", "repo": "webpack/webpack"}
+{"number": 19264, "title": "Source Maps Not Mapping to Original Source After Javascript Obfuscation", "createdAt": "2025-02-28T13:47:12Z", "repo": "webpack/webpack"}
+{"number": 19288, "title": "Interest in Contributing to \"Unified Webpack Dev Tools\" for GSoC 2025", "createdAt": "2025-03-06T18:07:41Z", "repo": "webpack/webpack"}
+{"number": 19289, "title": "Interest in Contributing to \"Unified Webpack Dev Tools\" for GSoC 2025", "createdAt": "2025-03-06T18:09:40Z", "repo": "webpack/webpack"}
+{"number": 19305, "title": "How to add a <link> tag for CSS file", "createdAt": "2025-03-10T07:57:59Z", "repo": "webpack/webpack"}
+{"number": 19310, "title": "Regarding contribution to this project for google summer of code 2025", "createdAt": "2025-03-11T04:13:01Z", "repo": "webpack/webpack"}
+{"number": 19313, "title": "Does webpack support sequential watcher/dev-server startup?", "createdAt": "2025-03-12T07:43:54Z", "repo": "webpack/webpack"}
+{"number": 19314, "title": "Import Format: CommonJS vs. ES Modules", "createdAt": "2025-03-12T17:26:40Z", "repo": "webpack/webpack"}
+{"number": 19318, "title": "How to Take Advantage of the TypeScript Compiler Speed Boost", "createdAt": "2025-03-13T12:30:57Z", "repo": "webpack/webpack"}
+{"number": 19328, "title": "Can Webpack resolve dependencies without bundling?", "createdAt": "2025-03-14T15:05:31Z", "repo": "webpack/webpack"}
+{"number": 19341, "title": "[type: 'asset/source'] in Webpack v5.96.0 Causing CSS Files Not to Be Packaged", "createdAt": "2025-03-18T07:55:54Z", "repo": "webpack/webpack"}
+{"number": 19353, "title": "module federation: if a chunk fails on first import, subsequent imports do not refetch the chunk", "createdAt": "2025-03-22T01:44:04Z", "repo": "webpack/webpack"}
+{"number": 19369, "title": "Target-Gsoc 2025", "createdAt": "2025-03-29T19:46:08Z", "repo": "webpack/webpack"}
+{"number": 19371, "title": "Can a library make sure Webpack removes a branch depending on whether React version is >= 18?", "createdAt": "2025-03-30T18:04:28Z", "repo": "webpack/webpack"}
+{"number": 19381, "title": "Why Devtool if TSC handles source maps?", "createdAt": "2025-04-03T19:25:20Z", "repo": "webpack/webpack"}
+{"number": 19391, "title": "Regarding the test suite running", "createdAt": "2025-04-07T12:47:04Z", "repo": "webpack/webpack"}
+{"number": 19396, "title": "Nested scss file changes does not trigger css file rebuild during --watch", "createdAt": "2025-04-07T19:19:27Z", "repo": "webpack/webpack"}
+{"number": 19401, "title": "RemoteEntry Caching Issue with RSBuild & Module Federation", "createdAt": "2025-04-08T05:51:52Z", "repo": "webpack/webpack"}
+{"number": 19408, "title": "webpack5 ，sideEffects globs  in node_modules/package.json is not work", "createdAt": "2025-04-10T06:31:08Z", "repo": "webpack/webpack"}
+{"number": 19409, "title": "The common library built based on wepback, external dependencies do not work properly", "createdAt": "2025-04-10T10:10:22Z", "repo": "webpack/webpack"}
+{"number": 19414, "title": "Asset management for libraries?", "createdAt": "2025-04-11T07:03:57Z", "repo": "webpack/webpack"}
+{"number": 19419, "title": "Tree-shaking optional require", "createdAt": "2025-04-13T10:25:43Z", "repo": "webpack/webpack"}
+{"number": 19426, "title": "TS2305: Module '\"lib\"' has no exported member 'MyClass'", "createdAt": "2025-04-16T14:23:25Z", "repo": "webpack/webpack"}
+{"number": 19431, "title": "publicPath not being respected when accessing chunks on output module mode", "createdAt": "2025-04-17T09:09:38Z", "repo": "webpack/webpack"}
+{"number": 19433, "title": "Webpack code evolution", "createdAt": "2025-04-17T14:20:51Z", "repo": "webpack/webpack"}
+{"number": 19462, "title": "PackFileCacheStrategy Warnings on how to turn off webpack5 persistent caching", "createdAt": "2025-04-24T13:12:15Z", "repo": "webpack/webpack"}
+{"number": 19474, "title": "Invalid hook call in React only when using Webpack rather than the Vite bundler", "createdAt": "2025-04-26T13:25:24Z", "repo": "webpack/webpack"}
+{"number": 19479, "title": "Safari 18.4 DevTools freeze when using eval-source-map with large Webpack bundles", "createdAt": "2025-04-29T07:40:34Z", "repo": "webpack/webpack"}
+{"number": 19500, "title": "onInstalled and onStartup event listeners don't work every time i import and use wasm pkg [browser extension]", "createdAt": "2025-05-03T19:03:56Z", "repo": "webpack/webpack"}
+{"number": 19499, "title": "Google Summer of Code 2025 Proposal", "createdAt": "2025-05-05T14:02:51Z", "repo": "webpack/webpack"}
+{"number": 19523, "title": "Custom CSS classes in .vue components are overridden by Quasar defaults since Webpack 5.99.0", "createdAt": "2025-05-08T18:31:39Z", "repo": "webpack/webpack"}
+{"number": 19524, "title": "ModuleFederation how to ensure chunk load uniqueness?", "createdAt": "2025-05-09T07:27:26Z", "repo": "webpack/webpack"}
+{"number": 19517, "title": "Chunk file Issues when using load balancers and Webpack", "createdAt": "2025-05-12T15:15:41Z", "repo": "webpack/webpack"}
+{"number": 19519, "title": "consider support add callback params for some sync api", "createdAt": "2025-05-13T03:15:52Z", "repo": "webpack/webpack"}
+{"number": 19520, "title": "React component by ModuleFederationPlugin 's question", "createdAt": "2025-05-13T05:51:00Z", "repo": "webpack/webpack"}
+{"number": 19529, "title": "Feature Request for Webpack Issue #14800: Enhanced Destructuring Support", "createdAt": "2025-05-14T11:46:09Z", "repo": "webpack/webpack"}
+{"number": 19531, "title": "DefinePlugin only called once when watch is enabled", "createdAt": "2025-05-14T15:44:47Z", "repo": "webpack/webpack"}
+{"number": 19538, "title": "Webpack Cache PackFileCacheStrategy always care package.json", "createdAt": "2025-05-16T03:08:33Z", "repo": "webpack/webpack"}
+{"number": 19548, "title": "Merge webpack-contrib to the webpack organization on github", "createdAt": "2025-05-19T17:17:31Z", "repo": "webpack/webpack"}
+{"number": 19566, "title": "Have it problem about webpack config?", "createdAt": "2025-05-28T11:38:21Z", "repo": "webpack/webpack"}
+{"number": 19579, "title": "Is NodeJS v10 supposed to be supported in tests?", "createdAt": "2025-06-03T08:09:54Z", "repo": "webpack/webpack"}
+{"number": 19582, "title": "How to setup caching for ImageMinimizerPlugin", "createdAt": "2025-06-04T15:46:15Z", "repo": "webpack/webpack"}
+{"number": 19583, "title": "Most of my classes are compiling to: var whateverClassName=Null", "createdAt": "2025-06-05T02:33:30Z", "repo": "webpack/webpack"}
+{"number": 19585, "title": "webpack-dev-server 4.x.x vulnerability", "createdAt": "2025-06-05T11:26:14Z", "repo": "webpack/webpack"}
+{"number": 19587, "title": "【webpack-dev-server】 Get file with 403 forbidden", "createdAt": "2025-06-06T01:11:24Z", "repo": "webpack/webpack"}
+{"number": 19592, "title": "Add loose autocomplete for common config values", "createdAt": "2025-06-06T13:20:07Z", "repo": "webpack/webpack"}
+{"number": 19599, "title": "react-scripts/ webpack-dev-server", "createdAt": "2025-06-10T08:48:10Z", "repo": "webpack/webpack"}
+{"number": 19600, "title": "How to start difference ws for every entry", "createdAt": "2025-06-10T08:51:48Z", "repo": "webpack/webpack"}
+{"number": 19611, "title": "Easy way to debug context graph", "createdAt": "2025-06-16T13:21:48Z", "repo": "webpack/webpack"}
+{"number": 19631, "title": "How to bundle my SDK which uses @vladmandic/human and tensorflow/tfjs with Webpack.", "createdAt": "2025-06-26T14:32:26Z", "repo": "webpack/webpack"}
+{"number": 19644, "title": "Can't import SCSS module from node_modules after migrating from Webpack v3 to v5", "createdAt": "2025-06-27T19:46:15Z", "repo": "webpack/webpack"}
+{"number": 19675, "title": "How to prevent webpack from reading a dependency's whole directory?", "createdAt": "2025-07-09T12:57:39Z", "repo": "webpack/webpack"}
+{"number": 19698, "title": "Suboptimal final `export { … as default}` generated code", "createdAt": "2025-07-14T10:52:43Z", "repo": "webpack/webpack"}
+{"number": 19707, "title": "Webpack dev server config --host 0.0.0.0 doesn't bind to WSL interface", "createdAt": "2025-07-16T19:54:51Z", "repo": "webpack/webpack"}
+{"number": 19722, "title": "Import string literals", "createdAt": "2025-07-22T15:58:16Z", "repo": "webpack/webpack"}
+{"number": 19747, "title": "require('node:url') in Webpack 5.101.0 breaks builds unexpectedly", "createdAt": "2025-07-29T09:56:09Z", "repo": "webpack/webpack"}
+{"number": 19749, "title": "Getting error from Html Webpack plugin after recent update", "createdAt": "2025-07-29T11:54:55Z", "repo": "webpack/webpack"}
+{"number": 19765, "title": "siblings not specified correctly in chunk（stats json）", "createdAt": "2025-08-01T06:56:42Z", "repo": "webpack/webpack"}
+{"number": 19766, "title": "Code Splitting not export default", "createdAt": "2025-08-04T12:53:24Z", "repo": "webpack/webpack"}
+{"number": 19794, "title": "Generating source maps and using TerserPlugin", "createdAt": "2025-08-13T07:55:18Z", "repo": "webpack/webpack"}
+{"number": 19796, "title": "v5.101.1 -> Builds are failing", "createdAt": "2025-08-13T10:23:49Z", "repo": "webpack/webpack"}
+{"number": 19797, "title": "Opinions on Module Federation for Large-Scale Fintech Application Architecture", "createdAt": "2025-08-13T12:02:44Z", "repo": "webpack/webpack"}
+{"number": 19839, "title": "[IMPORTANT]: We are moving from Slack to Discord", "createdAt": "2025-08-26T15:03:18Z", "repo": "webpack/webpack"}
+{"number": 19880, "title": "since v5.101.2 I cannot build dojo project: Module not found: Error: Can't resolve", "createdAt": "2025-09-05T12:18:55Z", "repo": "webpack/webpack"}
+{"number": 19922, "title": "Incorrect resolution of default import for library.type = \"system\"", "createdAt": "2025-09-20T09:59:42Z", "repo": "webpack/webpack"}
+{"number": 19935, "title": "Webpack >5.101.0 not working on microfrontend-angular solution ( Fails only on deployed version - production ) ( NEED HELP )", "createdAt": "2025-09-25T15:58:47Z", "repo": "webpack/webpack"}
+{"number": 19956, "title": "GSoC 2025 - Seeking Guidance for unified Webpack Dev Tools project", "createdAt": "2025-09-28T17:24:11Z", "repo": "webpack/webpack"}
+{"number": 19966, "title": "After splitting into chunks, do I need to manually inject those chunk files, or will the main entry bundle automatically load them at runtime?", "createdAt": "2025-10-01T11:48:09Z", "repo": "webpack/webpack"}
+{"number": 19969, "title": "Webpack v5.99.9 production build failing to load a Vue 2 application", "createdAt": "2025-10-02T10:56:37Z", "repo": "webpack/webpack"}
+{"number": 19976, "title": "What is the best way to share state between Webpack plugins for a compilation lifecycle?", "createdAt": "2025-10-03T00:23:56Z", "repo": "webpack/webpack"}
+{"number": 19983, "title": "What is the recommended way to share state extracted by a loader with plugin(s) within a compilation lifecycle?", "createdAt": "2025-10-06T01:06:38Z", "repo": "webpack/webpack"}
+{"number": 20013, "title": "JSON module supports named import for `js/esm`", "createdAt": "2025-10-13T03:48:18Z", "repo": "webpack/webpack"}
+{"number": 20015, "title": "Are types considered breaking changes?", "createdAt": "2025-10-15T08:13:08Z", "repo": "webpack/webpack"}
+{"number": 20039, "title": "Use web workers with publicPath from runtime?", "createdAt": "2025-10-22T11:32:59Z", "repo": "webpack/webpack"}
+{"number": 20049, "title": "SplitChunksPlugin:Repeated packaging of synchronous dependencies of multi-entry asynchronously loaded modules", "createdAt": "2025-10-24T09:27:26Z", "repo": "webpack/webpack"}
+{"number": 20161, "title": "Remove useless empty js output for CSS module", "createdAt": "2025-11-25T11:04:46Z", "repo": "webpack/webpack"}
+{"number": 20180, "title": "From a Chrome extension, how can I programmatically intercept and inject code into a website’s Web Worker (Webpack‑bundled) so I can call its internal functions using the existing logged‑in session?", "createdAt": "2025-11-28T00:55:33Z", "repo": "webpack/webpack"}
+{"number": 20195, "title": "Does `thread-loader` work with `MiniCssExtractPlugin.loader`?", "createdAt": "2025-12-01T19:14:16Z", "repo": "webpack/webpack"}
+{"number": 20216, "title": "error  Expected license comment  webpack/require-license-comment", "createdAt": "2025-12-09T09:46:39Z", "repo": "webpack/webpack"}
+{"number": 20224, "title": "What hooks do I have to use to create a PWA plugin?", "createdAt": "2025-12-11T17:15:14Z", "repo": "webpack/webpack"}
+{"number": 20241, "title": "`is-extglob` error", "createdAt": "2025-12-15T20:33:11Z", "repo": "webpack/webpack"}
+{"number": 20280, "title": "Getting webpack-dev-server vulnerabilities issue in my project.", "createdAt": "2026-01-02T06:25:52Z", "repo": "webpack/webpack"}
+{"number": 20283, "title": "contribution", "createdAt": "2026-01-04T18:09:37Z", "repo": "webpack/webpack"}
+{"number": 20310, "title": "Looking for a beginner-friendly issue to contribute", "createdAt": "2026-01-14T19:05:49Z", "repo": "webpack/webpack"}
+{"number": 20328, "title": "EPIPE -32 when building browser extension", "createdAt": "2026-01-18T12:09:38Z", "repo": "webpack/webpack"}
+{"number": 20387, "title": "Add code context and suggestions to error messages for better debugging experience", "createdAt": "2026-01-30T06:09:48Z", "repo": "webpack/webpack"}
+{"number": 20386, "title": "Bug / UX Enhancement - Circular Dependency Error Messages", "createdAt": "2026-01-30T06:48:53Z", "repo": "webpack/webpack"}
+{"number": 20466, "title": "Ideas on how to spend the 100K USD in azure credits for webpack", "createdAt": "2026-02-17T19:32:15Z", "repo": "webpack/webpack"}
+{"number": 20480, "title": "Google Summer of Code 2026 discussion forum", "createdAt": "2026-02-19T18:03:44Z", "repo": "webpack/webpack"}
+{"number": 20528, "title": "Duplicated export presence logic across Harmony dependency classes", "createdAt": "2026-02-23T19:12:01Z", "repo": "webpack/webpack"}
+{"number": 20532, "title": "CSSLoader Desktop \"PluginLoader.exe\" Win11", "createdAt": "2026-02-25T00:45:40Z", "repo": "webpack/webpack"}
+{"number": 20565, "title": "Need Guidance", "createdAt": "2026-03-02T14:39:58Z", "repo": "webpack/webpack"}
+{"number": 20580, "title": "Introducing Myself!", "createdAt": "2026-03-04T17:10:43Z", "repo": "webpack/webpack"}
+{"number": 20613, "title": "Chrome DevTools becomes extremely slow or crashes when .wasm is bundled with asset/inline in webpack", "createdAt": "2026-03-09T13:34:35Z", "repo": "webpack/webpack"}
+{"number": 20617, "title": "Compiler.run(): finalCallback sets compiler.idle = true twice", "createdAt": "2026-03-10T16:33:18Z", "repo": "webpack/webpack"}
+{"number": 20619, "title": "Update the installation guide to address the NPM 7+ ERESOLVE peer dependency conflicts", "createdAt": "2026-03-10T17:01:30Z", "repo": "webpack/webpack"}
+{"number": 20633, "title": "Best way to start contributing to webpack documentation?", "createdAt": "2026-03-12T16:31:46Z", "repo": "webpack/webpack"}
+{"number": 20645, "title": "Cypress test for dynamic content error handling in Page component", "createdAt": "2026-03-14T06:08:55Z", "repo": "webpack/webpack"}
+{"number": 20677, "title": "GSoC 2026 Interested in Webpack Documentation Redesign Project", "createdAt": "2026-03-21T09:16:20Z", "repo": "webpack/webpack"}
+{"number": 20681, "title": "Webpack: New Documentation Website (GSoC 2026)", "createdAt": "2026-03-21T21:46:08Z", "repo": "webpack/webpack"}
+{"number": 20684, "title": "[enhanced-resolve] imports field: internal intentional feature or spec deviation?", "createdAt": "2026-03-23T08:55:23Z", "repo": "webpack/webpack"}
+{"number": 20695, "title": "Smart Webpack Configuration Analyzer to Improve Developer Experience", "createdAt": "2026-03-24T10:25:03Z", "repo": "webpack/webpack"}
+{"number": 20714, "title": "Importing sass variables from abstract file (old solution no longer work! Please help.", "createdAt": "2026-03-26T22:52:41Z", "repo": "webpack/webpack"}
+{"number": 20734, "title": "Improving Developer Experience and Build Visibility in Webpack", "createdAt": "2026-03-29T07:07:40Z", "repo": "webpack/webpack"}
+{"number": 20745, "title": "Implementing native HTML entry points (issue #536)", "createdAt": "2026-03-31T03:02:13Z", "repo": "webpack/webpack"}
+{"number": 20748, "title": "Implementing a new runtime API (__webpack_require__.federation.invalidateRemote) to support hot reloading of Module Federation remotes (issue #13912)", "createdAt": "2026-03-31T14:54:19Z", "repo": "webpack/webpack"}
+{"number": 20783, "title": "Prevent chunk files from escaping output.path when chunk names contain path separators", "createdAt": "2026-04-06T22:43:19Z", "repo": "webpack/webpack"}
+{"number": 20827, "title": "standalone barcode duplicate TA210", "createdAt": "2026-04-12T13:15:11Z", "repo": "webpack/webpack"}
+{"number": 20862, "title": "Why does Webpack emit  importScripts()  for ES‑module Web Workers, causing runtime failure?", "createdAt": "2026-04-22T06:09:22Z", "repo": "webpack/webpack"}
+{"number": 20882, "title": "RFC: Native async startup handshake to remove mandatory bootstrap.js in Module Federation", "createdAt": "2026-04-27T15:59:00Z", "repo": "webpack/webpack"}
+{"number": 20976, "title": "Deterministic ordering for CSS modules when order otherwise conflicts", "createdAt": "2026-05-18T09:31:33Z", "repo": "webpack/webpack"}
+{"number": 21044, "title": "Raquel Punzano nosete 43547941V", "createdAt": "2026-05-27T08:49:58Z", "repo": "webpack/webpack"}
+{"number": 21047, "title": "How to prevent webpack from ever parsing some .js file", "createdAt": "2026-05-27T13:02:43Z", "repo": "webpack/webpack"}
+{"number": 21079, "title": "Open ai api key", "createdAt": "2026-06-03T13:25:54Z", "repo": "webpack/webpack"}
+{"number": 21080, "title": "`enhanced-resolve`: What is the expected fallback behavior when `restrictions` is combined with multiple `modules` entries?", "createdAt": "2026-06-03T15:26:30Z", "repo": "webpack/webpack"}

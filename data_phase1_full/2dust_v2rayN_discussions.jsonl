@@ -1,0 +1,1456 @@
+{"number": 1968, "title": "感谢大佬的优秀软体,当使用v2rayN在Windows10的时候, 添加节点类型Trojan. Goole remote desktop一直提示offline.", "createdAt": "2022-01-04T03:52:47Z", "repo": "2dust/v2rayN"}
+{"number": 1970, "title": "加域后如何才能正常使用？", "createdAt": "2022-01-04T11:11:38Z", "repo": "2dust/v2rayN"}
+{"number": 1980, "title": "无法更新订阅", "createdAt": "2022-01-08T10:58:53Z", "repo": "2dust/v2rayN"}
+{"number": 1984, "title": "v2rayN在台湾繁体系统下没有正常运行,无法正常出现界面", "createdAt": "2022-01-09T12:41:15Z", "repo": "2dust/v2rayN"}
+{"number": 1993, "title": "能否实现自动更新订阅", "createdAt": "2022-01-13T08:27:01Z", "repo": "2dust/v2rayN"}
+{"number": 1996, "title": "对core v5变动的跟进", "createdAt": "2022-01-16T03:18:38Z", "repo": "2dust/v2rayN"}
+{"number": 2014, "title": "我记得原来有很多URL，现在怎么没了？", "createdAt": "2022-01-25T15:05:51Z", "repo": "2dust/v2rayN"}
+{"number": 2027, "title": "没设置系统代理的情况下有很高的流量使用", "createdAt": "2022-02-08T16:14:18Z", "repo": "2dust/v2rayN"}
+{"number": 2034, "title": "无法连接google", "createdAt": "2022-02-14T06:09:54Z", "repo": "2dust/v2rayN"}
+{"number": 2046, "title": "New Release v4.32 - Real IP address visible", "createdAt": "2022-02-19T03:29:45Z", "repo": "2dust/v2rayN"}
+{"number": 2049, "title": "两个小小的新功能请求：）", "createdAt": "2022-02-19T06:27:08Z", "repo": "2dust/v2rayN"}
+{"number": 2060, "title": "Win7无法打开客户端", "createdAt": "2022-02-24T09:45:59Z", "repo": "2dust/v2rayN"}
+{"number": 2063, "title": "4.33不能批量测试速度和真延时", "createdAt": "2022-02-25T01:11:07Z", "repo": "2dust/v2rayN"}
+{"number": 2094, "title": "关于代理模式的疑问", "createdAt": "2022-03-11T02:49:48Z", "repo": "2dust/v2rayN"}
+{"number": 2099, "title": "pip和conda可以单独设置代理", "createdAt": "2022-03-13T15:26:44Z", "repo": "2dust/v2rayN"}
+{"number": 2100, "title": "5.0", "createdAt": "2022-03-14T12:50:36Z", "repo": "2dust/v2rayN"}
+{"number": 2125, "title": "与 v2rayN Proxyfire 集成的改进", "createdAt": "2022-03-23T11:01:02Z", "repo": "2dust/v2rayN"}
+{"number": 2158, "title": "v2rayN 和Ubisoft Connect冲突", "createdAt": "2022-04-05T03:58:36Z", "repo": "2dust/v2rayN"}
+{"number": 2172, "title": "v2rayN会代理网易UU语音", "createdAt": "2022-04-10T12:02:08Z", "repo": "2dust/v2rayN"}
+{"number": 2201, "title": "ip138显示的不是vps的ip", "createdAt": "2022-04-15T08:09:14Z", "repo": "2dust/v2rayN"}
+{"number": 2203, "title": "测试服务器速度的含义？", "createdAt": "2022-04-15T16:38:34Z", "repo": "2dust/v2rayN"}
+{"number": 2212, "title": "core", "createdAt": "2022-04-17T19:20:14Z", "repo": "2dust/v2rayN"}
+{"number": 2228, "title": "关于自定义路由规则填写", "createdAt": "2022-04-21T13:51:21Z", "repo": "2dust/v2rayN"}
+{"number": 2235, "title": "请问如何做到一个网站的子域名使用不同代理？", "createdAt": "2022-04-23T14:49:59Z", "repo": "2dust/v2rayN"}
+{"number": 2236, "title": "系统代理中添加“只打开系统代理”", "createdAt": "2022-04-24T09:44:54Z", "repo": "2dust/v2rayN"}
+{"number": 2249, "title": "请问预发行版本是什么？", "createdAt": "2022-04-29T03:18:38Z", "repo": "2dust/v2rayN"}
+{"number": 2257, "title": "Restart button", "createdAt": "2022-05-01T11:23:38Z", "repo": "2dust/v2rayN"}
+{"number": 2259, "title": "v2ray", "createdAt": "2022-05-02T03:37:49Z", "repo": "2dust/v2rayN"}
+{"number": 2284, "title": "v2rayN需要增加自動刪除失效節點功能體驗", "createdAt": "2022-05-08T20:50:36Z", "repo": "2dust/v2rayN"}
+{"number": 2287, "title": "#V2rayNG添加vmess链接后，测试真连接延迟正常，但是ping得-1ms，且无法访问任何网站", "createdAt": "2022-05-10T03:17:08Z", "repo": "2dust/v2rayN"}
+{"number": 2312, "title": "可否更新单个订阅", "createdAt": "2022-05-17T08:20:00Z", "repo": "2dust/v2rayN"}
+{"number": 2326, "title": "Vmess 类型无法使用，Trojan 类型正常", "createdAt": "2022-05-21T07:15:50Z", "repo": "2dust/v2rayN"}
+{"number": 2336, "title": "能在本地多开端口吗", "createdAt": "2022-05-25T03:23:33Z", "repo": "2dust/v2rayN"}
+{"number": 2339, "title": "系统代理设置 - socks和http有什么区别？用哪个？xray和v2fly有什么区别？用哪个？", "createdAt": "2022-05-25T16:38:10Z", "repo": "2dust/v2rayN"}
+{"number": 2342, "title": "关于订阅更新", "createdAt": "2022-05-26T03:17:30Z", "repo": "2dust/v2rayN"}
+{"number": 2370, "title": "关于台湾节点的问题", "createdAt": "2022-06-05T08:53:55Z", "repo": "2dust/v2rayN"}
+{"number": 2379, "title": "暗黑模式dark mode什么时候适配啊？晚上看到白色的UI很刺眼。", "createdAt": "2022-06-09T05:06:15Z", "repo": "2dust/v2rayN"}
+{"number": 2386, "title": "服务器挂了吗？还是已经换地址了？访问不了了", "createdAt": "2022-06-12T02:08:30Z", "repo": "2dust/v2rayN"}
+{"number": 2419, "title": "基础连接已经关闭: 发送时发生错误", "createdAt": "2022-06-23T16:20:10Z", "repo": "2dust/v2rayN"}
+{"number": 2423, "title": "订阅设置这里非常的难用.", "createdAt": "2022-06-24T06:58:12Z", "repo": "2dust/v2rayN"}
+{"number": 2426, "title": "为什么我显示‘导入订阅失败’，所有服务器只能上传不能下载，无法订阅和更新", "createdAt": "2022-06-26T05:03:00Z", "repo": "2dust/v2rayN"}
+{"number": 2436, "title": "第一次使用。已经下载了两个zip，但是不会配置VMess服务器，这个看哪里", "createdAt": "2022-06-28T09:52:20Z", "repo": "2dust/v2rayN"}
+{"number": 2440, "title": "[问题] 如何导入、或如何使用 v2rayN配置文件？", "createdAt": "2022-07-01T02:25:37Z", "repo": "2dust/v2rayN"}
+{"number": 2448, "title": "v2rayN-Core被360报告被病毒", "createdAt": "2022-07-04T01:54:47Z", "repo": "2dust/v2rayN"}
+{"number": 2455, "title": "如何添加多个端口，请大神们传教谢谢", "createdAt": "2022-07-06T04:22:00Z", "repo": "2dust/v2rayN"}
+{"number": 2474, "title": "旧版v2rayN-Core昨天突然失效，现在使用的时候无法改变IP", "createdAt": "2022-07-15T04:54:47Z", "repo": "2dust/v2rayN"}
+{"number": 2520, "title": "能否新增hysteria协议", "createdAt": "2022-08-02T02:36:00Z", "repo": "2dust/v2rayN"}
+{"number": 2523, "title": "V2rayN-Core.zip下载不了怎么办", "createdAt": "2022-08-04T02:40:22Z", "repo": "2dust/v2rayN"}
+{"number": 2537, "title": "更新订阅后会自动选择列表第一个服务器而不是保持原来选择的服务器", "createdAt": "2022-08-07T02:47:54Z", "repo": "2dust/v2rayN"}
+{"number": 2538, "title": "望支持verysimple", "createdAt": "2022-08-07T05:46:35Z", "repo": "2dust/v2rayN"}
+{"number": 2539, "title": "关于系统代理子选项的示意和逻辑问题", "createdAt": "2022-08-08T01:39:37Z", "repo": "2dust/v2rayN"}
+{"number": 2558, "title": "如何使用正则表达式在直连规则中添加内网IP？", "createdAt": "2022-08-16T02:01:17Z", "repo": "2dust/v2rayN"}
+{"number": 2567, "title": "why can not work", "createdAt": "2022-08-18T01:44:39Z", "repo": "2dust/v2rayN"}
+{"number": 2580, "title": "如何设置允许哪些软件使用代理？", "createdAt": "2022-08-24T08:59:46Z", "repo": "2dust/v2rayN"}
+{"number": 2590, "title": "可以加入自动测速并连接的功能吗？", "createdAt": "2022-08-30T14:20:07Z", "repo": "2dust/v2rayN"}
+{"number": 2604, "title": "qbittorrent的代理服务器应该怎么设置", "createdAt": "2022-09-04T13:24:26Z", "repo": "2dust/v2rayN"}
+{"number": 2618, "title": "5.35", "createdAt": "2022-09-08T13:10:04Z", "repo": "2dust/v2rayN"}
+{"number": 2620, "title": "用源文件编译后界面变成英文", "createdAt": "2022-09-08T13:15:06Z", "repo": "2dust/v2rayN"}
+{"number": 2621, "title": "请问是否可以设置允许来自公网的连接", "createdAt": "2022-09-08T15:30:24Z", "repo": "2dust/v2rayN"}
+{"number": 2630, "title": "如何设置规则让本机的某个软件不能通过代理联网？", "createdAt": "2022-09-14T13:51:48Z", "repo": "2dust/v2rayN"}
+{"number": 2631, "title": "分享一个一键测速择优功能的 AHK 脚本", "createdAt": "2022-09-16T10:39:13Z", "repo": "2dust/v2rayN"}
+{"number": 2647, "title": "哪位大佬会写v2rayN上的Actions？", "createdAt": "2022-09-24T01:33:40Z", "repo": "2dust/v2rayN"}
+{"number": 2670, "title": "windows11搜索框里的图片不显示，应该勾选AppContainer Loopback Exemption Utility里哪个程序？", "createdAt": "2022-10-03T04:37:52Z", "repo": "2dust/v2rayN"}
+{"number": 2679, "title": "server test error", "createdAt": "2022-10-05T08:40:17Z", "repo": "2dust/v2rayN"}
+{"number": 2690, "title": "问一个有关clash订阅DNS策略问题", "createdAt": "2022-10-11T02:50:21Z", "repo": "2dust/v2rayN"}
+{"number": 2693, "title": "关于5.32版本后的DNS设置分享", "createdAt": "2022-10-11T07:41:49Z", "repo": "2dust/v2rayN"}
+{"number": 2696, "title": "是否可以让本应用图标更靓（清晰、鲜艳...）一点呢？", "createdAt": "2022-10-13T01:39:42Z", "repo": "2dust/v2rayN"}
+{"number": 2703, "title": "开启代理后Windows聚焦无法自动更新", "createdAt": "2022-10-16T05:30:51Z", "repo": "2dust/v2rayN"}
+{"number": 2707, "title": "选择绕过大陆后谷歌翻译插件无法使用，请问如何解决", "createdAt": "2022-10-16T11:39:27Z", "repo": "2dust/v2rayN"}
+{"number": 2713, "title": "How to enable DNS handling?", "createdAt": "2022-10-17T15:59:12Z", "repo": "2dust/v2rayN"}
+{"number": 2714, "title": "chrome and whatsapp not connecting", "createdAt": "2022-10-17T17:22:09Z", "repo": "2dust/v2rayN"}
+{"number": 2715, "title": "Hotspot", "createdAt": "2022-10-17T17:23:36Z", "repo": "2dust/v2rayN"}
+{"number": 2722, "title": "limit number of connection", "createdAt": "2022-10-20T13:15:29Z", "repo": "2dust/v2rayN"}
+{"number": 2747, "title": "No English ? for real ??!!!", "createdAt": "2022-10-30T23:48:14Z", "repo": "2dust/v2rayN"}
+{"number": 2769, "title": "How to add cidr ip's to v2ray settings", "createdAt": "2022-11-06T12:08:53Z", "repo": "2dust/v2rayN"}
+{"number": 2771, "title": "please bypass LAN", "createdAt": "2022-11-06T16:08:54Z", "repo": "2dust/v2rayN"}
+{"number": 2773, "title": "请问ios端用什么软件连接代理啊", "createdAt": "2022-11-06T17:32:03Z", "repo": "2dust/v2rayN"}
+{"number": 2777, "title": "VPN mode", "createdAt": "2022-11-09T23:32:54Z", "repo": "2dust/v2rayN"}
+{"number": 2780, "title": "参数设置中的系统代理设置-高级代理设置，协议选择（可选）是什么含义？", "createdAt": "2022-11-10T15:10:14Z", "repo": "2dust/v2rayN"}
+{"number": 2782, "title": "和大家讨论一下有关浏览器的dns策略问题（Firefox：DNS-socks5 vs DoH）", "createdAt": "2022-11-11T02:00:56Z", "repo": "2dust/v2rayN"}
+{"number": 2789, "title": "我在 Issues 报告：点击“地址”进行排序，但是主机名排序不正确的bug。为什么直接把该 Issue 关闭了？", "createdAt": "2022-11-14T08:53:31Z", "repo": "2dust/v2rayN"}
+{"number": 2793, "title": "ICMP和TCP可用，可ping通，但是只能连网30秒", "createdAt": "2022-11-15T04:31:48Z", "repo": "2dust/v2rayN"}
+{"number": 2812, "title": "关于系统代理方式的一个讨论", "createdAt": "2022-11-19T06:08:28Z", "repo": "2dust/v2rayN"}
+{"number": 2820, "title": "请问有人遇到过这种怪事吗？，WIN10，关闭v2ranyN 之后，独独chrome无法上网。。edge和IE都没问题。这怎么回事", "createdAt": "2022-11-22T04:21:28Z", "repo": "2dust/v2rayN"}
+{"number": 2830, "title": "PAC 自从 v4 被移除后，可否有替代软件", "createdAt": "2022-11-29T10:21:19Z", "repo": "2dust/v2rayN"}
+{"number": 2867, "title": "How to make connection as VPN?", "createdAt": "2022-12-15T04:54:44Z", "repo": "2dust/v2rayN"}
+{"number": 2872, "title": "5.39后的自动更新", "createdAt": "2022-12-15T16:34:35Z", "repo": "2dust/v2rayN"}
+{"number": 2901, "title": "subscription links", "createdAt": "2022-12-29T21:13:55Z", "repo": "2dust/v2rayN"}
+{"number": 2902, "title": "How to change the name of servers in a group", "createdAt": "2022-12-29T21:56:07Z", "repo": "2dust/v2rayN"}
+{"number": 2903, "title": "Testing and automatic connection to servers", "createdAt": "2022-12-29T22:14:03Z", "repo": "2dust/v2rayN"}
+{"number": 2905, "title": "When 6x comes out?", "createdAt": "2022-12-30T08:09:19Z", "repo": "2dust/v2rayN"}
+{"number": 2908, "title": "v2rayN-Core5.39通过笔记本热点分享连接失败", "createdAt": "2022-12-31T16:13:33Z", "repo": "2dust/v2rayN"}
+{"number": 2909, "title": "6.0", "createdAt": "2023-01-01T12:12:01Z", "repo": "2dust/v2rayN"}
+{"number": 2933, "title": "Ping - how to lower ping, for gaming?", "createdAt": "2023-01-02T12:44:53Z", "repo": "2dust/v2rayN"}
+{"number": 2940, "title": "change language in new version", "createdAt": "2023-01-02T16:17:30Z", "repo": "2dust/v2rayN"}
+{"number": 2943, "title": "The description should be published in English language", "createdAt": "2023-01-02T20:25:01Z", "repo": "2dust/v2rayN"}
+{"number": 2966, "title": "托盘右键服务器显示异常", "createdAt": "2023-01-03T15:45:01Z", "repo": "2dust/v2rayN"}
+{"number": 2980, "title": "TUN Mode not working", "createdAt": "2023-01-04T13:26:10Z", "repo": "2dust/v2rayN"}
+{"number": 3031, "title": "Will turning off sniff mode lower the latency and make the Ping better?", "createdAt": "2023-01-09T14:59:03Z", "repo": "2dust/v2rayN"}
+{"number": 3032, "title": "What is RouteOnly in the settings and what is it used for?", "createdAt": "2023-01-09T15:29:24Z", "repo": "2dust/v2rayN"}
+{"number": 3034, "title": "新手下载问题", "createdAt": "2023-01-09T15:47:36Z", "repo": "2dust/v2rayN"}
+{"number": 3084, "title": "使用非安装版dotnet6的环境设置", "createdAt": "2023-01-16T09:53:01Z", "repo": "2dust/v2rayN"}
+{"number": 3108, "title": "幫忙翻譯", "createdAt": "2023-01-21T09:35:29Z", "repo": "2dust/v2rayN"}
+{"number": 3111, "title": "Whitelist", "createdAt": "2023-01-23T14:13:54Z", "repo": "2dust/v2rayN"}
+{"number": 3113, "title": "Please add an Auto update to the Subscription", "createdAt": "2023-01-24T06:10:39Z", "repo": "2dust/v2rayN"}
+{"number": 3115, "title": "how to resolve PR_END_OF_FILE_ERROR in firefox", "createdAt": "2023-01-24T11:18:01Z", "repo": "2dust/v2rayN"}
+{"number": 3157, "title": "请问本机的监听端口可以设成和局域网监听端口一样吗？比如都设成 http://............:1081", "createdAt": "2023-02-01T06:09:14Z", "repo": "2dust/v2rayN"}
+{"number": 3162, "title": "443 port issue", "createdAt": "2023-02-01T15:12:24Z", "repo": "2dust/v2rayN"}
+{"number": 3172, "title": "Found .netfx6 and 7 compatible with Windows Vista SP2 - Can we tune it a bit to allow Windows Vista Running V2RayN v6.x Please :)", "createdAt": "2023-02-02T19:00:49Z", "repo": "2dust/v2rayN"}
+{"number": 3177, "title": "开源字体", "createdAt": "2023-02-03T12:58:22Z", "repo": "2dust/v2rayN"}
+{"number": 3178, "title": "一个建议", "createdAt": "2023-02-03T13:39:22Z", "repo": "2dust/v2rayN"}
+{"number": 3188, "title": "有人和我一样升级到6.x之后，访问youtube变慢吗？", "createdAt": "2023-02-05T10:53:03Z", "repo": "2dust/v2rayN"}
+{"number": 3195, "title": "为什么我能正常浏览油管等网站，却无法注册chatgdp", "createdAt": "2023-02-06T13:26:53Z", "repo": "2dust/v2rayN"}
+{"number": 3197, "title": "negative milliseconds", "createdAt": "2023-02-06T14:44:24Z", "repo": "2dust/v2rayN"}
+{"number": 3213, "title": "When I want to see pornhub, it shows that the connection to this site is not secure", "createdAt": "2023-02-08T10:27:16Z", "repo": "2dust/v2rayN"}
+{"number": 3238, "title": "有安卓版NG", "createdAt": "2023-02-10T09:16:15Z", "repo": "2dust/v2rayN"}
+{"number": 3240, "title": "6.x版本“PAC模式”和“自动配置系统代理”有什么区别？", "createdAt": "2023-02-10T11:09:15Z", "repo": "2dust/v2rayN"}
+{"number": 3248, "title": "English language", "createdAt": "2023-02-11T14:28:12Z", "repo": "2dust/v2rayN"}
+{"number": 3250, "title": "Test ping server", "createdAt": "2023-02-11T16:46:07Z", "repo": "2dust/v2rayN"}
+{"number": 3271, "title": "无法扫描二维码导入", "createdAt": "2023-02-14T03:54:45Z", "repo": "2dust/v2rayN"}
+{"number": 3328, "title": "自定圖示不能全部顯示", "createdAt": "2023-02-21T22:29:24Z", "repo": "2dust/v2rayN"}
+{"number": 3329, "title": "很高兴！PAC模式又回来了", "createdAt": "2023-02-22T02:42:49Z", "repo": "2dust/v2rayN"}
+{"number": 3332, "title": "6.X版本的PAC要怎么用？", "createdAt": "2023-02-23T02:35:04Z", "repo": "2dust/v2rayN"}
+{"number": 3344, "title": "请问大家 电脑微信表情和头像不显示怎么解决", "createdAt": "2023-02-25T01:41:37Z", "repo": "2dust/v2rayN"}
+{"number": 3345, "title": "报错 -- The remote server returned an error：（503）service unavailable", "createdAt": "2023-02-25T02:47:08Z", "repo": "2dust/v2rayN"}
+{"number": 3371, "title": "运行Core失败", "createdAt": "2023-02-27T04:42:04Z", "repo": "2dust/v2rayN"}
+{"number": 3385, "title": "关于pac列表的问题", "createdAt": "2023-03-01T04:39:35Z", "repo": "2dust/v2rayN"}
+{"number": 3393, "title": "我该怎么设置新版本的v2ray，有没有说明书呢...", "createdAt": "2023-03-02T10:25:33Z", "repo": "2dust/v2rayN"}
+{"number": 3403, "title": "协议介绍", "createdAt": "2023-03-04T03:07:06Z", "repo": "2dust/v2rayN"}
+{"number": 3421, "title": "v2rayN生成的xray core 配置里，在路由规则里有一个叫“id”的匹配项是做什么的", "createdAt": "2023-03-05T13:09:38Z", "repo": "2dust/v2rayN"}
+{"number": 3422, "title": "请问，v2rayN 6.15 设置——参数设置——用户代理这个选项是什么意思？", "createdAt": "2023-03-05T13:55:10Z", "repo": "2dust/v2rayN"}
+{"number": 3427, "title": "请问我的客户端突然无响应是怎么回事", "createdAt": "2023-03-06T03:20:02Z", "repo": "2dust/v2rayN"}
+{"number": 3435, "title": "delete", "createdAt": "2023-03-08T01:14:38Z", "repo": "2dust/v2rayN"}
+{"number": 3437, "title": "Each time you reload, local parts are added to the exclusion from proxy settings. What should I do?", "createdAt": "2023-03-08T09:13:14Z", "repo": "2dust/v2rayN"}
+{"number": 3441, "title": "请问6.x新版有没有操作使用说明教程？", "createdAt": "2023-03-09T07:56:53Z", "repo": "2dust/v2rayN"}
+{"number": 3444, "title": "测试结果里延迟和速度怎么选？", "createdAt": "2023-03-09T14:07:27Z", "repo": "2dust/v2rayN"}
+{"number": 3447, "title": "Any suggestion about linux desktop client", "createdAt": "2023-03-09T16:38:13Z", "repo": "2dust/v2rayN"}
+{"number": 3454, "title": "How can I connect UWP WhatsApp to localhost and v2rayN?", "createdAt": "2023-03-10T11:12:25Z", "repo": "2dust/v2rayN"}
+{"number": 3466, "title": "挂上节点也上不了外网。app/proxyman/inbound: connection ends > proxy/http: connection ends > proxy/http: failed to write response > readfrom tcp 127.0.0.1:11045->127.0.0.1:2333: io: read/write on closed pipe", "createdAt": "2023-03-11T11:20:15Z", "repo": "2dust/v2rayN"}
+{"number": 3467, "title": "关于6.x版本在切换节点时自动测试真连接是否做了混淆以避免被检测或封锁的问题", "createdAt": "2023-03-11T14:03:32Z", "repo": "2dust/v2rayN"}
+{"number": 3472, "title": "6.17不能读取剪贴板的信息，节点复制不能导入", "createdAt": "2023-03-12T05:36:04Z", "repo": "2dust/v2rayN"}
+{"number": 3476, "title": "1key clear", "createdAt": "2023-03-12T13:53:18Z", "repo": "2dust/v2rayN"}
+{"number": 3489, "title": "为什么我在开启v2ray之后无法使用bing搜索", "createdAt": "2023-03-15T08:48:37Z", "repo": "2dust/v2rayN"}
+{"number": 3490, "title": "新的任务开始的时候能否结束未完成的上一个任务", "createdAt": "2023-03-15T10:33:29Z", "repo": "2dust/v2rayN"}
+{"number": 3500, "title": "SNI", "createdAt": "2023-03-17T13:47:31Z", "repo": "2dust/v2rayN"}
+{"number": 3501, "title": "Disable V2rayN at Microsoft Edge browser", "createdAt": "2023-03-17T16:23:18Z", "repo": "2dust/v2rayN"}
+{"number": 3509, "title": "Bugs", "createdAt": "2023-03-18T18:16:29Z", "repo": "2dust/v2rayN"}
+{"number": 3514, "title": "希望界面能优化一下", "createdAt": "2023-03-19T05:17:48Z", "repo": "2dust/v2rayN"}
+{"number": 3519, "title": "Ping -1 On Windows 11", "createdAt": "2023-03-19T13:46:41Z", "repo": "2dust/v2rayN"}
+{"number": 3525, "title": "win10下如何支持安卓模拟器走代理？", "createdAt": "2023-03-20T03:34:23Z", "repo": "2dust/v2rayN"}
+{"number": 3529, "title": "只有我觉得6.0的ui很丑吗？", "createdAt": "2023-03-20T13:06:47Z", "repo": "2dust/v2rayN"}
+{"number": 3531, "title": "TUN模式下如何绕过Zerotier/Tailscale的流量？", "createdAt": "2023-03-21T01:21:03Z", "repo": "2dust/v2rayN"}
+{"number": 3537, "title": "SelfContained独立包安装点击.exe没反应", "createdAt": "2023-03-22T01:57:47Z", "repo": "2dust/v2rayN"}
+{"number": 3552, "title": "请教下，pac文件能写备注么？", "createdAt": "2023-03-25T02:29:50Z", "repo": "2dust/v2rayN"}
+{"number": 3553, "title": "6.0中， [订阅分组设置]中， [排序]的值是什么意思？", "createdAt": "2023-03-25T03:29:40Z", "repo": "2dust/v2rayN"}
+{"number": 3556, "title": "更新", "createdAt": "2023-03-25T08:39:01Z", "repo": "2dust/v2rayN"}
+{"number": 3561, "title": "connection problem. ping -1 speed -1", "createdAt": "2023-03-26T10:05:16Z", "repo": "2dust/v2rayN"}
+{"number": 3565, "title": "测速", "createdAt": "2023-03-27T15:24:22Z", "repo": "2dust/v2rayN"}
+{"number": 3573, "title": "Why the same node Shadowrocket works, v2rayN does not", "createdAt": "2023-03-30T01:03:31Z", "repo": "2dust/v2rayN"}
+{"number": 3574, "title": "6.12版本之后去重会把相同ip,端口，不同id的节点删除", "createdAt": "2023-03-30T04:27:43Z", "repo": "2dust/v2rayN"}
+{"number": 3578, "title": "Hotkeys", "createdAt": "2023-03-30T11:13:37Z", "repo": "2dust/v2rayN"}
+{"number": 3607, "title": "6.0版本还会不会发正式版？", "createdAt": "2023-04-04T07:57:42Z", "repo": "2dust/v2rayN"}
+{"number": 3610, "title": "v2rayN测速正常，但无法连接外网（内网正常，手机、路由器均正常）", "createdAt": "2023-04-04T13:47:23Z", "repo": "2dust/v2rayN"}
+{"number": 3654, "title": "TLS Error", "createdAt": "2023-04-09T10:08:34Z", "repo": "2dust/v2rayN"}
+{"number": 3655, "title": "订阅节点的获取方法", "createdAt": "2023-04-09T10:30:33Z", "repo": "2dust/v2rayN"}
+{"number": 3658, "title": "增加回退功能", "createdAt": "2023-04-09T11:51:24Z", "repo": "2dust/v2rayN"}
+{"number": 3663, "title": "v2rayn 能链接github的免费节点，并且能测出节点的速度。为什么就是不能打开youtobe 谷歌  求大神帮忙解决问题", "createdAt": "2023-04-10T13:55:24Z", "repo": "2dust/v2rayN"}
+{"number": 3674, "title": "Is it possible to specify programs that do not use the v2rayn Internet?(exclude app)", "createdAt": "2023-04-12T06:50:48Z", "repo": "2dust/v2rayN"}
+{"number": 3679, "title": "For me \"v2rayN.exe\" does not run in Windows 11... Please help me.", "createdAt": "2023-04-12T17:46:53Z", "repo": "2dust/v2rayN"}
+{"number": 3687, "title": "小白疑惑，6.X新版为什么不支持XTLS了", "createdAt": "2023-04-14T07:41:33Z", "repo": "2dust/v2rayN"}
+{"number": 3700, "title": "最好用的路由模式是不是pac模式？", "createdAt": "2023-04-16T03:57:22Z", "repo": "2dust/v2rayN"}
+{"number": 3704, "title": "Win10 Telegram電腦版 V2RayN v6.21的設置", "createdAt": "2023-04-17T07:06:34Z", "repo": "2dust/v2rayN"}
+{"number": 3706, "title": "有没有办法批量检测服务器归属地呢", "createdAt": "2023-04-17T13:43:17Z", "repo": "2dust/v2rayN"}
+{"number": 3709, "title": "PC端V2rayn  代理后被限速", "createdAt": "2023-04-17T14:11:35Z", "repo": "2dust/v2rayN"}
+{"number": 3713, "title": "How to disable Geoip and Geosite automatic update", "createdAt": "2023-04-17T23:52:17Z", "repo": "2dust/v2rayN"}
+{"number": 3716, "title": "是否有希望加回菜单栏选择服务器的功能", "createdAt": "2023-04-18T08:30:27Z", "repo": "2dust/v2rayN"}
+{"number": 3720, "title": "Add Support For Linux", "createdAt": "2023-04-19T00:04:40Z", "repo": "2dust/v2rayN"}
+{"number": 3723, "title": "节点不能链接网络-1m", "createdAt": "2023-04-19T14:21:12Z", "repo": "2dust/v2rayN"}
+{"number": 3724, "title": "节点无法连接网络，所有节点延迟均为-1ms", "createdAt": "2023-04-20T00:29:52Z", "repo": "2dust/v2rayN"}
+{"number": 3730, "title": "这些代理模式该如何选择的？LOGO的三种颜色分别代表的什么意思？", "createdAt": "2023-04-21T03:47:51Z", "repo": "2dust/v2rayN"}
+{"number": 3732, "title": "为什么唯独子啊这台电脑上面连接不上去，别的都可以", "createdAt": "2023-04-21T05:52:44Z", "repo": "2dust/v2rayN"}
+{"number": 3733, "title": "为什么唯独在这台电脑，连接不上去，一直是真连接-1ms", "createdAt": "2023-04-21T06:07:11Z", "repo": "2dust/v2rayN"}
+{"number": 3763, "title": "cannot use Tun mode direct process", "createdAt": "2023-04-25T16:00:07Z", "repo": "2dust/v2rayN"}
+{"number": 3766, "title": "proxy/http: failed to read http request > malformed HTTP request", "createdAt": "2023-04-26T06:08:26Z", "repo": "2dust/v2rayN"}
+{"number": 3777, "title": "订阅更新报错以一种访问权限不允许的方式做了一个访问套接字的尝试。求大佬指点", "createdAt": "2023-04-27T20:35:31Z", "repo": "2dust/v2rayN"}
+{"number": 3778, "title": "UPLOAD SPEED TEST", "createdAt": "2023-04-28T00:57:37Z", "repo": "2dust/v2rayN"}
+{"number": 3780, "title": "Window11代理没有效果，请求大佬帮忙看看问题出在哪。", "createdAt": "2023-04-28T02:17:47Z", "repo": "2dust/v2rayN"}
+{"number": 3800, "title": "所有订阅链接都报错07->以一种访问权限不允许的方式做了一个访问套接字的尝试。 07->无效的订阅内容", "createdAt": "2023-05-03T08:12:08Z", "repo": "2dust/v2rayN"}
+{"number": 3829, "title": "订阅的节点显示剩余流量为负数", "createdAt": "2023-05-07T12:45:16Z", "repo": "2dust/v2rayN"}
+{"number": 3854, "title": "测试真链接和速度时提示“运行Core失败”", "createdAt": "2023-05-14T11:35:39Z", "repo": "2dust/v2rayN"}
+{"number": 3855, "title": "6.23图标消失", "createdAt": "2023-05-14T16:59:43Z", "repo": "2dust/v2rayN"}
+{"number": 3880, "title": "v2rayn 如何设置访问特定网站时候自动选择 特定的服务器（节点）", "createdAt": "2023-05-19T13:13:22Z", "repo": "2dust/v2rayN"}
+{"number": 3888, "title": "启用TUN模式就断网", "createdAt": "2023-05-21T07:04:10Z", "repo": "2dust/v2rayN"}
+{"number": 3897, "title": "After a couple of launches, v2rayN does not show up in a system tray as an icon", "createdAt": "2023-05-24T06:15:32Z", "repo": "2dust/v2rayN"}
+{"number": 3901, "title": "请教一下，添加订阅按钮旁边的是干什么的。", "createdAt": "2023-05-25T03:38:12Z", "repo": "2dust/v2rayN"}
+{"number": 3908, "title": "已撤回", "createdAt": "2023-05-26T11:52:13Z", "repo": "2dust/v2rayN"}
+{"number": 3910, "title": "请问如何将代理挂在系统后台（不是V2rayN的软件挂在后台）", "createdAt": "2023-05-26T16:12:34Z", "repo": "2dust/v2rayN"}
+{"number": 3912, "title": "how to chain v2rayn to famous VPNs like windscribe or nord etc.", "createdAt": "2023-05-27T12:45:40Z", "repo": "2dust/v2rayN"}
+{"number": 3914, "title": "Tun mode key doesn't showing", "createdAt": "2023-05-27T15:48:53Z", "repo": "2dust/v2rayN"}
+{"number": 3930, "title": "报错 -- The remote server returned an error：（503）service unavailable", "createdAt": "2023-06-02T09:17:30Z", "repo": "2dust/v2rayN"}
+{"number": 3941, "title": "因为最近freenom域名被大批量屏蔽，想求助一个问题", "createdAt": "2023-06-05T07:35:59Z", "repo": "2dust/v2rayN"}
+{"number": 3944, "title": "请问有没有办法修改真连接延迟的测试地址", "createdAt": "2023-06-05T18:27:22Z", "repo": "2dust/v2rayN"}
+{"number": 3951, "title": "v2rayN无法通过unc路径访问共享文件夹，怎么解决？", "createdAt": "2023-06-06T09:00:44Z", "repo": "2dust/v2rayN"}
+{"number": 3957, "title": "use it on win 7 x64", "createdAt": "2023-06-08T04:01:22Z", "repo": "2dust/v2rayN"}
+{"number": 3959, "title": "开启TUN模式网卡正常就是程序卡死CPU内存占用爆炸而且上不了网", "createdAt": "2023-06-08T10:19:08Z", "repo": "2dust/v2rayN"}
+{"number": 3961, "title": "请教一个打开指纹浏览器的情况下使用V2rayn的问题", "createdAt": "2023-06-08T14:41:06Z", "repo": "2dust/v2rayN"}
+{"number": 3962, "title": "Charles 能不能捕捉到v2ray core 或者 xray core伪装成https 的流量？", "createdAt": "2023-06-09T01:15:21Z", "repo": "2dust/v2rayN"}
+{"number": 3965, "title": "测速有速度，但是连不上外网", "createdAt": "2023-06-10T09:39:20Z", "repo": "2dust/v2rayN"}
+{"number": 3982, "title": "为什么流控flow选项里第一项是空的，传输层安全协议第一项也是空的，且没有xtls", "createdAt": "2023-06-14T08:03:33Z", "repo": "2dust/v2rayN"}
+{"number": 3994, "title": "版本 6 PAC 模式怎么使用路由中的防屏蔽规则？", "createdAt": "2023-06-16T10:00:35Z", "repo": "2dust/v2rayN"}
+{"number": 4002, "title": "节点搜索bug  Node search bug", "createdAt": "2023-06-17T11:24:29Z", "repo": "2dust/v2rayN"}
+{"number": 4013, "title": "为什么Tun模式下会出现-1MS", "createdAt": "2023-06-20T10:54:02Z", "repo": "2dust/v2rayN"}
+{"number": 4024, "title": "节点不能用，所有节点都是-1ms", "createdAt": "2023-06-23T05:56:45Z", "repo": "2dust/v2rayN"}
+{"number": 4037, "title": "Launching programs from the Programfiles(x86) folder", "createdAt": "2023-06-29T09:35:51Z", "repo": "2dust/v2rayN"}
+{"number": 4040, "title": "求助，使用勇哥的vpn部署教程搭建了5天了，还是没有成功，一直报错，我是个小白，这个问题，怎么解决？", "createdAt": "2023-06-29T14:55:43Z", "repo": "2dust/v2rayN"}
+{"number": 4050, "title": "Tun mode Show 1ms ping", "createdAt": "2023-07-02T11:54:19Z", "repo": "2dust/v2rayN"}
+{"number": 4057, "title": "新版V2rayN开启局域网连接后，其他设备设置好代理，但无法使用。使用小火箭开启局域网连接，其他设备就都正常，", "createdAt": "2023-07-05T09:44:09Z", "repo": "2dust/v2rayN"}
+{"number": 4058, "title": "请问 daum.net 这个网站怎么翻？为什么我翻不过去呢？(✿◡‿◡)", "createdAt": "2023-07-05T11:50:19Z", "repo": "2dust/v2rayN"}
+{"number": 4061, "title": "请问哪里接触对googleadservices.com的屏蔽", "createdAt": "2023-07-07T08:30:09Z", "repo": "2dust/v2rayN"}
+{"number": 4077, "title": "求助：为何 v2rayN 测试不出节点的速度了？", "createdAt": "2023-07-14T08:28:35Z", "repo": "2dust/v2rayN"}
+{"number": 4079, "title": "Test Servers Download speed (Ctrl+T) apparently perform a Download Test but less than a second it shows 0.0", "createdAt": "2023-07-14T17:52:47Z", "repo": "2dust/v2rayN"}
+{"number": 4086, "title": "订阅显示无效", "createdAt": "2023-07-15T07:21:07Z", "repo": "2dust/v2rayN"}
+{"number": 4090, "title": "Why, when I am using v2rayN, video files are downloaded in two parts?", "createdAt": "2023-07-16T13:32:53Z", "repo": "2dust/v2rayN"}
+{"number": 4099, "title": "服务器测试的几个选项分别是什么原理/机制？", "createdAt": "2023-07-17T06:31:41Z", "repo": "2dust/v2rayN"}
+{"number": 4102, "title": "v2rayn怎么关闭啊", "createdAt": "2023-07-18T10:10:38Z", "repo": "2dust/v2rayN"}
+{"number": 4108, "title": "v2RayN更新与维护", "createdAt": "2023-07-19T15:45:17Z", "repo": "2dust/v2rayN"}
+{"number": 4111, "title": "how to change MTU freely without turning on Tun mode ?", "createdAt": "2023-07-20T15:01:12Z", "repo": "2dust/v2rayN"}
+{"number": 4128, "title": "开启tun模式后 singbox_tun IPV4无internet访问权限，怎么弄（有偿付费）", "createdAt": "2023-07-25T10:09:35Z", "repo": "2dust/v2rayN"}
+{"number": 4130, "title": "希望UP能添加移除无效IP这样能更方便，谢谢", "createdAt": "2023-07-25T14:29:49Z", "repo": "2dust/v2rayN"}
+{"number": 4136, "title": "Feature Suggestion", "createdAt": "2023-07-26T08:36:42Z", "repo": "2dust/v2rayN"}
+{"number": 4160, "title": "开了TUN模式后还有必要选择自动配置系统代理吗？", "createdAt": "2023-08-06T10:46:36Z", "repo": "2dust/v2rayN"}
+{"number": 4165, "title": "希望在自动代理，绕过大陆模式能访问googleadservices.com", "createdAt": "2023-08-07T11:05:07Z", "repo": "2dust/v2rayN"}
+{"number": 4168, "title": "Win11 after update on August 8, 2023-KB5028948, can't open proxy", "createdAt": "2023-08-09T05:50:42Z", "repo": "2dust/v2rayN"}
+{"number": 4955, "title": "win7双击应用没反应无进程", "createdAt": "2023-08-12T15:56:06Z", "repo": "2dust/v2rayN"}
+{"number": 4184, "title": "error in running v2rayng core", "createdAt": "2023-08-13T10:29:26Z", "repo": "2dust/v2rayN"}
+{"number": 4196, "title": "要同时访问openAI和Windows图片聚焦功能可用，如何设置？", "createdAt": "2023-08-18T06:34:38Z", "repo": "2dust/v2rayN"}
+{"number": 4201, "title": "Question: how to tunnel traffic only through one network adapter while keeping traffic through the other direct?", "createdAt": "2023-08-20T16:04:01Z", "repo": "2dust/v2rayN"}
+{"number": 4203, "title": "v2rayN连接日志记录信息不显示有哪些链接会通过代理连接", "createdAt": "2023-08-21T05:13:54Z", "repo": "2dust/v2rayN"}
+{"number": 4211, "title": "请问有关于v2rayN的技术文档吗?我想学习相关知识.", "createdAt": "2023-08-23T12:08:39Z", "repo": "2dust/v2rayN"}
+{"number": 4217, "title": "Node screening, automatic speed measurement and delay measurement at regular intervals", "createdAt": "2023-08-26T05:58:45Z", "repo": "2dust/v2rayN"}
+{"number": 4221, "title": "请问如何让一些的域名走特定的服务器呢", "createdAt": "2023-08-28T02:42:17Z", "repo": "2dust/v2rayN"}
+{"number": 4227, "title": "这个按钮是干嘛用的啊", "createdAt": "2023-08-29T09:51:41Z", "repo": "2dust/v2rayN"}
+{"number": 4228, "title": "求助，面臨ip被識別問題！", "createdAt": "2023-08-29T10:07:22Z", "repo": "2dust/v2rayN"}
+{"number": 4242, "title": "可以更新订阅，但测试真链接-1ms，检查系统时间也都是同步的，是什么问题导致的呢", "createdAt": "2023-09-04T06:36:23Z", "repo": "2dust/v2rayN"}
+{"number": 4254, "title": "Proxy settings are not saved (MS Edge, v2rayN 5.39)", "createdAt": "2023-09-08T14:37:39Z", "repo": "2dust/v2rayN"}
+{"number": 4266, "title": "拨号上网时开机无法联网", "createdAt": "2023-09-14T09:58:24Z", "repo": "2dust/v2rayN"}
+{"number": 4267, "title": "重启服务时自动把系统时区设置回东八区", "createdAt": "2023-09-14T23:46:03Z", "repo": "2dust/v2rayN"}
+{"number": 4270, "title": "请问如何排除一个域名？", "createdAt": "2023-09-17T03:37:47Z", "repo": "2dust/v2rayN"}
+{"number": 4288, "title": "使用自动配置系统代理是不是会网速慢一些", "createdAt": "2023-09-26T15:36:34Z", "repo": "2dust/v2rayN"}
+{"number": 4289, "title": "How can we contribute?", "createdAt": "2023-09-26T16:02:03Z", "repo": "2dust/v2rayN"}
+{"number": 4309, "title": "部署了v2ray还可以部署网站吗", "createdAt": "2023-10-07T00:34:39Z", "repo": "2dust/v2rayN"}
+{"number": 4322, "title": "windows环境下6.23版本客户端，报[file:./config.json] [error:invalid speed]", "createdAt": "2023-10-12T01:43:52Z", "repo": "2dust/v2rayN"}
+{"number": 4336, "title": "客户端突然出现大量连接并上传数据的问题", "createdAt": "2023-10-23T14:50:44Z", "repo": "2dust/v2rayN"}
+{"number": 4340, "title": "能不能用解压版的.net6运行时代替安装器", "createdAt": "2023-10-25T18:04:23Z", "repo": "2dust/v2rayN"}
+{"number": 4345, "title": "insufficient header > EOF 是什么报错？如何解决？", "createdAt": "2023-10-30T05:25:05Z", "repo": "2dust/v2rayN"}
+{"number": 4351, "title": "节点tcp延迟处于100以内，但真连接延迟为-1ms", "createdAt": "2023-11-01T02:22:53Z", "repo": "2dust/v2rayN"}
+{"number": 4362, "title": "Is there any way to configure load balancing with one click?", "createdAt": "2023-11-03T10:09:19Z", "repo": "2dust/v2rayN"}
+{"number": 4363, "title": "为哈v2rayN客户端下载这么慢呢？", "createdAt": "2023-11-03T13:21:34Z", "repo": "2dust/v2rayN"}
+{"number": 4368, "title": "clash规则迁移", "createdAt": "2023-11-04T13:19:43Z", "repo": "2dust/v2rayN"}
+{"number": 4369, "title": "国内网站网页加载很慢", "createdAt": "2023-11-04T14:41:12Z", "repo": "2dust/v2rayN"}
+{"number": 4394, "title": "Problems with tun-mode (v2rayN, Windows x64)", "createdAt": "2023-11-13T21:02:57Z", "repo": "2dust/v2rayN"}
+{"number": 4397, "title": "无法打开v2ray客户端", "createdAt": "2023-11-15T05:23:06Z", "repo": "2dust/v2rayN"}
+{"number": 4399, "title": "Cannot work under .net 7 runtime", "createdAt": "2023-11-15T05:53:34Z", "repo": "2dust/v2rayN"}
+{"number": 4403, "title": "LOL...连不上，有没有哪位大神帮我看看", "createdAt": "2023-11-15T11:10:47Z", "repo": "2dust/v2rayN"}
+{"number": 4404, "title": "请教一下TUN模式的问题", "createdAt": "2023-11-15T11:14:46Z", "repo": "2dust/v2rayN"}
+{"number": 4410, "title": "有个关于PAC的逻辑没理清楚，希望大佬给看下", "createdAt": "2023-11-18T04:54:44Z", "repo": "2dust/v2rayN"}
+{"number": 4424, "title": "Can't enable https in control panel using my certs", "createdAt": "2023-11-20T18:18:19Z", "repo": "2dust/v2rayN"}
+{"number": 4426, "title": "How to Start the connection in windows app?", "createdAt": "2023-11-21T08:30:48Z", "repo": "2dust/v2rayN"}
+{"number": 4428, "title": "列表里面能不能自定义不显示某些列，就想保留别名和延迟这两项", "createdAt": "2023-11-21T13:34:24Z", "repo": "2dust/v2rayN"}
+{"number": 4436, "title": "【求助】局域网无法连接，求助。", "createdAt": "2023-11-24T00:25:58Z", "repo": "2dust/v2rayN"}
+{"number": 4447, "title": "程序退出v2ray之后断网", "createdAt": "2023-11-26T09:09:26Z", "repo": "2dust/v2rayN"}
+{"number": 4459, "title": "现在还有不会分流的全局模式吗", "createdAt": "2023-11-30T03:30:01Z", "repo": "2dust/v2rayN"}
+{"number": 4463, "title": "笔记本电脑V2翻墙后能否共享热点给电视机？", "createdAt": "2023-12-01T03:02:29Z", "repo": "2dust/v2rayN"}
+{"number": 4477, "title": "开启TUN模式程序卡死CPU内存占用爆炸而且上不了网", "createdAt": "2023-12-06T16:35:36Z", "repo": "2dust/v2rayN"}
+{"number": 4486, "title": "clash可以用但是v2rayN测速全是-1，同步过时间也不行，下载了xray核心也不行，更换了测速地址也不行，想问问大家有解决办法吗", "createdAt": "2023-12-07T21:12:40Z", "repo": "2dust/v2rayN"}
+{"number": 4489, "title": "在v2rayn里启用dns设置，并导入默认设置，真的能用v2rayn上的设置的dns服务吗？", "createdAt": "2023-12-08T13:33:30Z", "repo": "2dust/v2rayN"}
+{"number": 4500, "title": "请问列表里怎么加历史流量记录，比如今日下载流量 总下载流量", "createdAt": "2023-12-12T13:37:58Z", "repo": "2dust/v2rayN"}
+{"number": 4510, "title": "救救孩子吧 孩子明天要交作业了！！", "createdAt": "2023-12-14T13:09:20Z", "repo": "2dust/v2rayN"}
+{"number": 4511, "title": "免费节点是否安全？节点提供者能否看到密码等内容？", "createdAt": "2023-12-14T15:25:24Z", "repo": "2dust/v2rayN"}
+{"number": 4517, "title": "无法使用了", "createdAt": "2023-12-17T06:50:55Z", "repo": "2dust/v2rayN"}
+{"number": 4518, "title": "我开启TUN模式后直接没有网络了，这种问题要怎么解决呢，求助大神", "createdAt": "2023-12-17T10:24:13Z", "repo": "2dust/v2rayN"}
+{"number": 4520, "title": "能否支持自动切换节点", "createdAt": "2023-12-17T11:47:35Z", "repo": "2dust/v2rayN"}
+{"number": 4527, "title": "标题", "createdAt": "2023-12-18T13:32:46Z", "repo": "2dust/v2rayN"}
+{"number": 4534, "title": "Help! 刚才v2ray突然不能用了. clash和移动端正常", "createdAt": "2023-12-21T11:51:01Z", "repo": "2dust/v2rayN"}
+{"number": 4535, "title": "v2rayn的tun模式为什么要强制使用singbox内核？", "createdAt": "2023-12-22T01:41:13Z", "repo": "2dust/v2rayN"}
+{"number": 4550, "title": "想了解下前置代理和落地的设置流程", "createdAt": "2023-12-29T04:27:16Z", "repo": "2dust/v2rayN"}
+{"number": 4554, "title": "节点库是哪几个文件？", "createdAt": "2023-12-29T15:16:46Z", "repo": "2dust/v2rayN"}
+{"number": 4556, "title": "pass VPN traffic exclusively through Google Chrome", "createdAt": "2023-12-30T05:45:56Z", "repo": "2dust/v2rayN"}
+{"number": 4588, "title": "为什么core类型设置无法更改mihomo", "createdAt": "2024-01-07T18:55:57Z", "repo": "2dust/v2rayN"}
+{"number": 4591, "title": "界面上日志信息如何 屏蔽指定的", "createdAt": "2024-01-08T10:57:32Z", "repo": "2dust/v2rayN"}
+{"number": 4597, "title": "订阅是ss 、aes-256-cfb v2rayn不支持这个算法", "createdAt": "2024-01-08T16:55:54Z", "repo": "2dust/v2rayN"}
+{"number": 4605, "title": "已经解决！", "createdAt": "2024-01-10T13:57:45Z", "repo": "2dust/v2rayN"}
+{"number": 4615, "title": "importing neko links", "createdAt": "2024-01-12T09:46:12Z", "repo": "2dust/v2rayN"}
+{"number": 4616, "title": "Chinese website bypass", "createdAt": "2024-01-12T12:33:33Z", "repo": "2dust/v2rayN"}
+{"number": 4633, "title": "如何通过从实时log中找到流量去向大的地址？", "createdAt": "2024-01-16T10:13:22Z", "repo": "2dust/v2rayN"}
+{"number": 4642, "title": "Win11 tun模式打不开，真连接延迟-1", "createdAt": "2024-01-18T12:04:03Z", "repo": "2dust/v2rayN"}
+{"number": 4647, "title": "添加hysteria2节点无法键入obfs参数", "createdAt": "2024-01-20T07:17:51Z", "repo": "2dust/v2rayN"}
+{"number": 4656, "title": "如何在代理的同时进行游戏", "createdAt": "2024-01-22T03:21:23Z", "repo": "2dust/v2rayN"}
+{"number": 4657, "title": "can all traffic of computer pass through v2rayn ?", "createdAt": "2024-01-22T06:05:12Z", "repo": "2dust/v2rayN"}
+{"number": 4673, "title": "win11新笔记本无法连接，真直连延迟-1", "createdAt": "2024-01-28T01:34:41Z", "repo": "2dust/v2rayN"}
+{"number": 4682, "title": "节点真连接延迟和速度无法测量了", "createdAt": "2024-01-30T14:44:53Z", "repo": "2dust/v2rayN"}
+{"number": 4683, "title": "迁移到net8.0-windows的预发布版本测试", "createdAt": "2024-01-31T02:39:29Z", "repo": "2dust/v2rayN"}
+{"number": 4684, "title": "自動切換節點功能的使用方法", "createdAt": "2024-01-31T06:34:38Z", "repo": "2dust/v2rayN"}
+{"number": 4705, "title": "6.35", "createdAt": "2024-02-10T09:21:26Z", "repo": "2dust/v2rayN"}
+{"number": 4733, "title": "[Question] 希望配置同步的疑问", "createdAt": "2024-02-19T01:27:10Z", "repo": "2dust/v2rayN"}
+{"number": 4741, "title": ".NET桌面runtime版本问题", "createdAt": "2024-02-20T03:59:21Z", "repo": "2dust/v2rayN"}
+{"number": 4777, "title": "无法进行订阅更新", "createdAt": "2024-02-29T07:30:38Z", "repo": "2dust/v2rayN"}
+{"number": 4801, "title": "关于访问油管等部分网站加载时间变长的问题", "createdAt": "2024-03-07T12:46:18Z", "repo": "2dust/v2rayN"}
+{"number": 4809, "title": "如何让哔哩哔哩像正常使用，不经过梯子", "createdAt": "2024-03-08T11:56:07Z", "repo": "2dust/v2rayN"}
+{"number": 4819, "title": "有开启和关闭连接的按钮嘛", "createdAt": "2024-03-10T18:43:31Z", "repo": "2dust/v2rayN"}
+{"number": 4822, "title": "求助，向riot發解封郵件被識別！", "createdAt": "2024-03-11T12:41:32Z", "repo": "2dust/v2rayN"}
+{"number": 4826, "title": "Windows系统代理使用socks代理和http代理有什么区别吗", "createdAt": "2024-03-12T02:28:26Z", "repo": "2dust/v2rayN"}
+{"number": 5050, "title": "已关闭", "createdAt": "2024-03-12T10:53:59Z", "repo": "2dust/v2rayN"}
+{"number": 4833, "title": "anybody cAN ADD INTERNET  KILLSWITCH TO V2REYN?", "createdAt": "2024-03-12T18:14:34Z", "repo": "2dust/v2rayN"}
+{"number": 4834, "title": "小白端 双端不统一情况", "createdAt": "2024-03-13T01:36:20Z", "repo": "2dust/v2rayN"}
+{"number": 4836, "title": "有没有可能加个定时测速的功能? 针对某个分组", "createdAt": "2024-03-13T04:38:22Z", "repo": "2dust/v2rayN"}
+{"number": 4838, "title": "求助，手机能连电脑不能连是咋回事", "createdAt": "2024-03-14T01:45:13Z", "repo": "2dust/v2rayN"}
+{"number": 4839, "title": "convert subscribtion link like vmess or vless to config.json file", "createdAt": "2024-03-14T11:56:13Z", "repo": "2dust/v2rayN"}
+{"number": 4857, "title": "关于修改测试真延迟的地址方法", "createdAt": "2024-03-18T14:25:53Z", "repo": "2dust/v2rayN"}
+{"number": 4859, "title": "关于Hysteria2端口跳跃功能", "createdAt": "2024-03-19T15:16:15Z", "repo": "2dust/v2rayN"}
+{"number": 4860, "title": "为什么v2ray自动代理系统模式下无法分流ip", "createdAt": "2024-03-19T17:58:19Z", "repo": "2dust/v2rayN"}
+{"number": 4866, "title": "移除对KCP的界面支持", "createdAt": "2024-03-22T01:55:22Z", "repo": "2dust/v2rayN"}
+{"number": 4870, "title": "Whatsapp Windows 11 端还是无法正常直接使用", "createdAt": "2024-03-22T08:40:15Z", "repo": "2dust/v2rayN"}
+{"number": 4874, "title": "请问一下为什么htsteria2不能正确分流 全部都走代理", "createdAt": "2024-03-24T08:03:21Z", "repo": "2dust/v2rayN"}
+{"number": 4879, "title": "I would like to use the system font instead of the custom font that the application uses", "createdAt": "2024-03-25T05:13:41Z", "repo": "2dust/v2rayN"}
+{"number": 4881, "title": "Two or more connections at the same time via proxy mode and routing strategy", "createdAt": "2024-03-25T10:22:56Z", "repo": "2dust/v2rayN"}
+{"number": 4882, "title": "能否加入对不同代理服务器的分流？", "createdAt": "2024-03-25T15:04:27Z", "repo": "2dust/v2rayN"}
+{"number": 4887, "title": "More info about Security Concerns with v2rayN-With-Core.zip", "createdAt": "2024-03-27T23:27:11Z", "repo": "2dust/v2rayN"}
+{"number": 4941, "title": "[Bug]: 在设置中启用统计功能会导致 Windows Shell 异常", "createdAt": "2024-03-29T16:28:49Z", "repo": "2dust/v2rayN"}
+{"number": 4907, "title": "如何设定才能让做到特殊网站走另外的出口", "createdAt": "2024-03-31T15:09:57Z", "repo": "2dust/v2rayN"}
+{"number": 4948, "title": "[Bug]: 使用最新版的v2rayN windows客户端配合naiveproxy访问不了Chatgpt官网", "createdAt": "2024-04-02T12:59:12Z", "repo": "2dust/v2rayN"}
+{"number": 4925, "title": "Novice question", "createdAt": "2024-04-04T10:10:42Z", "repo": "2dust/v2rayN"}
+{"number": 4932, "title": "能否在以后的新版本中加入TPC 分片的功能，绕过vless 节点中 tls 的sni 的阻断，谢谢。", "createdAt": "2024-04-05T03:41:10Z", "repo": "2dust/v2rayN"}
+{"number": 4938, "title": "[Bug]: 我需要如何才能设置域名直连", "createdAt": "2024-04-05T11:09:42Z", "repo": "2dust/v2rayN"}
+{"number": 4953, "title": "[Feature request]: 支持开启多个代理服务。", "createdAt": "2024-04-08T05:47:53Z", "repo": "2dust/v2rayN"}
+{"number": 4947, "title": "[Bug]: 访问不了文心一言", "createdAt": "2024-04-09T13:38:52Z", "repo": "2dust/v2rayN"}
+{"number": 4954, "title": "[Feature request]: win7不可开启任何版本v2ray，尝试多个完全体版本6.23 6.18等，主程序无任何反应", "createdAt": "2024-04-10T07:23:31Z", "repo": "2dust/v2rayN"}
+{"number": 4952, "title": "VirusTotal found virus in your program", "createdAt": "2024-04-10T08:45:02Z", "repo": "2dust/v2rayN"}
+{"number": 4956, "title": "新版本APP测试服务器TCPING(多选)，延迟错误", "createdAt": "2024-04-11T01:24:15Z", "repo": "2dust/v2rayN"}
+{"number": 4957, "title": "装了v6版本 后来删了，现在重启就自动打开代理，浏览器不能上网，手动关了代理，重启完又自动打开了，如何才能解决？", "createdAt": "2024-04-11T01:55:59Z", "repo": "2dust/v2rayN"}
+{"number": 4959, "title": "装了v6版本 后来删了，现在重启就自动打开代理，浏览器不能上网，手动关了代理，重启完又自动打开了，如何才能解决？[Bug]:", "createdAt": "2024-04-11T01:59:01Z", "repo": "2dust/v2rayN"}
+{"number": 4961, "title": "[Bug]: 已下载Xray到指定目录，但运行Core失败", "createdAt": "2024-04-11T03:55:58Z", "repo": "2dust/v2rayN"}
+{"number": 4974, "title": "[Bug]: 机场节点和自建节点（都是vmess）在ios小火箭上都能用，但在win上只有自建的可以用，可能是啥原因呢?", "createdAt": "2024-04-12T03:33:38Z", "repo": "2dust/v2rayN"}
+{"number": 4973, "title": "[Feature request]: 当前版本找不到更换字体所在的文件夹", "createdAt": "2024-04-12T12:19:57Z", "repo": "2dust/v2rayN"}
+{"number": 4972, "title": "Routing Ru doesn't work", "createdAt": "2024-04-13T06:24:46Z", "repo": "2dust/v2rayN"}
+{"number": 4971, "title": "如何配置规则？", "createdAt": "2024-04-13T13:39:47Z", "repo": "2dust/v2rayN"}
+{"number": 4985, "title": "[Bug]: 可以正常访问谷歌邮箱，但是登录邮箱时可以输入，但是点击登陆后谷歌邮箱没有反应", "createdAt": "2024-04-15T02:11:18Z", "repo": "2dust/v2rayN"}
+{"number": 4981, "title": "为何一直在终端窗口下载到1分钟左右就会断开连接，大点的文件无法完成下载，只有通过浏览器下载，特别麻烦。导致一些要在终端自动下载的文件无法实现", "createdAt": "2024-04-16T03:24:02Z", "repo": "2dust/v2rayN"}
+{"number": 4990, "title": "请问Mac可以使用吗？如果不可以，有没有其他好用的梯子呢？", "createdAt": "2024-04-18T10:17:53Z", "repo": "2dust/v2rayN"}
+{"number": 5051, "title": "[Bug]: version 6.43, singbox tun doesn't appear in the network connections (win 11)", "createdAt": "2024-04-18T20:11:34Z", "repo": "2dust/v2rayN"}
+{"number": 4996, "title": "为什么有些节点在android clash可用，在pc v2rayn不能用呢？", "createdAt": "2024-04-19T03:17:30Z", "repo": "2dust/v2rayN"}
+{"number": 5003, "title": "请问各位朋友，升级到NET8.0以后，v2rayN旧版本(如6.33)还可以继续使用吗？", "createdAt": "2024-04-20T05:39:01Z", "repo": "2dust/v2rayN"}
+{"number": 5006, "title": "[Bug]: 最新geo site/ip数据库，使用白名单规则，导致gstatic等站点直连，yt等网站打开慢，某些页面资源（图标等）加载不出来。", "createdAt": "2024-04-20T05:56:00Z", "repo": "2dust/v2rayN"}
+{"number": 5009, "title": "How to use .srs rulesets not in `SagerNet/sing-geoip` repository", "createdAt": "2024-04-20T15:26:56Z", "repo": "2dust/v2rayN"}
+{"number": 5016, "title": "绕过大陆和全局模式无法登录onedrive", "createdAt": "2024-04-21T04:01:20Z", "repo": "2dust/v2rayN"}
+{"number": 5018, "title": "请教，如何将路由设置里面，规则列表，导出为可选地址url？", "createdAt": "2024-04-23T08:45:45Z", "repo": "2dust/v2rayN"}
+{"number": 5019, "title": "发现一个DNS参数上的问题？（v6.33）", "createdAt": "2024-04-23T09:47:33Z", "repo": "2dust/v2rayN"}
+{"number": 5020, "title": "关闭Tun模式后就无法翻墙，求大神分析出解决方案", "createdAt": "2024-04-24T02:28:19Z", "repo": "2dust/v2rayN"}
+{"number": 5022, "title": "请问自动更新内核的时候，内核被下载/安装到哪了？", "createdAt": "2024-04-24T10:22:11Z", "repo": "2dust/v2rayN"}
+{"number": 5023, "title": "请问一下可以支持xray的wireguard协议吗？", "createdAt": "2024-04-24T13:32:06Z", "repo": "2dust/v2rayN"}
+{"number": 5036, "title": "请问V2rayN调用不同内核时，设置配置文件的逻辑是什么样的", "createdAt": "2024-04-29T00:41:18Z", "repo": "2dust/v2rayN"}
+{"number": 5037, "title": "有大佬分享路由规则吗，很多国内网站屏蔽代理，一条一条输入直连太麻烦", "createdAt": "2024-04-29T10:59:43Z", "repo": "2dust/v2rayN"}
+{"number": 5048, "title": "[Bug]: v2rayN无法科学上网，同一节点在手机端可以科学上网，但是Windows端无法正常上网，升级到最新客户端仍然无法解决", "createdAt": "2024-04-29T11:57:31Z", "repo": "2dust/v2rayN"}
+{"number": 5046, "title": "让Bittorrent流量全走直连", "createdAt": "2024-04-30T14:51:20Z", "repo": "2dust/v2rayN"}
+{"number": 5043, "title": "[Feature request]: 我过一个月就会备份还原系统，但是还原之后就不能访问外网，因为节点失效了，这个问题大家要怎么解决？", "createdAt": "2024-05-01T08:46:38Z", "repo": "2dust/v2rayN"}
+{"number": 5047, "title": "同一个VMess服务器，6.23可以连接 6.33及以上版本显示ssl connection failed", "createdAt": "2024-05-02T06:11:35Z", "repo": "2dust/v2rayN"}
+{"number": 5055, "title": "求助，我的v2rayN突然不能用了. 订阅节点在clash和移动端正常", "createdAt": "2024-05-03T04:38:10Z", "repo": "2dust/v2rayN"}
+{"number": 5059, "title": "[Bug]: 同样的节点配置在安卓v2rayng可以连接，但是在windows上不能使用，帮忙给看看", "createdAt": "2024-05-03T05:39:25Z", "repo": "2dust/v2rayN"}
+{"number": 5063, "title": "[Bug]: hysteria2和tuic节点地址不能写域名,只能写ip", "createdAt": "2024-05-04T13:31:03Z", "repo": "2dust/v2rayN"}
+{"number": 5062, "title": "[Bug]: 使用nginx代理的端口测试真连接为-1", "createdAt": "2024-05-05T07:25:17Z", "repo": "2dust/v2rayN"}
+{"number": 5068, "title": "[Feature request]: 求个休眠后或屏保后,后台保活的方式.", "createdAt": "2024-05-06T06:52:44Z", "repo": "2dust/v2rayN"}
+{"number": 5072, "title": "[Bug]: WIN 11家庭版最新版本，会有一个奇怪的BUG，可执行文件名加了中文后无法运行（非最新版）", "createdAt": "2024-05-07T03:07:42Z", "repo": "2dust/v2rayN"}
+{"number": 5074, "title": "是否可以让v2rayN不对ipv6的相关活动做任何处理，让任何ipv6请求都可以直连", "createdAt": "2024-05-07T23:40:00Z", "repo": "2dust/v2rayN"}
+{"number": 5076, "title": "如何让V2rayN作为服务端（如何自定义Input和Output协议）", "createdAt": "2024-05-08T08:53:49Z", "repo": "2dust/v2rayN"}
+{"number": 5078, "title": "[Bug]: 发送的响应无效。 ERR_SSL_PROTOCOL_ERROR", "createdAt": "2024-05-09T04:36:23Z", "repo": "2dust/v2rayN"}
+{"number": 5083, "title": "pac 中怎么添加注释？？", "createdAt": "2024-05-10T01:39:29Z", "repo": "2dust/v2rayN"}
+{"number": 5084, "title": "[Help]哪里可以找到适用于Windows 7使用的core files", "createdAt": "2024-05-10T02:11:52Z", "repo": "2dust/v2rayN"}
+{"number": 5086, "title": "v2rayN在手机上能用，在pc端却出错", "createdAt": "2024-05-10T12:17:36Z", "repo": "2dust/v2rayN"}
+{"number": 5092, "title": "这两种有什么不同吗？", "createdAt": "2024-05-12T12:26:44Z", "repo": "2dust/v2rayN"}
+{"number": 5101, "title": "小小白一个关于singbox core 直连的问题", "createdAt": "2024-05-14T09:40:49Z", "repo": "2dust/v2rayN"}
+{"number": 5102, "title": "Hysteria2链接导入V2rayN失败，但是用json文件可以正常运行", "createdAt": "2024-05-14T09:52:57Z", "repo": "2dust/v2rayN"}
+{"number": 5106, "title": "右键无切换服务器的选项了", "createdAt": "2024-05-16T07:35:26Z", "repo": "2dust/v2rayN"}
+{"number": 5111, "title": "5.39版本，界面变成了英语，之前用的时候都是中文，但我找不到语言切换选项", "createdAt": "2024-05-17T04:04:18Z", "repo": "2dust/v2rayN"}
+{"number": 5112, "title": "最新版本的服务器端该怎么配置，5.39版本有个导出为服务端配置，但是6.x版本找不到了", "createdAt": "2024-05-17T04:39:44Z", "repo": "2dust/v2rayN"}
+{"number": 5114, "title": "Why is the v2rayN.exe file size 48.8 MB in the release artifacts for version 6.43, but only 37.8 MB in the actual release?", "createdAt": "2024-05-17T08:11:38Z", "repo": "2dust/v2rayN"}
+{"number": 5119, "title": "为何现在绕过大陆模式在打开没有被禁的国外网站仍然是国内的ip？", "createdAt": "2024-05-17T13:31:31Z", "repo": "2dust/v2rayN"}
+{"number": 5120, "title": "[Bug]:", "createdAt": "2024-05-17T18:55:24Z", "repo": "2dust/v2rayN"}
+{"number": 5124, "title": "[Bug]: 订阅返回的节点中，跳过证书验证（allowInsecure）字段未被正确解析", "createdAt": "2024-05-18T12:34:20Z", "repo": "2dust/v2rayN"}
+{"number": 5125, "title": "路由里的V2前缀和没有前缀的有何区别？", "createdAt": "2024-05-20T03:00:21Z", "repo": "2dust/v2rayN"}
+{"number": 5126, "title": "V2RayN-6.43", "createdAt": "2024-05-20T03:44:57Z", "repo": "2dust/v2rayN"}
+{"number": 5133, "title": "[Bug]: sing-box 下使用 domain_keyword 似乎会生成错误的域名。", "createdAt": "2024-05-20T14:40:27Z", "repo": "2dust/v2rayN"}
+{"number": 5132, "title": "[Bug]: 路由-高级功能-默认规则误伤", "createdAt": "2024-05-20T16:05:52Z", "repo": "2dust/v2rayN"}
+{"number": 5135, "title": "节点无法连接显示-1ms或者347ms这样的数", "createdAt": "2024-05-21T02:46:20Z", "repo": "2dust/v2rayN"}
+{"number": 5138, "title": "请问开启TUN模式，是否需要同时开启系统代理？", "createdAt": "2024-05-22T07:38:28Z", "repo": "2dust/v2rayN"}
+{"number": 5147, "title": "請問windows 版在tun 模式中, 只想代理tikTok.exe 程式, 而其它所有程式直连需要怎么弄？", "createdAt": "2024-05-25T02:35:43Z", "repo": "2dust/v2rayN"}
+{"number": 5150, "title": "adobe软件的警告弹窗怎么解决", "createdAt": "2024-05-25T12:50:14Z", "repo": "2dust/v2rayN"}
+{"number": 5151, "title": "6.43升级6.45，所有代理连接都失效，真连接-1", "createdAt": "2024-05-26T08:53:55Z", "repo": "2dust/v2rayN"}
+{"number": 5160, "title": "[Bug]: 无法添加Vmess服务器", "createdAt": "2024-05-26T09:44:28Z", "repo": "2dust/v2rayN"}
+{"number": 5153, "title": "给个v2联系方式", "createdAt": "2024-05-26T14:17:54Z", "repo": "2dust/v2rayN"}
+{"number": 5158, "title": "网络游戏及部分软件流量走的代理请求", "createdAt": "2024-05-28T01:46:12Z", "repo": "2dust/v2rayN"}
+{"number": 5157, "title": "除浏览器外，其他软件如何链接外网？求教", "createdAt": "2024-05-28T02:35:47Z", "repo": "2dust/v2rayN"}
+{"number": 5161, "title": "v2rayN-With-Core.zip 6.45下载后，所有节点都无法使用", "createdAt": "2024-05-28T16:26:56Z", "repo": "2dust/v2rayN"}
+{"number": 5163, "title": "failed to read response from cachefly.cachefly.net > io: read/write on closed pipe and no access via v2rayn", "createdAt": "2024-05-29T09:38:30Z", "repo": "2dust/v2rayN"}
+{"number": 5167, "title": "[Feature request]: 请问在绕过大陆模式下某些国内软件也想走代理要怎么设置呢", "createdAt": "2024-05-29T13:27:04Z", "repo": "2dust/v2rayN"}
+{"number": 5171, "title": "三条默认规则删除不了", "createdAt": "2024-05-30T12:21:41Z", "repo": "2dust/v2rayN"}
+{"number": 5172, "title": "v2rayN怎么修改超时时间", "createdAt": "2024-05-31T15:09:21Z", "repo": "2dust/v2rayN"}
+{"number": 5178, "title": "32位版本无法启用服务", "createdAt": "2024-06-01T06:50:45Z", "repo": "2dust/v2rayN"}
+{"number": 5179, "title": "[Bug]: 使用.net 8.0.x的6.42以上的稳定版本都会出现内存使用量暴增的现象，使用.net 6.0.x的6.33版正常", "createdAt": "2024-06-01T12:48:27Z", "repo": "2dust/v2rayN"}
+{"number": 5182, "title": "[Bug]: websocket: failed to close network connection: close tcp 192.168.0.106:4010->162.159.196.136:2083: use of closed network connection", "createdAt": "2024-06-03T03:52:05Z", "repo": "2dust/v2rayN"}
+{"number": 5189, "title": "[Bug]: 在pac模式下，很多网站不会走代理（如：x.com )", "createdAt": "2024-06-04T16:08:28Z", "repo": "2dust/v2rayN"}
+{"number": 5197, "title": "[Bug]: 在使用该软件后，即使清除系统代理也无法直连ip，使用ip访问网页", "createdAt": "2024-06-05T16:50:39Z", "repo": "2dust/v2rayN"}
+{"number": 5194, "title": "Why v2rayN switch Tun backend to sing box?", "createdAt": "2024-06-06T08:11:17Z", "repo": "2dust/v2rayN"}
+{"number": 5200, "title": "测速时出现the ssl connection could not be established see inner exception", "createdAt": "2024-06-07T07:47:13Z", "repo": "2dust/v2rayN"}
+{"number": 5201, "title": "测速这块能结合`LiteSpeedTest` 这个工具进行改进吗？", "createdAt": "2024-06-07T14:03:36Z", "repo": "2dust/v2rayN"}
+{"number": 5259, "title": "[Bug]: V2RayN 6.45 conflicts with Cisco AnyConnect Client 5.0", "createdAt": "2024-06-07T15:43:32Z", "repo": "2dust/v2rayN"}
+{"number": 5203, "title": "如何配置服务器啊", "createdAt": "2024-06-08T01:57:46Z", "repo": "2dust/v2rayN"}
+{"number": 5253, "title": "[PAC适配chatgpt]:", "createdAt": "2024-06-09T16:09:40Z", "repo": "2dust/v2rayN"}
+{"number": 5214, "title": "QB 挂直连代理，避免耗费流量。", "createdAt": "2024-06-11T01:38:57Z", "repo": "2dust/v2rayN"}
+{"number": 5232, "title": "V2rayN服务器不见了", "createdAt": "2024-06-14T15:47:51Z", "repo": "2dust/v2rayN"}
+{"number": 5254, "title": "有没有大佬出一份设置详解？", "createdAt": "2024-06-15T02:55:21Z", "repo": "2dust/v2rayN"}
+{"number": 5236, "title": "为什么v2flyNG手机更新新版本后连接，为-1ms，无法使用", "createdAt": "2024-06-15T13:21:22Z", "repo": "2dust/v2rayN"}
+{"number": 5244, "title": "有没有方法统计每个域名消耗的流量？", "createdAt": "2024-06-17T04:54:04Z", "repo": "2dust/v2rayN"}
+{"number": 5252, "title": "sing_box订阅默认core被设定成xray", "createdAt": "2024-06-20T00:51:34Z", "repo": "2dust/v2rayN"}
+{"number": 5256, "title": "建议增加屏蔽udp443端口选项", "createdAt": "2024-06-20T03:21:10Z", "repo": "2dust/v2rayN"}
+{"number": 5260, "title": "关于dns配置的改进建议", "createdAt": "2024-06-21T06:33:44Z", "repo": "2dust/v2rayN"}
+{"number": 5262, "title": "PAC过滤大陆专用顶级域名", "createdAt": "2024-06-22T02:47:40Z", "repo": "2dust/v2rayN"}
+{"number": 5263, "title": "ipv6不能开启tun", "createdAt": "2024-06-22T10:16:28Z", "repo": "2dust/v2rayN"}
+{"number": 5268, "title": "sing-box模式下dns配置似乎支持不完整", "createdAt": "2024-06-23T14:29:22Z", "repo": "2dust/v2rayN"}
+{"number": 5284, "title": "[Bug]: 重装系统后节点连接不上", "createdAt": "2024-06-25T14:39:10Z", "repo": "2dust/v2rayN"}
+{"number": 5282, "title": "clash for window无法导入订阅链接，", "createdAt": "2024-06-27T15:58:08Z", "repo": "2dust/v2rayN"}
+{"number": 5287, "title": "我使用v2rayN的一些体会供参考和利用debug日志自查自纠", "createdAt": "2024-06-29T06:30:11Z", "repo": "2dust/v2rayN"}
+{"number": 5291, "title": "v6.43 请教那个 “系统代理” 和 “路由” 是什么含义？", "createdAt": "2024-06-30T00:48:02Z", "repo": "2dust/v2rayN"}
+{"number": 5302, "title": "TUN 模式下git ssh 和http失效", "createdAt": "2024-07-02T18:04:35Z", "repo": "2dust/v2rayN"}
+{"number": 5304, "title": "[Feature request]: 黑名单模式应只代理被墙站点", "createdAt": "2024-07-02T20:23:01Z", "repo": "2dust/v2rayN"}
+{"number": 5309, "title": "最新版更新说明提到使用自定义配置启用mihomo core，具体怎样操作？", "createdAt": "2024-07-03T18:57:58Z", "repo": "2dust/v2rayN"}
+{"number": 5321, "title": "[Bug]: win11更新完50版本后，托盘不显示，任务管理器有任务", "createdAt": "2024-07-07T11:51:11Z", "repo": "2dust/v2rayN"}
+{"number": 5320, "title": "cannot turn on Tun mode when using a json v2ray config", "createdAt": "2024-07-07T15:59:31Z", "repo": "2dust/v2rayN"}
+{"number": 5323, "title": "v2rayN 是否支持 clash mixin?", "createdAt": "2024-07-08T04:35:23Z", "repo": "2dust/v2rayN"}
+{"number": 5324, "title": "有关系统代理、路由和浏览器插件的问题", "createdAt": "2024-07-08T12:42:36Z", "repo": "2dust/v2rayN"}
+{"number": 5343, "title": "[Bug]: 感觉路由规则有问题，有些内容没有被代理到", "createdAt": "2024-07-10T03:50:11Z", "repo": "2dust/v2rayN"}
+{"number": 5330, "title": "开启TUN模式后无法使用SSH链接VPS", "createdAt": "2024-07-10T08:48:15Z", "repo": "2dust/v2rayN"}
+{"number": 5338, "title": "suno.com能不能加入geosite？", "createdAt": "2024-07-11T08:28:47Z", "repo": "2dust/v2rayN"}
+{"number": 5344, "title": "[Bug]: 使用Hysteria2部分网页加载有问题", "createdAt": "2024-07-12T02:49:58Z", "repo": "2dust/v2rayN"}
+{"number": 5347, "title": "[Feature request]: 朋友们，一直在用老版本，用了4年了，需要更新v2rayN吗", "createdAt": "2024-07-12T11:55:07Z", "repo": "2dust/v2rayN"}
+{"number": 5348, "title": "[Bug]: 测速问题", "createdAt": "2024-07-12T21:41:05Z", "repo": "2dust/v2rayN"}
+{"number": 5367, "title": "我用旧版本的用户界面但是保持更新内核，应该没什么问题吧？", "createdAt": "2024-07-15T22:08:37Z", "repo": "2dust/v2rayN"}
+{"number": 5384, "title": "[Bug]: 光猫改为桥接后(没有路由器，直接连接电脑)，V2RAYN无法代理", "createdAt": "2024-07-16T01:25:08Z", "repo": "2dust/v2rayN"}
+{"number": 5383, "title": "[Bug]: 关于在预设V3-绕过大陆路由规则下Shadowsocks切换至sing-box 内核时 gstatic.com 无法访问 导致Google登录出现静态资源无法获取 点击登录无反应", "createdAt": "2024-07-18T11:09:57Z", "repo": "2dust/v2rayN"}
+{"number": 5398, "title": "我很奇怪 刚才在V2的 github 居然找不到安卓文件", "createdAt": "2024-07-23T12:06:00Z", "repo": "2dust/v2rayN"}
+{"number": 5403, "title": "这是什么情况？", "createdAt": "2024-07-24T05:30:53Z", "repo": "2dust/v2rayN"}
+{"number": 5405, "title": "这俩功能干什么用的? 请问 多服务器优选延迟", "createdAt": "2024-07-24T09:22:49Z", "repo": "2dust/v2rayN"}
+{"number": 5470, "title": "[Bug]: 开启Tun后所有流量都显示proxy", "createdAt": "2024-07-24T13:41:04Z", "repo": "2dust/v2rayN"}
+{"number": 5410, "title": "有的软件有网页请求时，v2ray日志里面却没有http请求记录", "createdAt": "2024-07-25T09:06:50Z", "repo": "2dust/v2rayN"}
+{"number": 5411, "title": "在win11上使用v2rayN发生蓝屏故障", "createdAt": "2024-07-25T14:43:10Z", "repo": "2dust/v2rayN"}
+{"number": 5413, "title": "大家好！请教一个问题！", "createdAt": "2024-07-25T15:23:42Z", "repo": "2dust/v2rayN"}
+{"number": 5415, "title": "[Bug]: 挂CDN情况下，打开一些类似4kHDR这类的视频，第一次打开无法正常播放", "createdAt": "2024-07-26T02:08:15Z", "repo": "2dust/v2rayN"}
+{"number": 5434, "title": "[Bug]: 6.53版本：Tun模式下DNS错误且泄露，路由分流错误", "createdAt": "2024-07-28T13:47:06Z", "repo": "2dust/v2rayN"}
+{"number": 5436, "title": "如何用NodeJs通过本机的http服务器转发请求？", "createdAt": "2024-07-29T09:33:58Z", "repo": "2dust/v2rayN"}
+{"number": 5447, "title": "疑惑DNS的走向", "createdAt": "2024-07-30T15:33:11Z", "repo": "2dust/v2rayN"}
+{"number": 5453, "title": "[Bug]: 自6.46版本后出现无法打开网页，大佬帮忙看看是什么问题", "createdAt": "2024-07-31T03:33:02Z", "repo": "2dust/v2rayN"}
+{"number": 5451, "title": "可以自己添加core的吗？", "createdAt": "2024-07-31T10:16:35Z", "repo": "2dust/v2rayN"}
+{"number": 5452, "title": "想问一下，我平时用的自动配置+绕过大陆，如何把个别网站不走代理？", "createdAt": "2024-07-31T10:42:14Z", "repo": "2dust/v2rayN"}
+{"number": 5457, "title": "[Bug]: 首次添加带geo的clash订阅会因为无法下载geo文件导致初始化失败", "createdAt": "2024-07-31T15:04:19Z", "repo": "2dust/v2rayN"}
+{"number": 5461, "title": "如何在v2rayN中启用FakeDNS", "createdAt": "2024-08-02T07:52:52Z", "repo": "2dust/v2rayN"}
+{"number": 5469, "title": "请教一个问题，就是在路由里设置了直连，为什么在下面的日志里还是http -> proxy", "createdAt": "2024-08-03T09:16:53Z", "repo": "2dust/v2rayN"}
+{"number": 5490, "title": "[Bug]: 解除UMP回环代理之后 依然无法使用Outlook", "createdAt": "2024-08-05T04:00:28Z", "repo": "2dust/v2rayN"}
+{"number": 5474, "title": "What is the correct way to configure windows apps for specific zones?", "createdAt": "2024-08-05T08:19:49Z", "repo": "2dust/v2rayN"}
+{"number": 5477, "title": "[Bug]:", "createdAt": "2024-08-05T10:08:42Z", "repo": "2dust/v2rayN"}
+{"number": 5485, "title": "win10版本的v2rayn没有分应用代理模式吗", "createdAt": "2024-08-07T22:11:33Z", "repo": "2dust/v2rayN"}
+{"number": 5487, "title": "求助各位大佬帮帮忙解决一下", "createdAt": "2024-08-08T02:35:16Z", "repo": "2dust/v2rayN"}
+{"number": 5488, "title": "系统代理配置问题", "createdAt": "2024-08-08T06:28:00Z", "repo": "2dust/v2rayN"}
+{"number": 5492, "title": "清问下这是什么问题", "createdAt": "2024-08-08T11:58:06Z", "repo": "2dust/v2rayN"}
+{"number": 5499, "title": "同一节点在手机小火箭上使用正常，电脑v2rayN却突然无法使用了，之前在电脑上是使用正常的。尝试其他节点，电脑也可以使用。", "createdAt": "2024-08-09T14:41:22Z", "repo": "2dust/v2rayN"}
+{"number": 5500, "title": "同一节点在手机小火箭上使用正常，电脑v2rayN却突然无法使用了，之前在电脑上是使用正常的。尝试其他节点，电脑也可以使用。", "createdAt": "2024-08-09T14:41:23Z", "repo": "2dust/v2rayN"}
+{"number": 5497, "title": "当前服务的真连接延迟: -1 ms", "createdAt": "2024-08-09T16:18:33Z", "repo": "2dust/v2rayN"}
+{"number": 5502, "title": "请问如何看一个节点的已用流量和最大流量？", "createdAt": "2024-08-10T16:49:03Z", "repo": "2dust/v2rayN"}
+{"number": 5509, "title": "[Bug]: 两台电脑同时开启tun模式之后会提示ip地址冲突", "createdAt": "2024-08-11T06:50:06Z", "repo": "2dust/v2rayN"}
+{"number": 5512, "title": "关于v2rayN中使用clash配置的问题", "createdAt": "2024-08-12T02:25:06Z", "repo": "2dust/v2rayN"}
+{"number": 5513, "title": "如何添加规则禁止Adobe的软件联网验证授权许可？", "createdAt": "2024-08-12T03:33:10Z", "repo": "2dust/v2rayN"}
+{"number": 5520, "title": "求问，在IPIfNonMatch清除代理下，浏览器自定义代理到v2，是无法避免dns泄露的吗？", "createdAt": "2024-08-12T13:55:53Z", "repo": "2dust/v2rayN"}
+{"number": 5523, "title": "能否改变\"config.json\"中\"outbounds\"数组中\"tag\"的上下位置？", "createdAt": "2024-08-13T06:13:52Z", "repo": "2dust/v2rayN"}
+{"number": 5524, "title": "IPIfNonMatch貌似没去请求dns，而IPOnDemand则会严重泄露dns，搞不懂了， 求解答", "createdAt": "2024-08-13T06:51:09Z", "repo": "2dust/v2rayN"}
+{"number": 5526, "title": "How can I enable TLS fragment in v2rayN?", "createdAt": "2024-08-13T15:53:06Z", "repo": "2dust/v2rayN"}
+{"number": 5531, "title": "菜鸟觉得很难用", "createdAt": "2024-08-14T01:51:28Z", "repo": "2dust/v2rayN"}
+{"number": 5535, "title": "关于 sing-box 的网速统计问题", "createdAt": "2024-08-14T05:49:52Z", "repo": "2dust/v2rayN"}
+{"number": 5538, "title": "In Whitelist mode, how to add mega.nz as exception?", "createdAt": "2024-08-14T16:53:47Z", "repo": "2dust/v2rayN"}
+{"number": 5539, "title": "求助求助！真连接延迟为-1ms，测试速度显示 跳过测试，移动端使用shadowrocket的相同订阅可以正常访问外网。电脑端相同的订阅无法使用。", "createdAt": "2024-08-15T08:27:36Z", "repo": "2dust/v2rayN"}
+{"number": 5545, "title": "[Bug]: 无法代理docker拉取镜像的流量", "createdAt": "2024-08-16T07:46:18Z", "repo": "2dust/v2rayN"}
+{"number": 5547, "title": "路由规则填写的domain，有些问题", "createdAt": "2024-08-17T11:43:37Z", "repo": "2dust/v2rayN"}
+{"number": 5552, "title": "外国党 网易云音乐加速回国规则 回国规则 以及 本人国内常用出国规则", "createdAt": "2024-08-17T23:52:13Z", "repo": "2dust/v2rayN"}
+{"number": 5590, "title": "[Bug]: 从符号链接（软链接）启动时，工作目录错误", "createdAt": "2024-08-18T05:12:53Z", "repo": "2dust/v2rayN"}
+{"number": 5555, "title": "v2rayn的tun模式singbox下，日志里几乎没有域名信息，GUI右下角的direct也几乎没有过速度。", "createdAt": "2024-08-18T12:22:40Z", "repo": "2dust/v2rayN"}
+{"number": 5558, "title": "Xray内核，IPIfNonMatch，绕过大陆，去掉proxy0-65535，如何防止dns泄露？", "createdAt": "2024-08-19T09:25:16Z", "repo": "2dust/v2rayN"}
+{"number": 5562, "title": "ClashN更新订阅好容易，v2rayN老是失败啊", "createdAt": "2024-08-20T07:51:14Z", "repo": "2dust/v2rayN"}
+{"number": 5563, "title": "在V2rayN中配置ECH", "createdAt": "2024-08-20T08:53:54Z", "repo": "2dust/v2rayN"}
+{"number": 5571, "title": "Traffic can't though VPN: failed to process outbound traffic > proxy/vmess/outbound", "createdAt": "2024-08-21T10:57:02Z", "repo": "2dust/v2rayN"}
+{"number": 5574, "title": "6.55版，反馈一个问题，抖音网页版的评论中，点开评论图片加载巨慢。", "createdAt": "2024-08-21T15:54:54Z", "repo": "2dust/v2rayN"}
+{"number": 5577, "title": "第一次下载，v2ray启动不了，运行更新文件则显示文件不存在（它没说那个文件）", "createdAt": "2024-08-23T14:31:36Z", "repo": "2dust/v2rayN"}
+{"number": 5578, "title": "Update custom geoip.dat, geosite.dat files", "createdAt": "2024-08-24T02:18:01Z", "repo": "2dust/v2rayN"}
+{"number": 5579, "title": "如何解决使用“多服务器最低延迟 (多选)”后日志里涌现大量错误信息的问题？", "createdAt": "2024-08-24T11:30:38Z", "repo": "2dust/v2rayN"}
+{"number": 5585, "title": "[Bug]: 关闭启用分片，windows v2rayN无法连接，安卓，iPhone，MAC，全部正常", "createdAt": "2024-08-25T13:32:34Z", "repo": "2dust/v2rayN"}
+{"number": 5587, "title": "关于订阅分组设置", "createdAt": "2024-08-26T03:57:59Z", "repo": "2dust/v2rayN"}
+{"number": 5588, "title": "v2rayN的黑名单模式的路由设置中，outboundTag为direct、port为0-65535的规则有什么作用啊", "createdAt": "2024-08-26T08:09:30Z", "repo": "2dust/v2rayN"}
+{"number": 5599, "title": "[Feature request]: WhiteList 提供编辑入口", "createdAt": "2024-08-27T01:42:03Z", "repo": "2dust/v2rayN"}
+{"number": 5598, "title": "[Feature request]: 怎么自动删除“剩余流量”、“距离下次重置”", "createdAt": "2024-08-27T06:09:39Z", "repo": "2dust/v2rayN"}
+{"number": 5610, "title": "How to include only specified applications in the proxy-tunnel?", "createdAt": "2024-08-27T11:35:34Z", "repo": "2dust/v2rayN"}
+{"number": 5608, "title": "[Bug]: v2rayN 6.55版本v2rayN-With-Core-SelfContained在Windows7 x64上不显示右下角系统托盘图标", "createdAt": "2024-08-28T07:06:38Z", "repo": "2dust/v2rayN"}
+{"number": 5607, "title": "[Bug]: 使用 v2rayN-6.55 版本导致计算扬声器失灵！！1", "createdAt": "2024-08-29T02:41:51Z", "repo": "2dust/v2rayN"}
+{"number": 5606, "title": "[Bug]: v2rayN 突然无法使用   6.42和6.55  报一样的错", "createdAt": "2024-08-29T06:39:41Z", "repo": "2dust/v2rayN"}
+{"number": 5609, "title": "Tun Mode Not working", "createdAt": "2024-08-29T21:59:52Z", "repo": "2dust/v2rayN"}
+{"number": 5612, "title": "v2fly_v5配置模版，希望能把它加入到v2rayN中。", "createdAt": "2024-08-30T10:51:02Z", "repo": "2dust/v2rayN"}
+{"number": 5615, "title": "[Bug]: V2rayN界面上传速度显示不正确，观察了很久，感觉像是客户端速度和任务管理器的速度显示多了50%左右", "createdAt": "2024-08-30T14:42:23Z", "repo": "2dust/v2rayN"}
+{"number": 5616, "title": "我的连接能正常浏览google  进不了YouTube", "createdAt": "2024-08-31T07:45:19Z", "repo": "2dust/v2rayN"}
+{"number": 5623, "title": "为什么日志信息要采用清屏模式？", "createdAt": "2024-09-01T14:59:47Z", "repo": "2dust/v2rayN"}
+{"number": 5624, "title": "系统代理设置的例外如何设置", "createdAt": "2024-09-02T00:27:43Z", "repo": "2dust/v2rayN"}
+{"number": 5632, "title": "求助，更新了core，也安装了Microsoft .NET 6.0 Desktop Runtime，仍然无法运行", "createdAt": "2024-09-03T05:22:10Z", "repo": "2dust/v2rayN"}
+{"number": 5642, "title": "No connection could be made because the target machine actively refused it.", "createdAt": "2024-09-03T15:46:13Z", "repo": "2dust/v2rayN"}
+{"number": 5647, "title": "信息过滤器不起作用", "createdAt": "2024-09-05T17:14:53Z", "repo": "2dust/v2rayN"}
+{"number": 5652, "title": "终于等到支持linux 的消息了", "createdAt": "2024-09-06T09:22:47Z", "repo": "2dust/v2rayN"}
+{"number": 5657, "title": "建议", "createdAt": "2024-09-07T19:15:18Z", "repo": "2dust/v2rayN"}
+{"number": 5673, "title": "小白跪求帮助", "createdAt": "2024-09-10T05:14:46Z", "repo": "2dust/v2rayN"}
+{"number": 5696, "title": "[Bug]: 不能访问twitch.tv", "createdAt": "2024-09-10T11:51:44Z", "repo": "2dust/v2rayN"}
+{"number": 5676, "title": "真连接测试：-1 相同节点手机可用", "createdAt": "2024-09-10T14:37:58Z", "repo": "2dust/v2rayN"}
+{"number": 5697, "title": "[Bug]: SSL_ERROR_SYSCAL", "createdAt": "2024-09-13T07:56:03Z", "repo": "2dust/v2rayN"}
+{"number": 5703, "title": "将移除部分不维护的Core", "createdAt": "2024-09-18T01:50:40Z", "repo": "2dust/v2rayN"}
+{"number": 5705, "title": "v2rayN好像不能在软件里更新程序版本啊？", "createdAt": "2024-09-18T03:50:20Z", "repo": "2dust/v2rayN"}
+{"number": 5707, "title": "6.55版本后，旁边那个信息能去掉吗", "createdAt": "2024-09-18T06:46:23Z", "repo": "2dust/v2rayN"}
+{"number": 5715, "title": "Ipv6网站访问失败", "createdAt": "2024-09-20T16:51:26Z", "repo": "2dust/v2rayN"}
+{"number": 5717, "title": "V2使用网络过程中频繁下载geoip文件，如何关闭，因为会导致没有网络", "createdAt": "2024-09-21T06:47:00Z", "repo": "2dust/v2rayN"}
+{"number": 5801, "title": "[Bug]: 发送到桌面快捷方式放到任务栏，打开后不显示服务器", "createdAt": "2024-09-23T12:09:56Z", "repo": "2dust/v2rayN"}
+{"number": 5733, "title": "请教：开启TUN 不能HTTP连接远程服务器", "createdAt": "2024-09-24T16:58:52Z", "repo": "2dust/v2rayN"}
+{"number": 5742, "title": "[Feature request]: 有无软件放行功能？", "createdAt": "2024-09-25T04:51:22Z", "repo": "2dust/v2rayN"}
+{"number": 5740, "title": "6.60.0版本的字体显示效果没以前的好了", "createdAt": "2024-09-25T12:43:51Z", "repo": "2dust/v2rayN"}
+{"number": 5751, "title": "[Bug]: 为什么只能在路由黑名单才可以适用多服务器最快节点和负载均衡", "createdAt": "2024-09-26T13:56:03Z", "repo": "2dust/v2rayN"}
+{"number": 5748, "title": "大佬们这种情况是什么原因啊", "createdAt": "2024-09-26T14:47:32Z", "repo": "2dust/v2rayN"}
+{"number": 5770, "title": "KCP协议问题", "createdAt": "2024-10-01T07:10:18Z", "repo": "2dust/v2rayN"}
+{"number": 5777, "title": "v2rayN 某些节点突然无法连接？但该节点在其它终端则正常。", "createdAt": "2024-10-02T03:31:27Z", "repo": "2dust/v2rayN"}
+{"number": 5783, "title": "前置代理能否与负载均衡/最低延迟并用？", "createdAt": "2024-10-04T07:59:25Z", "repo": "2dust/v2rayN"}
+{"number": 5786, "title": "大佬们为什么图标点不进去", "createdAt": "2024-10-04T14:21:38Z", "repo": "2dust/v2rayN"}
+{"number": 5788, "title": "强烈增加配置建议", "createdAt": "2024-10-04T19:59:39Z", "repo": "2dust/v2rayN"}
+{"number": 5791, "title": "发布文件中移除32位版本", "createdAt": "2024-10-06T06:28:23Z", "repo": "2dust/v2rayN"}
+{"number": 5794, "title": "[Bug]: BBR2 Congestion algorithm in Windows cause v2rayN stop working", "createdAt": "2024-10-06T20:19:15Z", "repo": "2dust/v2rayN"}
+{"number": 5795, "title": "关于更新WIN11 24H2后代理失效的问题解决", "createdAt": "2024-10-07T06:12:43Z", "repo": "2dust/v2rayN"}
+{"number": 5800, "title": "[Bug]: 无法正常使用", "createdAt": "2024-10-08T04:47:48Z", "repo": "2dust/v2rayN"}
+{"number": 5805, "title": "Proxy for specific domain only", "createdAt": "2024-10-09T18:31:11Z", "repo": "2dust/v2rayN"}
+{"number": 5810, "title": "[Bug]: 老电脑WIN10 22H2全版本5.9-6.6 无法连接，当前服务的真连接延迟-1", "createdAt": "2024-10-09T19:06:32Z", "repo": "2dust/v2rayN"}
+{"number": 5812, "title": "右键一键删除无效节点", "createdAt": "2024-10-11T02:50:22Z", "repo": "2dust/v2rayN"}
+{"number": 5813, "title": "开了v2rayN 全局+自动配置系统代理后出现某些原本不用代理可以访问的网站访问不了，比如openai StackOverflow", "createdAt": "2024-10-11T06:55:54Z", "repo": "2dust/v2rayN"}
+{"number": 5815, "title": "How can I make VPN working only for discord and brawser apps?", "createdAt": "2024-10-11T16:21:56Z", "repo": "2dust/v2rayN"}
+{"number": 5820, "title": "[Bug]: V6.6.0清除系统代理后访问百度的页面很慢，甚至打不开", "createdAt": "2024-10-12T01:11:57Z", "repo": "2dust/v2rayN"}
+{"number": 5819, "title": "使用cloudflare小云朵，为什么无法连接？", "createdAt": "2024-10-12T07:17:00Z", "repo": "2dust/v2rayN"}
+{"number": 5822, "title": "添加hysteria2链接，无法使用其他core", "createdAt": "2024-10-13T07:02:22Z", "repo": "2dust/v2rayN"}
+{"number": 5825, "title": "[Feature request]: Which version of v2rayN and Xray-core is running on Win 7?", "createdAt": "2024-10-13T12:16:40Z", "repo": "2dust/v2rayN"}
+{"number": 5831, "title": "[Feature request]: How to configure v2ray to keep firewall rules blocked", "createdAt": "2024-10-13T22:26:46Z", "repo": "2dust/v2rayN"}
+{"number": 5828, "title": "Does TUN mode in v2rayN work  correctly?", "createdAt": "2024-10-14T03:39:14Z", "repo": "2dust/v2rayN"}
+{"number": 5833, "title": "V2rayn不支持ws MD5+AES加密协议吗?", "createdAt": "2024-10-14T20:14:16Z", "repo": "2dust/v2rayN"}
+{"number": 5837, "title": "开启 TUN 模式后如何在日志显示域名而不是 IP", "createdAt": "2024-10-15T06:56:49Z", "repo": "2dust/v2rayN"}
+{"number": 5839, "title": "Disable proxy for a specific application.", "createdAt": "2024-10-15T16:04:11Z", "repo": "2dust/v2rayN"}
+{"number": 5850, "title": "[Bug]: \"显示主界面\"热键状态不释放\"Show main interface\" hotkey status is not released.", "createdAt": "2024-10-16T03:45:24Z", "repo": "2dust/v2rayN"}
+{"number": 5873, "title": "[Bug]: thinkbook14+ 的 win10企业长期支持版本，v2rayN 无法连接", "createdAt": "2024-10-16T05:51:08Z", "repo": "2dust/v2rayN"}
+{"number": 5849, "title": "[Bug]: Cannot forward all IPs to direct", "createdAt": "2024-10-16T14:05:00Z", "repo": "2dust/v2rayN"}
+{"number": 5848, "title": "[Bug]:", "createdAt": "2024-10-16T23:06:05Z", "repo": "2dust/v2rayN"}
+{"number": 5847, "title": "[Feature request]: PAC模式和自动配置代理绕过大大陆", "createdAt": "2024-10-17T01:21:42Z", "repo": "2dust/v2rayN"}
+{"number": 5856, "title": "Global 下面加个 direct 是什么意思？还有这个 fallback 是什么作用？", "createdAt": "2024-10-18T20:50:07Z", "repo": "2dust/v2rayN"}
+{"number": 5857, "title": "请问如果选择 自动配置系统代理 和 绕过大陆，那么APP（包括国产和国外软件，像QQ，TG，或者一些游戏）是否会和web一样走代理？", "createdAt": "2024-10-18T20:59:53Z", "repo": "2dust/v2rayN"}
+{"number": 5859, "title": "增加窗口位置和大小记忆功能", "createdAt": "2024-10-19T03:09:39Z", "repo": "2dust/v2rayN"}
+{"number": 5861, "title": "好工作！强势等待雷内克斯！", "createdAt": "2024-10-19T06:40:40Z", "repo": "2dust/v2rayN"}
+{"number": 5868, "title": "[Bug]: 长期没有更新现在连不上，需要解决方法，谢谢", "createdAt": "2024-10-20T05:55:04Z", "repo": "2dust/v2rayN"}
+{"number": 5877, "title": "能回归之前版本的“检查更新”功能吗", "createdAt": "2024-10-21T14:08:19Z", "repo": "2dust/v2rayN"}
+{"number": 5880, "title": "[Bug]: 开启TUN后，微信的文件图片无法发送和查看下载", "createdAt": "2024-10-21T14:45:30Z", "repo": "2dust/v2rayN"}
+{"number": 5879, "title": "TUN mode is not working properly", "createdAt": "2024-10-21T19:06:00Z", "repo": "2dust/v2rayN"}
+{"number": 5887, "title": "怎样才能代理特定域名，让其他流量都直连", "createdAt": "2024-10-23T13:54:30Z", "repo": "2dust/v2rayN"}
+{"number": 5892, "title": "[Bug]: 无法正常访问国内网站", "createdAt": "2024-10-23T14:27:34Z", "repo": "2dust/v2rayN"}
+{"number": 5911, "title": "[Feature request]: 当使用socks尝试连接ssl类型的vpn时候，访问未能成功", "createdAt": "2024-10-24T03:29:03Z", "repo": "2dust/v2rayN"}
+{"number": 5897, "title": "7.0.0", "createdAt": "2024-10-24T10:02:38Z", "repo": "2dust/v2rayN"}
+{"number": 5910, "title": "Is it possible to make discord voice work when connecting via vless v2rayN?", "createdAt": "2024-10-25T10:04:40Z", "repo": "2dust/v2rayN"}
+{"number": 5913, "title": "7.01版本区域预警设置是干什么的没见过更新也没提到", "createdAt": "2024-10-25T11:58:10Z", "repo": "2dust/v2rayN"}
+{"number": 5919, "title": "[Feature request]: 點樣設定一項新rules", "createdAt": "2024-10-25T15:41:09Z", "repo": "2dust/v2rayN"}
+{"number": 5918, "title": "how to add an .exe application process to the route so that it works through tun mode with other rules?", "createdAt": "2024-10-25T22:16:44Z", "repo": "2dust/v2rayN"}
+{"number": 5929, "title": "无法进行测试服务器真连接延迟的操作", "createdAt": "2024-10-27T07:28:20Z", "repo": "2dust/v2rayN"}
+{"number": 5938, "title": "代理真延迟链接-1超时", "createdAt": "2024-10-29T15:20:01Z", "repo": "2dust/v2rayN"}
+{"number": 5939, "title": "Tun-mode does not turn on after changing the settings", "createdAt": "2024-10-29T21:00:45Z", "repo": "2dust/v2rayN"}
+{"number": 5951, "title": "某些订阅链接更新后，在更新之前选中为活跃状态的节点会被取消活跃状态？", "createdAt": "2024-10-31T14:20:24Z", "repo": "2dust/v2rayN"}
+{"number": 5953, "title": "How can I set DNS in the V2rayN app?", "createdAt": "2024-10-31T21:02:19Z", "repo": "2dust/v2rayN"}
+{"number": 5956, "title": "7.05版本，从一个订阅组，多选服务器移至另一订阅组时，经常会失效，移动不了。原使用的660版本，没此现象。辛苦，谢谢！", "createdAt": "2024-11-01T10:48:49Z", "repo": "2dust/v2rayN"}
+{"number": 5974, "title": "【求助】之前的PAC自定义域名在哪里设置", "createdAt": "2024-11-02T12:40:18Z", "repo": "2dust/v2rayN"}
+{"number": 5976, "title": "流量统计问题，win11系统，今日上传下载、总上传下载无法正常显示", "createdAt": "2024-11-03T02:34:11Z", "repo": "2dust/v2rayN"}
+{"number": 5978, "title": "[Feature request]: 请问如何设置 任务栏图标颜色。比如全局自动什么颜色，PAC又是什么颜色", "createdAt": "2024-11-03T04:40:56Z", "repo": "2dust/v2rayN"}
+{"number": 5996, "title": "I have a question about “with-core”", "createdAt": "2024-11-04T12:41:15Z", "repo": "2dust/v2rayN"}
+{"number": 6006, "title": "[Bug]: 如何知道是哪个程序在跑流量，就算“清除系统代理”，xray.exe还是会一直跑流量", "createdAt": "2024-11-05T09:22:15Z", "repo": "2dust/v2rayN"}
+{"number": 6010, "title": "Website routing via the graphical interface????????????????", "createdAt": "2024-11-06T14:52:45Z", "repo": "2dust/v2rayN"}
+{"number": 6021, "title": "如何设置快捷键退出V2ray？V2ray本身好像没有这个功能", "createdAt": "2024-11-08T00:40:07Z", "repo": "2dust/v2rayN"}
+{"number": 6026, "title": "如何在v2rayN v7.0.9中使用v2fly_v5核心？", "createdAt": "2024-11-08T15:39:32Z", "repo": "2dust/v2rayN"}
+{"number": 6052, "title": "[Bug]: v2rayn非管理员权限高于uu加速器管理员权限", "createdAt": "2024-11-13T00:39:23Z", "repo": "2dust/v2rayN"}
+{"number": 6054, "title": "用ss回家中遇到一些问题，如何让“自动配置系统设置”改变 windows系统代理设置符合预期", "createdAt": "2024-11-13T03:41:55Z", "repo": "2dust/v2rayN"}
+{"number": 6056, "title": "is it possible to export Routing settings?", "createdAt": "2024-11-13T07:41:51Z", "repo": "2dust/v2rayN"}
+{"number": 6062, "title": "7.0.9版本绕过大陆还是全都走代理", "createdAt": "2024-11-13T16:54:56Z", "repo": "2dust/v2rayN"}
+{"number": 6063, "title": "Issue with Tun-mode Starting in Versions After 6.55", "createdAt": "2024-11-13T17:42:23Z", "repo": "2dust/v2rayN"}
+{"number": 6065, "title": "can not access localhost when using v2ray", "createdAt": "2024-11-13T19:49:02Z", "repo": "2dust/v2rayN"}
+{"number": 6077, "title": "最近几个版本的留聊统计有问题", "createdAt": "2024-11-15T12:26:56Z", "repo": "2dust/v2rayN"}
+{"number": 6078, "title": "V2RayN 7.0.0如果打開TUN全局模式，好像會洩漏DNS", "createdAt": "2024-11-15T16:43:14Z", "repo": "2dust/v2rayN"}
+{"number": 6097, "title": "[Bug]: Win10 LTSC 21H2 点击“解除win10 UWP应用回环代理限制”出错", "createdAt": "2024-11-17T03:55:00Z", "repo": "2dust/v2rayN"}
+{"number": 6096, "title": "[Bug]: 【请教大佬】IP节点连不上，域名节点能连上是核心需要更新么？小白不会呀", "createdAt": "2024-11-17T06:12:19Z", "repo": "2dust/v2rayN"}
+{"number": 6098, "title": "[Bug]: 请问如何解决某些需要的域名被block？改了DNS也没用", "createdAt": "2024-11-17T06:12:42Z", "repo": "2dust/v2rayN"}
+{"number": 6090, "title": "如何开启类似于clash-verge-rev 允许局域网连接的功能", "createdAt": "2024-11-17T06:43:25Z", "repo": "2dust/v2rayN"}
+{"number": 6116, "title": "[Bug]: V7.1.3路由规则不起作用全部网站走代理", "createdAt": "2024-11-19T04:58:55Z", "repo": "2dust/v2rayN"}
+{"number": 6120, "title": "华为移动应用引擎启动的APP怎么让网络通过v2rayN代理", "createdAt": "2024-11-19T06:31:23Z", "repo": "2dust/v2rayN"}
+{"number": 6147, "title": "[Bug]: How to add a VPN filter to domains ?", "createdAt": "2024-11-23T10:58:52Z", "repo": "2dust/v2rayN"}
+{"number": 6146, "title": "v2那个订阅里面的更多地址是怎么操作的  怎么我最多只能更新2个超过3以上总会超时", "createdAt": "2024-11-24T00:35:15Z", "repo": "2dust/v2rayN"}
+{"number": 6156, "title": "How stop server?", "createdAt": "2024-11-24T20:04:16Z", "repo": "2dust/v2rayN"}
+{"number": 6181, "title": "今天V2测速怎么都是这样，有什么问题吗", "createdAt": "2024-11-29T16:32:20Z", "repo": "2dust/v2rayN"}
+{"number": 6184, "title": "Discord RTC connecting problem", "createdAt": "2024-11-29T21:59:37Z", "repo": "2dust/v2rayN"}
+{"number": 6189, "title": "delete", "createdAt": "2024-11-30T07:47:26Z", "repo": "2dust/v2rayN"}
+{"number": 6197, "title": "Open tun interface take too much time to finish!", "createdAt": "2024-12-01T10:48:22Z", "repo": "2dust/v2rayN"}
+{"number": 6198, "title": "这个是官方仓库吗", "createdAt": "2024-12-01T12:20:05Z", "repo": "2dust/v2rayN"}
+{"number": 6202, "title": "Disable the HTTP port", "createdAt": "2024-12-02T01:42:17Z", "repo": "2dust/v2rayN"}
+{"number": 6238, "title": "v2rayN无法使用", "createdAt": "2024-12-06T02:14:31Z", "repo": "2dust/v2rayN"}
+{"number": 6239, "title": "v2rayN is not working at all now", "createdAt": "2024-12-06T02:18:53Z", "repo": "2dust/v2rayN"}
+{"number": 6242, "title": "Whitelist", "createdAt": "2024-12-06T06:59:05Z", "repo": "2dust/v2rayN"}
+{"number": 6246, "title": "在 Release 中添加 Hash 信息", "createdAt": "2024-12-06T13:36:23Z", "repo": "2dust/v2rayN"}
+{"number": 6256, "title": "可否新增无效配置一键删除的小功能，", "createdAt": "2024-12-08T07:33:55Z", "repo": "2dust/v2rayN"}
+{"number": 6261, "title": "接推广大佬得上点心啊，我在推广链接上下的一个叫火箭云的，这狗日的是病毒。", "createdAt": "2024-12-09T13:52:23Z", "repo": "2dust/v2rayN"}
+{"number": 6287, "title": "遇到奇怪的问题！", "createdAt": "2024-12-12T06:24:21Z", "repo": "2dust/v2rayN"}
+{"number": 6283, "title": "How to configure new connection to my server", "createdAt": "2024-12-14T08:29:40Z", "repo": "2dust/v2rayN"}
+{"number": 6307, "title": "Does v2rayN support reality?", "createdAt": "2024-12-19T03:08:32Z", "repo": "2dust/v2rayN"}
+{"number": 6320, "title": "能给linux版本加一个webUI么？", "createdAt": "2024-12-21T06:05:31Z", "repo": "2dust/v2rayN"}
+{"number": 6323, "title": "mac用终端给权限可以正常运行但不能正常联网节点一切正常测速都没有问题，还有一些的卡顿。", "createdAt": "2024-12-21T09:47:57Z", "repo": "2dust/v2rayN"}
+{"number": 6329, "title": "建议保留socks5和tcp端口10808和10809.", "createdAt": "2024-12-23T02:24:01Z", "repo": "2dust/v2rayN"}
+{"number": 6334, "title": "[Bug]: VMESS类型的突然无法连接了，socks可以", "createdAt": "2024-12-23T07:32:35Z", "repo": "2dust/v2rayN"}
+{"number": 6337, "title": "找人帮忙撰写Linux和macOS打包脚本", "createdAt": "2024-12-24T13:10:19Z", "repo": "2dust/v2rayN"}
+{"number": 6339, "title": "Local DNS Hijacking", "createdAt": "2024-12-24T22:28:34Z", "repo": "2dust/v2rayN"}
+{"number": 6340, "title": "手机小火箭使用正常，在电脑端v2rayN失败，请问是设置有问题吗", "createdAt": "2024-12-25T03:25:55Z", "repo": "2dust/v2rayN"}
+{"number": 6342, "title": "v2rayN 使用相同的节点配置", "createdAt": "2024-12-25T06:11:23Z", "repo": "2dust/v2rayN"}
+{"number": 6344, "title": "[Bug]: 当存在 网页VPN，某些网址会变成本地IP，（127.0.0.*），浏览器目前会报错。以前版本 是不会报错的", "createdAt": "2024-12-25T06:17:46Z", "repo": "2dust/v2rayN"}
+{"number": 6345, "title": "win7Vmess测试真连接突然不能用了6.32-6.59都不能用", "createdAt": "2024-12-25T10:53:44Z", "repo": "2dust/v2rayN"}
+{"number": 6350, "title": "[Bug]: GLaDos机场无法导入订阅", "createdAt": "2024-12-26T03:27:35Z", "repo": "2dust/v2rayN"}
+{"number": 6354, "title": "deepin下VMess方式不能上网", "createdAt": "2024-12-26T13:20:41Z", "repo": "2dust/v2rayN"}
+{"number": 6357, "title": "求助 可以实现只代理chrome吗", "createdAt": "2024-12-26T20:23:58Z", "repo": "2dust/v2rayN"}
+{"number": 6361, "title": "下载后 文件是白板 mac14.6.1", "createdAt": "2024-12-28T00:50:00Z", "repo": "2dust/v2rayN"}
+{"number": 6367, "title": "怎么检查服务器设置", "createdAt": "2024-12-29T00:49:01Z", "repo": "2dust/v2rayN"}
+{"number": 6371, "title": "macOS端打不开", "createdAt": "2024-12-29T07:28:24Z", "repo": "2dust/v2rayN"}
+{"number": 6372, "title": "macOS端打不开", "createdAt": "2024-12-29T07:28:31Z", "repo": "2dust/v2rayN"}
+{"number": 6373, "title": "Are there any plans to develop a version of HarmonyNext in the future", "createdAt": "2024-12-29T12:11:32Z", "repo": "2dust/v2rayN"}
+{"number": 6376, "title": "用的最新版732的 每次重启电脑自动选择第一个线路而不是关机之前用的线路要怎么解决", "createdAt": "2024-12-30T00:47:39Z", "repo": "2dust/v2rayN"}
+{"number": 6388, "title": "TUN模式无法使用，Mac端先行版7.5.0版本", "createdAt": "2024-12-31T16:02:18Z", "repo": "2dust/v2rayN"}
+{"number": 6402, "title": "[Bug]: B站不能登录，抖音一直提示错误", "createdAt": "2025-01-02T01:12:23Z", "repo": "2dust/v2rayN"}
+{"number": 6405, "title": "Flatpak support?", "createdAt": "2025-01-02T14:51:33Z", "repo": "2dust/v2rayN"}
+{"number": 6408, "title": "[Bug]: 1.2日白天还能登录，下午登录就提示429 Too Many Requests。服务器列表为空", "createdAt": "2025-01-03T01:46:25Z", "repo": "2dust/v2rayN"}
+{"number": 6412, "title": "一键测试速度在所有界面下延迟都是-1", "createdAt": "2025-01-03T09:48:30Z", "repo": "2dust/v2rayN"}
+{"number": 6415, "title": "请问最新版本如何使用http代理", "createdAt": "2025-01-03T14:56:36Z", "repo": "2dust/v2rayN"}
+{"number": 6417, "title": "v2rayN中是否有类似Clash For Windows中的混合配置功能？", "createdAt": "2025-01-04T05:41:34Z", "repo": "2dust/v2rayN"}
+{"number": 6418, "title": "所有节点延迟均为-1ms，测试速度时显示The ssl connection could not be established, see inner exception", "createdAt": "2025-01-04T05:51:53Z", "repo": "2dust/v2rayN"}
+{"number": 6424, "title": "[Bug]:在默认配置下无法打开ads.google.com,merchants.google.com,analytics.google.com", "createdAt": "2025-01-04T10:07:24Z", "repo": "2dust/v2rayN"}
+{"number": 6425, "title": "[Bug]: 爬虫的时候开着代理，出现 EOF occurred in violation of protocol (_ssl.c:992) 说明SSL握手失败。", "createdAt": "2025-01-04T10:18:07Z", "repo": "2dust/v2rayN"}
+{"number": 6431, "title": "pkexec does not exist in mac", "createdAt": "2025-01-05T09:17:47Z", "repo": "2dust/v2rayN"}
+{"number": 6435, "title": "求助，请问有下载和使用教程吗", "createdAt": "2025-01-05T12:07:25Z", "repo": "2dust/v2rayN"}
+{"number": 6551, "title": "[Feature request]: 建议增加 AppImage", "createdAt": "2025-01-06T02:09:43Z", "repo": "2dust/v2rayN"}
+{"number": 6457, "title": "对DNS配置的增强的讨论", "createdAt": "2025-01-06T03:16:38Z", "repo": "2dust/v2rayN"}
+{"number": 6440, "title": "增加支持KCPTun", "createdAt": "2025-01-06T03:39:17Z", "repo": "2dust/v2rayN"}
+{"number": 6450, "title": "为什么在Core类型设置中删除了v2fly？", "createdAt": "2025-01-07T07:47:10Z", "repo": "2dust/v2rayN"}
+{"number": 6451, "title": "为什么 Steam 客户的聊天无法发图片？", "createdAt": "2025-01-07T09:40:20Z", "repo": "2dust/v2rayN"}
+{"number": 6452, "title": "nslookup not working", "createdAt": "2025-01-07T11:26:46Z", "repo": "2dust/v2rayN"}
+{"number": 6463, "title": "mac 版本是在mac上编译出来的吗？还是在linux上混编译出来的？", "createdAt": "2025-01-08T18:11:39Z", "repo": "2dust/v2rayN"}
+{"number": 6473, "title": "[Bug]: 路由做了DNS反向代理，域名无法访问", "createdAt": "2025-01-10T02:25:33Z", "repo": "2dust/v2rayN"}
+{"number": 6471, "title": "vmess类型的节点都用不了 clash 小火箭中都没有问题", "createdAt": "2025-01-10T02:28:12Z", "repo": "2dust/v2rayN"}
+{"number": 6474, "title": "如何路由设置 block 域名呢", "createdAt": "2025-01-10T08:19:31Z", "repo": "2dust/v2rayN"}
+{"number": 6477, "title": "[Feature request]: 想知道为什么客户端的开启局域网连接，WHATSAPP不能使用，并且在WHATSAPP里设置了这个也没法使用。", "createdAt": "2025-01-10T09:58:55Z", "repo": "2dust/v2rayN"}
+{"number": 6480, "title": "linux mint怎么关闭任务栏图标啊", "createdAt": "2025-01-11T08:47:15Z", "repo": "2dust/v2rayN"}
+{"number": 6484, "title": "pc端tun模式打开无法生效的临时解决方法", "createdAt": "2025-01-11T16:47:12Z", "repo": "2dust/v2rayN"}
+{"number": 6489, "title": "真连接延迟和ping的差距应该有多大", "createdAt": "2025-01-12T07:11:00Z", "repo": "2dust/v2rayN"}
+{"number": 6494, "title": "[Feature request]: Disabling Advertising", "createdAt": "2025-01-12T16:33:58Z", "repo": "2dust/v2rayN"}
+{"number": 6495, "title": "使用新版本V2RayN无法正常使用，使用老版本没有问题", "createdAt": "2025-01-13T08:39:21Z", "repo": "2dust/v2rayN"}
+{"number": 6498, "title": "为什么不直接调用win10内置的.net framework呢？", "createdAt": "2025-01-13T11:11:10Z", "repo": "2dust/v2rayN"}
+{"number": 6514, "title": "大家好，请问参数设置里面的系统代理删除了之后怎么重启软件又自动恢复了，json也删除了还是没用，不知道是哪里问题，望指点指点~~~", "createdAt": "2025-01-15T13:06:17Z", "repo": "2dust/v2rayN"}
+{"number": 6517, "title": "[Feature request]: Doesn't work on my Windows PC. Who can help me with?", "createdAt": "2025-01-16T01:40:43Z", "repo": "2dust/v2rayN"}
+{"number": 6519, "title": "全局路由是否有流量不经过代理？", "createdAt": "2025-01-16T06:37:17Z", "repo": "2dust/v2rayN"}
+{"number": 6521, "title": "TUN Mode Issue: Ping -1 in v2rayN", "createdAt": "2025-01-16T18:40:29Z", "repo": "2dust/v2rayN"}
+{"number": 6524, "title": "clashN 过来的，试用了一下 v2rayN 感觉是真的不太行啊。根本没法用。", "createdAt": "2025-01-17T02:55:20Z", "repo": "2dust/v2rayN"}
+{"number": 6528, "title": "请问v2rayN如何切换内核", "createdAt": "2025-01-17T12:24:29Z", "repo": "2dust/v2rayN"}
+{"number": 6529, "title": "V7.6.2版本的一键测试延迟和速度的问题", "createdAt": "2025-01-18T06:04:41Z", "repo": "2dust/v2rayN"}
+{"number": 6530, "title": "请问是否会有适配openwrt的计划", "createdAt": "2025-01-18T07:34:11Z", "repo": "2dust/v2rayN"}
+{"number": 6532, "title": "7.6.2版本，下载安装后，打开提示“v2rayN”已损坏，无法打开。 你应该将它移到废纸篓。怎么解决？", "createdAt": "2025-01-18T13:49:48Z", "repo": "2dust/v2rayN"}
+{"number": 6536, "title": "[Bug]: 一键测速或者测试服务器速度报错  The SSL connection could not be established, see inner exception.", "createdAt": "2025-01-18T14:25:02Z", "repo": "2dust/v2rayN"}
+{"number": 6538, "title": "已经开分应用代理，可没有勾选的app也会卡顿。", "createdAt": "2025-01-19T04:56:04Z", "repo": "2dust/v2rayN"}
+{"number": 6543, "title": "Help - Can't Stream to YouTube when connected to V2rayN", "createdAt": "2025-01-19T08:05:01Z", "repo": "2dust/v2rayN"}
+{"number": 6549, "title": "[Feature request]: 为什么不直接按测试结果排序？", "createdAt": "2025-01-19T12:18:05Z", "repo": "2dust/v2rayN"}
+{"number": 6548, "title": "macos v2rayn没图标", "createdAt": "2025-01-19T17:47:30Z", "repo": "2dust/v2rayN"}
+{"number": 6550, "title": "怎么启用啊？", "createdAt": "2025-01-20T01:35:04Z", "repo": "2dust/v2rayN"}
+{"number": 6558, "title": "How can I enable GeoIP/GeoSite for a random country?", "createdAt": "2025-01-21T09:28:51Z", "repo": "2dust/v2rayN"}
+{"number": 6564, "title": "http proxy", "createdAt": "2025-01-21T13:58:04Z", "repo": "2dust/v2rayN"}
+{"number": 6563, "title": "[Feature request]:", "createdAt": "2025-01-22T02:07:58Z", "repo": "2dust/v2rayN"}
+{"number": 6566, "title": "clash系的订阅路由规则不生效是什么情况去哪里可以更改", "createdAt": "2025-01-22T06:38:46Z", "repo": "2dust/v2rayN"}
+{"number": 6569, "title": "无法访问某些网站", "createdAt": "2025-01-23T08:38:08Z", "repo": "2dust/v2rayN"}
+{"number": 6570, "title": "使用bing搜索结果界面有些问题", "createdAt": "2025-01-23T08:42:36Z", "repo": "2dust/v2rayN"}
+{"number": 6574, "title": "如何解决解决IP造成的Instagram 429错误", "createdAt": "2025-01-23T16:22:41Z", "repo": "2dust/v2rayN"}
+{"number": 6582, "title": "udp transport,", "createdAt": "2025-01-24T13:42:04Z", "repo": "2dust/v2rayN"}
+{"number": 6590, "title": "[Feature request]: clash系能不能使用路由规则啊有些clash系订阅把我常用的网站都给屏蔽了（有什么办法可以解决吗？）", "createdAt": "2025-01-25T09:10:04Z", "repo": "2dust/v2rayN"}
+{"number": 6600, "title": "In which format to enter the process name in the routing for the tun mode in mac OS", "createdAt": "2025-01-29T23:35:32Z", "repo": "2dust/v2rayN"}
+{"number": 6610, "title": "[Bug]: xhttp down stram is not working properly", "createdAt": "2025-01-31T18:04:25Z", "repo": "2dust/v2rayN"}
+{"number": 6615, "title": "配置之后显示延迟-1", "createdAt": "2025-02-01T11:25:54Z", "repo": "2dust/v2rayN"}
+{"number": 6616, "title": "投票，使用 Windows 版本 v2rayN 时，你会选择安装  [Microsoft .NET 8.0 Desktop Runtime] 吗？", "createdAt": "2025-02-02T01:58:47Z", "repo": "2dust/v2rayN"}
+{"number": 6620, "title": "Configuring DNS [v2rayN 7.7.0]", "createdAt": "2025-02-02T15:40:08Z", "repo": "2dust/v2rayN"}
+{"number": 6621, "title": "提案：支持自定义代理工具（程序）的路径和参数", "createdAt": "2025-02-03T07:49:23Z", "repo": "2dust/v2rayN"}
+{"number": 6622, "title": "v2rayN -6.23 版本 没有办法批量测试", "createdAt": "2025-02-03T09:04:29Z", "repo": "2dust/v2rayN"}
+{"number": 6623, "title": "支持配置HTTP+SOCKS代理模式", "createdAt": "2025-02-03T17:03:03Z", "repo": "2dust/v2rayN"}
+{"number": 6627, "title": "Unable to connect to the game server after turning on TUN mode", "createdAt": "2025-02-04T12:24:32Z", "repo": "2dust/v2rayN"}
+{"number": 6633, "title": "[Bug]: Multi-Server Lowest Latency uses configs with delay of -1", "createdAt": "2025-02-04T14:29:56Z", "repo": "2dust/v2rayN"}
+{"number": 6632, "title": "我想让同一个服务器地址同一个端口，通过【移除重复服务器】这一操作，只保留下来一个，怎么设置？", "createdAt": "2025-02-05T01:35:24Z", "repo": "2dust/v2rayN"}
+{"number": 6644, "title": "[Bug]: 莫名其妙出现开启自动配置系统代理，无法访问国内网站(规则模式)", "createdAt": "2025-02-07T03:10:06Z", "repo": "2dust/v2rayN"}
+{"number": 6645, "title": "v2ray core无法启动，请教下报错是什么意思", "createdAt": "2025-02-07T07:45:04Z", "repo": "2dust/v2rayN"}
+{"number": 6649, "title": "请问ui界面的单元格可不可以固定长度或者省略某些字段", "createdAt": "2025-02-07T14:47:02Z", "repo": "2dust/v2rayN"}
+{"number": 6650, "title": "[建议] 希望速度测试后保留结果，而不是一动就都变成“-1”", "createdAt": "2025-02-08T02:22:07Z", "repo": "2dust/v2rayN"}
+{"number": 6654, "title": "socks5节点如何使用", "createdAt": "2025-02-08T11:30:06Z", "repo": "2dust/v2rayN"}
+{"number": 6657, "title": "[Feature request]: 是否可以优化一下界面布局或提供一个精简模式？", "createdAt": "2025-02-08T18:04:57Z", "repo": "2dust/v2rayN"}
+{"number": 6659, "title": "[Bug]:不开V2rayN 浏览器连不上网，微信正常联网。显示代理服务器出现问题。自从下载V2rayN后 浏览器无法上网，开了V2rayN代理才能上网", "createdAt": "2025-02-09T02:44:23Z", "repo": "2dust/v2rayN"}
+{"number": 6660, "title": "能否帮我生成一份开箱即用的配置（和远程代理无关）", "createdAt": "2025-02-09T05:06:25Z", "repo": "2dust/v2rayN"}
+{"number": 6663, "title": "为什么最新的7.8.1版本不再打包动态链接库文件，而是从exe释放到临时目录中调用？", "createdAt": "2025-02-09T09:10:32Z", "repo": "2dust/v2rayN"}
+{"number": 6666, "title": "[Bug]: 订阅更新失败", "createdAt": "2025-02-09T12:46:52Z", "repo": "2dust/v2rayN"}
+{"number": 6669, "title": "[Feature request]: 在v2rayn中使用clash订阅链接", "createdAt": "2025-02-10T03:26:42Z", "repo": "2dust/v2rayN"}
+{"number": 6672, "title": "[Bug]: mac mini4安装ARM版本之后，打开提示安装包损坏", "createdAt": "2025-02-10T12:00:01Z", "repo": "2dust/v2rayN"}
+{"number": 6671, "title": "自定义配置中VLESS的地址不能为域名", "createdAt": "2025-02-10T16:35:00Z", "repo": "2dust/v2rayN"}
+{"number": 6673, "title": "Websites inaccessible with v2RayN in Windows 10, but accessible when disabled", "createdAt": "2025-02-11T06:19:18Z", "repo": "2dust/v2rayN"}
+{"number": 6675, "title": "请问v2ray mac版可以设置中文吗？", "createdAt": "2025-02-11T11:03:36Z", "repo": "2dust/v2rayN"}
+{"number": 6683, "title": "[Bug]: В режиме \"только заблокированные\" все работает, но в режиме \"все\" нет интернета и 100% ЦП", "createdAt": "2025-02-12T01:23:57Z", "repo": "2dust/v2rayN"}
+{"number": 6685, "title": "不打开v2rayN电脑正常上网，打开v2rayN后，显示系统代理设置改变，电脑无法上网", "createdAt": "2025-02-12T02:42:38Z", "repo": "2dust/v2rayN"}
+{"number": 6691, "title": "为什么必须要求.NET最新版啊", "createdAt": "2025-02-12T14:52:21Z", "repo": "2dust/v2rayN"}
+{"number": 6690, "title": "如何对虚拟机生效", "createdAt": "2025-02-12T15:41:06Z", "repo": "2dust/v2rayN"}
+{"number": 6699, "title": "无法更新订阅", "createdAt": "2025-02-13T12:54:03Z", "repo": "2dust/v2rayN"}
+{"number": 6696, "title": "Looping((", "createdAt": "2025-02-13T15:08:12Z", "repo": "2dust/v2rayN"}
+{"number": 6700, "title": "AppImage crashed", "createdAt": "2025-02-14T09:53:49Z", "repo": "2dust/v2rayN"}
+{"number": 6701, "title": "终于解决tun问题了，现在可以随意打开关闭", "createdAt": "2025-02-14T13:26:02Z", "repo": "2dust/v2rayN"}
+{"number": 6705, "title": "winget 更新会清除原有设置", "createdAt": "2025-02-15T08:18:45Z", "repo": "2dust/v2rayN"}
+{"number": 6709, "title": "[Bug]: Separate tunneling does not work", "createdAt": "2025-02-15T12:01:28Z", "repo": "2dust/v2rayN"}
+{"number": 6708, "title": "[Bug]: 最新版本开自动模式，微软 todo等应用就连不上，不管是绕过大陆还是黑名单", "createdAt": "2025-02-15T13:26:35Z", "repo": "2dust/v2rayN"}
+{"number": 6716, "title": "L2TP - naked without encryption.", "createdAt": "2025-02-17T08:43:50Z", "repo": "2dust/v2rayN"}
+{"number": 6718, "title": "[反馈]  Xray-core v25.1.30 不适用", "createdAt": "2025-02-17T11:05:55Z", "repo": "2dust/v2rayN"}
+{"number": 6723, "title": "请问tun模式 能不能设置为非管理员模式下也能启动", "createdAt": "2025-02-18T10:55:15Z", "repo": "2dust/v2rayN"}
+{"number": 6734, "title": "[Bug]: 新版本Chrome 无法访问没有ssl证书的网站", "createdAt": "2025-02-19T02:50:02Z", "repo": "2dust/v2rayN"}
+{"number": 6745, "title": "[Bug]: 部分节点因为地址无效,测试延迟和速度无效,也无法被当作无效节点去除", "createdAt": "2025-02-19T02:57:11Z", "repo": "2dust/v2rayN"}
+{"number": 6737, "title": "请问这些信息是什么意思，需要怎么处理呢", "createdAt": "2025-02-19T06:42:34Z", "repo": "2dust/v2rayN"}
+{"number": 6738, "title": "报错：app/proxyman/outbound: failed to process outbound traffic", "createdAt": "2025-02-19T09:20:50Z", "repo": "2dust/v2rayN"}
+{"number": 6744, "title": "请问哪个版本开始支持hysteria2协议？", "createdAt": "2025-02-19T10:02:39Z", "repo": "2dust/v2rayN"}
+{"number": 6743, "title": "7.8.3代理服务器端口转发是不是出了问题？", "createdAt": "2025-02-19T10:35:32Z", "repo": "2dust/v2rayN"}
+{"number": 6747, "title": "更新到V7.8.3版本后为啥V2fly的无法使用了", "createdAt": "2025-02-20T01:53:48Z", "repo": "2dust/v2rayN"}
+{"number": 6749, "title": "昨天还好好的，今天突然不能用了，日志如下，求帮忙。", "createdAt": "2025-02-20T03:41:03Z", "repo": "2dust/v2rayN"}
+{"number": 6754, "title": "请教一个菜鸟级的问题：v2rayN 如何设定自动选择延时最短/或下行最快的线路？", "createdAt": "2025-02-20T06:38:34Z", "repo": "2dust/v2rayN"}
+{"number": 6757, "title": "订阅分组过多，不显示，不知道是不是bug，", "createdAt": "2025-02-20T16:02:29Z", "repo": "2dust/v2rayN"}
+{"number": 6759, "title": "[Feature request]: 通过剪贴板导入Just My Socks链接，添加的服务器自动放到订阅分组里，如何启用订阅", "createdAt": "2025-02-20T20:12:57Z", "repo": "2dust/v2rayN"}
+{"number": 6763, "title": "[Bug]: 用了Hysteria2协议无法正确解析本地域名，并且打开任何网站都有报错", "createdAt": "2025-02-21T02:02:26Z", "repo": "2dust/v2rayN"}
+{"number": 6761, "title": "MAC 安装以后能测速、能测延迟， 但是网页无法访问外网", "createdAt": "2025-02-21T02:52:43Z", "repo": "2dust/v2rayN"}
+{"number": 6765, "title": "[Bug]: Windows下使用tun模式时，若core为xray，stack=gvisor且路由为全局时无法正常工作", "createdAt": "2025-02-21T05:24:22Z", "repo": "2dust/v2rayN"}
+{"number": 6768, "title": "选中节点后，节点栏自动回到顶部（新UI）", "createdAt": "2025-02-21T14:08:38Z", "repo": "2dust/v2rayN"}
+{"number": 6770, "title": "[Feature request]: Ubuntu server能否用命令行等在后台直接配置使用呢", "createdAt": "2025-02-21T17:40:29Z", "repo": "2dust/v2rayN"}
+{"number": 6773, "title": "[Feature Request] MacOS版何时可以有快捷键功能呢？", "createdAt": "2025-02-22T07:18:29Z", "repo": "2dust/v2rayN"}
+{"number": 6775, "title": "V2RayN不支持瀏覽器端QUIC嗎？", "createdAt": "2025-02-22T07:47:34Z", "repo": "2dust/v2rayN"}
+{"number": 6776, "title": "能否提供禁用mixed port功能？", "createdAt": "2025-02-22T07:58:47Z", "repo": "2dust/v2rayN"}
+{"number": 6778, "title": "请问机场那边和我说v2rayn不支持hy2协议 这个是机场的问题吗?", "createdAt": "2025-02-22T09:22:20Z", "repo": "2dust/v2rayN"}
+{"number": 6779, "title": "v2rayN 更新最新版本后打开网页显示不支持的地区怎么解决", "createdAt": "2025-02-22T15:10:46Z", "repo": "2dust/v2rayN"}
+{"number": 6780, "title": "真连接延迟测试跟浏览器能否成功访问真连接延迟测试地址有关系吗？", "createdAt": "2025-02-23T01:39:57Z", "repo": "2dust/v2rayN"}
+{"number": 6787, "title": "【求助】V2ray搭建完成后，使用item ping google不同，telnet google.com 80也不通，但是我可以通浏览器访问，这个是问什么？我如何才可以ping通", "createdAt": "2025-02-23T08:45:23Z", "repo": "2dust/v2rayN"}
+{"number": 6788, "title": "How can i proxy Riot Games services?", "createdAt": "2025-02-23T13:05:09Z", "repo": "2dust/v2rayN"}
+{"number": 6798, "title": "How do I make an exception for the game?", "createdAt": "2025-02-24T20:09:56Z", "repo": "2dust/v2rayN"}
+{"number": 6805, "title": "明明设置了b站不走代理可是打开b站还是会出现点小问题", "createdAt": "2025-02-26T02:46:48Z", "repo": "2dust/v2rayN"}
+{"number": 6807, "title": "萌新求助   Tun下 CPU 逐渐涨到70%的解决方法", "createdAt": "2025-02-26T05:44:41Z", "repo": "2dust/v2rayN"}
+{"number": 6808, "title": "dns: lookup failed for, hysteria2节点DNS解析失败, 求解应如何设置", "createdAt": "2025-02-26T06:57:27Z", "repo": "2dust/v2rayN"}
+{"number": 6811, "title": "大佬，mac版的tun模式怎么设置开启", "createdAt": "2025-02-26T08:32:08Z", "repo": "2dust/v2rayN"}
+{"number": 6813, "title": "若開啟TUN模式，無法訪問內地網站", "createdAt": "2025-02-27T02:13:15Z", "repo": "2dust/v2rayN"}
+{"number": 6814, "title": "改進：「繞過大陸」路由設定檔", "createdAt": "2025-02-27T02:24:20Z", "repo": "2dust/v2rayN"}
+{"number": 6815, "title": "tun模式打开之后只会断网", "createdAt": "2025-02-27T02:32:16Z", "repo": "2dust/v2rayN"}
+{"number": 6816, "title": "Core、核心、自定义、mihomo", "createdAt": "2025-02-27T03:00:57Z", "repo": "2dust/v2rayN"}
+{"number": 6821, "title": "ERROR [2120821557 1ms] connection: open outbound connection: operation not permitted", "createdAt": "2025-02-27T05:35:08Z", "repo": "2dust/v2rayN"}
+{"number": 6822, "title": "v2rayN 7系列版本打不开https://ads.tiktok.com/i18n/login", "createdAt": "2025-02-27T12:20:07Z", "repo": "2dust/v2rayN"}
+{"number": 6831, "title": "v2rayN\\guiLogs 里的日志如何彻底关闭?", "createdAt": "2025-02-28T02:17:21Z", "repo": "2dust/v2rayN"}
+{"number": 6834, "title": "负载均衡配置如何按路由设置的规则走？", "createdAt": "2025-02-28T08:05:22Z", "repo": "2dust/v2rayN"}
+{"number": 6844, "title": "请问下大家，怎么修改配置文件，使得我的v2rayN不止能监听本地回环地址", "createdAt": "2025-03-01T04:15:43Z", "repo": "2dust/v2rayN"}
+{"number": 6846, "title": "[RPM构建] 对于构建官方版RPM包的提议", "createdAt": "2025-03-01T13:47:06Z", "repo": "2dust/v2rayN"}
+{"number": 6849, "title": "tun模式下的进程名，怎样剔除在路由外或选定进入路由？", "createdAt": "2025-03-02T08:01:14Z", "repo": "2dust/v2rayN"}
+{"number": 6850, "title": "请教各位怎样能导出PC（Windows）内的路由规则？", "createdAt": "2025-03-03T02:09:58Z", "repo": "2dust/v2rayN"}
+{"number": 6858, "title": "[Bug]: 不支持doh", "createdAt": "2025-03-04T11:02:25Z", "repo": "2dust/v2rayN"}
+{"number": 6863, "title": "[Bug]: 频繁出现 ERR_PROXY_CONNECTION_FAILED 错误", "createdAt": "2025-03-05T02:01:27Z", "repo": "2dust/v2rayN"}
+{"number": 6860, "title": "能否增加一个测试url是否走代理的功能，这样我就能提前知道某些ip或者域名是否会走代理", "createdAt": "2025-03-05T02:08:51Z", "repo": "2dust/v2rayN"}
+{"number": 6862, "title": "疑似入侵，本人不懂，卡巴斯基防御截图，仅供参考", "createdAt": "2025-03-05T05:08:57Z", "repo": "2dust/v2rayN"}
+{"number": 6869, "title": "[Bug]: Windows客户端测试连接延迟和速度时会有错误提示", "createdAt": "2025-03-05T14:17:21Z", "repo": "2dust/v2rayN"}
+{"number": 6873, "title": "电脑用不了", "createdAt": "2025-03-06T10:14:50Z", "repo": "2dust/v2rayN"}
+{"number": 6877, "title": "\"Settings\" - \"Set Win10 UWP Lopback\"無法在簡體中文版Windows 10/11上面保存設置", "createdAt": "2025-03-07T03:07:17Z", "repo": "2dust/v2rayN"}
+{"number": 6880, "title": "多服务器延迟 选择后没有主动生成的那一栏 ！！！！", "createdAt": "2025-03-08T15:56:56Z", "repo": "2dust/v2rayN"}
+{"number": 6897, "title": "[Bug]: xhttp mode", "createdAt": "2025-03-10T21:18:41Z", "repo": "2dust/v2rayN"}
+{"number": 6898, "title": "关于路由规则讲解 ，我看到的比较不错的回答", "createdAt": "2025-03-11T10:50:30Z", "repo": "2dust/v2rayN"}
+{"number": 6902, "title": "请问点击更新后，新版本文件在哪呀？", "createdAt": "2025-03-12T02:09:42Z", "repo": "2dust/v2rayN"}
+{"number": 6903, "title": "7.10.4版本使用后cloudflare检测DNS与SNI不安全", "createdAt": "2025-03-12T10:26:43Z", "repo": "2dust/v2rayN"}
+{"number": 6908, "title": "linux下7.10.4版本tun模式开启无网", "createdAt": "2025-03-13T08:58:35Z", "repo": "2dust/v2rayN"}
+{"number": 6910, "title": "[Feature request]怎么跑起项目来", "createdAt": "2025-03-13T10:02:37Z", "repo": "2dust/v2rayN"}
+{"number": 6917, "title": "V2rayn Linux 虚拟机下，节点能ping通，但不可用，", "createdAt": "2025-03-15T00:41:43Z", "repo": "2dust/v2rayN"}
+{"number": 6934, "title": "请问怎么查看订阅的流量信息", "createdAt": "2025-03-18T07:27:12Z", "repo": "2dust/v2rayN"}
+{"number": 6942, "title": "[Bug]: unable to connect", "createdAt": "2025-03-18T16:25:25Z", "repo": "2dust/v2rayN"}
+{"number": 6940, "title": "PlayStation走V2Ray方案？", "createdAt": "2025-03-18T18:55:40Z", "repo": "2dust/v2rayN"}
+{"number": 6947, "title": "[Bug]: GlobalHotKeys is missing", "createdAt": "2025-03-19T08:24:05Z", "repo": "2dust/v2rayN"}
+{"number": 6946, "title": "[PAC] PAC模式使用了0.0.0.0而不是127.0.0.1", "createdAt": "2025-03-19T08:55:04Z", "repo": "2dust/v2rayN"}
+{"number": 6949, "title": "exclusion for apps", "createdAt": "2025-03-19T16:14:05Z", "repo": "2dust/v2rayN"}
+{"number": 6957, "title": "[Feature request]: 对于路由功能的优化建议", "createdAt": "2025-03-20T03:45:33Z", "repo": "2dust/v2rayN"}
+{"number": 6956, "title": "VMess 分享链接为空的字段可以跳过吗", "createdAt": "2025-03-20T04:40:27Z", "repo": "2dust/v2rayN"}
+{"number": 6963, "title": "Proxy App", "createdAt": "2025-03-21T06:44:48Z", "repo": "2dust/v2rayN"}
+{"number": 6965, "title": "[Feature request]: 清除代理“不能上网”的问题该正视一下了", "createdAt": "2025-03-21T08:21:03Z", "repo": "2dust/v2rayN"}
+{"number": 6969, "title": "[Bug]:  Warning 大量警告提示", "createdAt": "2025-03-21T19:33:14Z", "repo": "2dust/v2rayN"}
+{"number": 6972, "title": "新手求助，在Ubuntu安装v2rayN出现文字显示乱码", "createdAt": "2025-03-22T05:13:25Z", "repo": "2dust/v2rayN"}
+{"number": 6975, "title": "linux mint启用tun无法联网", "createdAt": "2025-03-22T10:36:01Z", "repo": "2dust/v2rayN"}
+{"number": 6978, "title": "从6.53版本升级到7.10.4，感觉新界面不如6.53的几个地方", "createdAt": "2025-03-22T16:48:42Z", "repo": "2dust/v2rayN"}
+{"number": 6987, "title": "[Bug]:", "createdAt": "2025-03-23T16:02:29Z", "repo": "2dust/v2rayN"}
+{"number": 6999, "title": "[Bug]: Domain rule doesn't work", "createdAt": "2025-03-25T16:39:42Z", "repo": "2dust/v2rayN"}
+{"number": 7005, "title": "VS Code AutoSync will disconnect after enabling proxy", "createdAt": "2025-03-27T02:10:50Z", "repo": "2dust/v2rayN"}
+{"number": 7010, "title": "[Bug]: Google Chrome更新问题", "createdAt": "2025-03-27T05:18:20Z", "repo": "2dust/v2rayN"}
+{"number": 7009, "title": "[Bug]: V7.10.5测速错误", "createdAt": "2025-03-27T10:02:54Z", "repo": "2dust/v2rayN"}
+{"number": 7018, "title": "[Feature request]: 使用xhttp时需不需要设置extra？", "createdAt": "2025-03-28T02:10:09Z", "repo": "2dust/v2rayN"}
+{"number": 7025, "title": "求指教：没有动过设置，突然无法科学上网~", "createdAt": "2025-03-29T01:05:21Z", "repo": "2dust/v2rayN"}
+{"number": 7026, "title": "Tun模式 网页加载慢的原因和解决方案", "createdAt": "2025-03-29T02:28:43Z", "repo": "2dust/v2rayN"}
+{"number": 7031, "title": "[Bug]:", "createdAt": "2025-03-30T18:21:53Z", "repo": "2dust/v2rayN"}
+{"number": 7038, "title": "[Bug]:", "createdAt": "2025-04-01T00:46:30Z", "repo": "2dust/v2rayN"}
+{"number": 7048, "title": "[Bug]:", "createdAt": "2025-04-01T16:46:11Z", "repo": "2dust/v2rayN"}
+{"number": 7051, "title": "链式代理-落地代理失败", "createdAt": "2025-04-02T02:10:05Z", "repo": "2dust/v2rayN"}
+{"number": 7052, "title": "奇怪的问题", "createdAt": "2025-04-02T06:31:55Z", "repo": "2dust/v2rayN"}
+{"number": 7057, "title": "[Bug]: sing-box version", "createdAt": "2025-04-02T14:53:22Z", "repo": "2dust/v2rayN"}
+{"number": 7056, "title": "[小白]在TUN启用时是恒定启用代理的吗？即使选择了“清除系统代理”", "createdAt": "2025-04-02T21:32:52Z", "repo": "2dust/v2rayN"}
+{"number": 7063, "title": "[Bug] V2RayN 7.9.5可能與Intel Connectivity Performance Suite軟件有衝突", "createdAt": "2025-04-03T16:08:37Z", "repo": "2dust/v2rayN"}
+{"number": 7067, "title": "常识问题求教：PAC是谁建立的，谁在维护，可以自动更新么？", "createdAt": "2025-04-04T02:06:09Z", "repo": "2dust/v2rayN"}
+{"number": 7068, "title": "服务节点使用动态域名的情况下 客户端不能及时更换到新的ip 有什么办法吗？", "createdAt": "2025-04-04T08:35:46Z", "repo": "2dust/v2rayN"}
+{"number": 7069, "title": "纯好奇 v2rayN是哪个版本开始支持sing-box gui的", "createdAt": "2025-04-04T13:24:51Z", "repo": "2dust/v2rayN"}
+{"number": 7071, "title": "Question about the recent removal of ad-blocking rules from default DNS and routing.", "createdAt": "2025-04-05T01:39:57Z", "repo": "2dust/v2rayN"}
+{"number": 7073, "title": "Ubuntu运行 v2rayN-linux-64.zip（版本7.10.5），如何在后台运行，而不是调用UI界面运行", "createdAt": "2025-04-05T07:44:46Z", "repo": "2dust/v2rayN"}
+{"number": 7081, "title": "V2rayN客户端问题", "createdAt": "2025-04-08T06:10:37Z", "repo": "2dust/v2rayN"}
+{"number": 7083, "title": "是否考虑将路由规则附加到dns规则中 (singbox 1.11+)", "createdAt": "2025-04-08T09:35:43Z", "repo": "2dust/v2rayN"}
+{"number": 7084, "title": "请问这个app混合监听是如何实现的，受内核直接支持吗", "createdAt": "2025-04-08T10:05:49Z", "repo": "2dust/v2rayN"}
+{"number": 7085, "title": "how to make this work only for certain Apps (Discord, CS2, Google Chrome)", "createdAt": "2025-04-08T12:28:53Z", "repo": "2dust/v2rayN"}
+{"number": 7088, "title": "[Bug]: V7.10.5版本的hy2节点无法使用tun模式连接游戏", "createdAt": "2025-04-08T13:41:48Z", "repo": "2dust/v2rayN"}
+{"number": 7090, "title": "关于局域网代理上的新旧版本混合端口问题，希望作者大大能解答一下", "createdAt": "2025-04-09T07:50:30Z", "repo": "2dust/v2rayN"}
+{"number": 7091, "title": "Future", "createdAt": "2025-04-09T11:16:34Z", "repo": "2dust/v2rayN"}
+{"number": 7096, "title": "[Bug]: 监听端口无论如何修改都显示被占用", "createdAt": "2025-04-09T15:28:24Z", "repo": "2dust/v2rayN"}
+{"number": 7097, "title": "请问现在用V3绕过大陆发现，企业微信非常卡顿", "createdAt": "2025-04-09T16:17:50Z", "repo": "2dust/v2rayN"}
+{"number": 7098, "title": "[Bug]: 开了V3绕过大陆，企业微信传输图片不是直连", "createdAt": "2025-04-10T00:39:00Z", "repo": "2dust/v2rayN"}
+{"number": 7101, "title": "关于 Singbox 1.12 适配的剩余 TODO", "createdAt": "2025-04-10T16:07:42Z", "repo": "2dust/v2rayN"}
+{"number": 7107, "title": "pac模式下无法做到完全隐藏IP吗？", "createdAt": "2025-04-11T08:17:59Z", "repo": "2dust/v2rayN"}
+{"number": 7108, "title": "请教求助，Ubuntu 20.04下，无法访问外网", "createdAt": "2025-04-11T09:20:42Z", "repo": "2dust/v2rayN"}
+{"number": 7112, "title": "tun+黑名单一切正常，绕过大陆或者全局不行", "createdAt": "2025-04-12T04:43:24Z", "repo": "2dust/v2rayN"}
+{"number": 7120, "title": "how to access inbound details through api", "createdAt": "2025-04-13T19:05:08Z", "repo": "2dust/v2rayN"}
+{"number": 7124, "title": "请解决当前DNS配置存在的问题", "createdAt": "2025-04-14T13:34:35Z", "repo": "2dust/v2rayN"}
+{"number": 7130, "title": "What is the difference between these? desktop, SelfContained, ...", "createdAt": "2025-04-15T20:28:47Z", "repo": "2dust/v2rayN"}
+{"number": 7137, "title": "Debian Tun", "createdAt": "2025-04-16T21:30:48Z", "repo": "2dust/v2rayN"}
+{"number": 7142, "title": "[Bug]: 使用singbox核心测试VMess真连接延迟一直为-1，但是测试文件速度又可以正常出延迟和速度，Xray核心则完全不可用", "createdAt": "2025-04-17T01:29:29Z", "repo": "2dust/v2rayN"}
+{"number": 7144, "title": "如何设置特定网站或软件不走代理？保持直连", "createdAt": "2025-04-17T10:11:32Z", "repo": "2dust/v2rayN"}
+{"number": 7146, "title": "代理之后路由设置里面有很多静态地址", "createdAt": "2025-04-17T15:00:18Z", "repo": "2dust/v2rayN"}
+{"number": 7149, "title": "如何设置规则让本机的微信不能通过代理联网而是选择直连？（Windows）", "createdAt": "2025-04-18T08:21:22Z", "repo": "2dust/v2rayN"}
+{"number": 7151, "title": "一键测速线程数", "createdAt": "2025-04-18T09:23:44Z", "repo": "2dust/v2rayN"}
+{"number": 7152, "title": "支持不同DNS配置文件", "createdAt": "2025-04-18T21:05:58Z", "repo": "2dust/v2rayN"}
+{"number": 7161, "title": "我加速后，为什么访问我自己网站国内ip也会走代理，网速很慢", "createdAt": "2025-04-20T10:36:21Z", "repo": "2dust/v2rayN"}
+{"number": 7158, "title": "通过“自定义配置服务器“添加的代理，发现设置的路由规则无效", "createdAt": "2025-04-20T12:38:52Z", "repo": "2dust/v2rayN"}
+{"number": 7159, "title": "请教如何解决：“V2rayn 运行core失败，请查看提示信息”这个问题？", "createdAt": "2025-04-20T13:39:33Z", "repo": "2dust/v2rayN"}
+{"number": 7170, "title": "请教一下tun怎么搞的", "createdAt": "2025-04-22T04:23:18Z", "repo": "2dust/v2rayN"}
+{"number": 7171, "title": "如何能够通过配置文件的方式，直接启动指定节点", "createdAt": "2025-04-22T09:48:10Z", "repo": "2dust/v2rayN"}
+{"number": 7176, "title": "debian 12.10 Downloads the update but does not install it, after restarting the old version still runs", "createdAt": "2025-04-23T05:20:33Z", "repo": "2dust/v2rayN"}
+{"number": 7178, "title": "WARNING! 切勿信任 V2RayN 的更新！Subcription will be leaked!", "createdAt": "2025-04-23T06:31:14Z", "repo": "2dust/v2rayN"}
+{"number": 7192, "title": "绕过大陆的路由设置，明显 感觉 outlook 打开卡住，使用的Office 365 exchange online 国际版邮箱。", "createdAt": "2025-04-24T08:27:22Z", "repo": "2dust/v2rayN"}
+{"number": 7184, "title": "请教：启用V2rayN后，github链接下载只能持续十几秒，之后断开。需要重新下载，重复后还是不行。", "createdAt": "2025-04-25T01:35:47Z", "repo": "2dust/v2rayN"}
+{"number": 7186, "title": "请问订阅解析的代码是在什么位置呢？", "createdAt": "2025-04-25T08:17:16Z", "repo": "2dust/v2rayN"}
+{"number": 7187, "title": "我的需求很简单，一个是能刷刷youtube，google搜搜，再一个就是在公司能通过代理上个微信，这种情况，我的路由该如何选择", "createdAt": "2025-04-25T08:40:03Z", "repo": "2dust/v2rayN"}
+{"number": 7193, "title": "怎么解决WINDOWS APPLE MUSIC图片加载的问题？", "createdAt": "2025-04-26T11:04:02Z", "repo": "2dust/v2rayN"}
+{"number": 7195, "title": "Whitelist/Reverse TUN mode", "createdAt": "2025-04-26T19:30:19Z", "repo": "2dust/v2rayN"}
+{"number": 7203, "title": "通过使用流量进行排序", "createdAt": "2025-04-28T08:22:37Z", "repo": "2dust/v2rayN"}
+{"number": 7207, "title": "重启电脑后V2rayN列宽就会变成这样", "createdAt": "2025-04-29T04:32:24Z", "repo": "2dust/v2rayN"}
+{"number": 7208, "title": "请教一下，为啥我开Tun能用但一直报错？而且必须同时开启系统代理，不然就断网", "createdAt": "2025-04-29T07:59:23Z", "repo": "2dust/v2rayN"}
+{"number": 7212, "title": "求助 打开TUN模式cpu飙升100%然后卡死重启", "createdAt": "2025-04-29T12:42:24Z", "repo": "2dust/v2rayN"}
+{"number": 7214, "title": "考虑并入自定义路由功能吗？", "createdAt": "2025-04-29T16:22:06Z", "repo": "2dust/v2rayN"}
+{"number": 7215, "title": "WPF和Avalonia UI有什么区别？", "createdAt": "2025-04-29T17:10:55Z", "repo": "2dust/v2rayN"}
+{"number": 7217, "title": "UDP的VLESS?", "createdAt": "2025-04-29T23:56:18Z", "repo": "2dust/v2rayN"}
+{"number": 7219, "title": "[Bug]: 你的多配置产生自定义配置这个 就不要写进去了，太令人丢脸了吧", "createdAt": "2025-04-30T02:49:23Z", "repo": "2dust/v2rayN"}
+{"number": 7221, "title": "[Feature request]: 开启代理之后本地客户端的一部分网络链接失败", "createdAt": "2025-04-30T03:37:05Z", "repo": "2dust/v2rayN"}
+{"number": 7222, "title": "近期Github限制zh-CN用户访问，如何解决？", "createdAt": "2025-04-30T06:27:23Z", "repo": "2dust/v2rayN"}
+{"number": 7225, "title": "[Ubuntu] 如何配置V2rayN使得终端能访问外网？", "createdAt": "2025-04-30T11:31:18Z", "repo": "2dust/v2rayN"}
+{"number": 7232, "title": "两台电脑，同样的配置，同样的链接，一个有网一个没网是哪里出错了", "createdAt": "2025-05-03T01:36:14Z", "repo": "2dust/v2rayN"}
+{"number": 7235, "title": "客户端图形界面消息总是http: failed to read http request > malformed HTTP request \"\\x00\"怎么解决？", "createdAt": "2025-05-04T11:28:37Z", "repo": "2dust/v2rayN"}
+{"number": 7241, "title": "Proxying certain programs/sites + help with connection problems with some sites", "createdAt": "2025-05-05T16:21:44Z", "repo": "2dust/v2rayN"}
+{"number": 7239, "title": "为什么使用HY2节点 自定义的路由规则不生效了", "createdAt": "2025-05-05T19:45:12Z", "repo": "2dust/v2rayN"}
+{"number": 7240, "title": "Xray core插件在macos上如何使用？是将下载的zip解压后，放到安装的包内容bin目录下，然后重启就行了吗？", "createdAt": "2025-05-06T01:51:51Z", "repo": "2dust/v2rayN"}
+{"number": 7246, "title": "[Bug]: 系统代理模式下，HY2节点断流", "createdAt": "2025-05-06T16:53:59Z", "repo": "2dust/v2rayN"}
+{"number": 7252, "title": "如何优雅地避免 DNS 解析落入 geosite-cn ？", "createdAt": "2025-05-08T15:45:29Z", "repo": "2dust/v2rayN"}
+{"number": 7253, "title": "既然有Avalonia版本，那作者要不要试试NativeAOT😁", "createdAt": "2025-05-08T16:32:53Z", "repo": "2dust/v2rayN"}
+{"number": 7256, "title": "[Bug]: Split-tunneling not working", "createdAt": "2025-05-08T17:26:00Z", "repo": "2dust/v2rayN"}
+{"number": 7257, "title": "pages自定义域名节点，v2rayn不通，v2rayng正常连通，是什么原因？", "createdAt": "2025-05-09T02:37:21Z", "repo": "2dust/v2rayN"}
+{"number": 7269, "title": "[Bug]:", "createdAt": "2025-05-09T12:53:50Z", "repo": "2dust/v2rayN"}
+{"number": 7268, "title": "为什么不显示IP地址和地区了？", "createdAt": "2025-05-10T08:57:46Z", "repo": "2dust/v2rayN"}
+{"number": 7272, "title": "今天更新以后突然不能科学上网了。", "createdAt": "2025-05-11T10:21:28Z", "repo": "2dust/v2rayN"}
+{"number": 7274, "title": "是否可以增加在主页面删除分组的功能健", "createdAt": "2025-05-11T15:26:37Z", "repo": "2dust/v2rayN"}
+{"number": 7277, "title": "原代码", "createdAt": "2025-05-12T05:08:50Z", "repo": "2dust/v2rayN"}
+{"number": 7280, "title": "shadowrocket订阅协议为什么只能解析Trojan？vmess地址都解析不出来", "createdAt": "2025-05-12T12:41:12Z", "repo": "2dust/v2rayN"}
+{"number": 7281, "title": "Deactivating the server", "createdAt": "2025-05-12T16:30:57Z", "repo": "2dust/v2rayN"}
+{"number": 7282, "title": "V2RayN 7.10.5 若Windows以標準用戶登入，V2RayN無法正常運行", "createdAt": "2025-05-12T18:06:24Z", "repo": "2dust/v2rayN"}
+{"number": 7284, "title": "[Bug]: 运行一段时间就会出现断联的情况", "createdAt": "2025-05-13T00:46:51Z", "repo": "2dust/v2rayN"}
+{"number": 7285, "title": "shadowrocket订阅地址只能解析Trojan协议，无法解析vmess，怎么弄", "createdAt": "2025-05-13T01:23:31Z", "repo": "2dust/v2rayN"}
+{"number": 7286, "title": "为什么V2rayN的自启动任务要延迟30秒？", "createdAt": "2025-05-13T05:03:15Z", "repo": "2dust/v2rayN"}
+{"number": 7290, "title": "[Bug]: 使用“自动配置系统代理”后，无法访问内网域名", "createdAt": "2025-05-13T07:38:50Z", "repo": "2dust/v2rayN"}
+{"number": 7294, "title": "没办法复制粘贴 VMESS节点", "createdAt": "2025-05-15T07:08:42Z", "repo": "2dust/v2rayN"}
+{"number": 7297, "title": "访问CNN后会断连", "createdAt": "2025-05-16T06:41:12Z", "repo": "2dust/v2rayN"}
+{"number": 7301, "title": "能否增加 macOS 菜单栏图标的修改功能", "createdAt": "2025-05-17T03:13:34Z", "repo": "2dust/v2rayN"}
+{"number": 7305, "title": "[Bug]: 最新版7.12.3报毒，之前的版本没有发现", "createdAt": "2025-05-17T08:36:12Z", "repo": "2dust/v2rayN"}
+{"number": 7309, "title": "如何使用doh或者dot连接服务器", "createdAt": "2025-05-17T18:26:54Z", "repo": "2dust/v2rayN"}
+{"number": 7312, "title": "如何在V2rayN客户端中开启FakeDNS", "createdAt": "2025-05-18T18:28:16Z", "repo": "2dust/v2rayN"}
+{"number": 7326, "title": "更新问题", "createdAt": "2025-05-22T03:59:13Z", "repo": "2dust/v2rayN"}
+{"number": 7330, "title": "呼吁停止使用 Sing-box（请不要删帖，欢迎扩散）", "createdAt": "2025-05-22T12:55:47Z", "repo": "2dust/v2rayN"}
+{"number": 7335, "title": "Using 2 v2ray servers at once", "createdAt": "2025-05-23T16:11:13Z", "repo": "2dust/v2rayN"}
+{"number": 7337, "title": "Configuration Compatibility When Migrating from v2rayN to v2rayN-desktop", "createdAt": "2025-05-23T19:47:44Z", "repo": "2dust/v2rayN"}
+{"number": 7344, "title": "[Bug]: 开启Processs Lasso后会导致代理失效", "createdAt": "2025-05-24T13:56:12Z", "repo": "2dust/v2rayN"}
+{"number": 7346, "title": "Do not work from 7.12.4", "createdAt": "2025-05-25T13:36:42Z", "repo": "2dust/v2rayN"}
+{"number": 7349, "title": "For all who dont know what do with response servers -1", "createdAt": "2025-05-26T10:28:00Z", "repo": "2dust/v2rayN"}
+{"number": 7352, "title": "v2rayN windos客户端无法测速，节点无法使用，其他端是好的", "createdAt": "2025-05-26T21:31:26Z", "repo": "2dust/v2rayN"}
+{"number": 7363, "title": "[Bug]: 新版hy2不按规则全部走的代理，Tcping都是2000多ms", "createdAt": "2025-05-27T08:13:25Z", "repo": "2dust/v2rayN"}
+{"number": 7362, "title": "两台电脑用V2ray一台能用一台不能用", "createdAt": "2025-05-27T14:16:46Z", "repo": "2dust/v2rayN"}
+{"number": 7365, "title": "[Bug]: gfw没有匹配.google", "createdAt": "2025-05-28T10:13:13Z", "repo": "2dust/v2rayN"}
+{"number": 7367, "title": "[Bug]: 我不能打开续费网站了也不能更新客户端", "createdAt": "2025-05-28T19:36:12Z", "repo": "2dust/v2rayN"}
+{"number": 7371, "title": "V2ray 7.12.5 无法代理啊", "createdAt": "2025-05-30T20:29:24Z", "repo": "2dust/v2rayN"}
+{"number": 7372, "title": "win端使用系统快捷键复制文本不写入剪贴板是正常特性吗？", "createdAt": "2025-05-31T03:24:38Z", "repo": "2dust/v2rayN"}
+{"number": 7375, "title": "is it possible to use local DNS(ISP) for \"direct\" route ?", "createdAt": "2025-05-31T11:36:52Z", "repo": "2dust/v2rayN"}
+{"number": 7380, "title": "请问下现在代理支持websocket吗", "createdAt": "2025-06-01T16:08:32Z", "repo": "2dust/v2rayN"}
+{"number": 7383, "title": "哪个版本比较好用啊？", "createdAt": "2025-06-03T03:46:16Z", "repo": "2dust/v2rayN"}
+{"number": 7384, "title": "TUN模式的目的是什么?", "createdAt": "2025-06-03T03:59:59Z", "repo": "2dust/v2rayN"}
+{"number": 7389, "title": "请问如何使用啊？谢谢各位大佬", "createdAt": "2025-06-05T02:20:17Z", "repo": "2dust/v2rayN"}
+{"number": 7394, "title": "怎么购买VPN，有没有教程呢？", "createdAt": "2025-06-06T07:57:04Z", "repo": "2dust/v2rayN"}
+{"number": 7396, "title": "在 v2rayNG 7.12.5/Xray 25.5.16 中使用俄罗斯区域 Preset 时出现 slice length: unexpected EOF 错误（7.9.3 为最后可用版本）ERROR", "createdAt": "2025-06-06T17:14:56Z", "repo": "2dust/v2rayN"}
+{"number": 7397, "title": "SNI \"+\", -1, vless", "createdAt": "2025-06-06T21:40:54Z", "repo": "2dust/v2rayN"}
+{"number": 7399, "title": "mihomo内核使用篡改配置文件问题", "createdAt": "2025-06-07T06:27:38Z", "repo": "2dust/v2rayN"}
+{"number": 7402, "title": "新手小白问一下为什么我的实时速度显示我所有的流量都走的是proxy啊", "createdAt": "2025-06-07T14:42:46Z", "repo": "2dust/v2rayN"}
+{"number": 7408, "title": "Why can't some websites be opened?", "createdAt": "2025-06-07T16:18:26Z", "repo": "2dust/v2rayN"}
+{"number": 7406, "title": "路由规则不生效，是我的配置有误吗？", "createdAt": "2025-06-07T19:09:07Z", "repo": "2dust/v2rayN"}
+{"number": 7430, "title": "请问如何在启用“绕过大陆”模式下添加个别域名到白名单里？", "createdAt": "2025-06-09T02:26:38Z", "repo": "2dust/v2rayN"}
+{"number": 7414, "title": "电脑开启vpn连接不上", "createdAt": "2025-06-09T05:12:47Z", "repo": "2dust/v2rayN"}
+{"number": 7431, "title": "[Bug]: 节点没问题，延迟-1，怎么回事", "createdAt": "2025-06-09T06:58:10Z", "repo": "2dust/v2rayN"}
+{"number": 7425, "title": "请问双网卡怎么设置，能否区别代理？", "createdAt": "2025-06-13T14:44:09Z", "repo": "2dust/v2rayN"}
+{"number": 7426, "title": "请问一下中转的问题", "createdAt": "2025-06-13T16:00:17Z", "repo": "2dust/v2rayN"}
+{"number": 7436, "title": "希望可以增加国旗emoji图标的识别", "createdAt": "2025-06-15T04:08:49Z", "repo": "2dust/v2rayN"}
+{"number": 7438, "title": "问一下更新订阅是怎么实现的", "createdAt": "2025-06-15T07:28:28Z", "repo": "2dust/v2rayN"}
+{"number": 7439, "title": "Cloudflare rule", "createdAt": "2025-06-15T13:30:50Z", "repo": "2dust/v2rayN"}
+{"number": 7441, "title": "Is there an option to prevent the v2rayN window from minimizing when clicking the tray icon?", "createdAt": "2025-06-16T01:10:01Z", "repo": "2dust/v2rayN"}
+{"number": 7443, "title": "How to add naive core support and configure naive node links in V2RayN.", "createdAt": "2025-06-16T07:51:02Z", "repo": "2dust/v2rayN"}
+{"number": 7450, "title": "v2rayN + OpenVPN: Internal DNS addresses not resolving", "createdAt": "2025-06-16T16:43:45Z", "repo": "2dust/v2rayN"}
+{"number": 7459, "title": "[Bug]: 设置为自动配置代理之后无法访问任何外网，只能访问内网", "createdAt": "2025-06-18T06:34:09Z", "repo": "2dust/v2rayN"}
+{"number": 7471, "title": "[Bug]: v2rayN fails to connect after reboot on Windows 11 24H2 (only works via TUN, then stops working entirely)", "createdAt": "2025-06-21T00:24:15Z", "repo": "2dust/v2rayN"}
+{"number": 7476, "title": "[Bug]: v2rayn运行后连不上xray", "createdAt": "2025-06-22T15:17:54Z", "repo": "2dust/v2rayN"}
+{"number": 7480, "title": "Real delay current group configuration in desktop app", "createdAt": "2025-06-23T17:52:45Z", "repo": "2dust/v2rayN"}
+{"number": 7481, "title": "Vmess和Vless不能录入到v2RayNe中", "createdAt": "2025-06-24T04:54:47Z", "repo": "2dust/v2rayN"}
+{"number": 7487, "title": "Successful experience using v2rayn to connect to Naiveproxy on Windows 10 64-bit operating system", "createdAt": "2025-06-24T12:56:18Z", "repo": "2dust/v2rayN"}
+{"number": 7494, "title": "Question: How to use with microsoft store and XBOX apps", "createdAt": "2025-06-24T20:41:02Z", "repo": "2dust/v2rayN"}
+{"number": 7492, "title": "為什麼在国内使用Windows Update，下載安裝速度一直很慢？", "createdAt": "2025-06-25T11:03:41Z", "repo": "2dust/v2rayN"}
+{"number": 7512, "title": "App ran as admin is different than the app not ran as admin, WTF", "createdAt": "2025-06-29T22:13:21Z", "repo": "2dust/v2rayN"}
+{"number": 7519, "title": "请问7.X版本后不支持HTTP端口了吗？下载不方便", "createdAt": "2025-06-30T18:04:46Z", "repo": "2dust/v2rayN"}
+{"number": 7522, "title": "For some reason, the websites stopped working , windows say problem with cache DNS", "createdAt": "2025-07-01T21:58:23Z", "repo": "2dust/v2rayN"}
+{"number": 7524, "title": "[求助] 有关于打开局域网端口后的认证问题", "createdAt": "2025-07-02T03:26:04Z", "repo": "2dust/v2rayN"}
+{"number": 7525, "title": "V2RayN over PPTP", "createdAt": "2025-07-02T10:06:01Z", "repo": "2dust/v2rayN"}
+{"number": 7526, "title": "DNS, Linux, change DNS, DNS_PROBE_POSSIBLE, No DNS reply, some sites", "createdAt": "2025-07-02T13:25:52Z", "repo": "2dust/v2rayN"}
+{"number": 7532, "title": "求教，关闭节点后无法上网", "createdAt": "2025-07-04T08:37:05Z", "repo": "2dust/v2rayN"}
+{"number": 7536, "title": "没发测速了吗？显示运行core失败，求教如何解决", "createdAt": "2025-07-06T08:57:53Z", "repo": "2dust/v2rayN"}
+{"number": 7547, "title": "WebSocket outbound fails when routed through an upstream proxy but TCP works", "createdAt": "2025-07-08T04:15:34Z", "repo": "2dust/v2rayN"}
+{"number": 7561, "title": "[Feature request]: Fast Huge Configs Test", "createdAt": "2025-07-08T14:04:11Z", "repo": "2dust/v2rayN"}
+{"number": 7560, "title": "webRTC leak bug in full tunnel mode on Linux", "createdAt": "2025-07-08T15:23:56Z", "repo": "2dust/v2rayN"}
+{"number": 7567, "title": "[Bug]: 昨天还好好的，今天就无法使用了？", "createdAt": "2025-07-11T14:55:23Z", "repo": "2dust/v2rayN"}
+{"number": 7568, "title": "参数设置里面的Hysteria带宽设置的单位是什么？", "createdAt": "2025-07-13T12:40:23Z", "repo": "2dust/v2rayN"}
+{"number": 7569, "title": "能够正常使用并连接节点，但是在测试配置文件速度时，速度为0.0，请问要如何设置？", "createdAt": "2025-07-13T13:09:42Z", "repo": "2dust/v2rayN"}
+{"number": 7577, "title": "请问一下，为什么服务器都能连接上，但是没有速度，我查了用的10808端口也没占用。", "createdAt": "2025-07-13T14:24:35Z", "repo": "2dust/v2rayN"}
+{"number": 7608, "title": "🇷🇺 Russia Routing Ruleset – `V2rayN (Windows / macOS)`", "createdAt": "2025-07-14T10:46:28Z", "repo": "2dust/v2rayN"}
+{"number": 7588, "title": "为何机场主要提供clash订阅链接而非v2ray？", "createdAt": "2025-07-16T02:06:16Z", "repo": "2dust/v2rayN"}
+{"number": 7593, "title": "能不能把ui界面布局问题解决了", "createdAt": "2025-07-17T03:07:57Z", "repo": "2dust/v2rayN"}
+{"number": 7595, "title": "v2rayN.exe 停止工作 ，提示信息，任务浏览器进程消失，有遇到同样的问题嘛", "createdAt": "2025-07-17T08:16:30Z", "repo": "2dust/v2rayN"}
+{"number": 7600, "title": "How to proxy only specific domains in v2rayN (e.g. YouTube, Google, ChatGPT)?", "createdAt": "2025-07-18T09:55:44Z", "repo": "2dust/v2rayN"}
+{"number": 7609, "title": "[Feature request]: Specify which IP addresses can be connected to and which cannot", "createdAt": "2025-07-19T07:38:49Z", "repo": "2dust/v2rayN"}
+{"number": 7607, "title": "实时速度不分开代理和直连；使用Xray信息栏像是sing-box模式", "createdAt": "2025-07-19T15:27:13Z", "repo": "2dust/v2rayN"}
+{"number": 7634, "title": "剩余流量为负数", "createdAt": "2025-07-24T01:01:17Z", "repo": "2dust/v2rayN"}
+{"number": 7650, "title": "[Bug]: 自动配置代理模式下钉钉客户端无法连接网络", "createdAt": "2025-07-24T06:04:55Z", "repo": "2dust/v2rayN"}
+{"number": 7643, "title": "没遇到过用cf节点 测试延迟数量超过24个节点 所有节点全部-1", "createdAt": "2025-07-25T06:02:57Z", "repo": "2dust/v2rayN"}
+{"number": 7670, "title": "防火墙报告xray.exe尝试访问钓鱼网站", "createdAt": "2025-07-27T17:42:40Z", "repo": "2dust/v2rayN"}
+{"number": 7663, "title": "mac下面如何切换不同的代理，点击右键完全没有反应", "createdAt": "2025-07-29T02:33:28Z", "repo": "2dust/v2rayN"}
+{"number": 7664, "title": "本地代理监听异常", "createdAt": "2025-07-29T03:23:15Z", "repo": "2dust/v2rayN"}
+{"number": 7671, "title": "[Feature request]: 分流到不同节点怎么使用？", "createdAt": "2025-07-29T23:54:50Z", "repo": "2dust/v2rayN"}
+{"number": 7669, "title": "我的v2rayN局域网端口只监听IPv610810端口？？？怎么设置了让它监听IPv4的10810端口", "createdAt": "2025-07-30T12:36:07Z", "repo": "2dust/v2rayN"}
+{"number": 7687, "title": "[Bug]: 显示测试完成，但列表中存在很多测试中以及速度为0实际却有速度。", "createdAt": "2025-07-31T01:46:16Z", "repo": "2dust/v2rayN"}
+{"number": 7683, "title": "Полноценная работа Discord с использованием GeoIP?", "createdAt": "2025-08-02T01:02:28Z", "repo": "2dust/v2rayN"}
+{"number": 7686, "title": "请问 7.13.2 如何设置指定节点用于下载？", "createdAt": "2025-08-02T13:53:54Z", "repo": "2dust/v2rayN"}
+{"number": 7695, "title": "[Bug]: 无法连接，不知道是否跟windows系统升级有关", "createdAt": "2025-08-03T13:23:16Z", "repo": "2dust/v2rayN"}
+{"number": 7699, "title": "Custom（mihomo）类型订阅怎么永久生效啊我只要更新就重置了（不是我自己搞的服务器）", "createdAt": "2025-08-04T08:21:21Z", "repo": "2dust/v2rayN"}
+{"number": 7719, "title": "[Bug]: WebRTC IP Leak: Real Public IP Is Exposed Despite Active Connection", "createdAt": "2025-08-06T20:29:40Z", "repo": "2dust/v2rayN"}
+{"number": 7713, "title": "流量探测是干嘛用的", "createdAt": "2025-08-07T01:29:54Z", "repo": "2dust/v2rayN"}
+{"number": 7726, "title": "能不能增加一个自动自动测速，比如说，我设置了自动获取节点，它自动获取完最新节点后，自动测试ping和速度后，自动选择一个最优的节点。而不是我每次需要手动去测延迟，速度，再手动选择。", "createdAt": "2025-08-09T17:36:16Z", "repo": "2dust/v2rayN"}
+{"number": 7730, "title": "请教guiConfigs\\config.json文件是直接给sing-box用的吗？", "createdAt": "2025-08-10T09:01:21Z", "repo": "2dust/v2rayN"}
+{"number": 7746, "title": "[Bug]: 每隔一段时间自动打开系统代理", "createdAt": "2025-08-12T03:08:30Z", "repo": "2dust/v2rayN"}
+{"number": 7750, "title": "V2rayN 100% cpu usage and NisSrv.exe?", "createdAt": "2025-08-12T14:51:41Z", "repo": "2dust/v2rayN"}
+{"number": 7751, "title": "请问如何关闭ipv6", "createdAt": "2025-08-12T18:52:42Z", "repo": "2dust/v2rayN"}
+{"number": 7761, "title": "[Bug]: gemini网址无法正常打开", "createdAt": "2025-08-13T15:05:00Z", "repo": "2dust/v2rayN"}
+{"number": 7762, "title": "[Feature request]: 对特定网站进行延迟测速", "createdAt": "2025-08-14T07:17:09Z", "repo": "2dust/v2rayN"}
+{"number": 7763, "title": "[Bug]: 多配置文件最低延迟XRay，等功能，无法正常使用", "createdAt": "2025-08-14T07:33:21Z", "repo": "2dust/v2rayN"}
+{"number": 7760, "title": "macos一直没办法启用Tun，Inter的cpu", "createdAt": "2025-08-14T07:34:22Z", "repo": "2dust/v2rayN"}
+{"number": 7764, "title": "[Bug] 从7.8.1升级到7.13.8以后，发现ip地址归属地不显示了，只显示none", "createdAt": "2025-08-14T12:15:24Z", "repo": "2dust/v2rayN"}
+{"number": 7774, "title": "最新版7.14.0似乎还不支持从订阅链接导入anytls配置", "createdAt": "2025-08-15T11:05:24Z", "repo": "2dust/v2rayN"}
+{"number": 7778, "title": "v2RayN在线升级失败", "createdAt": "2025-08-15T13:55:07Z", "repo": "2dust/v2rayN"}
+{"number": 7779, "title": "大佬们请教一个关于tun模式下的问题。", "createdAt": "2025-08-16T02:32:00Z", "repo": "2dust/v2rayN"}
+{"number": 7784, "title": "新手小白求助关于广告屏蔽问题", "createdAt": "2025-08-17T00:17:03Z", "repo": "2dust/v2rayN"}
+{"number": 7794, "title": "[Bug]: tun 模式下 tuic 的 tls 无法使用", "createdAt": "2025-08-17T14:41:07Z", "repo": "2dust/v2rayN"}
+{"number": 7795, "title": "[Bug]:  macos 上配置的自己搭建的服务端，无法代理", "createdAt": "2025-08-18T04:00:54Z", "repo": "2dust/v2rayN"}
+{"number": 7816, "title": "[Bug]: DNS problem in TUN mode 7.14.1", "createdAt": "2025-08-18T16:54:05Z", "repo": "2dust/v2rayN"}
+{"number": 7807, "title": "[Bug]: 关于订阅v2rayN-windows-64-desktop.zip Avalonia UI 界面 是否有订阅地址泄露问题？", "createdAt": "2025-08-19T01:40:29Z", "repo": "2dust/v2rayN"}
+{"number": 7812, "title": "我的v2rayn不知道什么情况所有订阅都不能用了呢？", "createdAt": "2025-08-19T17:02:38Z", "repo": "2dust/v2rayN"}
+{"number": 7815, "title": "Ошибка при запуске v2rayN v.7.14.2", "createdAt": "2025-08-20T22:26:02Z", "repo": "2dust/v2rayN"}
+{"number": 7822, "title": "[Feature request]: 在程序退出后，不要自动设置系统代理", "createdAt": "2025-08-21T09:56:38Z", "repo": "2dust/v2rayN"}
+{"number": 7824, "title": "Linux 版本使用 `CAP_NET_ADMIN` 解决权限问题", "createdAt": "2025-08-23T00:33:29Z", "repo": "2dust/v2rayN"}
+{"number": 7830, "title": "Доброго.  你好。", "createdAt": "2025-08-25T17:17:34Z", "repo": "2dust/v2rayN"}
+{"number": 7838, "title": "佬们，我现在有一个hy2配置，走了直连规则但是没有办法通过域名找到ip。这是一个内网域名服务，请问DNS需要如何配置？", "createdAt": "2025-08-27T03:43:20Z", "repo": "2dust/v2rayN"}
+{"number": 7842, "title": "请问新版中为什么没有“导出服务器配置到文件”这个选项了？我该怎么得到config.json？", "createdAt": "2025-08-27T11:53:35Z", "repo": "2dust/v2rayN"}
+{"number": 7843, "title": "Proxying a specific application / 代理特定应用程序", "createdAt": "2025-08-27T19:55:55Z", "repo": "2dust/v2rayN"}
+{"number": 7854, "title": "切换节点会让斗鱼直播重新刷新。", "createdAt": "2025-08-30T17:09:17Z", "repo": "2dust/v2rayN"}
+{"number": 7859, "title": "[Bug]: Conflict between Wireguard and V2RayN's Tun mode on MacOS.", "createdAt": "2025-08-30T18:10:51Z", "repo": "2dust/v2rayN"}
+{"number": 7863, "title": "[Bug]: v2rayN 使用一段时间会没有速度，重启之后立即就恢复了，这种情况遇见好几次了，请问是什么原因？", "createdAt": "2025-08-31T06:36:07Z", "repo": "2dust/v2rayN"}
+{"number": 7868, "title": "mac上的v2好像没有办法代理tg软件", "createdAt": "2025-09-01T04:43:56Z", "repo": "2dust/v2rayN"}
+{"number": 7872, "title": "[Bug]: https://mp.weixin.qq.com/ 链接打开特别慢", "createdAt": "2025-09-01T14:44:58Z", "repo": "2dust/v2rayN"}
+{"number": 7876, "title": "v2ray启动总被系统拦截无法启动", "createdAt": "2025-09-02T13:56:15Z", "repo": "2dust/v2rayN"}
+{"number": 7879, "title": "[Bug]: 请先检查服务器设置 2025/09/03 11:08:22 系统代理设置改变ForcedClear 2025/09/03 11:08:22 系统代理设置改变ForcedClear", "createdAt": "2025-09-03T03:16:53Z", "repo": "2dust/v2rayN"}
+{"number": 7890, "title": "怎样手动升级", "createdAt": "2025-09-06T10:40:39Z", "repo": "2dust/v2rayN"}
+{"number": 7892, "title": "Test configurations real delay", "createdAt": "2025-09-06T13:04:38Z", "repo": "2dust/v2rayN"}
+{"number": 7900, "title": "DNS settings/DNS leak 7.14.6 (singbox)", "createdAt": "2025-09-07T06:27:50Z", "repo": "2dust/v2rayN"}
+{"number": 7911, "title": "请问是不是开着本软件 系统自身的DNS就被覆盖了？", "createdAt": "2025-09-08T17:53:39Z", "repo": "2dust/v2rayN"}
+{"number": 7913, "title": "v2rayN - V7.14.8 测试完节 点延迟 退出再重新运行 节点延迟就没了 BUG \\ 移除了?", "createdAt": "2025-09-09T00:06:00Z", "repo": "2dust/v2rayN"}
+{"number": 7922, "title": "为啥好多网站打不开", "createdAt": "2025-09-09T16:05:21Z", "repo": "2dust/v2rayN"}
+{"number": 7923, "title": "[Bug]: 域名策略 AsIs 走了代理的DNS解析，导致内网域名地址（配置了direct策略）DNS解析失败", "createdAt": "2025-09-10T01:53:10Z", "repo": "2dust/v2rayN"}
+{"number": 7924, "title": "[Bug]: 具有IPv6 VPS无法使用", "createdAt": "2025-09-10T05:10:11Z", "repo": "2dust/v2rayN"}
+{"number": 7921, "title": "Do some changes", "createdAt": "2025-09-10T05:57:54Z", "repo": "2dust/v2rayN"}
+{"number": 7934, "title": "关于tun模式的一个疑问？", "createdAt": "2025-09-12T03:06:19Z", "repo": "2dust/v2rayN"}
+{"number": 7940, "title": "[Bug]: 使用v2rayN 系统（win11）更新后异常", "createdAt": "2025-09-12T07:34:52Z", "repo": "2dust/v2rayN"}
+{"number": 7947, "title": "最新版的V2rayN+Xray在Tun模式下无法上网", "createdAt": "2025-09-13T03:18:35Z", "repo": "2dust/v2rayN"}
+{"number": 7949, "title": "v2配置被篡改", "createdAt": "2025-09-13T11:37:00Z", "repo": "2dust/v2rayN"}
+{"number": 7962, "title": "DNS settings", "createdAt": "2025-09-15T13:10:04Z", "repo": "2dust/v2rayN"}
+{"number": 7973, "title": "Clash For Windows 设定教程", "createdAt": "2025-09-17T10:54:26Z", "repo": "2dust/v2rayN"}
+{"number": 7976, "title": "请教这个基础dns和xray dns设置有什么区别", "createdAt": "2025-09-17T12:27:26Z", "repo": "2dust/v2rayN"}
+{"number": 7986, "title": "[Feature request]: 这个项目怎么编译, 如果不使用Visual Studio", "createdAt": "2025-09-18T10:06:14Z", "repo": "2dust/v2rayN"}
+{"number": 7982, "title": "能否开启第二代理", "createdAt": "2025-09-19T02:37:17Z", "repo": "2dust/v2rayN"}
+{"number": 7985, "title": "关于界面交互体验的讨论", "createdAt": "2025-09-19T10:04:22Z", "repo": "2dust/v2rayN"}
+{"number": 7995, "title": "[Feature request]: 怎么通过图片二维码订阅？", "createdAt": "2025-09-21T13:05:51Z", "repo": "2dust/v2rayN"}
+{"number": 7999, "title": "[Bug]: 使用edgetunnel和cloudflare创建的节点测延时全部-1", "createdAt": "2025-09-22T03:25:30Z", "repo": "2dust/v2rayN"}
+{"number": 8000, "title": "[Bug]:  从 v7.14.9 更新到 v7.14.10 以后singbox分流规则全部失效", "createdAt": "2025-09-22T08:06:00Z", "repo": "2dust/v2rayN"}
+{"number": 8002, "title": "TUN mode not working on Fedora with v2rayN", "createdAt": "2025-09-22T17:52:44Z", "repo": "2dust/v2rayN"}
+{"number": 8013, "title": "[Question]: 如何绕过代理服务器的网站限制？", "createdAt": "2025-09-24T00:57:55Z", "repo": "2dust/v2rayN"}
+{"number": 8016, "title": "[请教]: 如何让指定的exe走代理", "createdAt": "2025-09-24T02:51:26Z", "repo": "2dust/v2rayN"}
+{"number": 8022, "title": "我找到了在v2rayN上如何使用新版本BPB链接的新方法", "createdAt": "2025-09-24T09:13:30Z", "repo": "2dust/v2rayN"}
+{"number": 8025, "title": "局域网访问如何执行路由", "createdAt": "2025-09-25T02:15:48Z", "repo": "2dust/v2rayN"}
+{"number": 8026, "title": "本地绑定的hosts 怎么走直连", "createdAt": "2025-09-25T09:02:21Z", "repo": "2dust/v2rayN"}
+{"number": 8027, "title": "Does v2rayn take 20 minutes to launch for anyone else?", "createdAt": "2025-09-25T11:45:40Z", "repo": "2dust/v2rayN"}
+{"number": 8028, "title": "关于支持EXE安装包的建议", "createdAt": "2025-09-25T14:29:10Z", "repo": "2dust/v2rayN"}
+{"number": 8033, "title": "[Bug]: 在局域网中运行docker push出现EOF错误", "createdAt": "2025-09-26T02:15:36Z", "repo": "2dust/v2rayN"}
+{"number": 8037, "title": "为什么IP地址看不见了", "createdAt": "2025-09-26T08:44:59Z", "repo": "2dust/v2rayN"}
+{"number": 8043, "title": "绕过规则没有包含阿里云盘", "createdAt": "2025-09-26T17:12:02Z", "repo": "2dust/v2rayN"}
+{"number": 8047, "title": "\"[sudo] password for Sorry, try again\" even though pass is correct: V2rayN Appimage on Fedora 42 Linux", "createdAt": "2025-09-28T12:10:21Z", "repo": "2dust/v2rayN"}
+{"number": 8059, "title": "EA 连不上，只要退出 v2rayN 就可以连上。怎么解决？", "createdAt": "2025-10-02T01:52:02Z", "repo": "2dust/v2rayN"}
+{"number": 8058, "title": "使用“自动配置系统代理”+非全局时如何为不走代理服务器的网站启用DoH", "createdAt": "2025-10-02T09:40:04Z", "repo": "2dust/v2rayN"}
+{"number": 8069, "title": "[Feature Enhancement]: `Persistent Tun Mode` Across Reboots / App Restarts", "createdAt": "2025-10-04T04:37:08Z", "repo": "2dust/v2rayN"}
+{"number": 8077, "title": "感谢贴", "createdAt": "2025-10-04T16:45:26Z", "repo": "2dust/v2rayN"}
+{"number": 8086, "title": "启用[Custom] [Xray]多配置文件最低延迟 Xray的时候，在哪里看当前使用的是哪个节点？", "createdAt": "2025-10-07T03:09:52Z", "repo": "2dust/v2rayN"}
+{"number": 8091, "title": "Need help setting up DoH (DNS) for v2rayN", "createdAt": "2025-10-07T19:45:14Z", "repo": "2dust/v2rayN"}
+{"number": 8099, "title": "[Feature request]: Harmony OS多久可以支持", "createdAt": "2025-10-09T01:43:54Z", "repo": "2dust/v2rayN"}
+{"number": 8105, "title": "[Bug]: Outbound DNS Resoultion (sing-box)", "createdAt": "2025-10-09T11:20:33Z", "repo": "2dust/v2rayN"}
+{"number": 8106, "title": "为什么linux下就必须手动更新core？界面上的那个检查更新无用。", "createdAt": "2025-10-10T09:50:53Z", "repo": "2dust/v2rayN"}
+{"number": 8112, "title": "tuic这三个配置文件断网同时断，过一会又能连上网，什么问题？大佬", "createdAt": "2025-10-11T08:41:15Z", "repo": "2dust/v2rayN"}
+{"number": 8113, "title": "[Bug]: 测试链接时显示所有节点速度全为-1，感觉和其他出现相同问题的前辈们错误代码不同", "createdAt": "2025-10-11T11:01:40Z", "repo": "2dust/v2rayN"}
+{"number": 8114, "title": "Feature Request: Native GUI and Integrated VPN-like Experience for V2Ray", "createdAt": "2025-10-11T15:37:37Z", "repo": "2dust/v2rayN"}
+{"number": 8119, "title": "[Feature request] Cancel AppImage packaging | 取消AppImage打包", "createdAt": "2025-10-12T05:49:21Z", "repo": "2dust/v2rayN"}
+{"number": 8127, "title": "实时速度：右下角的proxy和direct升级win10之后变成了mixed怎么办", "createdAt": "2025-10-14T10:59:22Z", "repo": "2dust/v2rayN"}
+{"number": 8132, "title": "[Feature request]: 能不能将bpb的订阅读取正常些？", "createdAt": "2025-10-15T10:16:48Z", "repo": "2dust/v2rayN"}
+{"number": 8134, "title": "这种情况是哪里出问题", "createdAt": "2025-10-16T01:30:32Z", "repo": "2dust/v2rayN"}
+{"number": 8140, "title": "建议增加一键测速按钮", "createdAt": "2025-10-17T01:35:23Z", "repo": "2dust/v2rayN"}
+{"number": 8143, "title": "多配置文件产生自定义配置使用疑问？", "createdAt": "2025-10-17T13:36:41Z", "repo": "2dust/v2rayN"}
+{"number": 8147, "title": "新手小白求助", "createdAt": "2025-10-18T11:26:15Z", "repo": "2dust/v2rayN"}
+{"number": 8150, "title": "求助：第一次使用V2，遇到一点小麻烦。", "createdAt": "2025-10-19T07:17:40Z", "repo": "2dust/v2rayN"}
+{"number": 8153, "title": "V3-绕过大陆(Whitelist) 中，是否应当把IP规则放在对应的域名规则之后？", "createdAt": "2025-10-19T16:48:39Z", "repo": "2dust/v2rayN"}
+{"number": 8168, "title": "订阅设定了自动更新，更新无论成功失败都会清空策略组", "createdAt": "2025-10-22T05:45:38Z", "repo": "2dust/v2rayN"}
+{"number": 8169, "title": "配置文件可以“添加[HTTP]配置文件”,但获取订阅似乎完全获取不到HTTP节点,V2RayN有推荐的获取HTTP节点的订阅格式吗", "createdAt": "2025-10-22T06:52:45Z", "repo": "2dust/v2rayN"}
+{"number": 8170, "title": "「為什麼我打包的 AmazTool.exe 檔案比較大」", "createdAt": "2025-10-22T09:57:58Z", "repo": "2dust/v2rayN"}
+{"number": 8171, "title": "1.电脑启动GUI服务不生效得手动点击重启服务，也可能是在更新订阅所以有延迟？2.电脑保持睡眠状态半天唤醒电脑后生成的多配置文件策略消失，GUI选了一个莫名其妙的配置文件启用了，这一问题发生了好几次，最近几天开始的", "createdAt": "2025-10-22T10:55:14Z", "repo": "2dust/v2rayN"}
+{"number": 8176, "title": "openSUSE Tumbleweed rpm支持 / openSUSE Tumbleweed rpm support", "createdAt": "2025-10-22T15:11:13Z", "repo": "2dust/v2rayN"}
+{"number": 8177, "title": "Automatically disconnect all connections when changing the rules mode in Singbox", "createdAt": "2025-10-22T18:59:58Z", "repo": "2dust/v2rayN"}
+{"number": 8178, "title": "v2应用网站分流", "createdAt": "2025-10-23T02:42:12Z", "repo": "2dust/v2rayN"}
+{"number": 8193, "title": "添加 Tun2Socks 作为 Singbox 代替品开启Tun", "createdAt": "2025-10-25T01:12:58Z", "repo": "2dust/v2rayN"}
+{"number": 8208, "title": "[Feature request]: DNS 进阶设置中 FakeIP 选项支持添加过滤列表", "createdAt": "2025-10-25T09:41:02Z", "repo": "2dust/v2rayN"}
+{"number": 8203, "title": "The v2rayN update does not update xray and sing-box to the versions specified in the release 7.15.4", "createdAt": "2025-10-26T10:47:12Z", "repo": "2dust/v2rayN"}
+{"number": 8206, "title": "能否在Ubuntu Server上使用v2raN？", "createdAt": "2025-10-26T23:26:59Z", "repo": "2dust/v2rayN"}
+{"number": 8209, "title": "是否有与“V3-绕过大陆(Whitelist)”，相反的规则？访问国内的流量，如观看腾讯视频和爱奇艺等？", "createdAt": "2025-10-27T14:01:08Z", "repo": "2dust/v2rayN"}
+{"number": 8218, "title": "[Bug]: tuic节点的导出有问题，没有用户名  密码之间 没有冒号，成了其他字符", "createdAt": "2025-10-27T15:55:13Z", "repo": "2dust/v2rayN"}
+{"number": 8213, "title": "Feature request] (Linux) Raise baseline to x86-64-v2/ARMv8.4-A", "createdAt": "2025-10-27T22:15:46Z", "repo": "2dust/v2rayN"}
+{"number": 8215, "title": "请问订阅右边的过滤器是否可以支持正则表达式", "createdAt": "2025-10-28T03:28:11Z", "repo": "2dust/v2rayN"}
+{"number": 8219, "title": "分流规则 太不友好，对于小白来说，看得很是麻烦无从下手", "createdAt": "2025-10-28T12:37:08Z", "repo": "2dust/v2rayN"}
+{"number": 8220, "title": "https://github.com/2dust/v2rayN/discussions/5287#discussion-6875490", "createdAt": "2025-10-29T01:00:08Z", "repo": "2dust/v2rayN"}
+{"number": 8222, "title": "https://github.com/2dust/v2rayN.git", "createdAt": "2025-10-29T01:59:44Z", "repo": "2dust/v2rayN"}
+{"number": 8223, "title": "有没有大佬能在系统代理（非tun模式）下使用tailscale的magicdns?", "createdAt": "2025-10-29T13:08:47Z", "repo": "2dust/v2rayN"}
+{"number": 8224, "title": "[Feature request]: 对本地文件进行DRM动态加密。", "createdAt": "2025-10-29T14:51:07Z", "repo": "2dust/v2rayN"}
+{"number": 8231, "title": "[Feature request]: 证书锁定加个图形界面", "createdAt": "2025-10-30T06:27:49Z", "repo": "2dust/v2rayN"}
+{"number": 8227, "title": "FreeBSD support", "createdAt": "2025-10-30T09:31:29Z", "repo": "2dust/v2rayN"}
+{"number": 8229, "title": "刚从v5.39升级到v7.15.5，发现少了几样重要的数据展示", "createdAt": "2025-10-31T05:05:47Z", "repo": "2dust/v2rayN"}
+{"number": 8230, "title": "torrent (announcer) direct", "createdAt": "2025-10-31T10:57:44Z", "repo": "2dust/v2rayN"}
+{"number": 8236, "title": "[Feature request]: Improve Policy Group", "createdAt": "2025-11-01T17:43:41Z", "repo": "2dust/v2rayN"}
+{"number": 8241, "title": "[Feature request]: 这个软件是不是会调用命令行工具以至于过程中会显示黑漆漆的命令行窗口？", "createdAt": "2025-11-02T09:40:01Z", "repo": "2dust/v2rayN"}
+{"number": 8246, "title": "V2rayN使用时机场所有订阅的节点都不通，而相同的订阅节点在 Clash for Windows 里是通的可用的。", "createdAt": "2025-11-03T15:35:11Z", "repo": "2dust/v2rayN"}
+{"number": 8254, "title": "大佬们，我的上传速度很慢是怎么回事", "createdAt": "2025-11-04T16:38:32Z", "repo": "2dust/v2rayN"}
+{"number": 8258, "title": "为什么Windows的Steam客户端无法使用代理？", "createdAt": "2025-11-06T03:35:20Z", "repo": "2dust/v2rayN"}
+{"number": 8261, "title": "[Feature request]: 把全系 google 的地址从白名单中删除, 去走代理", "createdAt": "2025-11-06T11:13:07Z", "repo": "2dust/v2rayN"}
+{"number": 8262, "title": "“此应用无法在你的电脑上运行”", "createdAt": "2025-11-06T14:25:52Z", "repo": "2dust/v2rayN"}
+{"number": 8263, "title": "[Future Request] 抬高 Linux 版本要求", "createdAt": "2025-11-07T00:53:36Z", "repo": "2dust/v2rayN"}
+{"number": 8268, "title": "如何正确配置 v2rayN 的自定义 DNS，强制所有请求走 DOH 直连？", "createdAt": "2025-11-07T09:08:39Z", "repo": "2dust/v2rayN"}
+{"number": 8271, "title": "一键全部测速测ping怎么没啦?", "createdAt": "2025-11-07T13:51:21Z", "repo": "2dust/v2rayN"}
+{"number": 8275, "title": "[Feature request]: add run with root option for configs with tun interface existing in them", "createdAt": "2025-11-08T00:37:45Z", "repo": "2dust/v2rayN"}
+{"number": 8278, "title": "谁能做个类v2rayn ui的clash? 表格式 协议排序,名称 延迟 下载速度都能排序 最重要表格式省空间 多节点相当好用,,但是v2不能便捷分流是个硬伤", "createdAt": "2025-11-08T10:03:43Z", "repo": "2dust/v2rayN"}
+{"number": 8279, "title": "别把apk文件放在Windows栏了", "createdAt": "2025-11-08T13:09:03Z", "repo": "2dust/v2rayN"}
+{"number": 8281, "title": "v7.15.6版本窗口化只剩标题栏需要最大化才能看得见内容", "createdAt": "2025-11-09T02:08:10Z", "repo": "2dust/v2rayN"}
+{"number": 8284, "title": "[Feature request]: 将 MS TEAMS 地址列入默认绕过地址列表", "createdAt": "2025-11-09T04:16:37Z", "repo": "2dust/v2rayN"}
+{"number": 8289, "title": "core类型设置", "createdAt": "2025-11-10T01:34:05Z", "repo": "2dust/v2rayN"}
+{"number": 8290, "title": "希望恢复右键的“一键多线程测试延迟和速度”功能", "createdAt": "2025-11-10T04:03:48Z", "repo": "2dust/v2rayN"}
+{"number": 8292, "title": "希望能保留别名排序", "createdAt": "2025-11-10T07:22:27Z", "repo": "2dust/v2rayN"}
+{"number": 8298, "title": "[Bug]: 使用一段时间后，不断报无法连接的异常", "createdAt": "2025-11-10T09:09:47Z", "repo": "2dust/v2rayN"}
+{"number": 8315, "title": "Epic Games,rockstar games,", "createdAt": "2025-11-13T03:03:55Z", "repo": "2dust/v2rayN"}
+{"number": 8317, "title": "How do you copy and use the fragment configs in the app?", "createdAt": "2025-11-13T05:19:16Z", "repo": "2dust/v2rayN"}
+{"number": 8319, "title": "如何使用CF warp做落地代理？", "createdAt": "2025-11-14T11:12:17Z", "repo": "2dust/v2rayN"}
+{"number": 8320, "title": "姑且能正常使用，但是大量ERROR，求助", "createdAt": "2025-11-14T13:59:32Z", "repo": "2dust/v2rayN"}
+{"number": 8321, "title": "更新之后打开国内网站变卡", "createdAt": "2025-11-15T01:31:02Z", "repo": "2dust/v2rayN"}
+{"number": 8327, "title": "check for updates", "createdAt": "2025-11-15T18:11:17Z", "repo": "2dust/v2rayN"}
+{"number": 8329, "title": "[Bug]: 部分HTTP请求在日志中以//开头，即使使用V3,V4全局规则，这些请求也是DIRECT模式", "createdAt": "2025-11-15T21:14:47Z", "repo": "2dust/v2rayN"}
+{"number": 8332, "title": "Emojis don't display on Arch Linux", "createdAt": "2025-11-16T11:11:16Z", "repo": "2dust/v2rayN"}
+{"number": 8335, "title": "How can I add a specific domain to the exception to the routing rules?", "createdAt": "2025-11-16T21:06:08Z", "repo": "2dust/v2rayN"}
+{"number": 8338, "title": "请各位大佬指点！用v2浏览cloudflare，提示您的连接不是私密连接", "createdAt": "2025-11-17T05:10:08Z", "repo": "2dust/v2rayN"}
+{"number": 8344, "title": "[Bug]: 默认用的是 \"自动配置系统代理\", 但是时间长了就不稳定, 甚至连不上, 切换到PAC模式, 或者重启V2rayN就好了, 不知道为啥?", "createdAt": "2025-11-18T02:31:55Z", "repo": "2dust/v2rayN"}
+{"number": 8347, "title": "是否可以恢复检查更新按钮的一级菜单页面", "createdAt": "2025-11-18T14:25:48Z", "repo": "2dust/v2rayN"}
+{"number": 8354, "title": "电脑无法直连上网", "createdAt": "2025-11-19T14:10:58Z", "repo": "2dust/v2rayN"}
+{"number": 8360, "title": "软件是越来越臃肿了吗？之前打开v2rayn是秒开，现在都要10秒左右，甚至更长时间", "createdAt": "2025-11-21T00:27:09Z", "repo": "2dust/v2rayN"}
+{"number": 8366, "title": "英文字体显示问题", "createdAt": "2025-11-22T01:38:26Z", "repo": "2dust/v2rayN"}
+{"number": 8368, "title": "多选配置文件的 \"probeInterval\": \"3m\" 在哪修改默认值？", "createdAt": "2025-11-22T08:18:42Z", "repo": "2dust/v2rayN"}
+{"number": 8372, "title": "Current server latency is always \"-1\" (v7.15.7)", "createdAt": "2025-11-22T18:14:54Z", "repo": "2dust/v2rayN"}
+{"number": 8373, "title": "请问通过V2rayN内置的分享功能的有效期是多长时间？", "createdAt": "2025-11-23T06:26:45Z", "repo": "2dust/v2rayN"}
+{"number": 8383, "title": "[Feature request]: v2rayN是名副其实的最佳内存条损坏征兆程序!", "createdAt": "2025-11-23T13:26:41Z", "repo": "2dust/v2rayN"}
+{"number": 8377, "title": "怎么续费，之前链接屏蔽了", "createdAt": "2025-11-23T15:20:11Z", "repo": "2dust/v2rayN"}
+{"number": 8380, "title": "导入节点之后无可用节点显示", "createdAt": "2025-11-24T06:40:18Z", "repo": "2dust/v2rayN"}
+{"number": 8381, "title": "mac 下dmg 安装包总是打不开，", "createdAt": "2025-11-24T07:07:29Z", "repo": "2dust/v2rayN"}
+{"number": 8386, "title": "报错", "createdAt": "2025-11-25T12:35:55Z", "repo": "2dust/v2rayN"}
+{"number": 8399, "title": "[Bug]: 客户端开启状态，保持一段时间自动配置系统代理再调为清除系统代理，实际情况还是使用代理", "createdAt": "2025-11-26T11:15:32Z", "repo": "2dust/v2rayN"}
+{"number": 8394, "title": "v7.16.4“帮助”按钮的位置是不是又改了？", "createdAt": "2025-11-27T02:45:09Z", "repo": "2dust/v2rayN"}
+{"number": 8397, "title": "提示大家一下新版 Xray （版本高于 1.8.0？）+ VLESS + Reality 的时候，Public Key 就是 Password 的意思", "createdAt": "2025-11-27T07:19:39Z", "repo": "2dust/v2rayN"}
+{"number": 8402, "title": "HTTP Announcer via Proxy", "createdAt": "2025-11-28T09:21:40Z", "repo": "2dust/v2rayN"}
+{"number": 8406, "title": "[Feature request]: ①在\"所有\"标签页中创建策略组\"”,\"订阅分组中\"希望能包含所有订阅②在订阅设置中增加路由规则选项", "createdAt": "2025-11-28T14:25:12Z", "repo": "2dust/v2rayN"}
+{"number": 8410, "title": "В v2rayN V7.16.4 баг в правилах маршрутизации", "createdAt": "2025-11-29T12:58:20Z", "repo": "2dust/v2rayN"}
+{"number": 8412, "title": "В v2rayN V7.16.4", "createdAt": "2025-11-30T01:20:21Z", "repo": "2dust/v2rayN"}
+{"number": 8413, "title": "小白第一次下V2rayN，要怎么使用啊？求大佬解答", "createdAt": "2025-11-30T05:47:22Z", "repo": "2dust/v2rayN"}
+{"number": 8419, "title": "占用太高了吧", "createdAt": "2025-11-30T13:40:54Z", "repo": "2dust/v2rayN"}
+{"number": 8421, "title": "如何调出信息窗口中当前连接和当前代理tab页面", "createdAt": "2025-11-30T14:58:35Z", "repo": "2dust/v2rayN"}
+{"number": 8423, "title": "自动生成的策略设置增强", "createdAt": "2025-12-01T02:46:15Z", "repo": "2dust/v2rayN"}
+{"number": 8427, "title": "更新了7.16.4版本后，一直出现大量的报错，能使用，但一些之前能访问的直连网站访问不了", "createdAt": "2025-12-01T08:55:00Z", "repo": "2dust/v2rayN"}
+{"number": 8429, "title": "v2rayN and KDE Connect", "createdAt": "2025-12-01T12:56:49Z", "repo": "2dust/v2rayN"}
+{"number": 8431, "title": "Please update your config(s) according to release note and documentation before removal.", "createdAt": "2025-12-02T01:12:47Z", "repo": "2dust/v2rayN"}
+{"number": 8435, "title": "关于cf端口回源还有优选域名问题，有点疑惑，求大佬解答一下", "createdAt": "2025-12-02T12:50:15Z", "repo": "2dust/v2rayN"}
+{"number": 8438, "title": "V2RAYN DNS设置问题求教", "createdAt": "2025-12-03T14:16:42Z", "repo": "2dust/v2rayN"}
+{"number": 8440, "title": "macos intel芯片使用core设置为sing_box的问题", "createdAt": "2025-12-04T05:42:09Z", "repo": "2dust/v2rayN"}
+{"number": 8445, "title": "“自动配置代理”“清除代理”设置系统快捷键", "createdAt": "2025-12-05T04:22:28Z", "repo": "2dust/v2rayN"}
+{"number": 8448, "title": "如何才能实现多选生成策略里的线路可以按照需求在更新订阅后保留需要的线路?", "createdAt": "2025-12-05T07:30:20Z", "repo": "2dust/v2rayN"}
+{"number": 8449, "title": "Window11 Chrome浏览器更新后无法上网", "createdAt": "2025-12-05T12:02:18Z", "repo": "2dust/v2rayN"}
+{"number": 8451, "title": "How to specify `tcpSettings` in Shadowsocks share configuration?", "createdAt": "2025-12-05T13:20:53Z", "repo": "2dust/v2rayN"}
+{"number": 8452, "title": "win10 chrome版本号143.0.7499.41 更新后只能开tun才能上", "createdAt": "2025-12-05T15:58:24Z", "repo": "2dust/v2rayN"}
+{"number": 8457, "title": "选择节点几小时失效", "createdAt": "2025-12-07T09:41:30Z", "repo": "2dust/v2rayN"}
+{"number": 8459, "title": "今早忽然订阅的节点全都消失了，更新为最新版本.6也无法导入订阅", "createdAt": "2025-12-08T02:57:28Z", "repo": "2dust/v2rayN"}
+{"number": 8461, "title": "新版软件 双击鼠标左键不再是 设为活动 选项功能", "createdAt": "2025-12-08T07:16:49Z", "repo": "2dust/v2rayN"}
+{"number": 8463, "title": "Mac版代理没有用", "createdAt": "2025-12-08T10:30:14Z", "repo": "2dust/v2rayN"}
+{"number": 8465, "title": "以一种访问权限不允许的方式做了一个访问套接字的尝试", "createdAt": "2025-12-09T03:17:07Z", "repo": "2dust/v2rayN"}
+{"number": 8468, "title": "关于有前置代理的配置分组，执行真连接测试的问题（已解决", "createdAt": "2025-12-09T10:19:00Z", "repo": "2dust/v2rayN"}
+{"number": 8471, "title": "【功能需求】希望添加 双击当前订阅分组名称 进行当前分组订阅更新。", "createdAt": "2025-12-09T15:20:24Z", "repo": "2dust/v2rayN"}
+{"number": 8475, "title": "[Bug]: 路由问题", "createdAt": "2025-12-10T06:45:00Z", "repo": "2dust/v2rayN"}
+{"number": 8476, "title": "[Bug]: 机械革命笔记本开启tun模式控制台直接失效", "createdAt": "2025-12-10T12:31:13Z", "repo": "2dust/v2rayN"}
+{"number": 8477, "title": "日志无法使用搜索", "createdAt": "2025-12-11T05:36:35Z", "repo": "2dust/v2rayN"}
+{"number": 8478, "title": "无线网可用，手机流量不可用", "createdAt": "2025-12-12T00:55:21Z", "repo": "2dust/v2rayN"}
+{"number": 8479, "title": "v2ray 代理 本地发起的局域网请求（比如访问局域网共享文件夹）再通过 v2ray 服务器部署的 wireguard 穿透访问外网接入该 wireguard 服务的文件服务", "createdAt": "2025-12-12T11:47:09Z", "repo": "2dust/v2rayN"}
+{"number": 8484, "title": "希望增加一个每次打开都自动更新订阅的开关", "createdAt": "2025-12-13T08:52:17Z", "repo": "2dust/v2rayN"}
+{"number": 8486, "title": "add a new option for: when v2rayN window open, clicking the tray icon should not close the window", "createdAt": "2025-12-14T09:51:05Z", "repo": "2dust/v2rayN"}
+{"number": 8488, "title": "手机网络可以用，但是宽带不能连接", "createdAt": "2025-12-14T14:35:20Z", "repo": "2dust/v2rayN"}
+{"number": 8491, "title": "所有节点在电脑上无法联通，同一网络环境下手机v2rayng都可访问", "createdAt": "2025-12-15T04:49:56Z", "repo": "2dust/v2rayN"}
+{"number": 8495, "title": "Windows10 检查更新不能自动更新软件吗？", "createdAt": "2025-12-16T06:22:24Z", "repo": "2dust/v2rayN"}
+{"number": 8497, "title": "Tun模式用久会导致系统网络死掉", "createdAt": "2025-12-16T14:34:16Z", "repo": "2dust/v2rayN"}
+{"number": 8500, "title": "[Feature request]: 关于分流节点的操作", "createdAt": "2025-12-17T04:57:30Z", "repo": "2dust/v2rayN"}
+{"number": 8499, "title": "Win11 用完v2rayN后重启电脑，Chrome普通模式下无法上网", "createdAt": "2025-12-17T08:19:15Z", "repo": "2dust/v2rayN"}
+{"number": 8502, "title": "关于非常玄学的Tun模式启动后报各类DNS解析错误问题", "createdAt": "2025-12-18T17:29:30Z", "repo": "2dust/v2rayN"}
+{"number": 8506, "title": "[Bug]: 上游分流规则导致的路由错误是还没修复吗", "createdAt": "2025-12-19T02:51:57Z", "repo": "2dust/v2rayN"}
+{"number": 8504, "title": "测真实延时的那个Ctrl+R快捷键不能用", "createdAt": "2025-12-19T03:37:37Z", "repo": "2dust/v2rayN"}
+{"number": 8505, "title": "软件需要时常更新吗，我现在用的版本是V7.14.9", "createdAt": "2025-12-19T05:42:55Z", "repo": "2dust/v2rayN"}
+{"number": 8512, "title": "更新客户端后出现了V4的绕过大陆规则，请问这个和V3路由的区别是什么？", "createdAt": "2025-12-23T11:03:13Z", "repo": "2dust/v2rayN"}
+{"number": 8513, "title": "v2rayN version update triggers ALPN error.", "createdAt": "2025-12-23T13:58:36Z", "repo": "2dust/v2rayN"}
+{"number": 8519, "title": "How to run online games from Russia", "createdAt": "2025-12-24T21:22:00Z", "repo": "2dust/v2rayN"}
+{"number": 8523, "title": "[Feature request]: Windows聚焦锁屏问题", "createdAt": "2025-12-25T17:09:55Z", "repo": "2dust/v2rayN"}
+{"number": 8526, "title": "为什么mac版本安装后无法打开", "createdAt": "2025-12-26T05:55:00Z", "repo": "2dust/v2rayN"}
+{"number": 8527, "title": "如何仅为特定程序代理", "createdAt": "2025-12-26T06:57:16Z", "repo": "2dust/v2rayN"}
+{"number": 8528, "title": "同样的订阅地址，却显示无效的订阅内容", "createdAt": "2025-12-26T07:05:30Z", "repo": "2dust/v2rayN"}
+{"number": 8530, "title": "Where can I now update the version of the application, cores, geobase files, etc.?", "createdAt": "2025-12-26T11:12:01Z", "repo": "2dust/v2rayN"}
+{"number": 8535, "title": "[Bug]: 订阅导入失败", "createdAt": "2025-12-26T15:04:21Z", "repo": "2dust/v2rayN"}
+{"number": 8533, "title": "希望重新设计 UI", "createdAt": "2025-12-26T23:55:38Z", "repo": "2dust/v2rayN"}
+{"number": 8538, "title": "机场节点开启tun模式能联网，链式代理开启tun模式就没网", "createdAt": "2025-12-28T08:19:47Z", "repo": "2dust/v2rayN"}
+{"number": 8539, "title": "策略组功能太棒了", "createdAt": "2025-12-28T11:18:21Z", "repo": "2dust/v2rayN"}
+{"number": 8541, "title": "[Feature request]: 能不能把更新功能移出来？", "createdAt": "2025-12-28T13:42:57Z", "repo": "2dust/v2rayN"}
+{"number": 8546, "title": "What is correct way to proxy only selected domains?", "createdAt": "2025-12-30T01:09:15Z", "repo": "2dust/v2rayN"}
+{"number": 8549, "title": "Quick change rule sets", "createdAt": "2025-12-30T12:37:05Z", "repo": "2dust/v2rayN"}
+{"number": 8550, "title": "mac启用 tun 之后就不能翻墙了，只能上国内的网站。不启用 tun 一切正常", "createdAt": "2025-12-30T14:37:24Z", "repo": "2dust/v2rayN"}
+{"number": 8554, "title": "[Bug]: Bug: DoH with domain name breaks bootstrap DNS and TUN mode (DoH works only with IP-based URLs)", "createdAt": "2025-12-30T18:30:33Z", "repo": "2dust/v2rayN"}
+{"number": 8555, "title": "[Bug]: mac 开启开机启动后更新V2rayN会失败", "createdAt": "2026-01-01T06:38:18Z", "repo": "2dust/v2rayN"}
+{"number": 8557, "title": "[Bug]: ubuntu20.04版本安装7.16.9 deb包的依赖问题", "createdAt": "2026-01-01T10:05:11Z", "repo": "2dust/v2rayN"}
+{"number": 8558, "title": "hy2节点显示延迟为-1但可以正常上网，是v2rayn的显示问题吗", "createdAt": "2026-01-01T23:33:46Z", "repo": "2dust/v2rayN"}
+{"number": 8559, "title": "在订阅分组里把 SOCKS5 设置为后置代理，选择了一个 HY2 节点，开了 TUN 并设置绕过大陆，但流量还是走全局。", "createdAt": "2026-01-02T00:07:51Z", "repo": "2dust/v2rayN"}
+{"number": 8562, "title": "--", "createdAt": "2026-01-02T04:48:13Z", "repo": "2dust/v2rayN"}
+{"number": 8565, "title": "[Bug]: 版本7.16.8起日志频繁出现报错及不能订阅更新一种", "createdAt": "2026-01-02T12:16:57Z", "repo": "2dust/v2rayN"}
+{"number": 8575, "title": "[Bug]: 为何内核选择没有mihomo可以选择？", "createdAt": "2026-01-03T13:06:42Z", "repo": "2dust/v2rayN"}
+{"number": 8588, "title": "[Bug]: 新西兰站点无法连接-非常着急", "createdAt": "2026-01-05T00:27:02Z", "repo": "2dust/v2rayN"}
+{"number": 8591, "title": "[Feature request]: Custom URL Target for Connectivity Testing (Real Delay) to check service availability", "createdAt": "2026-01-05T07:04:42Z", "repo": "2dust/v2rayN"}
+{"number": 8596, "title": "请问能不能筛选节点地址", "createdAt": "2026-01-05T11:10:27Z", "repo": "2dust/v2rayN"}
+{"number": 8602, "title": "[Bug]: 开启代理之后或者打开tun模式过后，系统网络无法访问互联网", "createdAt": "2026-01-05T14:32:19Z", "repo": "2dust/v2rayN"}
+{"number": 8599, "title": "好吧，也許這是一個bug！", "createdAt": "2026-01-06T11:27:47Z", "repo": "2dust/v2rayN"}
+{"number": 8607, "title": "系统代理设置超过11万行，程序卡死", "createdAt": "2026-01-07T21:01:07Z", "repo": "2dust/v2rayN"}
+{"number": 8609, "title": "[Feature request]: get GeoIP and GeoSite from different links", "createdAt": "2026-01-07T21:23:29Z", "repo": "2dust/v2rayN"}
+{"number": 8611, "title": "每天稳定复现，订阅更新后仍按旧配置运行", "createdAt": "2026-01-08T03:27:40Z", "repo": "2dust/v2rayN"}
+{"number": 8612, "title": "Maximum bandwidth limit  （最大带宽限制）", "createdAt": "2026-01-08T07:36:28Z", "repo": "2dust/v2rayN"}
+{"number": 8616, "title": "[Feature request]: how can i add many https servers link to V2rayN", "createdAt": "2026-01-08T15:28:53Z", "repo": "2dust/v2rayN"}
+{"number": 8617, "title": "求助哪里可以导出 订阅的Yaml ？或者哪里可以找到", "createdAt": "2026-01-09T02:33:35Z", "repo": "2dust/v2rayN"}
+{"number": 8620, "title": "[Bug]: App based split tunneling doesn't seem to work", "createdAt": "2026-01-09T21:03:42Z", "repo": "2dust/v2rayN"}
+{"number": 8619, "title": "V4-绕过大陆规则集里为啥最后没有“最终代理”这样一条规则？", "createdAt": "2026-01-10T01:46:01Z", "repo": "2dust/v2rayN"}
+{"number": 8621, "title": "V2rayN 7.16.9 更新出现这个错误，看截图。降级V2rayN客户端也是这样。请大佬们看看，如何解决？", "createdAt": "2026-01-10T09:24:46Z", "repo": "2dust/v2rayN"}
+{"number": 8622, "title": "求问各位大佬，节点没有问题，使用singbox内核用一段时间就会节点timeout", "createdAt": "2026-01-10T12:05:40Z", "repo": "2dust/v2rayN"}
+{"number": 8624, "title": "请问大佬们：是否可以同时开启 tun 和系统代理", "createdAt": "2026-01-12T02:06:37Z", "repo": "2dust/v2rayN"}
+{"number": 8628, "title": "解决了，谢谢", "createdAt": "2026-01-13T02:47:57Z", "repo": "2dust/v2rayN"}
+{"number": 8627, "title": "windows tun模式开启导致系统无法上网同时也用不了antigravity的解决方案", "createdAt": "2026-01-13T10:34:58Z", "repo": "2dust/v2rayN"}
+{"number": 8638, "title": "[Feature request]: CloudFlare的EchConfigList信息每过一段就会刷新，导致配置不能连接", "createdAt": "2026-01-14T00:58:21Z", "repo": "2dust/v2rayN"}
+{"number": 8635, "title": "链接一直更新不了，一直报错", "createdAt": "2026-01-14T14:54:12Z", "repo": "2dust/v2rayN"}
+{"number": 8639, "title": "关闭窗口前，软件是最大化状态。关闭后，再从右下角点开，回不到最大化状态", "createdAt": "2026-01-15T02:43:11Z", "repo": "2dust/v2rayN"}
+{"number": 8640, "title": "v2最新版本 win1125h2 两个机场一个可以更新订阅一个导入订阅失败，求救", "createdAt": "2026-01-15T03:10:38Z", "repo": "2dust/v2rayN"}
+{"number": 8641, "title": "KB5074109(26200.7623) cause V2rayn`s core failure", "createdAt": "2026-01-15T05:52:15Z", "repo": "2dust/v2rayN"}
+{"number": 8644, "title": "开启v2rayn的v4绕过大陆，但是win11的微软商店就打不开，这个是要自己手动添加分流规则吗，有没有一样困惑的", "createdAt": "2026-01-15T14:57:54Z", "repo": "2dust/v2rayN"}
+{"number": 8646, "title": "Windows11补丁 KB5066835 ，导致V2rayN V7.17.0最新版无法正常使用，节点信息全部是-1，通网络环境下，更换升级补丁的Windows11补丁可以正常使用V2代理，且此补丁无法通过卸载更新卸载，求助如何正常使用", "createdAt": "2026-01-16T06:02:15Z", "repo": "2dust/v2rayN"}
+{"number": 8649, "title": "一个关于检查更新的小建议", "createdAt": "2026-01-16T23:36:02Z", "repo": "2dust/v2rayN"}
+{"number": 8660, "title": "关于7.17发布文件的疑问", "createdAt": "2026-01-17T13:37:00Z", "repo": "2dust/v2rayN"}
+{"number": 8661, "title": "说一个pac模式下，使用v2rayN 长期以来一直困扰我的问题，就是  collector.github.com  无法访问的问题。", "createdAt": "2026-01-17T16:29:56Z", "repo": "2dust/v2rayN"}
+{"number": 8662, "title": "如何设置开启了tun模式后只代理特定的软件 网站等", "createdAt": "2026-01-18T10:17:07Z", "repo": "2dust/v2rayN"}
+{"number": 8668, "title": "使用正则将两个订阅过滤并合并的使用问题。", "createdAt": "2026-01-19T04:49:12Z", "repo": "2dust/v2rayN"}
+{"number": 8674, "title": "geoip (and CIDRs) doesn't apply routing rules", "createdAt": "2026-01-20T07:44:40Z", "repo": "2dust/v2rayN"}
+{"number": 8677, "title": "Backup to local on version 7.x.x and restore to another 7.x.x version", "createdAt": "2026-01-20T12:01:03Z", "repo": "2dust/v2rayN"}
+{"number": 8678, "title": "最新的7.x版本 pac模式和自动配置系统代理到底推荐哪个模式", "createdAt": "2026-01-20T15:32:04Z", "repo": "2dust/v2rayN"}
+{"number": 8681, "title": "[Bug]: 7.17.0 ech解析地址乱填都可以上？", "createdAt": "2026-01-21T10:13:19Z", "repo": "2dust/v2rayN"}
+{"number": 8682, "title": "Rule for direct connection to twitch.tv not working in v2rayN 7.17.0", "createdAt": "2026-01-21T14:09:05Z", "repo": "2dust/v2rayN"}
+{"number": 8684, "title": "v7.17.0 当前延迟那儿不显示IP地址，始终显示none", "createdAt": "2026-01-22T02:28:19Z", "repo": "2dust/v2rayN"}
+{"number": 8688, "title": "[Bug]:  [Error] [3662791888] transport/internet/reality: REALITY: received real certificate (potential MITM or redirection)", "createdAt": "2026-01-23T06:33:46Z", "repo": "2dust/v2rayN"}
+{"number": 8693, "title": "这几天YT打开视频或连播“无法访问此内容，请稍后再试” 需要刷新才能播放", "createdAt": "2026-01-23T16:12:32Z", "repo": "2dust/v2rayN"}
+{"number": 8695, "title": "How to check whether v2rayN use my custom DNS?", "createdAt": "2026-01-24T04:57:34Z", "repo": "2dust/v2rayN"}
+{"number": 8701, "title": "加入自动切换协议", "createdAt": "2026-01-25T03:13:42Z", "repo": "2dust/v2rayN"}
+{"number": 8706, "title": "[Bug]: V2rayN not using DoH configured", "createdAt": "2026-01-26T08:37:53Z", "repo": "2dust/v2rayN"}
+{"number": 8705, "title": "core不是支持mihomo么，为什么切换页面只有xray和singbox", "createdAt": "2026-01-26T14:40:57Z", "repo": "2dust/v2rayN"}
+{"number": 8708, "title": "add sort by added date for proxies", "createdAt": "2026-01-27T15:31:43Z", "repo": "2dust/v2rayN"}
+{"number": 8712, "title": "[Bug]: V4绕过大陆有问题", "createdAt": "2026-01-28T05:35:53Z", "repo": "2dust/v2rayN"}
+{"number": 8716, "title": "[Bug]: Windows中的智能应用控制 给本软件拦截了。", "createdAt": "2026-01-28T10:57:24Z", "repo": "2dust/v2rayN"}
+{"number": 8719, "title": "[BUG] v2rayN read/write on closed pipe", "createdAt": "2026-01-29T04:18:37Z", "repo": "2dust/v2rayN"}
+{"number": 8737, "title": "V2rayn 运行core失败，请查看提示信息", "createdAt": "2026-02-01T07:07:41Z", "repo": "2dust/v2rayN"}
+{"number": 8743, "title": "为什么使用计划任务自启动要加30秒延迟", "createdAt": "2026-02-02T13:55:55Z", "repo": "2dust/v2rayN"}
+{"number": 8746, "title": "有没有好心的大佬帮我解释一下这几个功能有啥作用啊我纯萌新", "createdAt": "2026-02-03T01:56:05Z", "repo": "2dust/v2rayN"}
+{"number": 8749, "title": "更新的v7.17.3版本后出现一个奇怪问题", "createdAt": "2026-02-03T06:43:55Z", "repo": "2dust/v2rayN"}
+{"number": 8758, "title": "更新后无法测速，换了测速地址也不行，但是网络是通的", "createdAt": "2026-02-05T03:08:11Z", "repo": "2dust/v2rayN"}
+{"number": 8759, "title": "7.17.1版本，anytls节点，开tun模式，不能同时开系统代理", "createdAt": "2026-02-05T03:48:35Z", "repo": "2dust/v2rayN"}
+{"number": 8762, "title": "求助：win11无法代理局域网流量", "createdAt": "2026-02-05T09:51:01Z", "repo": "2dust/v2rayN"}
+{"number": 8772, "title": "How can I access local network resources by hostname when a VPN is enabled?", "createdAt": "2026-02-06T16:00:22Z", "repo": "2dust/v2rayN"}
+{"number": 8776, "title": "为什么上面测试真延迟每次都显示正常，下面的当前延迟显示-1ms并且不能使用此节点", "createdAt": "2026-02-08T05:21:38Z", "repo": "2dust/v2rayN"}
+{"number": 8777, "title": "Request DNS settings to prevent IP leaks and run Google Gemini", "createdAt": "2026-02-08T07:40:04Z", "repo": "2dust/v2rayN"}
+{"number": 8791, "title": "【v2rayn DNS和路由设置指南】v2rayn从6.x升级到7.x后，设置重置后出现访问油管卡二十多秒的问题，我解决问题后重新看了一遍说明，把我的理解写在这，关于路由和dns的", "createdAt": "2026-02-11T13:13:26Z", "repo": "2dust/v2rayN"}
+{"number": 8792, "title": "Telegram works inconsistently: media loads randomly, calls fail unless all traffic is routed through proxy", "createdAt": "2026-02-11T15:48:25Z", "repo": "2dust/v2rayN"}
+{"number": 8795, "title": "由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 (get.cctvclient.cn:443)", "createdAt": "2026-02-12T07:45:28Z", "repo": "2dust/v2rayN"}
+{"number": 8800, "title": "最近用一个Hysteria2 ipv6节点，经常得重启服务，一点重启服务就好了，感觉是GFW做了什么", "createdAt": "2026-02-13T15:09:58Z", "repo": "2dust/v2rayN"}
+{"number": 8802, "title": "Installation Directory Size", "createdAt": "2026-02-15T10:31:22Z", "repo": "2dust/v2rayN"}
+{"number": 8812, "title": "[Bug]: 代理设置“清除系统代理”，手工指派socks5端口无作用。", "createdAt": "2026-02-16T01:57:51Z", "repo": "2dust/v2rayN"}
+{"number": 8813, "title": "麻烦大佬看看，能否修一下，万分感谢！", "createdAt": "2026-02-16T13:36:55Z", "repo": "2dust/v2rayN"}
+{"number": 8814, "title": "windows 7", "createdAt": "2026-02-16T14:31:24Z", "repo": "2dust/v2rayN"}
+{"number": 8816, "title": "AppImage", "createdAt": "2026-02-17T02:59:42Z", "repo": "2dust/v2rayN"}
+{"number": 8821, "title": "macOS dmg 无论是否arm版本 打开直接提示文件损坏,macos 系统版本是 Tahoe 26.2", "createdAt": "2026-02-19T03:23:20Z", "repo": "2dust/v2rayN"}
+{"number": 8831, "title": "How to keep my Delay & Speed test results data after a Subscription update?", "createdAt": "2026-02-23T12:25:59Z", "repo": "2dust/v2rayN"}
+{"number": 8836, "title": "是否有 WebUI 实现，以便于不依赖桌面环境给其他局域网的设备提供代理", "createdAt": "2026-02-24T12:00:57Z", "repo": "2dust/v2rayN"}
+{"number": 8845, "title": "Remove the \"Go-http-client\" value from the header of all requests", "createdAt": "2026-02-25T19:36:47Z", "repo": "2dust/v2rayN"}
+{"number": 8859, "title": "[Feature request]: Add generic RPM and AppImage Linux builds", "createdAt": "2026-02-26T21:28:51Z", "repo": "2dust/v2rayN"}
+{"number": 8858, "title": "[Feature request]: Bypassing Iran's DPI system by using more advanced techniques.", "createdAt": "2026-02-27T02:29:05Z", "repo": "2dust/v2rayN"}
+{"number": 8857, "title": "the new ui is nice", "createdAt": "2026-02-27T18:17:59Z", "repo": "2dust/v2rayN"}
+{"number": 8867, "title": "链接（测试）失败无法访问谷歌等外网", "createdAt": "2026-03-01T10:53:20Z", "repo": "2dust/v2rayN"}
+{"number": 8877, "title": "浏览器显示“你尚未连接 代理服务器可能有问题，或地址不正确。”", "createdAt": "2026-03-02T13:26:36Z", "repo": "2dust/v2rayN"}
+{"number": 8878, "title": "分应用设置功能异常", "createdAt": "2026-03-02T17:40:14Z", "repo": "2dust/v2rayN"}
+{"number": 8882, "title": "What port does v2rayN's LAN proxy utilize? (want to chain v2rayN with Windscribe VPN)", "createdAt": "2026-03-03T11:41:39Z", "repo": "2dust/v2rayN"}
+{"number": 8889, "title": "[Bug]: 使用了LetsVPN后，v2rayN就用不了了", "createdAt": "2026-03-03T11:56:49Z", "repo": "2dust/v2rayN"}
+{"number": 8887, "title": "SSH on v2rayN 7.19", "createdAt": "2026-03-03T18:08:49Z", "repo": "2dust/v2rayN"}
+{"number": 8888, "title": "XMUX support", "createdAt": "2026-03-03T20:18:37Z", "repo": "2dust/v2rayN"}
+{"number": 8907, "title": "[Bug]: 测速速度 Ctrl-T的时候，建议用 tcp真测试来进行测速，或者增加一个tcp真测", "createdAt": "2026-03-08T01:00:02Z", "repo": "2dust/v2rayN"}
+{"number": 8910, "title": "Rocky无桌面版能使用吗", "createdAt": "2026-03-09T01:08:59Z", "repo": "2dust/v2rayN"}
+{"number": 8919, "title": "软件打包的 geosite 需要更新", "createdAt": "2026-03-10T10:18:33Z", "repo": "2dust/v2rayN"}
+{"number": 8921, "title": "UBuntu下V2RayN开启TUN需要输入系统密码，可以默认开启吗？", "createdAt": "2026-03-10T16:37:06Z", "repo": "2dust/v2rayN"}
+{"number": 8924, "title": "同一个订阅链接在Windows上可以更新，在MacOS上却失败...", "createdAt": "2026-03-11T14:06:23Z", "repo": "2dust/v2rayN"}
+{"number": 8929, "title": "win V7.19.4 扫描屏幕当前二维码功能移除了吗？", "createdAt": "2026-03-13T12:22:19Z", "repo": "2dust/v2rayN"}
+{"number": 8930, "title": "如果成功的安装v2rayN（7.18.0）版本", "createdAt": "2026-03-13T14:36:56Z", "repo": "2dust/v2rayN"}
+{"number": 8937, "title": "希望绕过大陆里面，把可灵的网址直连（app.klingai.com/cn/）", "createdAt": "2026-03-15T02:47:33Z", "repo": "2dust/v2rayN"}
+{"number": 8945, "title": "7.16.9 is the newest version of v2Ray which is Windows 7 x64 compatible", "createdAt": "2026-03-15T17:44:39Z", "repo": "2dust/v2rayN"}
+{"number": 8949, "title": "add vpn client option with connection via lan socks gateway", "createdAt": "2026-03-16T10:21:11Z", "repo": "2dust/v2rayN"}
+{"number": 8963, "title": "https://subs.wallesspku.space/clash/前缀的订阅链接如何导入v2rayN？", "createdAt": "2026-03-19T15:32:51Z", "repo": "2dust/v2rayN"}
+{"number": 8974, "title": "Is there \"auto sort after test\" option like in v2rayNG?", "createdAt": "2026-03-21T14:21:19Z", "repo": "2dust/v2rayN"}
+{"number": 8982, "title": "v2rayn with core version", "createdAt": "2026-03-22T20:24:16Z", "repo": "2dust/v2rayN"}
+{"number": 8983, "title": "v2rayN-windows-64-desktop vs v2rayN-windows-64", "createdAt": "2026-03-22T20:36:52Z", "repo": "2dust/v2rayN"}
+{"number": 8992, "title": "Tun 模式下使用内置的V4-绕过大陆规则，没有进行任何自定义配置的情况下出现大量ip连接超时的错误", "createdAt": "2026-03-25T11:31:10Z", "repo": "2dust/v2rayN"}
+{"number": 8994, "title": "Mac V2rayn 可能与 bilibili app 冲突", "createdAt": "2026-03-26T04:19:57Z", "repo": "2dust/v2rayN"}
+{"number": 9001, "title": "混合端口是把一个端口里面可以识别出你用的协议，所以这个不会有问题，不过你也可以切换成 sing-box 试一试是不是内核的问题。", "createdAt": "2026-03-27T13:03:29Z", "repo": "2dust/v2rayN"}
+{"number": 9000, "title": "TUN Mode doesn't route game traffic, but the same server works perfectly via another app", "createdAt": "2026-03-27T16:09:16Z", "repo": "2dust/v2rayN"}
+{"number": 9003, "title": "兄弟们有尝试把v2ray装到飞牛里的没？", "createdAt": "2026-03-28T11:21:52Z", "repo": "2dust/v2rayN"}
+{"number": 9027, "title": "[Bug]: Login to Windows 11 + Active Directory + v2rayN", "createdAt": "2026-03-31T11:10:08Z", "repo": "2dust/v2rayN"}
+{"number": 9030, "title": "策略组使用问题，个别网站", "createdAt": "2026-04-02T03:31:50Z", "repo": "2dust/v2rayN"}
+{"number": 9031, "title": "Добавление десктопного приложения Телеграмм в routing через proxy.", "createdAt": "2026-04-02T12:36:45Z", "repo": "2dust/v2rayN"}
+{"number": 9036, "title": "[Feature request]: FakeIP 白名单", "createdAt": "2026-04-03T06:21:43Z", "repo": "2dust/v2rayN"}
+{"number": 9037, "title": "AppImage/flatpak discussion", "createdAt": "2026-04-03T16:17:45Z", "repo": "2dust/v2rayN"}
+{"number": 9041, "title": "FTP/SFTP protocols do not work", "createdAt": "2026-04-04T19:56:20Z", "repo": "2dust/v2rayN"}
+{"number": 9046, "title": "只能在V2rayN内打开edge才能看外网", "createdAt": "2026-04-06T03:08:55Z", "repo": "2dust/v2rayN"}
+{"number": 9048, "title": "可能是更新了版本，前置Hysteria2节点后，设置另一个Hysteria2节点为活动节点可以了", "createdAt": "2026-04-06T13:06:55Z", "repo": "2dust/v2rayN"}
+{"number": 9051, "title": "ci逻辑 问题请教", "createdAt": "2026-04-07T10:01:18Z", "repo": "2dust/v2rayN"}
+{"number": 9053, "title": "safe issue", "createdAt": "2026-04-07T15:04:16Z", "repo": "2dust/v2rayN"}
+{"number": 9054, "title": "有关tun模式下的xhttp节点分流", "createdAt": "2026-04-08T00:56:57Z", "repo": "2dust/v2rayN"}
+{"number": 9055, "title": "[Feature request]: 建议增加PowerPC和RISC-V架构的linux版本", "createdAt": "2026-04-08T01:20:59Z", "repo": "2dust/v2rayN"}
+{"number": 9057, "title": "开启Tun模式后出现错误", "createdAt": "2026-04-08T12:34:15Z", "repo": "2dust/v2rayN"}
+{"number": 9058, "title": "Refactor and Optimize CI Workflow", "createdAt": "2026-04-09T07:34:29Z", "repo": "2dust/v2rayN"}
+{"number": 9062, "title": "M4芯片上订阅提示“未设置有效订阅”", "createdAt": "2026-04-09T13:23:38Z", "repo": "2dust/v2rayN"}
+{"number": 9064, "title": "v2rayN能代理普通的socks5节点吗？", "createdAt": "2026-04-10T00:40:08Z", "repo": "2dust/v2rayN"}
+{"number": 9065, "title": "有什么办法可以自动进行节点切换？", "createdAt": "2026-04-10T02:03:00Z", "repo": "2dust/v2rayN"}
+{"number": 9067, "title": "请教一个免费订阅中的oneclickvpnkeys节点的问题", "createdAt": "2026-04-10T03:10:25Z", "repo": "2dust/v2rayN"}
+{"number": 9072, "title": "Swipe down functionality update", "createdAt": "2026-04-10T18:06:23Z", "repo": "2dust/v2rayN"}
+{"number": 9074, "title": "Маршрутизация для Yandex Browser PC", "createdAt": "2026-04-10T20:36:06Z", "repo": "2dust/v2rayN"}
+{"number": 9079, "title": "开启TUN模式和DoH后，仍然用明文UDP发送DNS解析节点服务器域名", "createdAt": "2026-04-11T13:37:09Z", "repo": "2dust/v2rayN"}
+{"number": 9080, "title": "Настройка  маршрутизации в PAC  режиме", "createdAt": "2026-04-11T15:46:57Z", "repo": "2dust/v2rayN"}
+{"number": 9092, "title": "[Feature Request] 群聊 @mention 多 Bot 路由支持", "createdAt": "2026-04-12T14:36:33Z", "repo": "2dust/v2rayN"}
+{"number": 9090, "title": "Не все открывается при RUv1-Заблокированное, например sankakucomplex.com или Telegram", "createdAt": "2026-04-12T15:38:14Z", "repo": "2dust/v2rayN"}
+{"number": 9094, "title": "[Feature request]: 安装功能", "createdAt": "2026-04-13T03:49:43Z", "repo": "2dust/v2rayN"}
+{"number": 9095, "title": "节点无法连接网络，所有节点延迟均为-1ms", "createdAt": "2026-04-13T07:24:08Z", "repo": "2dust/v2rayN"}
+{"number": 9096, "title": "当前代理区域的东西不是很清楚逻辑是什么，好像功能还没完成？", "createdAt": "2026-04-13T08:10:37Z", "repo": "2dust/v2rayN"}
+{"number": 9104, "title": "[Bug]: v7.20.2版本测速以后我本地的网络就屏蔽了。", "createdAt": "2026-04-13T14:40:10Z", "repo": "2dust/v2rayN"}
+{"number": 9100, "title": "请问怎么实现在开启v2ray和游戏加速器同时使用?", "createdAt": "2026-04-13T16:42:58Z", "repo": "2dust/v2rayN"}
+{"number": 9101, "title": "强烈建议【v2增加新功能，，域名ip隐藏起来】，防止人工钓鱼", "createdAt": "2026-04-13T18:16:26Z", "repo": "2dust/v2rayN"}
+{"number": 9112, "title": "网站会重复刷新才能建立连接", "createdAt": "2026-04-14T11:28:25Z", "repo": "2dust/v2rayN"}
+{"number": 9118, "title": "[Bug]: 界面问题", "createdAt": "2026-04-14T19:01:57Z", "repo": "2dust/v2rayN"}
+{"number": 9120, "title": "[Bug]: Gemini works in v7.18 but not in v7.20.2 with same config (VLESS + Reality)", "createdAt": "2026-04-15T12:31:02Z", "repo": "2dust/v2rayN"}
+{"number": 9121, "title": "通过添加一个空白节点实现不关闭软件的情况下关闭代理是否可行？", "createdAt": "2026-04-16T03:28:40Z", "repo": "2dust/v2rayN"}
+{"number": 9132, "title": "How to change listening ip? LAN connections don't work", "createdAt": "2026-04-17T13:05:00Z", "repo": "2dust/v2rayN"}
+{"number": 9136, "title": "尝试从package-rhel.sh给openSUSE改了个打包脚本", "createdAt": "2026-04-17T22:39:20Z", "repo": "2dust/v2rayN"}
+{"number": 9138, "title": "以前设置vless节点默认core为sing_box，可以正常测试vless+reality节点真连接延迟，更新为最新正式版后，同一个节点它显示跳过测试", "createdAt": "2026-04-18T02:43:50Z", "repo": "2dust/v2rayN"}
+{"number": 9140, "title": "实时速度显示", "createdAt": "2026-04-18T04:32:33Z", "repo": "2dust/v2rayN"}
+{"number": 9142, "title": "木马 PDM:Trojan.Win32.Generic", "createdAt": "2026-04-18T05:39:27Z", "repo": "2dust/v2rayN"}
+{"number": 9152, "title": "请问如何在win7系统下使用这个软件？", "createdAt": "2026-04-19T09:42:14Z", "repo": "2dust/v2rayN"}
+{"number": 9154, "title": "刚刚安装v2rayN就提示“请先检查设置”，还怎么解决", "createdAt": "2026-04-19T11:25:44Z", "repo": "2dust/v2rayN"}
+{"number": 9158, "title": "I saw that you don't want to add HWID sending, but why don't you make it just a text input field?", "createdAt": "2026-04-19T18:27:43Z", "repo": "2dust/v2rayN"}
+{"number": 9160, "title": "如何在TUN模式下添加DNS服务器解析内网域名？", "createdAt": "2026-04-20T03:20:54Z", "repo": "2dust/v2rayN"}
+{"number": 9165, "title": "Update 2.20.4 broke something in my connection?", "createdAt": "2026-04-20T13:45:35Z", "repo": "2dust/v2rayN"}
+{"number": 9167, "title": "v2rayN中某链接无法科学上网，同一订阅链接在手机端可以科学上网，Windows端无法正常上网且测速是有数值的，升级到最新客户端无法解决", "createdAt": "2026-04-20T16:08:44Z", "repo": "2dust/v2rayN"}
+{"number": 9173, "title": "自动配置系统代理可以正常，但是开启tun就不行", "createdAt": "2026-04-22T12:37:35Z", "repo": "2dust/v2rayN"}
+{"number": 9177, "title": "Clash订阅链接导入", "createdAt": "2026-04-24T02:39:43Z", "repo": "2dust/v2rayN"}
+{"number": 9185, "title": "[Question/Bug]: using \"Enable fragment\" core option adds extreme CPU load", "createdAt": "2026-04-24T11:00:48Z", "repo": "2dust/v2rayN"}
+{"number": 9182, "title": "Can't download due to Iran Internet shutdown", "createdAt": "2026-04-25T00:05:34Z", "repo": "2dust/v2rayN"}
+{"number": 9190, "title": "[Bug]:", "createdAt": "2026-04-25T07:47:13Z", "repo": "2dust/v2rayN"}
+{"number": 9191, "title": "Add Wireguard Preshared keys Support", "createdAt": "2026-04-25T08:47:53Z", "repo": "2dust/v2rayN"}
+{"number": 9193, "title": "手机移动网络连不上了，Wi-Fi可以。", "createdAt": "2026-04-25T10:06:19Z", "repo": "2dust/v2rayN"}
+{"number": 9195, "title": "选中多个节点后，右键上移至至顶，只有一个节点上移至顶", "createdAt": "2026-04-25T12:10:18Z", "repo": "2dust/v2rayN"}
+{"number": 9201, "title": "反馈一个UI的小bug，你们有没有遇到相同的问题？", "createdAt": "2026-04-26T17:03:51Z", "repo": "2dust/v2rayN"}
+{"number": 9206, "title": "When attempting to launch an already running application, it doesn't check for instances and tries to launch again, resulting in fatal error 009.", "createdAt": "2026-04-27T12:17:00Z", "repo": "2dust/v2rayN"}
+{"number": 9208, "title": "在绕过大陆模式中，设置域名直连为何不生效", "createdAt": "2026-04-28T04:40:02Z", "repo": "2dust/v2rayN"}
+{"number": 9209, "title": "希望增加国外学术类网站的路由规则", "createdAt": "2026-04-28T06:18:49Z", "repo": "2dust/v2rayN"}
+{"number": 9212, "title": "macOS 版本内存占用大 & dock 栏点不开主页面", "createdAt": "2026-04-29T05:44:40Z", "repo": "2dust/v2rayN"}
+{"number": 9216, "title": "自动更新订阅没有通不通过代理更新的选项", "createdAt": "2026-04-29T12:07:39Z", "repo": "2dust/v2rayN"}
+{"number": 9218, "title": "V2rayN 目前支持 per-domain DNS server assignment (nameserver-policy equivalent)吗？", "createdAt": "2026-04-29T13:03:13Z", "repo": "2dust/v2rayN"}
+{"number": 9223, "title": "xray 内核打印的日志有冗余的 dubug 信息", "createdAt": "2026-05-01T06:32:14Z", "repo": "2dust/v2rayN"}
+{"number": 9231, "title": "Про работу дискорда с 30 апреля в России", "createdAt": "2026-05-02T09:04:45Z", "repo": "2dust/v2rayN"}
+{"number": 9232, "title": "Been asked to migrate to XHTTP H2 & H3, and VLESS FLOW & Seed ASAP", "createdAt": "2026-05-02T09:49:57Z", "repo": "2dust/v2rayN"}
+{"number": 9237, "title": "Mac上安装了7.20.4版本，添加节点设为活动后，无法上网，该怎么办？", "createdAt": "2026-05-03T17:24:56Z", "repo": "2dust/v2rayN"}
+{"number": 9249, "title": "策略组配置文件中的一些参数（如：interval）如何修改？", "createdAt": "2026-05-06T09:45:51Z", "repo": "2dust/v2rayN"}
+{"number": 9252, "title": "Why V2rayn doesn't have the disconnect option?", "createdAt": "2026-05-06T20:26:37Z", "repo": "2dust/v2rayN"}
+{"number": 9255, "title": "怎么配置anytls自定义配置啊，我使用sing_box没通", "createdAt": "2026-05-07T12:33:55Z", "repo": "2dust/v2rayN"}
+{"number": 9256, "title": "Naiveproxy里即使不勾选TLS安全传输层项，也会被自动添加上", "createdAt": "2026-05-07T20:51:27Z", "repo": "2dust/v2rayN"}
+{"number": 9260, "title": "希望增加至顶（home键）和至底（end键）快捷键功能，像浏览器一样", "createdAt": "2026-05-08T10:09:28Z", "repo": "2dust/v2rayN"}
+{"number": 9269, "title": "ios", "createdAt": "2026-05-09T10:55:48Z", "repo": "2dust/v2rayN"}
+{"number": 9281, "title": "迫切希望增加订阅清单的导入导出功能", "createdAt": "2026-05-11T03:08:11Z", "repo": "2dust/v2rayN"}
+{"number": 9282, "title": "机场更新协议anytls以后，V2ray的节点测速全部失败，这该如何解决？", "createdAt": "2026-05-11T05:18:05Z", "repo": "2dust/v2rayN"}
+{"number": 9285, "title": "Discord voice chat not working (high ping, no connection)", "createdAt": "2026-05-11T11:54:21Z", "repo": "2dust/v2rayN"}
+{"number": 9286, "title": "提示不支持anytls协议", "createdAt": "2026-05-11T12:46:35Z", "repo": "2dust/v2rayN"}
+{"number": 9295, "title": "[Bug]: 移除重复只针对别名，没有针对ip进行去重处理", "createdAt": "2026-05-12T00:50:18Z", "repo": "2dust/v2rayN"}
+{"number": 9291, "title": "DEB 构建支持", "createdAt": "2026-05-12T15:23:30Z", "repo": "2dust/v2rayN"}
+{"number": 9296, "title": "[Bug]: 自动配置系统代理下b站失去登录，pac模式语音输入法又常失效", "createdAt": "2026-05-13T03:32:15Z", "repo": "2dust/v2rayN"}
+{"number": 9294, "title": "v2rayN无法更新订阅，ClashVerge可以", "createdAt": "2026-05-13T09:54:59Z", "repo": "2dust/v2rayN"}
+{"number": 9299, "title": "[Feature request]: 自定义路由规则能不能支持按 ASN 分流", "createdAt": "2026-05-13T11:22:16Z", "repo": "2dust/v2rayN"}
+{"number": 9306, "title": "新版本不支持VLESS-HTTP2-REALITY了吗", "createdAt": "2026-05-14T10:03:42Z", "repo": "2dust/v2rayN"}
+{"number": 9307, "title": "升级后 传输协议里的 H2不见了", "createdAt": "2026-05-14T10:09:37Z", "repo": "2dust/v2rayN"}
+{"number": 9308, "title": "访问谷歌时候被识别出真实地址", "createdAt": "2026-05-14T10:24:08Z", "repo": "2dust/v2rayN"}
+{"number": 9313, "title": "非常好的 Proxifier  开源替代 ProxyBridge 项目", "createdAt": "2026-05-15T08:50:18Z", "repo": "2dust/v2rayN"}
+{"number": 9315, "title": "还是想问一下，怎么自定义配置呀，想试试v2ray和mihomo核心", "createdAt": "2026-05-16T01:42:56Z", "repo": "2dust/v2rayN"}
+{"number": 9322, "title": "多轮 Top-K 测速方法", "createdAt": "2026-05-16T18:17:12Z", "repo": "2dust/v2rayN"}
+{"number": 9323, "title": "Windows上开机启动设计了30s的延迟是什么缘故？是否可以考虑给一个选项不要这30s的延迟呢？", "createdAt": "2026-05-17T03:27:16Z", "repo": "2dust/v2rayN"}
+{"number": 9332, "title": "关于策略组的使用", "createdAt": "2026-05-18T09:45:39Z", "repo": "2dust/v2rayN"}
+{"number": 9335, "title": "mac安装完成打开后，电脑界面上方的图标是一个白色的圆", "createdAt": "2026-05-18T14:34:54Z", "repo": "2dust/v2rayN"}
+{"number": 9340, "title": "v2rayN Linux 版已添加对 RiscV64 和 Loong64 的支持", "createdAt": "2026-05-19T08:58:06Z", "repo": "2dust/v2rayN"}
+{"number": 9347, "title": "[Bug]: 使用v4-绕过大陆，访问国内网站不通，如https://www.kimi.com", "createdAt": "2026-05-20T01:54:25Z", "repo": "2dust/v2rayN"}
+{"number": 9348, "title": "Некорректно работают правила", "createdAt": "2026-05-20T11:50:20Z", "repo": "2dust/v2rayN"}
+{"number": 9355, "title": "速度(MB/s)能关闭吗？", "createdAt": "2026-05-21T13:00:22Z", "repo": "2dust/v2rayN"}
+{"number": 9356, "title": "mac安装后打不开", "createdAt": "2026-05-21T16:35:22Z", "repo": "2dust/v2rayN"}
+{"number": 9358, "title": "[Bug]: 启用自启后，Windows中的v2rayN进程运行在 低于正常 优先级，导致GUI及其他方面性能下降", "createdAt": "2026-05-22T00:58:43Z", "repo": "2dust/v2rayN"}
+{"number": 9361, "title": "取消", "createdAt": "2026-05-22T02:57:13Z", "repo": "2dust/v2rayN"}
+{"number": 9363, "title": "配置项无效是哪里的配置出问题了", "createdAt": "2026-05-22T09:28:04Z", "repo": "2dust/v2rayN"}
+{"number": 9367, "title": "关于延迟自动排序的问题", "createdAt": "2026-05-23T00:47:21Z", "repo": "2dust/v2rayN"}
+{"number": 9368, "title": "arm架构 mac os  怎么汉化V7.22.3 的v2rayN", "createdAt": "2026-05-23T09:51:35Z", "repo": "2dust/v2rayN"}
+{"number": 9376, "title": "为什么我没有找到“多服务器最低延迟”功能？", "createdAt": "2026-05-24T16:26:40Z", "repo": "2dust/v2rayN"}
+{"number": 9377, "title": "新功能添加,主动同步系统时间", "createdAt": "2026-05-24T17:08:02Z", "repo": "2dust/v2rayN"}
+{"number": 9385, "title": "[Bug]: Meta sites won't open since 7.21 with TUN", "createdAt": "2026-05-25T15:27:58Z", "repo": "2dust/v2rayN"}
+{"number": 9393, "title": "V2rayn出现经常性断连延迟为-1，过段时间又会恢复", "createdAt": "2026-05-26T16:02:38Z", "repo": "2dust/v2rayN"}
+{"number": 9400, "title": "[Bug]: no connection", "createdAt": "2026-05-26T21:32:36Z", "repo": "2dust/v2rayN"}
+{"number": 9396, "title": "升级后界面多了IP信息，能否去掉", "createdAt": "2026-05-27T01:48:20Z", "repo": "2dust/v2rayN"}
+{"number": 9403, "title": "为什么开启 TUN 后 DNS 解析总是倾向于返回海外的结果？", "createdAt": "2026-05-27T16:04:42Z", "repo": "2dust/v2rayN"}
+{"number": 9409, "title": "关于订阅的启用更新与自动更新在新版本中逻辑是混淆了吗", "createdAt": "2026-05-29T03:32:35Z", "repo": "2dust/v2rayN"}
+{"number": 9413, "title": "链式代理能否针对AnyTLS协议单独处理一下支持两个不同的core内核？", "createdAt": "2026-05-30T06:20:55Z", "repo": "2dust/v2rayN"}
+{"number": 9416, "title": "[Bug]: Hysteria 2 在不同核心下连通性不同", "createdAt": "2026-05-30T06:56:15Z", "repo": "2dust/v2rayN"}
+{"number": 9417, "title": "3x-ui 3.2.0所建立的hysteria2链接使用TLS怎么导入v2RayN", "createdAt": "2026-05-30T09:28:44Z", "repo": "2dust/v2rayN"}
+{"number": 9422, "title": "v2ray 32 bit", "createdAt": "2026-05-31T00:29:26Z", "repo": "2dust/v2rayN"}
+{"number": 9425, "title": "如何正确配置 v2rayN 以使其与反重力系统协同​​工作？", "createdAt": "2026-05-31T08:46:40Z", "repo": "2dust/v2rayN"}
+{"number": 9434, "title": "求助：未关闭v2rayN的情况下断电后再次开机启动v2rayN报错", "createdAt": "2026-05-31T16:40:39Z", "repo": "2dust/v2rayN"}
+{"number": 9443, "title": "TG聊天群组", "createdAt": "2026-06-01T10:04:27Z", "repo": "2dust/v2rayN"}
+{"number": 9444, "title": "All macOS assets are BROKEN!", "createdAt": "2026-06-01T17:36:55Z", "repo": "2dust/v2rayN"}
+{"number": 9445, "title": "local proxy pass", "createdAt": "2026-06-01T18:02:04Z", "repo": "2dust/v2rayN"}
+{"number": 9449, "title": "desktop版托盘图标有锯齿，建议改进", "createdAt": "2026-06-02T02:24:15Z", "repo": "2dust/v2rayN"}
+{"number": 9460, "title": "关于 跳过证书验证 `allowInsecure` 参数被移除的说明", "createdAt": "2026-06-03T01:17:32Z", "repo": "2dust/v2rayN"}
+{"number": 9466, "title": "If voice discord show ping 5000|Если дискорд выдает пинг 5000", "createdAt": "2026-06-04T06:33:50Z", "repo": "2dust/v2rayN"}
+{"number": 9471, "title": "[功能请求] 建议支持读取并解析订阅 HTTP Response Header 中的元数据 (Profile-Title, Announce 等)", "createdAt": "2026-06-04T08:45:32Z", "repo": "2dust/v2rayN"}
+{"number": 9472, "title": "mac端如何实现应用分流？", "createdAt": "2026-06-04T12:01:05Z", "repo": "2dust/v2rayN"}
+{"number": 9488, "title": "[Feature Request] TUN 模式下自回环/direct 无 sendThrough/Wintun 设备残留等综合问题建议", "createdAt": "2026-06-05T17:56:09Z", "repo": "2dust/v2rayN"}
+{"number": 9499, "title": "日志输出能否即在本地保存，又在界面下方窗口刷新？", "createdAt": "2026-06-07T05:57:04Z", "repo": "2dust/v2rayN"}
+{"number": 9501, "title": "[Bug]: 老哥，请教下，我想把xray核心替换成26.1.23，但是我下载了，bin-xray文件里只有2个文件，我下载了26.1.23后，我把里面的文件放进去，还是不行啊，咋整啊", "createdAt": "2026-06-07T05:57:43Z", "repo": "2dust/v2rayN"}
+{"number": 9502, "title": "有什么办法可以通过命令行去更新订阅呢", "createdAt": "2026-06-07T11:34:47Z", "repo": "2dust/v2rayN"}
+{"number": 9510, "title": "xray_tun无法上网，singbox_tun正常，想问一下是哪里问题", "createdAt": "2026-06-08T12:58:47Z", "repo": "2dust/v2rayN"}
+{"number": 9518, "title": "最新版本是否有多端口分流功能？", "createdAt": "2026-06-09T11:36:49Z", "repo": "2dust/v2rayN"}
+{"number": 9519, "title": "为毛批量测延迟第一次一定是失败的", "createdAt": "2026-06-09T12:04:32Z", "repo": "2dust/v2rayN"}
+{"number": 9540, "title": "为什么在google.com能正常访问的环境下，设置google.com为直连会导致无法访问？", "createdAt": "2026-06-13T03:14:45Z", "repo": "2dust/v2rayN"}
+{"number": 9542, "title": "警告：Xray将在2026.8.1取消跳过证书验证allowInsecure，请改用证书固定指纹； 对vless_reality_vision。/VLESS_Reality_XHTTP，有影响吗？", "createdAt": "2026-06-13T10:27:24Z", "repo": "2dust/v2rayN"}
+{"number": 9543, "title": "希望订阅协议能增加推送DNS设置的支持", "createdAt": "2026-06-13T12:54:56Z", "repo": "2dust/v2rayN"}
+{"number": 9546, "title": "更新GeoFiles时，能不能直接从有关GitHub repository下载GitHub打包的ZIP文件再解压？", "createdAt": "2026-06-14T04:56:16Z", "repo": "2dust/v2rayN"}
+{"number": 9547, "title": "是否可以支持不通过代理更新V2RayN/Xray Core | Does V2RayN support build-in update without proxy?", "createdAt": "2026-06-14T06:13:06Z", "repo": "2dust/v2rayN"}
+{"number": 9550, "title": "[Bug]: Requests to 169.254.169.254 can hang when routed via geoip:private -> direct", "createdAt": "2026-06-14T08:43:11Z", "repo": "2dust/v2rayN"}
+{"number": 9558, "title": "Singbox内核对内核排出地址似乎不兼容", "createdAt": "2026-06-15T08:36:08Z", "repo": "2dust/v2rayN"}
+{"number": 9567, "title": "[Bug]: VLESS Reality fails with Xray core while the same profile works with sing-box core [RU region]", "createdAt": "2026-06-15T11:08:52Z", "repo": "2dust/v2rayN"}
+{"number": 9563, "title": "xray配置reality的testpre预连接", "createdAt": "2026-06-15T12:35:13Z", "repo": "2dust/v2rayN"}
+{"number": 9571, "title": "DNS problem with some sites", "createdAt": "2026-06-16T17:06:00Z", "repo": "2dust/v2rayN"}
+{"number": 9572, "title": "DNS problem with some sites", "createdAt": "2026-06-16T17:06:23Z", "repo": "2dust/v2rayN"}
+{"number": 9577, "title": "[Feature Request]: Separate Core Type Settings for Proxy and TUN modes to prevent DNS leaks", "createdAt": "2026-06-16T19:23:36Z", "repo": "2dust/v2rayN"}
+{"number": 9578, "title": "vless/vmess+ws+tls无法上网", "createdAt": "2026-06-17T01:52:44Z", "repo": "2dust/v2rayN"}
+{"number": 9579, "title": "VPN client doesn't work", "createdAt": "2026-06-17T03:16:28Z", "repo": "2dust/v2rayN"}
+{"number": 9587, "title": "Linux发行版上的v2rayn版本太旧了，能否尽快推送新版本？", "createdAt": "2026-06-18T01:44:15Z", "repo": "2dust/v2rayN"}
+{"number": 9600, "title": "V7.23.0 引入的进程代理会与反作弊检测软件冲突吗？", "createdAt": "2026-06-19T15:08:10Z", "repo": "2dust/v2rayN"}
+{"number": 9605, "title": "Which version of Ubuntu 20.04 should I install?", "createdAt": "2026-06-20T08:14:05Z", "repo": "2dust/v2rayN"}
+{"number": 9613, "title": "[Bug]: Пробелы", "createdAt": "2026-06-22T06:23:50Z", "repo": "2dust/v2rayN"}
+{"number": 9639, "title": "麻烦2dust大佬让我进TG群", "createdAt": "2026-06-27T06:50:39Z", "repo": "2dust/v2rayN"}
+{"number": 9646, "title": "什么时候支持AnyTLS协议？When will the AnyTLS protocol be supported?", "createdAt": "2026-06-28T16:27:53Z", "repo": "2dust/v2rayN"}
+{"number": 9656, "title": "v2rayN tun模式使用sing-box内核在macOS13上safari浏览器无法使用", "createdAt": "2026-06-29T20:07:14Z", "repo": "2dust/v2rayN"}

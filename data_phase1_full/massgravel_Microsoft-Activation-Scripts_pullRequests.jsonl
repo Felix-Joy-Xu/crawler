@@ -1,0 +1,58 @@
+{"number": 123, "title": "Added virus scans to README.md", "createdAt": "2022-08-01T22:43:03Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 127, "title": "Add Office ISO links", "createdAt": "2022-08-16T09:27:09Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 147, "title": "Add MicrosoftActivationScript to shorten Method 1", "createdAt": "2022-10-04T14:17:11Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 173, "title": "add contry 🇮🇳 🇮🇳 🇮🇳 🇮🇳", "createdAt": "2022-12-18T22:17:34Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 187, "title": "Fix typo in MAS_AIO.cmd", "createdAt": "2023-02-20T07:29:15Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 188, "title": "readme edit", "createdAt": "2023-02-20T21:54:59Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 189, "title": "edit", "createdAt": "2023-02-20T22:01:21Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 219, "title": "Create Hacks", "createdAt": "2023-06-14T09:48:50Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 233, "title": "Better Design to README.md", "createdAt": "2023-07-15T02:50:28Z", "state": "MERGED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 243, "title": "Add logo to the readme", "createdAt": "2023-08-02T14:42:45Z", "state": "MERGED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 261, "title": "Update README.md", "createdAt": "2023-09-14T19:33:20Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 277, "title": "Fix Help redirect", "createdAt": "2023-10-04T23:28:36Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 284, "title": "Fix typo error message", "createdAt": "2023-10-16T12:29:30Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 286, "title": "Fix typo error message", "createdAt": "2023-10-22T07:38:22Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 290, "title": "misc: changed Twitter Logo to 𝕏", "createdAt": "2023-10-28T12:16:37Z", "state": "MERGED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 313, "title": "Added an Outlook Desktop adblocker option to the extras menu", "createdAt": "2023-12-07T11:49:48Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 326, "title": "Create ax", "createdAt": "2023-12-23T15:34:42Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 364, "title": ".", "createdAt": "2024-02-11T19:19:44Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 425, "title": "Delete .gitattributes", "createdAt": "2024-04-15T20:34:27Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 434, "title": "Create Kodluyoruz", "createdAt": "2024-04-28T15:07:04Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 455, "title": "change method 1 paste to a codeblock", "createdAt": "2024-05-22T17:50:36Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 477, "title": "Update README.md", "createdAt": "2024-06-14T10:35:14Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 502, "title": "Update README.md with better installation method", "createdAt": "2024-07-07T10:45:19Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 505, "title": "Formatting improvements for `README.md`.", "createdAt": "2024-07-08T10:08:32Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 512, "title": "Reorganize Readme and update some content", "createdAt": "2024-07-18T01:20:49Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 542, "title": "Rephrase text and fix issue #521", "createdAt": "2024-08-19T00:25:46Z", "state": "MERGED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 543, "title": "Fix many grammar/spelling issues in the script ", "createdAt": "2024-08-20T08:48:34Z", "state": "MERGED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 545, "title": "Move Change Windows Edition to the Main Menu", "createdAt": "2024-08-21T21:32:40Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 546, "title": "Update Check-Activation-Status-vbs.cmd", "createdAt": "2024-08-22T00:08:19Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 553, "title": "2.7 merge from Dev", "createdAt": "2024-09-07T01:12:56Z", "state": "MERGED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 736, "title": "Call Powershell with -NoProfile flag", "createdAt": "2024-12-26T06:32:55Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 806, "title": "Fix conflicted branch", "createdAt": "2025-02-13T23:44:00Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 809, "title": "Create IMPORTANT.txt", "createdAt": "2025-02-14T12:15:00Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 812, "title": "[Documentation] Appended fallback comment in MAS.", "createdAt": "2025-02-15T21:32:14Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 865, "title": "Added contribution.txt with improvement idea", "createdAt": "2025-03-25T14:40:43Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 866, "title": "Adding contribution,txt with imrovement idea", "createdAt": "2025-03-26T04:46:05Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 867, "title": "Added contribution.txt with news ideas", "createdAt": "2025-03-26T05:09:15Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 888, "title": "Luker commit (new branch)", "createdAt": "2025-04-12T08:10:41Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 889, "title": "Initial commit", "createdAt": "2025-04-13T16:14:32Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 912, "title": "XP support and minor improvements", "createdAt": "2025-05-05T13:19:11Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 1042, "title": "Create 激活工具", "createdAt": "2025-08-07T12:26:39Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 1050, "title": "Add Chinese translation and language switcher for README", "createdAt": "2025-08-11T09:47:39Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 1067, "title": "Merge pull request #1 from massgravel/master", "createdAt": "2025-08-30T10:58:59Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 1089, "title": "Create CODE_OF_CONDUCT.md", "createdAt": "2025-09-20T09:38:42Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 1094, "title": "Improve code quality and reliability across all activation scripts", "createdAt": "2025-09-24T09:59:59Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 1111, "title": "Update README.md", "createdAt": "2025-10-12T06:24:29Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 1171, "title": "Update README.md", "createdAt": "2025-11-22T05:22:35Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 1235, "title": "Add initial PowerShell script for activation", "createdAt": "2025-12-27T12:53:19Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 1241, "title": "Update README.md with new activation instructions", "createdAt": "2026-01-02T06:55:22Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 1267, "title": "Create xadrez", "createdAt": "2026-01-20T18:38:27Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 1271, "title": "Optimize wql filter 10099966007510646500", "createdAt": "2026-01-24T04:08:57Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 1319, "title": "docs: Add alternative script execution commands and remove a general …", "createdAt": "2026-02-25T15:53:14Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 1320, "title": " change in README.md", "createdAt": "2026-02-26T12:14:33Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 1326, "title": "Add OutlookForWindows in app selection menu", "createdAt": "2026-03-08T22:26:23Z", "state": "MERGED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 1334, "title": "sorry", "createdAt": "2026-03-17T12:12:21Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 1339, "title": "fix: resolve $OEM$ execution failure on Windows 11 (Issue #1242)", "createdAt": "2026-03-21T14:43:10Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 1347, "title": "Localize Ohook activation script to Indonesian", "createdAt": "2026-03-27T09:14:39Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
+{"number": 1469, "title": "Add startup script for downloading and executing MAS", "createdAt": "2026-06-17T10:31:55Z", "state": "CLOSED", "repo": "massgravel/Microsoft-Activation-Scripts"}
