@@ -7438,5 +7438,11 @@
     9639,
     9646,
     9656
-  ]
+  ],
+  "pr_idx": 30,
+  "issue_idx": 0,
+  "disc_idx": 0,
+  "failed_pr": [],
+  "failed_issue": [],
+  "failed_disc": []
 }
