@@ -3591,3 +3591,17 @@
 {"repo": "excalidraw/excalidraw", "pr_number": 7136, "type": "review_comment", "body": "Sorry, forgot to remove these changes. I was trying to add docs image as an embeddable element. \r\nRemoved Now :+1: ", "createdAt": "2023-10-12T13:30:39Z", "author": "lakshz"}
 {"repo": "excalidraw/excalidraw", "pr_number": 7136, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-19T10:14:17Z", "author": "dwelle"}
 {"repo": "excalidraw/excalidraw", "pr_number": 7141, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-14T18:14:56Z", "author": "DanielJGeiger"}
+{"repo": "excalidraw/excalidraw", "pr_number": 7153, "type": "review", "body": "Please add a test for the same", "state": "COMMENTED", "createdAt": "2023-10-16T10:12:55Z", "author": "ad1992"}
+{"repo": "excalidraw/excalidraw", "pr_number": 7153, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-20T09:44:33Z", "author": "ad1992"}
+{"repo": "excalidraw/excalidraw", "pr_number": 7153, "type": "review_comment", "body": "```suggestion\r\n  it(\"should set the active tool type\", async () => {\r\n```", "createdAt": "2023-10-20T09:43:21Z", "author": "ad1992"}
+{"repo": "excalidraw/excalidraw", "pr_number": 7153, "type": "review_comment", "body": "```suggestion\r\n  it(\"should set custom tool\", async () => {\r\n```", "createdAt": "2023-10-20T09:44:20Z", "author": "ad1992"}
+{"repo": "excalidraw/excalidraw", "pr_number": 7154, "type": "review", "body": "@dwelle can you add /. update existing spec to simply test the assertions on the emitters being triggered ?", "state": "COMMENTED", "createdAt": "2023-10-16T10:11:53Z", "author": "ad1992"}
+{"repo": "excalidraw/excalidraw", "pr_number": 7154, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-20T09:45:54Z", "author": "ad1992"}
+{"repo": "excalidraw/excalidraw", "pr_number": 7157, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-16T22:40:27Z", "author": "dwelle"}
+{"repo": "excalidraw/excalidraw", "pr_number": 7157, "type": "review_comment", "body": "I don't like the introduced dependency on `Scene` here. Either I'll rewrite it, or remove this support completely for now as the `includeBoundArrows` is only used during frame duplication and I think we could survive it for a while.\r\n\r\nBut, we may need this for rendering slides in E+ /cc @maielo ", "createdAt": "2023-10-16T22:40:27Z", "author": "dwelle"}
+{"repo": "excalidraw/excalidraw", "pr_number": 7157, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-17T04:06:06Z", "author": "ryan-di"}
+{"repo": "excalidraw/excalidraw", "pr_number": 7157, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-10-23T16:40:00Z", "author": "mvaibhav77"}
+{"repo": "excalidraw/excalidraw", "pr_number": 7157, "type": "review_comment", "body": "this feature is not working at the moment", "createdAt": "2023-10-23T16:40:00Z", "author": "mvaibhav77"}
+{"repo": "excalidraw/excalidraw", "pr_number": 7168, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-19T17:47:54Z", "author": "dwelle"}
+{"repo": "excalidraw/excalidraw", "pr_number": 7170, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-10-19T10:23:46Z", "author": "dwelle"}
+{"repo": "excalidraw/excalidraw", "pr_number": 7189, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-11-10T14:32:49Z", "author": "dwelle"}
