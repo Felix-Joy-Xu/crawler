@@ -748,3 +748,5 @@
 {"repo": "rustdesk/rustdesk", "pr_number": 7717, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-25T04:27:48Z", "author": "beelchester"}
 {"repo": "rustdesk/rustdesk", "pr_number": 7717, "type": "review_comment", "body": "By default, both the features are off in AnyDesk.", "createdAt": "2024-04-25T04:27:48Z", "author": "beelchester"}
 {"repo": "rustdesk/rustdesk", "pr_number": 7971, "type": "review", "body": "https://github.com/rustdesk/rustdesk/pull/4848#issuecomment-2099823648", "state": "COMMENTED", "createdAt": "2024-05-08T06:19:37Z", "author": "sitiom"}
+{"repo": "rustdesk/rustdesk", "pr_number": 8019, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-11T05:25:04Z", "author": "rustdesk"}
+{"repo": "rustdesk/rustdesk", "pr_number": 8019, "type": "review_comment", "body": "度判 vs 度判断?", "createdAt": "2024-05-11T05:25:00Z", "author": "rustdesk"}
