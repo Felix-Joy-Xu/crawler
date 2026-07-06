@@ -1330,3 +1330,14 @@
 {"body": "> Tooltips missed here also. ![image](https://user-images.githubusercontent.com/71636191/259948189-5ff36564-86bf-418e-a59c-240fdea6c775.png)\r\n\r\nI'm not sure what tooltip message should I give for the tag(#) icon.\r\nCan you suggest something?", "createdAt": "2023-08-12T05:16:35Z", "author": "beelchester", "repo": "rustdesk/rustdesk", "pr_number": 5334}
 {"body": "Clicking on it? you can know what does it do", "createdAt": "2023-08-12T06:04:16Z", "author": "rustdesk", "repo": "rustdesk/rustdesk", "pr_number": 5334}
 {"body": "Show / hide tags, toggle tags, or some other.", "createdAt": "2023-08-12T06:08:59Z", "author": "rustdesk", "repo": "rustdesk/rustdesk", "pr_number": 5334}
+{"body": "Tooltips missed here also.\r\n![image](https://github.com/rustdesk/rustdesk/assets/71636191/5ff36564-86bf-418e-a59c-240fdea6c775)\r\n", "createdAt": "2023-08-11T07:38:20Z", "author": "rustdesk", "repo": "rustdesk/rustdesk", "pr_number": 5334}
+{"body": "![image](https://github.com/rustdesk/rustdesk/assets/71636191/5503d499-b9d0-4b2d-ba6e-57d5ed9cf0bd)\r\n", "createdAt": "2023-08-11T07:43:30Z", "author": "rustdesk", "repo": "rustdesk/rustdesk", "pr_number": 5334}
+{"body": "My bad, I will add that.", "createdAt": "2023-08-11T15:04:39Z", "author": "beelchester", "repo": "rustdesk/rustdesk", "pr_number": 5334}
+{"body": "> Tooltips missed here also. ![image](https://user-images.githubusercontent.com/71636191/259948189-5ff36564-86bf-418e-a59c-240fdea6c775.png)\r\n\r\nI'm not sure what tooltip message should I give for the tag(#) icon.\r\nCan you suggest something?", "createdAt": "2023-08-12T05:16:35Z", "author": "beelchester", "repo": "rustdesk/rustdesk", "pr_number": 5334}
+{"body": "Clicking on it? you can know what does it do", "createdAt": "2023-08-12T06:04:16Z", "author": "rustdesk", "repo": "rustdesk/rustdesk", "pr_number": 5334}
+{"body": "Show / hide tags, toggle tags, or some other.", "createdAt": "2023-08-12T06:08:59Z", "author": "rustdesk", "repo": "rustdesk/rustdesk", "pr_number": 5334}
+{"body": "#5339 fixed in this PR?", "createdAt": "2023-08-11T07:21:20Z", "author": "rustdesk", "repo": "rustdesk/rustdesk", "pr_number": 5347}
+{"body": "No", "createdAt": "2023-08-11T07:22:08Z", "author": "dignow", "repo": "rustdesk/rustdesk", "pr_number": 5347}
+{"body": "This was done by mistake, please ignore.", "createdAt": "2023-08-11T15:25:09Z", "author": "iseks", "repo": "rustdesk/rustdesk", "pr_number": 5354}
+{"body": "@dignow \r\nlost relevance? so far they have not been merged with the master", "createdAt": "2023-08-21T14:20:56Z", "author": "SergeyMy", "repo": "rustdesk/rustdesk", "pr_number": 5386}
+{"body": "RustDesk was about to release a minor version, for the sake of stability, it was not merged.", "createdAt": "2023-08-21T14:26:51Z", "author": "dignow", "repo": "rustdesk/rustdesk", "pr_number": 5386}

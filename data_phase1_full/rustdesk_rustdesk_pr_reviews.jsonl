@@ -375,3 +375,9 @@
 {"repo": "rustdesk/rustdesk", "pr_number": 5334, "type": "review_comment", "body": "you should give a really helpful tooltip per context. if can not, we should remove it, not only for  consistency. ", "createdAt": "2023-08-10T14:15:54Z", "author": "rustdesk"}
 {"repo": "rustdesk/rustdesk", "pr_number": 5334, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-08-10T14:27:52Z", "author": "beelchester"}
 {"repo": "rustdesk/rustdesk", "pr_number": 5334, "type": "review_comment", "body": "Ok, I will remove that one.", "createdAt": "2023-08-10T14:27:52Z", "author": "beelchester"}
+{"repo": "rustdesk/rustdesk", "pr_number": 5334, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-08-10T14:13:50Z", "author": "rustdesk"}
+{"repo": "rustdesk/rustdesk", "pr_number": 5334, "type": "review_comment", "body": "this tooltip can tell user nothing. Meaningless tooltip is worse than no tooltip.", "createdAt": "2023-08-10T14:12:55Z", "author": "rustdesk"}
+{"repo": "rustdesk/rustdesk", "pr_number": 5334, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-08-10T14:15:54Z", "author": "rustdesk"}
+{"repo": "rustdesk/rustdesk", "pr_number": 5334, "type": "review_comment", "body": "you should give a really helpful tooltip per context. if can not, we should remove it, not only for  consistency. ", "createdAt": "2023-08-10T14:15:54Z", "author": "rustdesk"}
+{"repo": "rustdesk/rustdesk", "pr_number": 5334, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-08-10T14:27:52Z", "author": "beelchester"}
+{"repo": "rustdesk/rustdesk", "pr_number": 5334, "type": "review_comment", "body": "Ok, I will remove that one.", "createdAt": "2023-08-10T14:27:52Z", "author": "beelchester"}
