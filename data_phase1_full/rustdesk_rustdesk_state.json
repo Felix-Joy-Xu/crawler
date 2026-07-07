@@ -13692,8 +13692,9 @@
   ],
   "pr_idx": 5244,
   "issue_idx": 3917,
-  "disc_idx": 4270,
+  "disc_idx": 4523,
   "failed_pr": [],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
