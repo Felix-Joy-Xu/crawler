@@ -30508,12 +30508,13 @@
     33326
   ],
   "pr_idx": 21496,
-  "issue_idx": 5700,
+  "issue_idx": 9007,
   "disc_idx": 0,
   "failed_pr": [
     2644,
     5913
   ],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
