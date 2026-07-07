@@ -64203,14 +64203,15 @@
     120798
   ],
   "pr_idx": 32562,
-  "issue_idx": 28150,
+  "issue_idx": 28830,
   "disc_idx": 0,
   "failed_pr": [
     65756,
     118367
   ],
   "failed_issue": [
-    58324
+    58324,
+    112820
   ],
   "failed_disc": []
 }
